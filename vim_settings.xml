@@ -18,6 +18,12 @@
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/config/index.js" timestamp="1509183343014">
         <mark key="[" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/run.sh" timestamp="1509187327703">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/upgrade.js" timestamp="1509183460294">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="2" />
@@ -82,6 +88,12 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509187666988">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/middleware/tell.js" timestamp="1508986333117">
         <mark key="[" line="24" column="5" />
@@ -261,6 +273,12 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="3" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/init.sh" timestamp="1509187427368">
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="8" column="62" />
+        <mark key="^" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/about-share-config.js" timestamp="1508740103093">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -413,11 +431,11 @@
       <jump line="0" column="4" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -426,19 +444,19 @@
         <text encoding="base64">cHJvZ3JhbQouY29tbWFuZCgnc2V0dXAnKQouZGVzY3JpcHRpb24oJ+WuieijhUZF6YCa55So55qE6YWN572uJykKLmFjdGlvbigoKSA9PiB7Cgp9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwZWN0ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNoZWxsLgo=</text>
+        <text encoding="base64">aW50ZXJhY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNoZWxsLmNkKCd+Ly5mZScpOwo=</text>
+        <text encoding="base64">ZWNobyAkMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVsbC5ta2RpcignLXAnLCAnfi8uZmUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -447,10 +465,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVsbC5jZCgnfi8uZmUnKTsK</text>
+        <text encoding="base64">bm9kZV9wYXRoPWB0eXBlIG5vZGUgfCBhd2sgJ3twcmludCAkM30nYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNoZWxsLm1rZGlyKCctcCcsICd+Ly5mZScpOwogICAgc2hlbGwuY2QoJ34vLmZlJyk7Cg==</text>
+        <text encoding="base64">CmlmIFsgLWUgfi8uZ2l0aWdub3JlX2dsb2JhbCBdOyB0aGVuIAogICAgY3Agfi8uZ2l0aWdub3JlX2dsb2JhbCAgfi8uZ2l0aWdub3JlX2dsb2JhbC5iCmZpCgo=</text>
       </register>
     </registers>
     <search>
