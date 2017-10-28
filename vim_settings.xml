@@ -89,11 +89,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509187666988">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="17" column="31" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509200110173">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/middleware/tell.js" timestamp="1508986333117">
         <mark key="[" line="24" column="5" />
@@ -431,32 +431,32 @@
       <jump line="0" column="4" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWxpYXMgcz0iZXhwZWN0IH4vLmZlL3NoZWxsL2p1bXAuZXhwIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cHJvZ3JhbQouY29tbWFuZCgnc2V0dXAnKQouZGVzY3JpcHRpb24oJ+WuieijhUZF6YCa55So55qE6YWN572uJykKLmFjdGlvbigoKSA9PiB7Cgp9KTsK</text>
+      <register name="0" type="4">
+        <text>/.fe/shell/jump.exp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">YWxpYXMgcz0iZXhwZWN0IH4vLmZlL3NoZWxsL2p1bXAuZXhwIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwZWN0ICIiCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJhY3QK</text>
+        <text encoding="base64">ZXhwZWN0ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAkMQo=</text>
+        <text encoding="base64">aW50ZXJhY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkMQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -465,10 +465,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm9kZV9wYXRoPWB0eXBlIG5vZGUgfCBhd2sgJ3twcmludCAkM30nYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmlmIFsgLWUgfi8uZ2l0aWdub3JlX2dsb2JhbCBdOyB0aGVuIAogICAgY3Agfi8uZ2l0aWdub3JlX2dsb2JhbCAgfi8uZ2l0aWdub3JlX2dsb2JhbC5iCmZpCgo=</text>
+        <text encoding="base64">bm9kZV9wYXRoPWB0eXBlIG5vZGUgfCBhd2sgJ3twcmludCAkM30nYAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -486,7 +489,9 @@
         <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry encoding="base64">XDxoZWxwZXJcPg==</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
