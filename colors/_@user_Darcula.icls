@@ -1,12 +1,15 @@
-<scheme name="walterzhang" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <metaInfo>
+    <property name="created">2017-10-25T15:30:33</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2017.2.5.0.0</property>
+    <property name="modified">2017-10-28T18:07:34</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
   <attributes>
-    <option name="JS.FUNCTION_ARROW">
-      <value />
-    </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />
