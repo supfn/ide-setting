@@ -81,11 +81,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509350425394">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="11" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509351347287">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/middleware/tell.js" timestamp="1508986333117">
         <mark key="[" line="24" column="5" />
@@ -424,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJHVwZGF0ZV9kaWZmCg==</text>
       </register>
       <register name="-" type="4">
         <text>git diff origin/master | wc -l</text>
@@ -436,31 +436,31 @@
         <text encoding="base64">aWYgWyAhICRoYXNfY29uZmxpY3QgIF07IHRoZW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjZCAtCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNkIC0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGVjaG8gJHVwZGF0ZV9kaWZmCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjZCAtCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNkIC0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9kaWZmPWBHSVRfRElSPSR7cm9vdH0vLmdpdCBgCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJHVwZGF0ZV9kaWZmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdpdCAK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9kaWZmPWBHSVRfRElSPSR7cm9vdH0vLmdpdCBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
