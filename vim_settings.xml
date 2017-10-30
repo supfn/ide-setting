@@ -81,11 +81,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509351347287">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="25" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509352478985">
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="55" column="5" />
+        <mark key="." line="55" column="5" />
+        <mark key="^" line="55" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/middleware/tell.js" timestamp="1508986333117">
         <mark key="[" line="24" column="5" />
@@ -219,6 +219,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/shell/jump.exp" timestamp="1509352384931">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareDomain.js" timestamp="1508840557013">
         <mark key="[" line="18" column="33" />
@@ -423,17 +428,17 @@
       <jump line="14" column="2" filename="$USER_HOME$/Codes/qutoutiao/fe-tools/git/commit-template/hooks/pre-commit" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHVwZGF0ZV9kaWZmCg==</text>
+      <register name="&quot;" type="4">
+        <text>server</text>
       </register>
       <register name="-" type="4">
-        <text>git diff origin/master | wc -l</text>
+        <text>server</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgWyAhICRoYXNfY29uZmxpY3QgIF07IHRoZW4K</text>
+        <text encoding="base64">c2V0IHNlcnZlciBbbGluZGV4ICRhcmd2IDBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVjaG8gJHVwZGF0ZV9kaWZmCg==</text>
