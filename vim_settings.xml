@@ -78,11 +78,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/ci.sh" timestamp="1509432108186">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/ci.sh" timestamp="1509434923194">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-team/git/.gitignore" timestamp="1509181766616">
         <mark key="[" line="0" column="0" />
@@ -210,6 +209,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="40" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/readme.md" timestamp="1509435381103">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/client-share-api.js" timestamp="1508740128811">
         <mark key="[" line="20" column="0" />
@@ -513,7 +518,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyBzdWNjZXNzIQplY2hvIDExOwo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -525,31 +530,31 @@
         <text encoding="base64">bGV0IHdyaXRlQ2FjaGUgPSAoZmlsZSwgb3V0cHV0KSA9PiB7CiAgICBjYWNoZVJlc1tgJHtDQUNIRV9ST09UfS8ke2ZpbGV9YF0gPSBvdXRwdXQ7CiAgICBmcy53cml0ZUZpbGUoYCR7Q0FDSEVfUk9PVH0vJHtmaWxlfWAsIG91dHB1dCk7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyBzdWNjZXNzIQplY2hvIDExOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG91Y2ggcmVhZG1lLm1kCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlcykK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dG91Y2ggcmVhZG1lLm1kCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlcykK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGNhY2hlUmVzID0ge307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNhY2hlZC5vdXRwdXQ7Cg==</text>
+        <text encoding="base64">bGV0IGNhY2hlUmVzID0ge307Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaGFzaCA9IE1ENShvdXRwdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNhY2hlZC5vdXRwdXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLl9fY2FjaGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaGFzaCA9IE1ENShvdXRwdXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlLGNhY2hlZC5oYXNoICwgaGFzaCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLl9fY2FjaGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -571,6 +576,7 @@
         <entry encoding="base64">XDxoZWxwZXJcPg==</entry>
       </history-search>
       <history-cmd>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
