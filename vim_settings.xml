@@ -188,6 +188,12 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/package.json" timestamp="1509522894561">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/.gitignore" timestamp="1508916801614">
         <mark key="[" line="89" column="0" />
       </file>
@@ -209,6 +215,9 @@
         <mark key="." line="72" column="22" />
         <mark key="^" line="72" column="22" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/WebServer.es6" timestamp="1509523207035">
+        <mark key="[" line="57" column="52" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/config/index.js" timestamp="1509075828426">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -224,6 +233,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="112" column="3" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/bin/fe.js" timestamp="1509522981744">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/register/common/QueryAnalysis.es6" timestamp="1509373836191">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="31" />
@@ -232,7 +247,7 @@
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/middleware/index.js" timestamp="1508986449026">
         <mark key="[" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/builds/ajht_event.js" timestamp="1509521906684" />
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/builds/ajht_event.js" timestamp="1509523041190" />
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ShareFaces.js" timestamp="1508832675317">
         <mark key="[" line="43" column="40" />
         <mark key="]" line="43" column="40" />
@@ -409,6 +424,11 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/server.js" timestamp="1509523081257">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareDomain.js" timestamp="1508840557013">
         <mark key="[" line="18" column="33" />
         <mark key="]" line="18" column="34" />
@@ -449,7 +469,7 @@
         <mark key="." line="256" column="26" />
         <mark key="^" line="256" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509517039667">
+      <file name="/Dummy.txt" timestamp="1509523161628">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -529,11 +549,11 @@
       <jump line="51" column="12" filename="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/FileCache.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnByb2dyYW0KLmNvbW1hbmQoJyonKQouZGVzY3JpcHRpb24oJ2RlcGxveSB0aGUgZ2l2ZW4gZW52JykKLmFjdGlvbihmdW5jdGlvbihlbnYpIHsKICAgIGNvbnNvbGUubG9nKDExMTEpCiAgICBjb25zb2xlLmxvZyhlbnYpCiAgICBjb25zb2xlLmxvZygnZGVwbG95aW5nICIlcyInLCBlbnYpOwp9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>AppManager</text>
       </register>
       <register name="-" type="4">
-        <text>make_red</text>
+        <text>AppManager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -542,7 +562,7 @@
         <text encoding="base64">Lm9wdGlvbigiLWQsIC0tZGVzdCA8ZGVzdD4iLCAi5oyH5a6a5pyN5Yqh5Zmo56uv5Y+jIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnByb2dyYW0KLmNvbW1hbmQoJyonKQouZGVzY3JpcHRpb24oJ2RlcGxveSB0aGUgZ2l2ZW4gZW52JykKLmFjdGlvbihmdW5jdGlvbihlbnYpIHsKICAgIGNvbnNvbGUubG9nKDExMTEpCiAgICBjb25zb2xlLmxvZyhlbnYpCiAgICBjb25zb2xlLmxvZygnZGVwbG95aW5nICIlcyInLCBlbnYpOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -551,22 +571,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGNvbW1hbmRFeGVjID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBmaWxlIGZlLmpzCiAqIEBhdXRob3Igemhhbmd5dQogKiBAZGF0ZSAyMDE3LzEwLzI4CiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRFeGVjID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICJtYWluIjogImJpbi9mZS5qcyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnByb2dyYW0KLmNvbW1hbmQoJyonKQouZGVzY3JpcHRpb24oJ2RlcGxveSB0aGUgZ2l2ZW4gZW52JykKLmFjdGlvbihmdW5jdGlvbihlbnYpIHsKICAgIGNvbnNvbGUubG9nKDExMTEpCiAgICBjb25zb2xlLmxvZyhlbnYpCiAgICBjb25zb2xlLmxvZygnZGVwbG95aW5nICIlcyInLCBlbnYpOwp9KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvZ3JhbSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gLmhlbHAoKTsK</text>
+        <text encoding="base64">bGV0IGNvbW1hbmRFeGVjID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
