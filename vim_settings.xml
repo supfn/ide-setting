@@ -195,11 +195,11 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/package.json" timestamp="1509522894561">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/package.json" timestamp="1509543096440">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qfe/utils/index.js" timestamp="1509534919175">
         <mark key="[" line="16" column="20" />
@@ -570,8 +570,8 @@
       <jump line="33" column="60" filename="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/File.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>合入lccompiler, 实现md5hash文件名的功能</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0sCiAgICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="-" type="4">
         <text>合入lccompiler, 实现md5hash文件名的功能</text>
@@ -583,31 +583,31 @@
         <text encoding="base64">Lm9wdGlvbigiLWEsIC0tYXBwIDxhcHA+IiwgIuS7o+eggeebruW9le+8jCDpu5jorqTkuLrmoLnnm67lvZUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtLmRlc3RGaWxlKQo=</text>
+        <text encoding="base64">ICAgIH0sCiAgICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKG1kNWhhc2gpewogICAgICAgIGNvbnNvbGUubG9nKCflvIDlkK/kuobmlofku7bot6/lvoRtZDXmiLMnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtLmRlc3RGaWxlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhvcHRpb25zLm1kNSkKICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIGlmKG1kNWhhc2gpewogICAgICAgIGNvbnNvbGUubG9nKCflvIDlkK/kuobmlofku7bot6/lvoRtZDXmiLMnKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhvcHRpb25zLm1kNSkKICAgIHJldHVybjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKGhhc2gpewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcC4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmKGhhc2gpewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFwcC4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBpZihpbnN0YWxsKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
