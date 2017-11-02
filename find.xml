@@ -3,5 +3,37 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>[^\.]*.es6</mask>
+      <mask>[^\.t]*.es6</mask>
+      <mask>[^\.tm]*.es6</mask>
+      <mask>[^\.tmp]*.es6</mask>
+      <mask>*[^\.tmp].es6</mask>
+      <mask>[^\.tmp].es6</mask>
+      <mask>[^\tmp].es6</mask>
+      <mask>[^tmp].es6</mask>
+      <mask>[^)].es6</mask>
+      <mask>[^].es6</mask>
+      <mask>[^()].es6</mask>
+      <mask>[^(tmp)].es6</mask>
+      <mask>.es6</mask>
+      <mask>[${]*.es6</mask>
+      <mask>[$]*.es6</mask>
+      <mask>[]*.es6</mask>
+      <mask>[^}]*.es6</mask>
+      <mask>[^{}]*.es6</mask>
+      <mask>[^{]*.es6</mask>
+      <mask>[^]*.es6</mask>
+      <mask>[^()]*.es6</mask>
+      <mask>[^(.)]*.es6</mask>
+      <mask>[^(.t'p)]*.es6</mask>
+      <mask>[^(.t)]*.es6</mask>
+      <mask>[^(.t'm)]*.es6</mask>
+      <mask>[^(.t'm'p)]*.es6</mask>
+      <mask>[^(.tmp)]*.es6</mask>
+      <mask>\d*.es6</mask>
+      <mask>\*.es6</mask>
+      <mask>*.es6</mask>
+    </recentFileMasks>
   </component>
 </application>
