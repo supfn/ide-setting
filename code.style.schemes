@@ -2,14 +2,14 @@
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
       <value>
-        <JSCodeStyleSettings>
-          <option name="INDENT_CHAINED_CALLS" value="false" />
-        </JSCodeStyleSettings>
-        <MarkdownNavigatorCodeStyleSettings>
-          <option name="RIGHT_MARGIN" value="72" />
-        </MarkdownNavigatorCodeStyleSettings>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+        <editorconfig>
+          <option name="ENABLED" value="false" />
+        </editorconfig>
       </value>
     </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Obsidian++" />
   </component>
 </application>
