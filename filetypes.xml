@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="pre-commit" type="Bash" />
+      <removed_mapping ext="es6" approved="true" type="ECMAScript 6" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
       <mapping pattern="23-27.md" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
