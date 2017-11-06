@@ -1,55 +1,21 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
+    <state version="4" enabled="false" />
+    <globalmarks>
+      <mark key="M" line="37" column="30" filename="$USER_HOME$/Documents/baijing/work/innotechx/qukan-web/app/common/widget/util.js" />
+    </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/run.sh" timestamp="1509187327703">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/git/git-hooks/pre-commit.sh" timestamp="1509182309119">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
+        <mark key="^" line="13" column="0" />
         <mark key="." line="3" column="0" />
-        <mark key="^" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/no_disciple_v10/script/index.es6" timestamp="1509416690880" />
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/AppManager.es6" timestamp="1509615545449">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/config/index.js" timestamp="1509709146308">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="15" column="5" />
-        <mark key="." line="15" column="5" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/handler/shareFactory.js" timestamp="1509075530033">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/FileCache.js" timestamp="1509419292752">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/ecosystem.config.js" timestamp="1509085805474">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/test.sh" timestamp="1508991556453">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="9" column="10" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509352478985">
-        <mark key="[" line="54" column="3" />
-        <mark key="]" line="55" column="5" />
-        <mark key="." line="55" column="5" />
-        <mark key="^" line="55" column="5" />
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/helper/ClientInfo.spec.js" timestamp="1508771068590">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="31" column="17" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="31" column="17" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/middleware/tell.js" timestamp="1508986333117">
         <mark key="[" line="24" column="5" />
@@ -57,142 +23,17 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/common/game/CanvasRenderer.es6" timestamp="1509373592839">
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/build.js" timestamp="1509615013936">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/qa.md" timestamp="1509027968439">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/src/main.js" timestamp="1509710084027">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-      </file>
-      <file name="$USER_HOME$/Codes/work/plan.md" timestamp="1509162843927">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/modules/test/index.js" timestamp="1509710071339">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-        <mark key="^" line="11" column="11" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/README.md" timestamp="1509963786732">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/src/main.js" timestamp="1509952674795">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="1" column="2" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/BucketInfo.js" timestamp="1508920871989">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="24" column="10" />
-        <mark key="^" line="24" column="10" />
-        <mark key="." line="24" column="10" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/build/dev-server.js" timestamp="1509708432267">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/.gitignore" timestamp="1509958880804">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="5" />
-        <mark key="^" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/QRCode.js" timestamp="1509085082658">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="4" />
-        <mark key="^" line="28" column="4" />
-        <mark key="." line="45" column="4" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/ShareConfig.spec.js" timestamp="1509009053201">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="60" column="8" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/githooks/pre-commit.sh" timestamp="1509178998232">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/git/git-hooks/pre-commit.sh" timestamp="1509182309119">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/shell/jump.exp" timestamp="1509352384931">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/env/index.js" timestamp="1509965025818">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="25" column="47" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/build/webpack.base.conf.js" timestamp="1509706620782">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/.babelrc" timestamp="1509953048429">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/test/index.js" timestamp="1509961365218">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/hook.js" timestamp="1509545267586">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.dev.conf.js" timestamp="1509939372040">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="32" />
-        <mark key="^" line="1" column="32" />
-        <mark key="." line="1" column="32" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/SharePyqAsset.js" timestamp="1508984739494">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="72" column="22" />
-        <mark key="." line="72" column="22" />
-        <mark key="^" line="72" column="22" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/WebServer.es6" timestamp="1509547915195">
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="19" />
-        <mark key="^" line="54" column="19" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/config/index.js" timestamp="1509075828426">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/config/index.js" timestamp="1509709146308">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+        <mark key="." line="15" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/test/test.vue" timestamp="1509962263514">
         <mark key="[" line="3" column="0" />
@@ -200,383 +41,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/builds/ajht_event.js" timestamp="1509525901797" />
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ShareFaces.js" timestamp="1508832675317">
-        <mark key="[" line="43" column="40" />
-        <mark key="]" line="43" column="40" />
-        <mark key="." line="43" column="40" />
-        <mark key="^" line="43" column="40" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/common/qukan/Share2.es6" timestamp="1509010293698">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="59" column="23" />
-        <mark key="^" line="1054" column="22" />
-        <mark key="." line="1041" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ShareConfigHelper.js" timestamp="1508814093486">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/src/App.vue" timestamp="1509717876236">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/components2/IFramePopup.es6" timestamp="1509963850729" />
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/a.js" timestamp="1509355533329">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ClientShare.js" timestamp="1509085150919">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="113" column="30" />
-        <mark key="." line="114" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/config/index.js" timestamp="1509963481662">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="26" column="24" />
-        <mark key="." line="12" column="27" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/build/webpack.base.conf.js" timestamp="1509962347315">
-        <mark key="[" line="45" column="27" />
-        <mark key="]" line="45" column="27" />
-        <mark key="." line="45" column="27" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/git-hooks/pre-commit.sh" timestamp="1509179448334">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="7" column="25" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/start.js" timestamp="1509096148426">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/build.js" timestamp="1509615013936">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/.babelrc" timestamp="1509963752759">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/WebServer.es6" timestamp="1509517049049" />
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/MemberInfo.js" timestamp="1509084920763">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="17" />
-        <mark key="." line="23" column="22" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/build.js" timestamp="1509521766564">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="6" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/pack.sh" timestamp="1508915940807">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/intro.md" timestamp="1509086539929">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/main.js" timestamp="1509706900693">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/AppManager.es6" timestamp="1509376802812" />
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareConfig.js" timestamp="1508930171415">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="72" column="52" />
-        <mark key="^" line="19" column="30" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/PromoteInfo.js" timestamp="1508884085379">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="18" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="13" />
-      </file>
-      <file name="$USER_HOME$/Codes/work/10月/23-27.md" timestamp="1509154686030">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="8" />
-        <mark key="." line="39" column="8" />
-        <mark key="^" line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/parser/ES6.es6" timestamp="1509416598170">
-        <mark key="[" line="81" column="32" />
-        <mark key="]" line="81" column="31" />
-        <mark key="^" line="81" column="31" />
-        <mark key="." line="81" column="31" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/App.es6" timestamp="1509429668783">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/setup.js" timestamp="1509517392065">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="40" />
-      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/readme.md" timestamp="1509631611113">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="11" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/client-share-api.js" timestamp="1508740128811">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="77" column="1" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/dev.deploy.sh" timestamp="1509086259942">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="50" />
-        <mark key="." line="6" column="50" />
-        <mark key="^" line="6" column="50" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/parser/ParserManager.es6" timestamp="1509525664123">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/build.js" timestamp="1509940003140">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="9" column="41" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/utils.js" timestamp="1509938853347">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/dist/test/static/js/app.0d61eb74476e319fadc8.js" timestamp="1509948747315" />
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareDomain.js" timestamp="1508840557013">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="31" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/build/webpack.prod.conf.js" timestamp="1509839038598">
-        <mark key="[" line="116" column="8" />
-        <mark key="]" line="116" column="8" />
-        <mark key="^" line="116" column="8" />
-        <mark key="." line="116" column="8" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/git/git-hooks/pre-commit.sh" timestamp="1509328185447">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1509963976748">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/demo/config/index.js" timestamp="1509960313140">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="23" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/server.js" timestamp="1509521601350">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/build/build.js" timestamp="1509708446008">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareMaterial.js" timestamp="1509085506941">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/common/qukan/PictureBuilder.es6" timestamp="1509373745764">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/ShareMaterial.spec.js" timestamp="1509085400765">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="64" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="13" column="33" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ShareQs.js" timestamp="1508996063009">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/modules/test/package.json" timestamp="1509706401983">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/gitconfig.js" timestamp="1509587357023">
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="42" column="41" />
-        <mark key="^" line="42" column="42" />
-        <mark key="." line="42" column="41" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/src/App.vue" timestamp="1509961693836">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/dist/test/static/js/app.55051e2244fbb9c83d3f.js" timestamp="1509951540014" />
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/helper/ClientInfo.spec.js" timestamp="1508771068590">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="31" column="17" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/anniversary/script/index.es6" timestamp="1509964048302" />
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/activity/build/webpack.base.conf.js" timestamp="1509707794144">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/middleware/error.js" timestamp="1509073923943">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/activity/router/index.js" timestamp="1509707617991">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/parser/Parser.es6" timestamp="1509413597835">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="74" column="12" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/components2/PageNavigate.es6" timestamp="1509685708476" />
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/.editorconfig" timestamp="1509705656369">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/lib/QQShare.js" timestamp="1509088468915">
-        <mark key="[" line="89" column="21" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/FileUtil.es6" timestamp="1509375771008">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/enums.js" timestamp="1508840350415">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="92" column="23" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/axiosMock.js" timestamp="1509085338310">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="155" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.base.conf.js" timestamp="1509939379868">
-        <mark key="[" line="4" column="52" />
-        <mark key="]" line="4" column="52" />
-        <mark key="^" line="4" column="52" />
-        <mark key="." line="4" column="52" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/.gitignore" timestamp="1509525037777" />
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/index.js" timestamp="1509939810985">
         <mark key="[" line="33" column="19" />
         <mark key="]" line="33" column="19" />
         <mark key="^" line="9" column="25" />
         <mark key="." line="33" column="19" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/components2/PageLoader2.es6" timestamp="1509413763756">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/install.sh" timestamp="1509346805795">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/BaseService.js" timestamp="1509085351991">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/package.json" timestamp="1509517288831">
-        <mark key="[" line="29" column="3" />
-        <mark key="]" line="29" column="3" />
-        <mark key="." line="29" column="3" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/bin/fe.js" timestamp="1509522515263">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/FileCache.js" timestamp="1509587407994">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/init.sh" timestamp="1509187427368">
-        <mark key="[" line="26" column="60" />
-        <mark key="]" line="8" column="62" />
-        <mark key="^" line="8" column="62" />
-        <mark key="." line="8" column="62" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/package.json" timestamp="1509693814182">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/utils/index.js" timestamp="1509615557672">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/tinypng.es6" timestamp="1509535171837">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/app.js" timestamp="1509939630172">
         <mark key="[" line="13" column="33" />
@@ -584,139 +59,42 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/logger.js" timestamp="1509085999589">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="37" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/package.json" timestamp="1509087507161">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="8" column="17" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/base-config.js" timestamp="1508740117905">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="112" column="3" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/bin/fe.js" timestamp="1509616053094">
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="64" column="26" />
-        <mark key="." line="64" column="26" />
-        <mark key="^" line="57" column="21" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/test.js" timestamp="1509938986058">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/register/common/QueryAnalysis.es6" timestamp="1509373836191">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="31" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/package.json" timestamp="1509958839911">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/tinypng.es6" timestamp="1509535171837">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/here/ajht_event/html/ajht_event/index.html" timestamp="1509532165770" />
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/build/webpack.prod.conf.js" timestamp="1509963329670">
-        <mark key="[" line="94" column="44" />
-        <mark key="]" line="94" column="44" />
-        <mark key="." line="94" column="44" />
-        <mark key="^" line="120" column="67" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/b.js" timestamp="1509181549921">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="2" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/makeLogger.js" timestamp="1508833097818">
-        <mark key="[" line="58" column="1" />
-        <mark key="]" line="58" column="1" />
-        <mark key="^" line="58" column="1" />
-        <mark key="." line="58" column="1" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/FileGroup.js" timestamp="1509537311245">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="26" column="30" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/package.json" timestamp="1509963807091">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/upgrade.js" timestamp="1509183460294">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="^" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/anniversary_yq_02/script/index.es6" timestamp="1509686472796" />
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/.npmignore" timestamp="1509086116178">
         <mark key="[" line="62" column="5" />
         <mark key="]" line="62" column="5" />
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/git/commit-template/hooks/commit-msg" timestamp="1509347373208">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/common/game/CanvasRenderer.es6" timestamp="1509373592839">
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/parser/ParserManager.es6" timestamp="1509402974418">
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/handler/shareFactory.js" timestamp="1509075530033">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/lib/WXShare.spec.js" timestamp="1508744439248">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="86" column="31" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/.babelrc" timestamp="1509963752759">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/tpl/hooks/commit-msg" timestamp="1509675279882">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/configs/about-share-config.js" timestamp="1508929155497">
-        <mark key="[" line="328" column="0" />
-        <mark key="]" line="331" column="62" />
-        <mark key="." line="330" column="43" />
-        <mark key="^" line="330" column="43" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.prod.conf.js" timestamp="1509955362838">
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="11" />
-        <mark key="." line="54" column="11" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/.babelrc" timestamp="1509709845901">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/server.js" timestamp="1509523081257">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/build/build.js" timestamp="1509962198899" />
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lccomplier/build.js" timestamp="1509521633385" />
-      <file name="/JavaScript Console" timestamp="1508987171805">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/package.json" timestamp="1509517288831">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/gulpfile.js" timestamp="1509374020467">
         <mark key="[" line="12" column="38" />
@@ -724,17 +102,163 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/about-share-config.js" timestamp="1508740103093">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="237" column="16" />
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareConfig.js" timestamp="1508930171415">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="52" />
+        <mark key="^" line="19" column="30" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/ShareConfigMockData.js" timestamp="1508926460683">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="145" column="12" />
-        <mark key="." line="256" column="26" />
-        <mark key="^" line="256" column="26" />
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/start.js" timestamp="1509096148426">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/MemberInfo.js" timestamp="1509084920763">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/baijing/study/nodejs/pullData.js" timestamp="1508895861033">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/intro.md" timestamp="1509086539929">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/shell/jump.exp" timestamp="1509352384931">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/config/index.js" timestamp="1509963481662">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/configs/about-share-config.js" timestamp="1508929155497">
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="331" column="62" />
+        <mark key="." line="330" column="43" />
+        <mark key="^" line="330" column="43" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/makeLogger.js" timestamp="1508833097818">
+        <mark key="[" line="58" column="1" />
+        <mark key="]" line="58" column="1" />
+        <mark key="^" line="58" column="1" />
+        <mark key="." line="58" column="1" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/git/commit-template/hooks/commit-msg" timestamp="1509347373208">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/build/build.js" timestamp="1509708446008">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/lib/QQShare.js" timestamp="1509088468915">
+        <mark key="[" line="89" column="21" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/README.md" timestamp="1509963786732">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/build.js" timestamp="1509940003140">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/.editorconfig" timestamp="1509705656369">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/BucketInfo.js" timestamp="1508920871989">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="24" column="10" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="24" column="10" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ShareQs.js" timestamp="1508996063009">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/tpl/hooks/commit-msg" timestamp="1509675279882">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/baijing/work/innotechx/modou-web/qukan_new2/activity/nov_apprentice/html/index.ejs" timestamp="1508896154385">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.base.conf.js" timestamp="1509939379868">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/dev.deploy.sh" timestamp="1509086259942">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="50" />
+        <mark key="." line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/baijing/work/innotechx/modou-web/qukan_new2/inapp/yq/html/apprentice_pre.ejs" timestamp="1508556101913">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+        <mark key="^" line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/.babelrc" timestamp="1509709845901">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.prod.conf.js" timestamp="1509955362838">
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="11" />
+        <mark key="." line="54" column="11" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ClientShare.js" timestamp="1509085150919">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="113" column="30" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/test.js" timestamp="1509938986058">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/activity/build/webpack.base.conf.js" timestamp="1509707794144">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/PromoteInfo.js" timestamp="1508884085379">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/activity/build/webpack.prod.conf.js" timestamp="1509707974874">
         <mark key="[" line="13" column="0" />
@@ -742,10 +266,405 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/src/main.js" timestamp="1509961770136">
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/SharePyqAsset.js" timestamp="1508984739494">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="22" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/modules/test/index.js" timestamp="1509710071339">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/server.js" timestamp="1509521601350">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/src/main.js" timestamp="1509710084027">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/a.js" timestamp="1509355533329">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/test.sh" timestamp="1508991556453">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/WebServer.es6" timestamp="1509547915195">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="19" />
+        <mark key="." line="54" column="19" />
+        <mark key="^" line="54" column="19" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/common/qukan/Share2.es6" timestamp="1509010293698">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="59" column="23" />
+        <mark key="^" line="1054" column="22" />
+        <mark key="." line="1041" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/run.sh" timestamp="1509187327703">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/parser/ParserManager.es6" timestamp="1509402974418">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="31" column="49" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/ShareMaterial.spec.js" timestamp="1509085400765">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="64" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509352478985">
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="55" column="5" />
+        <mark key="." line="55" column="5" />
+        <mark key="^" line="55" column="5" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/config/index.js" timestamp="1509075828426">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/AppManager.es6" timestamp="1509615545449">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/test/index.js" timestamp="1509961365218">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/server.js" timestamp="1509523081257">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/about-share-config.js" timestamp="1508740103093">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="237" column="16" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/githooks/pre-commit.sh" timestamp="1509178998232">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/FileUtil.es6" timestamp="1509375771008">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/common/qukan/PictureBuilder.es6" timestamp="1509373745764">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareDomain.js" timestamp="1508840557013">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/src/App.vue" timestamp="1509717876236">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/BaseService.js" timestamp="1509085351991">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/baijing/work/innotechx/modou-web/qukan_new2/activity/nov_apprentice/script/index.es6" timestamp="1508746519800">
+        <mark key="[" line="82" column="100" />
+        <mark key="]" line="84" column="15" />
+        <mark key="^" line="84" column="15" />
+        <mark key="." line="84" column="15" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/build/webpack.prod.conf.js" timestamp="1509839038598">
+        <mark key="[" line="116" column="8" />
+        <mark key="]" line="116" column="8" />
+        <mark key="^" line="116" column="8" />
+        <mark key="." line="116" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/parser/ParserManager.es6" timestamp="1509525664123">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/parser/Parser.es6" timestamp="1509413597835">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="74" column="12" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/install.sh" timestamp="1509346805795">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/hook.js" timestamp="1509545267586">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/baijing/work/innotechx/modou-web/qukan_new2/activity/nov_apprentice/style/index.less" timestamp="1508747576384">
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="78" column="40" />
+        <mark key="^" line="78" column="40" />
+        <mark key="." line="78" column="40" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/base-config.js" timestamp="1508740117905">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="112" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/qa.md" timestamp="1509027968439">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/upgrade.js" timestamp="1509183460294">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="^" line="13" column="2" />
+        <mark key="." line="13" column="2" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/setup.js" timestamp="1509517392065">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="40" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/src/main.js" timestamp="1509952674795">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ShareConfigHelper.js" timestamp="1508814093486">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/ShareConfigMockData.js" timestamp="1508926460683">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="145" column="12" />
+        <mark key="." line="256" column="26" />
+        <mark key="^" line="256" column="26" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/git/git-hooks/pre-commit.sh" timestamp="1509328185447">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="11" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/logger.js" timestamp="1509085999589">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="37" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/pack.sh" timestamp="1508915940807">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/gitconfig.js" timestamp="1509587357023">
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="42" />
+        <mark key="." line="42" column="41" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/utils/index.js" timestamp="1509615557672">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/ShareFaces.js" timestamp="1508832675317">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="40" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="40" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/src/App.vue" timestamp="1509961693836">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/env/index.js" timestamp="1509965025818">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="25" column="47" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/main.js" timestamp="1509706900693">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/FileGroup.js" timestamp="1509537311245">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="26" column="30" />
+      </file>
+      <file name="$USER_HOME$/Codes/work/10月/23-27.md" timestamp="1509154686030">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="8" />
+        <mark key="." line="39" column="8" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/b.js" timestamp="1509181549921">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/build/webpack.prod.conf.js" timestamp="1509963329670">
+        <mark key="[" line="94" column="44" />
+        <mark key="]" line="94" column="44" />
+        <mark key="." line="94" column="44" />
+        <mark key="^" line="120" column="67" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/package.json" timestamp="1509087507161">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/build/dev-server.js" timestamp="1509708432267">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/ShareConfig.spec.js" timestamp="1509009053201">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="60" column="8" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/ecosystem.config.js" timestamp="1509085805474">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/modules/test/package.json" timestamp="1509706401983">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/components2/PageLoader2.es6" timestamp="1509413763756">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/utils.js" timestamp="1509938853347">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/FileCache.js" timestamp="1509587407994">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1508987171805">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/package.json" timestamp="1509958839911">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/demo/config/index.js" timestamp="1509960313140">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/middleware/error.js" timestamp="1509073923943">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/git-hooks/pre-commit.sh" timestamp="1509179448334">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/axiosMock.js" timestamp="1509085338310">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="155" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/enums.js" timestamp="1508840350415">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="92" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/build/webpack.base.conf.js" timestamp="1509706620782">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/work/plan.md" timestamp="1509162843927">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/.gitignore" timestamp="1509958880804">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.dev.conf.js" timestamp="1509939372040">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/lib/WXShare.js" timestamp="1509073298185">
         <mark key="[" line="78" column="0" />
@@ -753,7 +672,104 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="76" column="14" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/active_template/script/index.es6" timestamp="1509686312690" />
+      <file name="/Dummy.txt" timestamp="1509963976748">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/App.es6" timestamp="1509429668783">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/bin/fe.js" timestamp="1509616053094">
+        <mark key="[" line="64" column="26" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="57" column="21" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/package.json" timestamp="1509963807091">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/FileCache.js" timestamp="1509419292752">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/build.js" timestamp="1509521766564">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareMaterial.js" timestamp="1509085506941">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/activity/router/index.js" timestamp="1509707617991">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/package.json" timestamp="1509693814182">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/build/webpack.base.conf.js" timestamp="1509962347315">
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/lib/WXShare.spec.js" timestamp="1508744439248">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="86" column="31" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-team/init.sh" timestamp="1509187427368">
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="8" column="62" />
+        <mark key="^" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/client-share-api.js" timestamp="1508740128811">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="77" column="1" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-new/.babelrc" timestamp="1509953048429">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/QRCode.js" timestamp="1509085082658">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="45" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/bin/fe.js" timestamp="1509522515263">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/demo/src/main.js" timestamp="1509961770136">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/lechuan2/src/parser/ES6.es6" timestamp="1509416598170">
+        <mark key="[" line="81" column="32" />
+        <mark key="]" line="81" column="31" />
+        <mark key="^" line="81" column="31" />
+        <mark key="." line="81" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="33" column="5" filename="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/index.js" />
@@ -852,26 +868,67 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbnVtc1w+</entry>
-        <entry encoding="base64">XDxhcGlcPg==</entry>
-        <entry encoding="base64">XDxoZWxwZXJcPg==</entry>
+        <entry>clickStat</entry>
+        <entry>getUrlFromUrlMap</entry>
+        <entry>showDrawViewModal</entry>
+        <entry>getPupilAwakenMission</entry>
+        <entry>TOKEN</entry>
+        <entry>localStorage</entry>
+        <entry>member</entry>
+        <entry>hxgz_btn</entry>
+        <entry>pupil_nick</entry>
+        <entry>lt</entry>
+        <entry>share</entry>
+        <entry>$award</entry>
+        <entry>loading2Timeout</entry>
+        <entry>ar_tip</entry>
+        <entry>.num</entry>
+        <entry>pupil_num</entry>
+        <entry>rank_con</entry>
+        <entry>PictureBuilder</entry>
+        <entry>nav</entry>
+        <entry>gotoUrl</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
+        <entry>20g</entry>
+        <entry>s/batchPassAction/ /g</entry>
+        <entry>%s/batchPassAction//g</entry>
+        <entry>q</entry>
+        <entry>re</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
