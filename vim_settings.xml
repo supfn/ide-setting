@@ -90,6 +90,11 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/parser/LESS.es6" timestamp="1509978669734">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/common/game/CanvasRenderer.es6" timestamp="1509373592839">
         <mark key="[" line="58" column="47" />
         <mark key="]" line="20" column="10" />
@@ -798,8 +803,8 @@
       <jump line="74" column="23" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/env/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgZGVmZXIgPSBRLmRlZmVyKCk7CgogICAgICAgIGlmKHRoaXMuY2FjaGVFbmFibGUoKSl7CiAgICAgICAgICAgIGxldCBjYWNoZWQgPSB0aGlzLmdldENhY2hlZCh0aGlzLmZpbGUpOwogICAgICAgICAgICBpZihjYWNoZWQpewogICAgICAgICAgICAgICAgZGVmZXIucmVzb2x2ZShjYWNoZWQpOwogICAgICAgICAgICAgICAgcmV0dXJuIGRlZmVyLnByb21pc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -811,31 +816,31 @@
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6J2RpcicsCiAgICAgICAgICAgIHR5cGU6J2lucHV0JywKICAgICAgICAgICAgbWVzc2FnZSA6ICfkvaDnmoTmlofku7blpLnlkI0nLAogICAgICAgICAgICBkZWZhdWx0OiAnYXBwJwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKGpzb24pewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZGVmZXIgPSBRLmRlZmVyKCk7CgogICAgICAgIGlmKHRoaXMuY2FjaGVFbmFibGUoKSl7CiAgICAgICAgICAgIGxldCBjYWNoZWQgPSB0aGlzLmdldENhY2hlZCh0aGlzLmZpbGUpOwogICAgICAgICAgICBpZihjYWNoZWQpewogICAgICAgICAgICAgICAgZGVmZXIucmVzb2x2ZShjYWNoZWQpOwogICAgICAgICAgICAgICAgcmV0dXJuIGRlZmVyLnByb21pc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICB0cnl7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmKGpzb24pewoKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICB0cnl7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvZ3JhbS5jb21tYW5kKCdkZXZzZXJ2ZXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogJycK</text>
+        <text encoding="base64">cHJvZ3JhbS5jb21tYW5kKCdkZXZzZXJ2ZXInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAn5o+P6L+wJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogJycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAn5L2g55qE5paH5Lu25aS55ZCNJywK</text>
+        <text encoding="base64">ICAgICAgICAn5o+P6L+wJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAn5L2g55qE5paH5Lu25aS55ZCNJywK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
