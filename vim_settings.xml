@@ -61,11 +61,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/index.html" timestamp="1510111222927">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="6" column="67" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/index.html" timestamp="1510122185316">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/anniversary/script/index.es6" timestamp="1509966228437" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/init.sh" timestamp="1509352478985">
@@ -130,6 +130,13 @@
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/inline/lib-flexible/index.html" timestamp="1510122105990">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="9" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/work/plan.md" timestamp="1509162843927">
         <mark key="[" line="9" column="0" />
@@ -716,11 +723,17 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/config/index.js" timestamp="1510111476927">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/config/index.js" timestamp="1510122231012">
         <mark key="[" line="29" column="41" />
         <mark key="]" line="30" column="11" />
         <mark key="." line="30" column="11" />
         <mark key="^" line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/config/app.js" timestamp="1510121910952">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="26" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/ShareDomain.js" timestamp="1508840557013">
         <mark key="[" line="18" column="33" />
@@ -810,11 +823,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" timestamp="1510111503275">
-        <mark key="[" line="159" column="53" />
-        <mark key="]" line="159" column="34" />
-        <mark key="." line="159" column="34" />
-        <mark key="^" line="159" column="34" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" timestamp="1510122862084">
+        <mark key="[" line="165" column="54" />
+        <mark key="]" line="168" column="21" />
+        <mark key="." line="168" column="21" />
+        <mark key="^" line="168" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/build/build.js" timestamp="1509708446008">
         <mark key="[" line="1" column="0" />
@@ -911,46 +924,47 @@
       <jump line="0" column="8" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/README.md" />
       <jump line="74" column="23" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/env/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-activity-template/src/App.vue" />
+      <jump line="2" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/inline/lib-flexible/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">fHwg</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fHwg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgd2VicGFjay5vcHRpbWl6ZS5Db21tb25zQ2h1bmtQbHVnaW4oewogICAgICAgICAgICBuYW1lOiAndmVuZG9yJywKICAgICAgICAgICAgbWluQ2h1bmtzOiBmdW5jdGlvbiAobW9kdWxlKSB7CiAgICAgICAgICAgICAgICAvLyBhbnkgcmVxdWlyZWQgbW9kdWxlcyBpbnNpZGUgbm9kZV9tb2R1bGVzIGFyZSBleHRyYWN0ZWQgdG8gdmVuZG9yCiAgICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgICAgIG1vZHVsZS5yZXNvdXJjZSAmJgogICAgICAgICAgICAgICAgICAgIC9cLmpzJC8udGVzdChtb2R1bGUucmVzb3VyY2UpICYmCiAgICAgICAgICAgICAgICAgICAgbW9kdWxlLnJlc291cmNlLmluZGV4T2YoCiAgICAgICAgICAgICAgICAgICAgICAgIHBhdGguam9pbihfX2Rpcm5hbWUsICcuLi9ub2RlX21vZHVsZXMnKQogICAgICAgICAgICAgICAgICAgICkgPT09IDAKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kaWZpY2F0aW9uczogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJlZ2V4OiAvPCEtLXtAbGliLWZsZXhpYmxlfS0tPi9nLAogICAgICAgICAgICAgICAgICAgIG1vZGlmaWNhdGlvbjogYDxzY3JpcHQ+JHtmcy5yZWFkRmlsZVN5bmMoJy4uLy4uL2lubGluZS9saWItZmxleGlibGUvaW5kZXguaHRtbCcsICd1dGYtOCcpfTwvc2NyaXB0PmAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlubGluZURpc3QpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT50ZXN0PC90aXRsZT4K</text>
+        <text encoding="base64">ICAgIGxldCByZWxhdGl2ZURpc3QgPSBwYXRoLnJlbGF0aXZlKGFwcFBhdGgsZGlzdCApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLXtAbGliLWZsZXhpYmxlfS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlubGluZVBhdGgscHJvY2Vzcy5jd2QoKSwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS17QGxpYi1mbGV4aWJsZX0tLT4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgWyc8c2NyaXB0PicsZnMucmVhZEZpbGVTeW5jKCcuLi8uLi9pbmxpbmUvbGliLWZsZXhpYmxlL2luZGV4LmpzJywndXRmLTgnKSwnPC9zY3JpcHQ+J10uam9pbignJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vZGlmaWNhdGlvbnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyBDb250ZW50UmVwbGFjZXJXZWJwYWNrUGx1Z2luKHsKICAgICAgICBtb2RpZmllZEZpbGU6ICcuLi8uLi9kaXN0L3Rlc3QvaW5kZXguaHRtbCcsCiAgICAgICAgbW9kaWZpY2F0aW9uczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZWdleDogL0FBQS9nLAogICAgICAgICAgICAgICAgbW9kaWZpY2F0aW9uOiAnbmV3X2NvbnRlbnQnCiAgICAgICAgICAgIH0KICAgICAgICBdLAogICAgfSksCg==</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZWdleDogLzwhLS17QGxpYi1mbGV4aWJsZX0tLT4vZywKICAgICAgICAgICAgICAgICAgICBtb2RpZmljYXRpb246IGA8c2NyaXB0PiR7ZnMucmVhZEZpbGVTeW5jKCcuLi8uLi9pbmxpbmUvbGliLWZsZXhpYmxlL2luZGV4Lmh0bWwnLCAndXRmLTgnKX08L3NjcmlwdD5gCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
