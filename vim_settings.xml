@@ -790,10 +790,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/package.json" timestamp="1510123464069">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/package.json" timestamp="1510138790675">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="40" />
+        <mark key="." line="20" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/upgrade.js" timestamp="1509183460294">
         <mark key="[" line="13" column="2" />
@@ -1093,6 +1093,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
