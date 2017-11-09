@@ -330,6 +330,9 @@
         <mark key="]" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/.gitignore" timestamp="1510219259861">
+        <mark key="[" line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/src/app.vue" timestamp="1510138016483">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="10" />
@@ -494,7 +497,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510216879518">
+      <file name="/Dummy.txt" timestamp="1510219267161">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -823,11 +826,11 @@
         <mark key="]" line="20" column="40" />
         <mark key="." line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1510213186659">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1510219118440">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/upgrade.js" timestamp="1509183460294">
         <mark key="[" line="13" column="2" />
@@ -1074,11 +1077,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/utils.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>activity1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>activity1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -1090,28 +1093,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL25ldyBIdG1sV2VicGFja0lubGluZVNvdXJjZVBsdWdpbigpLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8KICAgIGVjaG8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhjaGFsay55ZWxsb3coCiAgICAgICAgLy8gICAgICcgIFRpcDogYnVpbHQgZmlsZXMgYXJlIG1lYW50IHRvIGJlIHNlcnZlZCBvdmVyIGFuIEhUVFAgc2VydmVyLlxuJyArCiAgICAgICAgLy8gICAgICcgIE9wZW5pbmcgaW5kZXguaHRtbCBvdmVyIGZpbGU6Ly8gd29uXCd0IHdvcmsuXG4nCiAgICAgICAgLy8gKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhdCBhcHAuanNvbiB8IGdyZXAgJyJuYW1lIidWCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKAogICAgcHJvY2Vzcy5hcmd2Cik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyEvYmluL3NoCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Zgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJvY2Vzcy5hcmd2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIFsgJHtpc19pbn0gPT0gMSBdOyB0aGVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
