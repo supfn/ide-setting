@@ -456,7 +456,6 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/ui-common/adapter.less" timestamp="1510149115264" />
       <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/parser/ParserManager.es6" timestamp="1509525664123">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -509,7 +508,6 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/common/provinces/data.es6" timestamp="1509965949976" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/app.json" timestamp="1510022607520">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="37" />
@@ -586,7 +584,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/anniversary/script/index.es6" timestamp="1509966228437" />
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/activity/build/webpack.base.conf.js" timestamp="1509707794144">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
@@ -615,7 +612,6 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="74" column="12" />
       </file>
-      <file name="/App.vue" timestamp="1510135154131" />
       <file name="$USER_HOME$/Codes/qutoutiao/qfe/app.json" timestamp="1510019722619">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="22" />
@@ -649,7 +645,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/lib-flexible/lib-flexible.js" timestamp="1510130158422" />
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/spec/service/axiosMock.js" timestamp="1509085338310">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -826,11 +821,11 @@
         <mark key="]" line="20" column="40" />
         <mark key="." line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1510222383640">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="67" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1510225275066">
+        <mark key="[" line="4" column="78" />
+        <mark key="]" line="4" column="78" />
+        <mark key="." line="4" column="78" />
+        <mark key="^" line="4" column="77" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/upgrade.js" timestamp="1509183460294">
         <mark key="[" line="13" column="2" />
@@ -1020,6 +1015,12 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="76" column="14" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/activity1/src/pages/home.vue" timestamp="1510226056067">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/templates/index.html" timestamp="1510130655385">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1078,10 +1079,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>增加ci构建脚本，.gitignore忽略output输出目录</text>
+        <text>axios</text>
       </register>
       <register name="-" type="4">
-        <text>增加ci构建脚本，.gitignore忽略output输出目录</text>
+        <text>axios</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -1093,13 +1094,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIGYoKXsKfTsKCmYoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyEvYmluL3NoCg==</text>
+        <text encoding="base64">ICAgIGxldCBzID0gYXdhaXQgYXhpb3MuZ2V0KCcvJyk7CiAgICBjb25zb2xlLmxvZyhzKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1108,13 +1109,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyEvYmluL3NoCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIFsgJHtpc19pbn0gPT0gMSBdOyB0aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
