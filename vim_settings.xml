@@ -327,10 +327,11 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/.babelrc" timestamp="1509963752759">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/.babelrc" timestamp="1510281769480">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/.gitignore" timestamp="1510219259861">
         <mark key="[" line="2" column="5" />
@@ -825,9 +826,9 @@
         <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/package.json" timestamp="1510224178251">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="36" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1510273822867">
         <mark key="[" line="17" column="0" />
@@ -1023,11 +1024,10 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="76" column="14" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/activity1/src/pages/home.vue" timestamp="1510274235525">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="31" column="9" />
-        <mark key="." line="31" column="9" />
-        <mark key="^" line="31" column="9" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/activity1/src/pages/home.vue" timestamp="1510281490160">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/templates/index.html" timestamp="1510130655385">
         <mark key="[" line="10" column="0" />
@@ -1087,7 +1087,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>echo ${exclude_dirs[@]/$dir/}</text>
@@ -1099,28 +1099,28 @@
         <text encoding="base64">ICAgICAgICBuZXcgSHRtbFdlYnBhY2tQbHVnaW4oewogICAgICAgICAgICBmaWxlbmFtZTogY29uZmlnLmJ1aWxkLmluZGV4LAogICAgICAgICAgICB0ZW1wbGF0ZTogJy4uLy4uL3RlbXBsYXRlcy9pbmRleC5odG1sJywKICAgICAgICAgICAgaW5qZWN0OiB0cnVlLAogICAgICAgICAgICBtaW5pZnk6IHsKICAgICAgICAgICAgICAgIHJlbW92ZUNvbW1lbnRzOiB0cnVlLAogICAgICAgICAgICAgICAgY29sbGFwc2VXaGl0ZXNwYWNlOiB0cnVlLAogICAgICAgICAgICAgICAgcmVtb3ZlQXR0cmlidXRlUXVvdGVzOiB0cnVlCiAgICAgICAgICAgICAgICAvLyBtb3JlIG9wdGlvbnM6CiAgICAgICAgICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20va2FuZ2F4L2h0bWwtbWluaWZpZXIjb3B0aW9ucy1xdWljay1yZWZlcmVuY2UKICAgICAgICAgICAgfSwKICAgICAgICAgICAgLy8gbmVjZXNzYXJ5IHRvIGNvbnNpc3RlbnRseSB3b3JrIHdpdGggbXVsdGlwbGUgY2h1bmtzIHZpYSBDb21tb25zQ2h1bmtQbHVnaW4KICAgICAgICAgICAgY2h1bmtzU29ydE1vZGU6ICdkZXBlbmRlbmN5JywKICAgICAgICAgICAgaW5saW5lU291cmNlOiAnLihqc3xjc3MpJCcKICAgICAgICB9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIEBmaWxlIHd4bm90aWZ5CiAqIEBhdXRob3Igemhhbmd5dQogKiBAZGF0ZSAyMDE3LzExLzkKICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIGRvdGhpczogYXN5bmMgZnVuY3Rpb24oKXsKICAgICAgICAgICAgbGV0IHMgPSBhd2FpdCBheGlvcy5nZXQoJy8nKTsKICAgICAgICAgICAgY29uc29sZS5sb2cocyk7CiAgICAgICAgfQogICAgICAgICovCiAgICAgICAgZG90aGlzKCl7CgogICAgICAgIH0KICAgICAgICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYXJndik7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBmaWxlIHd4bm90aWZ5CiAqIEBhdXRob3Igemhhbmd5dQogKiBAZGF0ZSAyMDE3LzExLzkKICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5hcmd2KQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYXJndik7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXJndi51Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5hcmd2KQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
