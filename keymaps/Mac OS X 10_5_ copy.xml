@@ -38,7 +38,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Rerun" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta e" />
