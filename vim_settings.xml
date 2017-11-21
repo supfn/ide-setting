@@ -132,11 +132,10 @@
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/models/DeployTask.js" timestamp="1511236419901">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="39" column="25" />
-        <mark key="^" line="39" column="25" />
-        <mark key="." line="39" column="25" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/models/DeployTask.js" timestamp="1511244497477">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/service/BucketInfo.js" timestamp="1508920871989">
         <mark key="[" line="11" column="22" />
@@ -283,12 +282,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/models/CIBuild.js" timestamp="1511235904990">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/models/CIBuild.js" timestamp="1511244535942">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="66" column="5" />
-        <mark key="]" line="64" column="27" />
-        <mark key="." line="64" column="27" />
-        <mark key="^" line="64" column="27" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/components/footer/footer.vue" timestamp="1510148440113">
         <mark key="[" line="3" column="18" />
@@ -1212,8 +1211,8 @@
       <jump line="19" column="17" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/ci.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY2lCdWlsZCA9IG5ldwoKICAgICAgICBjaUJ1aWxkLmdldEJ5SWQoewogICAgICAgICAgICBfaWQ6IGJ1aWxkSWQKICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1225,31 +1224,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSB7c3RyaW5nfSBwYXJhbXMuZmlsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY2lCdWlsZCA9IG5ldwoKICAgICAgICBjaUJ1aWxkLmdldEJ5SWQoewogICAgICAgICAgICBfaWQ6IGJ1aWxkSWQKICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgam9iID0gJyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgam9iID0gJyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqb2JJbmZvLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqb2JJbmZvLmRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
