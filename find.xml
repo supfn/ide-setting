@@ -2,14 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
     <recentFileMasks>
-      <mask>[^\.]*.es6</mask>
-      <mask>[^\.t]*.es6</mask>
-      <mask>[^\.tm]*.es6</mask>
-      <mask>[^\.tmp]*.es6</mask>
       <mask>*[^\.tmp].es6</mask>
       <mask>[^\.tmp].es6</mask>
       <mask>[^\tmp].es6</mask>
@@ -36,6 +30,10 @@
       <mask>\d*.es6</mask>
       <mask>\*.es6</mask>
       <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
