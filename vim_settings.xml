@@ -15,11 +15,11 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/index.ejs" timestamp="1511339305631">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/index.ejs" timestamp="1511504987332">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="48" />
         <mark key="^" line="11" column="21" />
-        <mark key="." line="17" column="0" />
+        <mark key="." line="11" column="48" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/AppManager.es6" timestamp="1509615545449">
         <mark key="[" line="31" column="0" />
@@ -144,7 +144,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/rd.deploy.sh" timestamp="1511503635105">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/rd.deploy.sh" timestamp="1511504700759">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -425,11 +425,11 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/app.js" timestamp="1511503917262">
-        <mark key="[" line="69" column="24" />
-        <mark key="]" line="86" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/app.js" timestamp="1511505161502">
+        <mark key="[" line="71" column="31" />
+        <mark key="]" line="71" column="31" />
         <mark key="^" line="85" column="32" />
-        <mark key="." line="86" column="0" />
+        <mark key="." line="71" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/intro.md" timestamp="1509086539929">
         <mark key="[" line="12" column="0" />
@@ -1078,11 +1078,11 @@
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/controller.js" timestamp="1511437560853">
-        <mark key="[" line="97" column="29" />
-        <mark key="]" line="97" column="35" />
-        <mark key="." line="97" column="35" />
-        <mark key="^" line="97" column="35" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/controller.js" timestamp="1511504591727">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/model/DeployServerGroup.js" timestamp="1511494567196">
         <mark key="[" line="18" column="21" />
@@ -1257,11 +1257,10 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/model.js" timestamp="1511418041746">
-        <mark key="[" line="71" column="24" />
-        <mark key="]" line="71" column="24" />
-        <mark key="." line="71" column="24" />
-        <mark key="^" line="71" column="24" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/model.js" timestamp="1511504588112">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" timestamp="1511149640220">
         <mark key="[" line="69" column="29" />
@@ -1380,11 +1379,11 @@
       <jump line="13" column="18" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployTask/model.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgbW9kZWwuX2lkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>fields</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>fields</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -1393,13 +1392,13 @@
         <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsKCmF4aW9zLmRlZmF1bHRzLmJhc2VVUkwgPSAnaHR0cDovL2xvY2FsaG9zdDo4MDgxL2FwaS92MS8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgbW9kZWwuX2lkOwo=</text>
+        <text encoding="base64">ICAgIGFkZChtb2RlbCkgewogICAgICAgIHJldHVybiB0aGlzLmNyZWF0ZShtb2RlbCk7CiAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZShtb2RlbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuYmFzZVVSTCA9ICdodHRwOi8vbG9jYWxob3N0OjgwODEvYXBpL3YxLyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgbW9kZWwuX2lkOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1417,7 +1416,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuYmFzZVVSTCA9ICdodHRwOi8vbG9jYWxob3N0OjgwODEvYXBpL3YxLyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
