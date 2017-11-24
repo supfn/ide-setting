@@ -384,11 +384,11 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/deployList.vue" timestamp="1511512421906">
-        <mark key="[" line="99" column="51" />
-        <mark key="]" line="99" column="51" />
-        <mark key="." line="99" column="51" />
-        <mark key="^" line="99" column="48" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/deployList.vue" timestamp="1511513890554">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="94" column="34" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/src/app.vue" timestamp="1510138016483">
         <mark key="[" line="2" column="9" />
@@ -1413,11 +1413,11 @@
       <jump line="13" column="18" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployTask/model.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgICAgICAgICAgcHJvcD0idXBkYXRlQXQiCiAgICAgICAgICAgICAgICBsYWJlbD0i5pu05paw5pe26Ze0IgogICAgICAgICAgICAgICAgOmZvcm1hdHRlcj0iZGF0ZUZvcm1hdCIKICAgICAgICAgICAgPgogICAgICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">JzxkaXY+Jyw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -1426,31 +1426,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZWNoYS5mb3JtYXQobmV3IERhdGUocm93LnVwZGF0ZUF0IHx8IHJvdy51cGRhdGVkQXQpLCAnWVlZWS1NTS1ERCBISDptbTpzcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3A9ImNyZWF0ZWRBdCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgICAgICAgICAgcHJvcD0idXBkYXRlQXQiCiAgICAgICAgICAgICAgICBsYWJlbD0i5pu05paw5pe26Ze0IgogICAgICAgICAgICAgICAgOmZvcm1hdHRlcj0iZGF0ZUZvcm1hdCIKICAgICAgICAgICAgPgogICAgICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRjcmVhdGVFbGVtZW50KCdkaXYnLCBkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPGJyPicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZlY2hhLmZvcm1hdChuZXcgRGF0ZShyb3cudXBkYXRlQXQpLCAnWVlZWS1NTS1ERCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPC9kaXY+Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIWNlbGwpewogICAgICAgICAgICAgICAgcmV0dXJuICcnOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRjcmVhdGVFbGVtZW50KCdkaXYnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3A9ImNyZWF0ZWRBdCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNlbGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocm93LGNvbCxjZWxsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
