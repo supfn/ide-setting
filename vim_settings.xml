@@ -815,11 +815,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/App.vue" timestamp="1511438843911">
-        <mark key="[" line="4" column="57" />
-        <mark key="]" line="4" column="57" />
-        <mark key="." line="4" column="57" />
-        <mark key="^" line="6" column="40" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/App.vue" timestamp="1511516483550">
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+        <mark key="^" line="6" column="57" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/fe-activity-template/index.ejs" timestamp="1511339482066">
         <mark key="[" line="11" column="48" />
@@ -1413,17 +1413,17 @@
       <jump line="13" column="18" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployTask/model.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgICAgICAgICAgcHJvcD0idXBkYXRlQXQiCiAgICAgICAgICAgICAgICBsYWJlbD0i5pu05paw5pe26Ze0IgogICAgICAgICAgICAgICAgOmZvcm1hdHRlcj0iZGF0ZUZvcm1hdCIKICAgICAgICAgICAgPgogICAgICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
+      <register name="&quot;" type="4">
+        <text>发布</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JzxkaXY+Jyw=</text>
+        <text>发布</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZWNoYS5mb3JtYXQobmV3IERhdGUocm93LnVwZGF0ZUF0IHx8IHJvdy51cGRhdGVkQXQpLCAnWVlZWS1NTS1ERCBISDptbTpzcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZWwtbWVudS1pdGVtIGluZGV4PSIvIj7lj5HluIM8L2VsLW1lbnUtaXRlbT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgICAgICAgICAgcHJvcD0idXBkYXRlQXQiCiAgICAgICAgICAgICAgICBsYWJlbD0i5pu05paw5pe26Ze0IgogICAgICAgICAgICAgICAgOmZvcm1hdHRlcj0iZGF0ZUZvcm1hdCIKICAgICAgICAgICAgPgogICAgICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
