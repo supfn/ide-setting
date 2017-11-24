@@ -424,7 +424,7 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/rd.deploy.sh" timestamp="1511491134598">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/rd.deploy.sh" timestamp="1511492142878">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
         <mark key="^" line="5" column="20" />
@@ -1456,11 +1456,11 @@
       <jump line="13" column="18" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployTask/model.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdW5saW5rOmZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>cftp</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>cftp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
