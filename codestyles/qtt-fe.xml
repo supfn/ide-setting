@@ -6,7 +6,6 @@
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="PROPERTY_ALIGNMENT" value="2" />
@@ -20,6 +19,9 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
