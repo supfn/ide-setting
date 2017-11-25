@@ -1001,10 +1001,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/list.vue" timestamp="1511579621627">
-        <mark key="[" line="121" column="26" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/list.vue" timestamp="1511580263630">
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="77" column="30" />
+        <mark key="." line="77" column="30" />
+        <mark key="^" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/test.js" timestamp="1509938986058">
         <mark key="[" line="13" column="5" />
@@ -1286,10 +1287,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/home.vue" timestamp="1511579598173">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/home.vue" timestamp="1511580238208">
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="19" />
+        <mark key="." line="69" column="19" />
+        <mark key="^" line="72" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/about-share-config.js" timestamp="1508740103093">
         <mark key="[" line="16" column="0" />
@@ -1455,8 +1457,8 @@
       <jump line="67" column="40" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/home.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>docs</text>
       </register>
       <register name="-" type="4">
         <text>docs</text>
@@ -1468,10 +1470,10 @@
         <text encoding="base64">ICAgICAgICA8ZWwtcGFnaW5hdGlvbgogICAgICAgICAgICBAc2l6ZS1jaGFuZ2U9ImhhbmRsZVNpemVDaGFuZ2UiCiAgICAgICAgICAgIEBjdXJyZW50LWNoYW5nZT0iaGFuZGxlQ3VycmVudENoYW5nZSIKICAgICAgICAgICAgOmN1cnJlbnQtcGFnZS5zeW5jPSJjdXJyZW50UGFnZSIKICAgICAgICAgICAgOnBhZ2Utc2l6ZT0iMTAiCiAgICAgICAgICAgIGxheW91dD0idG90YWwsIHByZXYsIHBhZ2VyLCBuZXh0IgogICAgICAgICAgICA6dG90YWw9InBhZ2VUb3RhbCI+CiAgICAgICAgPC9lbC1wYWdpbmF0aW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zLmxpbWl0ID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1480,19 +1482,19 @@
         <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zLmxpbWl0ID0gMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZVNpemUgOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFBhZ2U6MCwKICAgICAgICAgICAgcGFnZVNpemUgOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zLmxpbWl0ID0gMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZzZXQ6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZVNpemUgOiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFBhZ2U6MCwKICAgICAgICAgICAgcGFnZVNpemUgOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZWwtc2VsZWN0IHYtbW9kZWw9InByb2plY3QiIEBjaGFuZ2U9InByb2plY3RDaGFuZ2UiIHBsYWNlaG9sZGVyPSLor7fpgInmi6kiPgogICAgICAgICAgICA8ZWwtb3B0aW9uCiAgICAgICAgICAgICAgICB2LWZvcj0iaXRlbSBpbiBwcm9qZWN0cyIKICAgICAgICAgICAgICAgIDprZXk9Iml0ZW0udmFsdWUiCiAgICAgICAgICAgICAgICA6bGFiZWw9Iml0ZW0ubGFiZWwiCiAgICAgICAgICAgICAgICA6dmFsdWU9Iml0ZW0udmFsdWUiPgogICAgICAgICAgICA8L2VsLW9wdGlvbj4KICAgICAgICA8L2VsLXNlbGVjdD4K</text>
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6IDAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
