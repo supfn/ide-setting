@@ -21,11 +21,11 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/BitBucket.js" timestamp="1511860014299">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="13" column="11" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/BitBucket.js" timestamp="1511923258500">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="15" column="68" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/AppManager.es6" timestamp="1509615545449">
         <mark key="[" line="31" column="0" />
@@ -1385,10 +1385,11 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/config.js" timestamp="1511870873347">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/config.js" timestamp="1511923167352">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="60" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployServerGroup/route.js" timestamp="1511343720358">
         <mark key="[" line="25" column="40" />
@@ -1531,11 +1532,11 @@
       <jump line="84" column="4" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/list.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnN0IFVzZXJOb3RpZnlNb2RlbCA9IHJlcXVpcmUoJy4uL3VzZXJOb3RpZnkvbW9kZWwnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>auth</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -1544,31 +1545,31 @@
         <text encoding="base64">Y29uc3QgRXZlbnRCdXMgPSByZXF1aXJlKCcuLi8uLi9saWIvRXZlbnRCdXMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IFVzZXJOb3RpZnlNb2RlbCA9IHJlcXVpcmUoJy4uL3VzZXJOb3RpZnkvbW9kZWwnKTsK</text>
+        <text encoding="base64">ICAgIGF1dGgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBsZXQgW3VwZGF0ZVRhc2ssIG5vdGlmeVVzZXJJbmZvXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRoOiB7CiAgICAgICAgICAgIHVzZXJuYW1lOiAnemhhbmd5dScsCiAgICAgICAgICAgIHBhc3N3b3JkOiAnMTIzNDU2JwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IFVzZXJOb3RpZnlNb2RlbCA9IHJlcXVpcmUoJy4uL3VzZXJOb3RpZnkvbW9kZWwnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBsZXQgW3VwZGF0ZVRhc2ssIG5vdGlmeVVzZXJJbmZvXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBVc2VyTm90aWZ5TW9kZWwuZGVwbG95Tm90aWZ5KAogICAgICAgICAgICAgICAgICAgIG5vdGlmeVVzZXJJbmZvLAogICAgICAgICAgICAgICAgICAgIGAke2l0ZW0ucHJvamVjdC5wcm9qZWN0fSDpobnnm64gJHtpdGVtLnB1Ymxpc2hWZXJzaW9ufSDniYjmnKzpg6jnvbIke2RlcGxveVJlc3VsdH0oJHtqb2JJbmZvLnN0YXR1c30pYAogICAgICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyTm90aWZ5TW9kZWwuZlZpbmRPbmUoe3Byb2plY3Q6IGl0ZW0ucHJvamVjdC5faWR9KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBVc2VyTm90aWZ5TW9kZWwuZGVwbG95Tm90aWZ5KAogICAgICAgICAgICAgICAgICAgIG5vdGlmeVVzZXJJbmZvLAogICAgICAgICAgICAgICAgICAgIGAke2l0ZW0ucHJvamVjdC5wcm9qZWN0fSDpobnnm64gJHtpdGVtLnB1Ymxpc2hWZXJzaW9ufSDniYjmnKzpg6jnvbIke2RlcGxveVJlc3VsdH0oJHtqb2JJbmZvLnN0YXR1c30pYAogICAgICAgICAgICAgICAgKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgVXNlck5vdGlmeU1vZGVsID0gcmVxdWlyZSgnLi4vdXNlck5vdGlmeS9tb2RlbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyTm90aWZ5TW9kZWwuZlZpbmRPbmUoe3Byb2plY3Q6IGl0ZW0ucHJvamVjdC5faWR9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXJOb3RpZnlNb2RlbC5maW5kT25lKHsKICAgICAgICAgICAgICAgICAgICBwcm9qZWN0OiByZXN1bHQucHJvamVjdAogICAgICAgICAgICAgICAgfSkucG9wdWxhdGUoJ3Byb2plY3QnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
