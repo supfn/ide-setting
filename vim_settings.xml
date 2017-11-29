@@ -452,11 +452,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/rd.deploy.sh" timestamp="1511932982702">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/rd.deploy.sh" timestamp="1511934593868">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="94" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/router.js" timestamp="1510886650530">
         <mark key="[" line="6" column="18" />
@@ -652,7 +652,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511928068281">
+      <file name="/Dummy.txt" timestamp="1511934669029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1341,10 +1341,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/home.vue" timestamp="1511929336070">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/home.vue" timestamp="1511934815514">
+        <mark key="[" line="94" column="90" />
+        <mark key="]" line="94" column="90" />
+        <mark key="." line="94" column="90" />
         <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/tagSelector.vue" timestamp="1511854675759">
@@ -1524,10 +1524,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>47.104.56.12:8585</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>47.104.56.12:8585</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -1536,31 +1536,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgICAgICAgICAgICAgIHByb3A9ImRlc2MiCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9IuWkh+azqCIKICAgICAgICAgICAgPgogICAgICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Y3VybCAtRiAnZmlsZT1AY2hyb21lLWxpbnV4LnppcCcgLUYgJ3BhdGg9L3Jvb3QvZmUvY2hyb21lL29wdCcgaHR0cDovLzExOC4xOTAuMzMuMTUyL2h0dHAtZGVwbG95Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90aGlzLmN1cnJlbnRQYWdlID0gbGlzdC5kYXRhLm9mZnNldC9saXN0LmRhdGEubGltaXQ7Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90aGlzLmN1cnJlbnRQYWdlID0gbGlzdC5kYXRhLm9mZnNldC9saXN0LmRhdGEubGltaXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxldCBkYXRhID0gWwogICAgICAgICAgICAgICAgICAgICd1cGRhdGVBdDogJyArIGZlY2hhLmZvcm1hdChuZXcgRGF0ZShyb3cudXBkYXRlQXQgfHwgcm93LnVwZGF0ZWRBdCksICdZWVlZLU1NLUREIEhIOm1tOnNzJyksCiAgICAgICAgICAgICAgICAgICAgJ2NyZWF0ZWRBdDogJyArIGZlY2hhLmZvcm1hdChuZXcgRGF0ZShyb3cuY3JlYXRlZEF0KSwgJ1lZWVktTU0tREQgSEg6bW06c3MnKSwKICAgICAgICAgICAgICAgIF0uam9pbignLCcpOwogICAgICAgICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiAnJwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
