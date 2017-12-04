@@ -1138,11 +1138,12 @@
         <mark key="^" line="58" column="1" />
         <mark key="." line="58" column="1" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/auto/chrome.js" timestamp="1512364959238">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/auto/chrome.js" timestamp="1512365185832">
         <mark key="'" line="15" column="25" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="47" column="55" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qfe/lccomplier/src/FileGroup.js" timestamp="1509537311245">
         <mark key="[" line="15" column="0" />
@@ -1568,11 +1569,11 @@
       <jump line="15" column="25" filename="$USER_HOME$/Codes/qutoutiao/fe-tools/auto/chrome.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7IC8vIHByaW50cyAiNTYiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1581,31 +1582,31 @@
         <text encoding="base64">ICAgIGF3YWl0IHBhZ2UudHlwZSgnI2lkX3VzZXJuYW1lJywnemhhbmd5dScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7IC8vIHByaW50cyAiNTYiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKDggKiA3KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vZWRpdG9yPWFjZS5vcmlnaW5hbEVkaXQoZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmFjZS1lZGl0b3InKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UuY2xpY2soJyNqSHVlVG91ck1vZGFsQ2xvc2UnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBhZ2Uud2FpdEZvclNlbGVjdG9yKCcjakh1ZVRvdXJNb2RhbENsb3NlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UuY2xpY2soJyNqSHVlVG91ck1vZGFsQ2xvc2UnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
