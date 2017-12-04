@@ -271,6 +271,11 @@
         <mark key="]" line="23" column="27" />
         <mark key="." line="23" column="27" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/package.json" timestamp="1512374326985">
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="56" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/.babelrc" timestamp="1509953048429">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="20" column="0" />
@@ -678,7 +683,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512121069912">
+      <file name="/Dummy.txt" timestamp="1512374377815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1196,6 +1201,13 @@
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="5" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/hue/run.js" timestamp="1512373398832">
+        <mark key="'" line="102" column="6" />
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/controller.js" timestamp="1511927527283">
         <mark key="[" line="88" column="15" />
         <mark key="]" line="78" column="16" />
@@ -1391,6 +1403,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/hue/config.js" timestamp="1512373936657">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="35" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/docs/about-share-config.js" timestamp="1508740103093">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1567,13 +1585,16 @@
       <jump line="69" column="18" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/list.vue" />
       <jump line="84" column="4" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/list.vue" />
       <jump line="15" column="25" filename="$USER_HOME$/Codes/qutoutiao/fe-tools/auto/chrome.js" />
+      <jump line="12" column="1" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/hue/run.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/hue/run.js" />
+      <jump line="104" column="6" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/hue/run.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>99999999999999999</text>
+        <text>puppeteer -S</text>
       </register>
       <register name="-" type="4">
-        <text>99999999999999999</text>
+        <text>puppeteer -S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1585,28 +1606,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmxldCBkYXRlID0gbmV3IERhdGUoKTsKZGF0ZS5zZXRIb3VycyhkYXRlLmdldEhvdXJzKCkgLSAxKTsKbGV0IHF1ZXJ5RGF0ZSA9IGZlY2hhLmZvcm1hdChkYXRlLCAnWVlZWS1NTS1ERCcpOwpsZXQgcXVlcnlIb3VyID0gZmVjaGEuZm9ybWF0KGRhdGUsICdISCcpOwpsZXQgcXVlcnlTcWwgPSByZXBsYWNlcihjb25maWcuc3FsLCB7CiAgICBkYXRlOiBxdWVyeURhdGUsCiAgICBob3VyOiBxdWVyeUhvdXIKfSk7CmNvbnNvbGUubG9nKHF1ZXJ5U3FsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UuX2NsaWVudC5zZW5kKCdQYWdlLnNldERvd25sb2FkQmVoYXZpb3InLCB7YmVoYXZpb3I6ICdhbGxvdycsIGRvd25sb2FkUGF0aDogJy4vJ30pOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>`set hive.execution.engine=mr;
+set mapreduce.job.queuename=root.develop.adhoc.lechuan;
+select
+field['msg'].string_type  as msg,
+field['header_Referer'].string_type  as ref
+from gobblin.qukan_report_log_five_minutes
+where thedate='${queryDate}'
+and thehour='${queryHour}'
+and field['cmd'].string_type='9053'`</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3JkZXIgYnkgY291bnQgZGVzY2AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZCBmaWVsZFsnY21kJ10uc3RyaW5nX3R5cGU9JzkwNTMnIApvcmRlciBieSBjb3VudCBkZXNjYAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgd2FpdFV0aWxEb3dubG9hZERvbmUgPSA1MDAwOwogICAgICAgIHNldFRpbWVvdXQoYXN5bmMgKCkgPT4gewogICAgICAgICAgICBpZiAoZnMuZXhpc3RzU3luYygnLi9maXZlX21pbi5jc3YnKSkgewogICAgICAgICAgICAgICAgYXdhaXQgIGJyb3dzZXIuY2xvc2UoKTsKICAgICAgICAgICAgfQogICAgICAgIH0sIHdhaXRVdGlsRG93bmxvYWREb25lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0IG1zZywgcmVmLCBjb3VudChyZWYpIGFzIGNvdW50CmZyb20gKAopIGFzIHRlbXBfZGIKZ3JvdXAgYnkgbXNnLHJlZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdAogICAgZmllbGRbJ21zZyddLnN0cmluZ190eXBlICBhcyBtc2csCiAgICBmaWVsZFsnaGVhZGVyX1JlZmVyZXInXS5zdHJpbmdfdHlwZSAgYXMgcmVmCiAgICBmcm9tIGdvYmJsaW4ucXVrYW5fcmVwb3J0X2xvZ19maXZlX21pbnV0ZXMKICAgIHdoZXJlIHRoZWRhdGU9JzIwMTctMTItMDQnCiAgICBhbmQgdGhlaG91cj0nMTMnCiAgICBhbmQgZmllbGRbJ2NtZCddLnN0cmluZ190eXBlPSc5MDUzJyAK</text>
+        <text encoding="base64">bGV0IGRldGVjdERvd25sb2FkRmlsZSA9IGZ1bmN0aW9uKGZpbGVOYW1lKXsKICAgIAp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbWl0IDEwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
