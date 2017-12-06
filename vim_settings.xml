@@ -251,11 +251,11 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/env/index.js" timestamp="1510148746833">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="25" column="47" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/env/index.js" timestamp="1512538844250">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="42" column="6" />
+        <mark key="^" line="42" column="6" />
+        <mark key="." line="42" column="6" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/eventbus.js" timestamp="1511912827143">
         <mark key="[" line="4" column="3" />
@@ -465,11 +465,13 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" timestamp="1512536614267">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="53" />
-        <mark key="." line="26" column="53" />
-        <mark key="^" line="25" column="56" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" timestamp="1512538679321">
+        <mark key="e" line="75" column="17" />
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="129" column="3" />
+        <mark key="^" line="123" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/build.js" timestamp="1509521766564">
         <mark key="[" line="12" column="33" />
@@ -1601,54 +1603,47 @@
       <jump line="12" column="1" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/hue/run.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/hue/run.js" />
       <jump line="104" column="6" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/hue/run.js" />
+      <jump line="59" column="4" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>queryStringify</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>queryStringify</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB7b2JqZWN0fSBbb3B0aW9ucy5kZWZhdWx0VmFsdWVdICDphY3nva7pobksIOm7mOiupCAnJwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2ua2V56L+U5ZuedXJs5Lit55qEdmFsdWUKICAgICAqIEBwYXJhbSB7c3RyaW5nfSBrZXkKICAgICAqIEBwYXJhbSB7c3RyaW5nfSBbdXJsXQogICAgICogQHJldHVybnMge3N0cmluZ30KICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcXMgPSBbXTsKICAgICAgICBmb3IgKGxldCBwIGluIG9iaikgewogICAgICAgICAgICBpZiAob2JqLmhhc093blByb3BlcnR5KHApKSB7CiAgICAgICAgICAgICAgICBxcy5wdXNoKAogICAgICAgICAgICAgICAgICAgIGVuY29kZVVSSUNvbXBvbmVudChwKQogICAgICAgICAgICAgICAgICAgICsgJz0nCiAgICAgICAgICAgICAgICAgICAgKyBlbmNvZGVVUklDb21wb25lbnQob2JqW3BdKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBxcy5qb2luKCcmJyk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmFtZSA9IHpoYW5neXUsIGFnZSA9IDE4CiAgICAgKgogICAgICogQHJldHVybiB7c3RyaW5nfSDmm7/mjaLlkI7lrZfnrKbkuLIKICAgICAqLwogICAgcmVwbGFjZXIoc3RyLCByZXBsYWNlT2JqLCBvcHRpb25zKSB7CiAgICAgICAgb3B0aW9ucyA9IE9iamVjdC5hc3NpZ24oewogICAgICAgICAgICBkZWZhdWx0VmFsdWU6ICcnLAogICAgICAgICAgICB0ZW1wbGF0ZVJlZ2V4OiAveyhbXHctXSspfS8KICAgICAgICB9LCBvcHRpb25zKTsKCiAgICAgICAgbGV0IGRlZmF1bHRWYWx1ZSA9IG9wdGlvbnMuZGVmYXVsdFZhbHVlOwoKICAgICAgICByZXR1cm4gc3RyLnJlcGxhY2Uob3B0aW9ucy50ZW1wbGF0ZVJlZ2V4LCAoJG0sICQxKSA9PiB7CiAgICAgICAgICAgIHJldHVybiByZXBsYWNlT2JqWyQxXSA9PT0gMCA/IDAgOiByZXBsYWNlT2JqWyQxXSB8fCBkZWZhdWx0VmFsdWU7CiAgICAgICAgfSk7CiAgICB9LAoKICAgIC8qKgogICAgICogbG9hZCBhIEpTIGZpbGUgYXN5bmNocm9ub3VzbHkuCiAgICAgKiDlj4LogIMgaHR0cHM6Ly9waWUuZ2QvdGVzdC9zY3JpcHQtbGluay1ldmVudHMvCiAgICAgKgogICAgICogQHBhcmFtIHtzdHJpbmd9IHNyYyBzY3JpcHQgdXJsCiAgICAgKiBAcGFyYW0ge09iamVjdH0gW3Njb3BlXSBkZWZhdWx0IGlzIGN1cnJlbnQgd2luZG93CiAgICAgKiBAcmV0dXJuIHtQcm9taXNlfQogICAgICovCiAgICBs</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyLnJlcGxhY2Uob3B0aW9ucy4pIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmxldCBkYXRlID0gbmV3IERhdGUoKTsKZGF0ZS5zZXRIb3VycyhkYXRlLmdldEhvdXJzKCkgLSAxKTsKbGV0IHF1ZXJ5RGF0ZSA9IGZlY2hhLmZvcm1hdChkYXRlLCAnWVlZWS1NTS1ERCcpOwpsZXQgcXVlcnlIb3VyID0gZmVjaGEuZm9ybWF0KGRhdGUsICdISCcpOwpsZXQgcXVlcnlTcWwgPSByZXBsYWNlcihjb25maWcuc3FsLCB7CiAgICBkYXRlOiBxdWVyeURhdGUsCiAgICBob3VyOiBxdWVyeUhvdXIKfSk7CmNvbnNvbGUubG9nKHF1ZXJ5U3FsKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>`set hive.execution.engine=mr;
-set mapreduce.job.queuename=root.develop.adhoc.lechuan;
-select
-field['msg'].string_type  as msg,
-field['header_Referer'].string_type  as ref
-from gobblin.qukan_report_log_five_minutes
-where thedate='${queryDate}'
-and thehour='${queryHour}'
-and field['cmd'].string_type='9053'`</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgdG9vbHMgPSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldFJhbmRvbShtaW4sIG1heCl7CiAgICByZXR1cm4gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogKG1heCAtIG1pbiArIDEpICsgbWluKTsKfQoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0ZW1wb3JhcmlseSBzZXQgbWVkaWEgdG8gc29tZXRoaW5nIGluYXBwbGljYWJsZSB0byBlbnN1cmUgaXQnbGwgZmV0Y2ggd2l0aG91dCBibG9ja2luZyByZW5kZXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0ZW1wb3JhcmlseSBzZXQgbWVkaWEgdG8gc29tZXRoaW5nIGluYXBwbGljYWJsZSB0byBlbnN1cmUgaXQnbGwgZmV0Y2ggd2l0aG91dCBibG9ja2luZyByZW5kZXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0LmFzeW5jID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
