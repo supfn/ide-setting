@@ -465,6 +465,12 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" timestamp="1512536614267">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="53" />
+        <mark key="." line="26" column="53" />
+        <mark key="^" line="25" column="56" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/lib/build.js" timestamp="1509521766564">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="33" />
@@ -1143,6 +1149,7 @@
         <mark key="^" line="58" column="1" />
         <mark key="." line="58" column="1" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/nov_apprentice_v2/script/index.es6" timestamp="1512535788608" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/auto/chrome.js" timestamp="1512371130278">
         <mark key="'" line="20" column="25" />
         <mark key="[" line="58" column="51" />
@@ -1157,9 +1164,9 @@
         <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/package.json" timestamp="1510224178251">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="36" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1512130296862">
         <mark key="[" line="29" column="13" />
@@ -1597,27 +1604,39 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBhZ2UudHlwZSgnI2lkX3VzZXJuYW1lJywnemhhbmd5dScpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7b2JqZWN0fSBbb3B0aW9ucy5kZWZhdWx0VmFsdWVdICDphY3nva7pobksIOm7mOiupCAnJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmxldCBkYXRlID0gbmV3IERhdGUoKTsKZGF0ZS5zZXRIb3VycyhkYXRlLmdldEhvdXJzKCkgLSAxKTsKbGV0IHF1ZXJ5RGF0ZSA9IGZlY2hhLmZvcm1hdChkYXRlLCAnWVlZWS1NTS1ERCcpOwpsZXQgcXVlcnlIb3VyID0gZmVjaGEuZm9ybWF0KGRhdGUsICdISCcpOwpsZXQgcXVlcnlTcWwgPSByZXBsYWNlcihjb25maWcuc3FsLCB7CiAgICBkYXRlOiBxdWVyeURhdGUsCiAgICBob3VyOiBxdWVyeUhvdXIKfSk7CmNvbnNvbGUubG9nKHF1ZXJ5U3FsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyLnJlcGxhY2Uob3B0aW9ucy4pIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CmxldCBkYXRlID0gbmV3IERhdGUoKTsKZGF0ZS5zZXRIb3VycyhkYXRlLmdldEhvdXJzKCkgLSAxKTsKbGV0IHF1ZXJ5RGF0ZSA9IGZlY2hhLmZvcm1hdChkYXRlLCAnWVlZWS1NTS1ERCcpOwpsZXQgcXVlcnlIb3VyID0gZmVjaGEuZm9ybWF0KGRhdGUsICdISCcpOwpsZXQgcXVlcnlTcWwgPSByZXBsYWNlcihjb25maWcuc3FsLCB7CiAgICBkYXRlOiBxdWVyeURhdGUsCiAgICBob3VyOiBxdWVyeUhvdXIKfSk7CmNvbnNvbGUubG9nKHF1ZXJ5U3FsKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>`set hive.execution.engine=mr;
 set mapreduce.job.queuename=root.develop.adhoc.lechuan;
 select
@@ -1627,18 +1646,6 @@ from gobblin.qukan_report_log_five_minutes
 where thedate='${queryDate}'
 and thehour='${queryHour}'
 and field['cmd'].string_type='9053'`</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgd2FpdFV0aWxEb3dubG9hZERvbmUgPSA1MDAwOwogICAgICAgIHNldFRpbWVvdXQoYXN5bmMgKCkgPT4gewogICAgICAgICAgICBpZiAoZnMuZXhpc3RzU3luYygnLi9maXZlX21pbi5jc3YnKSkgewogICAgICAgICAgICAgICAgYXdhaXQgIGJyb3dzZXIuY2xvc2UoKTsKICAgICAgICAgICAgfQogICAgICAgIH0sIHdhaXRVdGlsRG93bmxvYWREb25lKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bGV0IGRldGVjdERvd25sb2FkRmlsZSA9IGZ1bmN0aW9uKGZpbGVOYW1lKXsKICAgIAp9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
