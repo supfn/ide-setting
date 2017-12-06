@@ -485,6 +485,11 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/app/view/template/nav.ejs" timestamp="1512558326923">
+        <mark key="[" line="46" column="43" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="43" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/pack.sh" timestamp="1508915940807">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="7" column="13" />
@@ -709,7 +714,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512556960208">
+      <file name="/Dummy.txt" timestamp="1512560639855">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
@@ -921,7 +926,7 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/package.json" timestamp="1512552570601" />
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/package.json" timestamp="1512558417833" />
       <file name="$USER_HOME$/Codes/qutoutiao/share-service/src/lib/QQShare.js" timestamp="1509088468915">
         <mark key="[" line="89" column="21" />
         <mark key="]" line="162" column="0" />
@@ -1002,7 +1007,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/app/static/wx-login/js/wx-login.js" timestamp="1512552654202" />
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/app/static/wx-login/js/wx-login.js" timestamp="1512558894976">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/install.sh" timestamp="1509346805795">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="11" column="4" />
@@ -1112,6 +1121,11 @@
         <mark key="]" line="14" column="8" />
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/build/www.js" timestamp="1512560608006">
+        <mark key="[" line="111" column="61" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/test.js" timestamp="1509938986058">
         <mark key="[" line="13" column="5" />
@@ -1612,44 +1626,44 @@
       <jump line="59" column="4" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgojIENvbmZsaWN0czoKIwlhcHBzL3Rlc3Qvc3JjL3BhZ2VzL2hvbWUudnVl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDot6/lvoTkuI3mmK8K</text>
       </register>
       <register name="-" type="4">
-        <text>测试</text>
+        <text>token-valid-fail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBmb290ZXIgZnJvbSAnLi4vY29tcG9uZW50cy9mb290ZXIvZm9vdGVyLnZ1ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnJlZGlyZWN0KCcvd3gtbG9naW4nKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgojIENvbmZsaWN0czoKIwlhcHBzL3Rlc3Qvc3JjL3BhZ2VzL2hvbWUudnVl</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDot6/lvoTkuI3mmK8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2Zvb3Rlci5uYW1lXTogZm9vdGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbGlkIHVzZXInKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkeW5hbWljQnVsbGV0czogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEoKXsKICAgICAgICByZXR1cm4ge30KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGRhdGEpewogICAgICAgICAgICAgICAgICAgIGRhdGEgPSBKU09OLnBhcnNlKGRhdGEpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYoZGF0YS5jb2RlICE9PSAwKXsKICAgICAgICAgICAgICAgICAgICB0aGlzLnJlZGlyZWN0KCcvd3gtbG9naW4nKTsKICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd2YWxpZCB1c2VyJykKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVBd2Vzb21lU3dpcGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZSBmcm9tICd2dWUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
