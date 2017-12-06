@@ -1122,10 +1122,11 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/build/www.js" timestamp="1512560608006">
-        <mark key="[" line="111" column="61" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/build/www.js" timestamp="1512562791117">
+        <mark key="[" line="72" column="33" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/test.js" timestamp="1509938986058">
         <mark key="[" line="13" column="5" />
@@ -1433,6 +1434,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/config/apiConfig.js" timestamp="1512562755314" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/home.vue" timestamp="1511934815514">
         <mark key="[" line="94" column="90" />
         <mark key="]" line="94" column="90" />
@@ -1627,10 +1629,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDot6/lvoTkuI3mmK8K</text>
+        <text encoding="base64">ICAgIH1lbHNlewo=</text>
       </register>
       <register name="-" type="4">
-        <text>token-valid-fail</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1639,31 +1641,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnJlZGlyZWN0KCcvd3gtbG9naW4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDot6/lvoTkuI3mmK8K</text>
+        <text encoding="base64">ICAgIH1lbHNlewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbGlkIHVzZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9ZWxzZXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVkaXJlY3QoJy93eC1sb2dpbicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGRhdGEpewogICAgICAgICAgICAgICAgICAgIGRhdGEgPSBKU09OLnBhcnNlKGRhdGEpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYoZGF0YS5jb2RlICE9PSAwKXsKICAgICAgICAgICAgICAgICAgICB0aGlzLnJlZGlyZWN0KCcvd3gtbG9naW4nKTsKICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd2YWxpZCB1c2VyJykKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3Rva2VuIG1pc3MnKQogICAgICAgICAgICB0aGlzLnJlZGlyZWN0KCcvd3gtbG9naW4nKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDot6/lvoTkuI3mmK8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
