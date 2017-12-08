@@ -223,7 +223,7 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512706433521">
+      <file name="/Dummy.txt" timestamp="1512718950740">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -361,6 +361,11 @@
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/app/static/share/asset-2/js/asset-2.js" timestamp="1512552187074" />
       <file name="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/refreshCDN.js" timestamp="1512701797377" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/bash/publish.sh" timestamp="1512718882756">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/register/common/QueryAnalysis.es6" timestamp="1509373836191">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="31" />
@@ -523,6 +528,11 @@
         <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/read/art_xhxw/script/API.es6" timestamp="1512706389708" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/bash/check-change.sh" timestamp="1512718808466">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" timestamp="1512621573465">
         <mark key="[" line="80" column="41" />
         <mark key="]" line="79" column="12" />
@@ -647,11 +657,11 @@
       <jump line="26" column="17" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/temp.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>miss</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>miss</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -663,28 +673,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYCR7bmFtZX1AbGVtZWRpYXdlYi5jb21gCg==</text>
+        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnVzYWdlKCdVc2FnZTogJDAgLS1yZXBvIFtyZXBvIG5hbWVdIC0tZmlsZSBbZmlsZSBuYW1lXScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYCR7bmFtZX1AbGVtZWRpYXdlYi5jb21gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmV4YW1wbGUoJyQwIC1yZXBvIG1vZG91LXdlYiAtZmlsZSBsaXN0JywgJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIEBmaWxlIGluZGV4LmpzCiAqIEBhdXRob3Igemhhbmd5dQogKiBAZGF0ZSAyMDE3LzEyLzcKICovCg==</text>
+        <text encoding="base64">LnVzYWdlKCdVc2FnZTogJDAgLS1yZXBvIFtyZXBvIG5hbWVdIC0tZmlsZSBbZmlsZSBuYW1lXScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmV4YW1wbGUoJyQwIC1yZXBvIG1vZG91LXdlYiAtZmlsZSBsaXN0JywgJycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBmaWxlIGluZGV4LmpzCiAqIEBhdXRob3Igemhhbmd5dQogKiBAZGF0ZSAyMDE3LzEyLzcKICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
