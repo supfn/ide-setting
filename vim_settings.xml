@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/src/router.js" timestamp="1512987088616">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/Jenkins.js" timestamp="1512983710423">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -203,6 +209,7 @@
         <mark key="." line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/temp/vue-demo/.babelrc" timestamp="1512788695638" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/src/app.vue" timestamp="1512986038309" />
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/register/common/QueryAnalysis.es6" timestamp="1509373836191">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="31" />
@@ -248,6 +255,7 @@
         <mark key="]" line="45" column="27" />
         <mark key="." line="45" column="27" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/src/pages/Home.vue" timestamp="1512985531187" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/package.json" timestamp="1512728457697">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="40" />
@@ -299,7 +307,7 @@
         <mark key="]" line="46" column="43" />
         <mark key="." line="46" column="43" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/controller.js" timestamp="1512983996365" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/controller.js" timestamp="1512985088088" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/package.json" timestamp="1512690895425">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -350,6 +358,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/index.ejs" timestamp="1512986060242" />
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.prod.conf.js" timestamp="1509955362838">
         <mark key="[" line="54" column="11" />
         <mark key="]" line="54" column="11" />
@@ -434,6 +443,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/src/main.js" timestamp="1512985809760" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/models/DeployServerGroup.js" timestamp="1511262526405">
         <mark key="[" line="13" column="57" />
         <mark key="]" line="13" column="57" />
@@ -656,8 +666,8 @@
       <jump line="67" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/perf/ssl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgICBwYXRoOiAnL2lvc19nYW1lLycsCiAgICAgICAgbmFtZSA6ICdob21lJywKICAgICAgICBjb21wb25lbnQ6IEhvbWUKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -669,31 +679,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydDpzdXBwb3J0LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICBwYXRoOiAnL2lvc19nYW1lLycsCiAgICAgICAgbmFtZSA6ICdob21lJywKICAgICAgICBjb21wb25lbnQ6IEhvbWUKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdW5jaCh1cmwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdW5jaCh1cmwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXVuY2gobmV4dCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IHJlcGxhY2VyID0gKHN0ciwgb2JqKSA9PiB7CiAgICByZXR1cm4gc3RyLnJlcGxhY2UoL0B7KFx3Kyl9L2csICgkbWF0Y2gsICQxKSA9PiBvYmpbJDFdKTsKfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmxldCB1cmxzID0gWwogICAgJ2h0dHBzOi8vaDUtbS5xdXRvdXRpYW8ubmV0LycsCiAgICAnaHR0cHM6Ly9oNXNzbC4xc2FwcC5jb20vJywKICAgICdodHRwczovL2g1c3NsMi4xc2FwcC5jb20nLAogICAgJ2h0dHBzOi8vd3d3LmJhaWR1LmNvbScKXTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXVuY2gobmV4dCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CmNvbnN0IHJlcGxhY2VyID0gKHN0ciwgb2JqKSA9PiB7CiAgICByZXR1cm4gc3RyLnJlcGxhY2UoL0B7KFx3Kyl9L2csICgkbWF0Y2gsICQxKSA9PiBvYmpbJDFdKTsKfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CmxldCB1cmxzID0gWwogICAgJ2h0dHBzOi8vaDUtbS5xdXRvdXRpYW8ubmV0LycsCiAgICAnaHR0cHM6Ly9oNXNzbC4xc2FwcC5jb20vJywKICAgICdodHRwczovL2g1c3NsMi4xc2FwcC5jb20nLAogICAgJ2h0dHBzOi8vd3d3LmJhaWR1LmNvbScKXTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">bGF1bmNoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ1VSTDonLHVybCk7Cg==</text>
+        <text encoding="base64">bGF1bmNoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
