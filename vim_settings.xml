@@ -180,7 +180,7 @@
         <mark key="]" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/config.js" timestamp="1512716135445">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/config.js" timestamp="1512980951409">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -514,6 +514,13 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/perf/ssl.js" timestamp="1512981364066">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/tagSelector.vue" timestamp="1511854675759">
         <mark key="[" line="82" column="5" />
         <mark key="]" line="51" column="0" />
@@ -524,7 +531,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512735921299">
+      <file name="/Dummy.txt" timestamp="1512981424333">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -705,13 +712,15 @@
       <jump line="26" column="17" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/temp.js" />
       <jump line="15" column="60" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" />
       <jump line="42" column="18" filename="$USER_HOME$/Codes/temp/vue-demo/index.html" />
+      <jump line="44" column="30" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/perf/ssl.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/perf/ssl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fSgpKTsK</text>
+        <text encoding="base64">CmNvbnN0IHJlcGxhY2VyID0gKHN0ciwgb2JqKSA9PiB7CiAgICByZXR1cm4gc3RyLnJlcGxhY2UoL0B7KFx3Kyl9L2csICgkbWF0Y2gsICQxKSA9PiBvYmpbJDFdKTsKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>localStorage</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -720,31 +729,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydDpzdXBwb3J0LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSgpKTsK</text>
+        <text encoding="base64">CmNvbnN0IHJlcGxhY2VyID0gKHN0ciwgb2JqKSA9PiB7CiAgICByZXR1cm4gc3RyLnJlcGxhY2UoL0B7KFx3Kyl9L2csICgkbWF0Y2gsICQxKSA9PiBvYmpbJDFdKTsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmxldCB1cmxzID0gWwogICAgJ2h0dHBzOi8vaDUtbS5xdXRvdXRpYW8ubmV0LycsCiAgICAnaHR0cHM6Ly9oNXNzbC4xc2FwcC5jb20vJywKICAgICdodHRwczovL2g1c3NsMi4xc2FwcC5jb20nLAogICAgJ2h0dHBzOi8vd3d3LmJhaWR1LmNvbScKXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IHN0cnVjdCA9IHsKICAgIGE6IHsKICAgICAgICBkZXA6IFsnYicsICdjJ10sCiAgICAgICAgdXJsOiAnJywKICAgICAgICBsb2FkOiBmYWxzZQogICAgfSwKCiAgICBiOiB7CiAgICAgICAgbG9hZDogZmFsc2UKICAgIH0sCgogICAgYjogewogICAgICAgIGxvYWQ6IGZhbHNlCiAgICB9Cn0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGF1bmNoKCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGUgPSBuZXcgRGF0ZSgpOwogICAgICAgICAgICBkYXRlLnNldE1vbnRoKGRhdGUuZ2V0TW9udGgoKSArIDEpOwoKICAgICAgICAgICAgdmFyIHBhcmFtcyA9IHsKICAgICAgICAgICAgICAgIGhhc2g6IHVybC5tYXRjaCgvXHcrW18uXShcdyspXC5qcyQvKVsxXSwKICAgICAgICAgICAgICAgIGV4cGlyZTogZGF0ZS5nZXRUaW1lKCkKICAgICAgICAgICAgfQogICAgICAgICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShpdGVtLmtleSwgSlNPTi5zdHJpbmdpZnkocGFyYW1zKSArICcgICAgICcgKyB4aHIucmVzcG9uc2VUZXh0KTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1VSTDonLHVybCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9jYWxTdG9yYWdlLmhhc093blByb3BlcnR5KGl0ZW0ua2V5KSkgewoKICAgICAgICAgICAgdHJ5IHsKCiAgICAgICAgICAgICAgICB2YXIgY3VycmVudEhhc2ggPSBpdGVtLnVybC5tYXRjaCgvXHcrW18uXShcdyspXC5qcyQvKVsxXTsKICAgICAgICAgICAgICAgIHZhciBjb250ZW50ID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oaXRlbS5rZXkpOwoKICAgICAgICAgICAgICAgIHZhciBpbmRleCA9IGNvbnRlbnQuaW5kZXhPZignICAgICAnKTsKCiAgICAgICAgICAgICAgICB2YXIgcGFyYW1zID0gY29udGVudC5zbGljZSgwLCBpbmRleCk7CgogICAgICAgICAgICAgICAgcGFyYW1zID0gSlNPTi5wYXJzZShwYXJhbXMpOwoKICAgICAgICAgICAgICAgIGlmIChwYXJhbXMuaGFzaCAhPT0gY3VycmVudEhhc2gpIHsKICAgICAgICAgICAgICAgICAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbShpdGVtLmtleSk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB2YXIgY29kZSA9IGNvbnRlbnQuc2xpY2UoaW5kZXgpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2cocGFyYW1zKTsKICAgICAgICAgICAgICAgIHJldHVybiBjYWxsYmFjayhjb2RlKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoZSkgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coZSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0gd2hpbGUgKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbG9jYWxTdG9yYWdlLmxvY2FsV3JpdGUoa2V5LCcnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
