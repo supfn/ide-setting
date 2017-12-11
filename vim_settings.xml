@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/Jenkins.js" timestamp="1511868208281">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/Jenkins.js" timestamp="1512983710423">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -299,6 +299,7 @@
         <mark key="]" line="46" column="43" />
         <mark key="." line="46" column="43" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/controller.js" timestamp="1512983996365" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/package.json" timestamp="1512690895425">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -401,6 +402,7 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployTask/model.js" timestamp="1512983622082" />
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/dec_apprentice/list.html" timestamp="1512026502265">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="3" />
@@ -411,10 +413,11 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/route.js" timestamp="1511871380916">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/route.js" timestamp="1512983854065">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployServerGroup/model.js" timestamp="1511425021592">
         <mark key="[" line="12" column="0" />
@@ -484,7 +487,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512982314231">
+      <file name="/Dummy.txt" timestamp="1512983698826">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -517,10 +520,6 @@
         <mark key="[" line="13" column="17" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.base.conf.js" timestamp="1512735020650">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/router.js" timestamp="1510135504782">
         <mark key="[" line="1" column="0" />
@@ -658,10 +657,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
