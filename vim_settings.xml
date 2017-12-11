@@ -9,8 +9,8 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/Jenkins.js" timestamp="1513006223028">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/Jenkins.js" timestamp="1513007767981">
+        <mark key="[" line="152" column="47" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -137,6 +137,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/deploy.vue" timestamp="1513007651000">
+        <mark key="[" line="42" column="44" />
+        <mark key="]" line="42" column="44" />
+        <mark key="." line="42" column="44" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/shell/jump.exp" timestamp="1509352384931">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
@@ -199,9 +204,6 @@
         <mark key="]" line="99" column="25" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/temp/vue-demo/src/components/HelloWorld.vue" timestamp="1512808841635">
-        <mark key="[" line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cli/bin/fe.js" timestamp="1509522515263">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -250,8 +252,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployTask/controller.js" timestamp="1511926459342">
-        <mark key="[" line="76" column="8" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployTask/controller.js" timestamp="1513007761987">
+        <mark key="[" line="82" column="24" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
@@ -731,17 +733,17 @@
       <jump line="67" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/perf/ssl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y3JvbnRhYi5idWlsZFRyYWNrZXIuc3RhcnQoKTsKY3JvbnRhYi5kZXBsb3lUcmFja2VyLnN0YXJ0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydDpzdXBwb3J0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1mb3JtLWl0ZW0gbGFiZWw9IumDqOe9sui3r+W+hCI+CiAgICAgICAgICAgICAgICAgICAgPGVsLWlucHV0IHYtbW9kZWw9ImZvcm0ucGF0aCI+PC9lbC1pbnB1dD4KICAgICAgICAgICAgICAgIDwvZWwtZm9ybS1pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y3JvbnRhYi5idWlsZFRyYWNrZXIuc3RhcnQoKTsKY3JvbnRhYi5kZXBsb3lUcmFja2VyLnN0YXJ0KCk7Cg==</text>
