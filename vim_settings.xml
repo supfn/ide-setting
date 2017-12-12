@@ -64,11 +64,11 @@
         <mark key="]" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/bin/index.js" timestamp="1512698087297">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/bin/index.js" timestamp="1513051729439">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/index.js" timestamp="1512691104203">
         <mark key="[" line="8" column="21" />
@@ -257,8 +257,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/index.js" timestamp="1512703654212">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/index.js" timestamp="1513051755583">
+        <mark key="[" line="18" column="11" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="17" column="46" />
@@ -538,13 +538,6 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/perf/ssl.js" timestamp="1512982187025">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="31" column="18" />
-        <mark key="." line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/tagSelector.vue" timestamp="1511854675759">
         <mark key="[" line="82" column="5" />
         <mark key="]" line="51" column="0" />
@@ -555,7 +548,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513005773991">
+      <file name="/Dummy.txt" timestamp="1513051958280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -734,10 +727,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>internal</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>internal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
