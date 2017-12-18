@@ -375,10 +375,10 @@
         <mark key="]" line="21" column="40" />
         <mark key="." line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1513571526213">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="12" />
-        <mark key="." line="25" column="12" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1513573751232">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployServerGroup/controller.js" timestamp="1511495322916">
         <mark key="[" line="10" column="15" />
@@ -658,7 +658,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513313189871">
+      <file name="/Dummy.txt" timestamp="1513573235296">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -855,11 +855,11 @@
       <jump line="206" column="16" filename="$USER_HOME$/Codes/qutoutiao/juming_ext/js/ct.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -868,31 +868,31 @@
         <text encoding="base64">ICAgICAgICBlY2hvICIke2V4Y2x1ZGVfZGlyc1tAXX0iIHwgZ3JlcCAtd0YgIlxiIiR7ZGlyfSJcYiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgWyAiJHtkaXJfbGlzdH0iIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAke2Rpcl9saXN0fQo=</text>
+        <text encoding="base64">ICAgICAgICBoYXNfY29tcGlsZV90YXJnZXRzPTEK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4aXQgMTsK</text>
+        <text encoding="base64">ICAgICgK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4X2RpcnM9IiR7ZXhjbHVkZV9kaXJzW0BdfSIKICAgIGVjaG8gJHtkaXJ9CiAgICBlY2hvICIke2V4X2RpcnN9IiB8IGdyZXAgLXcgJHtkaXJ9CiAgICBpZiBbWyAgIiR7ZXhfZGlyc30iICE9ICIiIF1dOyB0aGVuCgogICAgICAgIGlmIFtbIGBlY2hvICIke2V4Y2x1ZGVfZGlyc1tAXX0iIHwgZ3JlcCAtcSAiXGIiJHtkaXJ9IlxiImAgXV07IHRoZW4KICAgICAgICAgICAgZWNobyAzMzMKICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgZmk7CiAgICBmaTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGlyX2xpc3Q9YGAK</text>
+        <text encoding="base64">c3NoIHdvcmtAJHggIm1rZGlyIC1wICR7YXBwX2Rpcn0vd2ViLyR7ZG9tYWluX25hbWV9L3JlbGVhc2VzLyR7ZGF0ZX0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
