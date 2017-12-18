@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/src/router.js" timestamp="1512987088616">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/src/router.js" timestamp="1513594184626">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/Jenkins.js" timestamp="1513007767981">
         <mark key="[" line="152" column="47" />
@@ -375,11 +375,6 @@
         <mark key="]" line="21" column="40" />
         <mark key="." line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1513573751232">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployServerGroup/controller.js" timestamp="1511495322916">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="12" column="0" />
@@ -536,6 +531,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/dist/ios_game/index.html" timestamp="1513594159829">
+        <mark key="[" line="1" column="46499" />
+        <mark key="]" line="1" column="46490" />
+        <mark key="." line="1" column="46490" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/helper/pagQueryHelper.js" timestamp="1511582295641">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -658,7 +658,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513573235296">
+      <file name="/Dummy.txt" timestamp="1513594190442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -855,17 +855,17 @@
       <jump line="206" column="16" filename="$USER_HOME$/Codes/qutoutiao/juming_ext/js/ct.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICIke2V4Y2x1ZGVfZGlyc1tAXX0iIHwgZ3JlcCAtd0YgIlxiIiR7ZGlyfSJcYiIK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICBwYXRoOiAnLycsCiAgICAgICAgYWxpYXMgOiAnL2FjdGl2aXR5X2Rlc3QvaW9zX2dhbWUvJywKICAgICAgICBuYW1lIDogJ2hvbWUnLAogICAgICAgIGNvbXBvbmVudDogSG9tZQogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
