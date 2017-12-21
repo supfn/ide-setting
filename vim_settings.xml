@@ -122,11 +122,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/controller.js" timestamp="1513850255222">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="33" column="26" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/controller.js" timestamp="1513851183674">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/README.md" timestamp="1509963786732">
         <mark key="[" line="0" column="0" />
@@ -695,11 +695,11 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/taskItemModel.js" timestamp="1513846600458">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="27" column="66" />
-        <mark key="^" line="27" column="66" />
-        <mark key="." line="27" column="66" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/taskItemModel.js" timestamp="1513851208122">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="29" column="66" />
+        <mark key="^" line="29" column="66" />
+        <mark key="." line="29" column="66" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-tools/bash/check-change.sh" timestamp="1512718808466">
         <mark key="[" line="1" column="0" />
@@ -728,7 +728,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/lib/CDNRefresher.js" timestamp="1513847575123" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/lib/CDNRefresher.js" timestamp="1513851782173">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="50" column="11" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/lib/cdnDetector.js" timestamp="1513849653664">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="13" column="15" />
@@ -889,11 +894,11 @@
       <jump line="12" column="32" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY2RuRGV0ZWN0b3IgPSByZXF1aXJlKCcuL2xpYi9jZG5EZXRlY3RvcicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>2000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -902,31 +907,31 @@
         <text encoding="base64">ICAgICAgICBwYXJhbXMudXJpcyA9IHBhcmFtcy51cmlzIHx8ICcnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY2RuRGV0ZWN0b3IgPSByZXF1aXJlKCcuL2xpYi9jZG5EZXRlY3RvcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXR1cyA9ICdyZWZyZXNoaW5nJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmlMaXN0LnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICBjZG4sCiAgICAgICAgICAgICAgICAgICAgICAgIHVyaTogdXJsLnJlc29sdmUoJ2h0dHA6Ly8nICsgaG9zdCwgcGF0aCkKICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXR1cyA9ICdpbml0aWFsJzsgLy8gaW5pdGlhbCAgfCByZWZyZXNoaW5nIHwgc3RhdHVzQ2hlY2tpbmcgfCBkb25lIHwgZmFpbAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxhc3RSZXNwb25zZSA9IG51bGw7CgogICAgICAgIHRoaXMucHJvY2VzcyA9ICcwJSc7CgogICAgICAgIHRoaXMuY2hlY2tUaW1lcyA9IDA7CgogICAgICAgIHRoaXMuY2hlY2tJbnRlcnZhbCA9IGludGVydmFsOwoKICAgICAgICB0aGlzLmNoZWNrVGltZXNMaW1pdCA9IDMwMDsgLy8gMjAwMCAqIDMwMCAvIDYwID0gMTAg5YiG6ZKf6LaF5pe2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVyaUxpc3QucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgY2RuLAogICAgICAgICAgICAgICAgICAgIHVyaTogdXJsLnJlc29sdmUoJ2h0dHA6Ly8nICsgaG9zdCwgcGF0aCkKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigvKD86XC9bXixdKygsfCQpJC8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
