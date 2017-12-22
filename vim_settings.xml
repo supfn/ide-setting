@@ -539,11 +539,11 @@
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/deploy.sh" timestamp="1513928736601">
-        <mark key="[" line="105" column="7" />
-        <mark key="]" line="105" column="9" />
-        <mark key="^" line="105" column="9" />
-        <mark key="." line="105" column="9" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/deploy.sh" timestamp="1513931059862">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="107" column="9" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.prod.conf.js" timestamp="1509955362838">
         <mark key="[" line="54" column="11" />
@@ -941,10 +941,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>echo</text>
+        <text>log</text>
       </register>
       <register name="-" type="4">
-        <text>echo</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
