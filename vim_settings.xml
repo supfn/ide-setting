@@ -539,11 +539,11 @@
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/deploy.sh" timestamp="1513925781417">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="18" />
-        <mark key="^" line="48" column="17" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/deploy.sh" timestamp="1513928736601">
+        <mark key="[" line="105" column="7" />
+        <mark key="]" line="105" column="9" />
+        <mark key="^" line="105" column="9" />
+        <mark key="." line="105" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/build/webpack.prod.conf.js" timestamp="1509955362838">
         <mark key="[" line="54" column="11" />
@@ -941,10 +941,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>echo</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>echo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -956,28 +956,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQgMjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gMjIyCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gInJ1biBoZXJlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8K</text>
+        <text encoding="base64">ICAgICAgIGVjaG8gIioqKioqKioqKioqKiogY2hhbmdlIGxpc3QgZW1wdHkgKioqKioqKioqKioqKioqKiIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogICAgcnN5bmMgLWNhIC0tZHJ5LXJ1biAuL2Rpc3QvICR7ZGVwbG95X3NlcnZlcn06JHthcHBfZGlyfS93ZWIvJHtkb21haW5fbmFtZX0vY3VycmVudAoKICAgIGVjaG8gIjEiCgogICAgcnN5bmMgLWNhIC0tZHJ5LXJ1biAuL2Rpc3QvICR7ZGVwbG95X3NlcnZlcn06JHthcHBfZGlyfS93ZWIvJHtkb21haW5fbmFtZX0vY3VycmVudAoKICAgIGVjaG8gIjIi</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c2V0IC14Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNhbWVfZGlyPSQoZWNobyAke3NhbWVfZGlyfSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImNoYW5nZSBsaXN0OiIKICAgIGVjaG8KICAgIGVjaG8gJHtjaGFuZ2VfbGlzdH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMg6K6w5b2V5Yiwamtz5pys5ZywbG9n6YeMCiAgICBlY2hvICR7ZGF0ZX0gPj4gJHtqa3NfbG9nfQo=</text>
+        <text encoding="base64">ICAgIGV4aXQgMjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
