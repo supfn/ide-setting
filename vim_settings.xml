@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/main.js" timestamp="1514448823758">
+        <mark key="'" line="26" column="20" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/lib/Jenkins.js" timestamp="1513007767981">
         <mark key="[" line="152" column="47" />
         <mark key="]" line="14" column="0" />
@@ -215,9 +222,11 @@
         <mark key="]" line="464" column="8" />
         <mark key="." line="464" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" timestamp="1514447886894">
-        <mark key="'" line="187" column="48" />
-        <mark key="[" line="174" column="9" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" timestamp="1514449304025">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="179" column="28" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qukan-web/app/view/template/nav.ejs" timestamp="1512558326923">
         <mark key="[" line="46" column="43" />
@@ -637,6 +646,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/test.js" timestamp="1514448543343">
+        <mark key="[" line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/wp/build/webpack.base.conf.js" timestamp="1512734389743">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="17" column="8" />
@@ -896,7 +908,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="4" filename="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/shareMaterialHelper.js" />
       <jump line="79" column="0" filename="$USER_HOME$/Codes/qutoutiao/share-service/src/lib/WXTimelineShare.js" />
       <jump line="7" column="24" filename="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/logger.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Codes/qutoutiao/share-service/src/helper/makeLogger.js" />
@@ -996,13 +1007,14 @@
       <jump line="13" column="14" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/readme.md" />
       <jump line="66" column="5" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/Client/index.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/main.js" />
+      <jump line="22" column="20" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ocation.hash.indexOf('?') === -1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ocation.hash.indexOf('?') === -1</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -1011,31 +1023,37 @@
         <text encoding="base64">ICAgICAgICA8YnV0dG9uPnN3aXBlciBkZW1vPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZ2l0IGNoZWNrb3V0ICR7Q0lfQ09NTUlUX1JFRl9OQU1FfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gZ2l0IHB1bGwgb3JpZ2luICR7Q0lfQ09NTUlUX1JFRl9OQU1FfQo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>console.assert(
+    getSearchHashStrings('',{
+        hash : '#/?a=1',
+        search : ''
+    }) === '?a=1',
+    '#/?a=1'
+);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gYmFzaCBjaS5zaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbnBtIC12Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHRlc3QK</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKGxvY2F0aW9uLnNlYXJjaCAhPT0gJycgJiYgaGFzSGFzaFF1ZXJ5KSB7CiAgICAgICAgICAgIHVybCA9IGxvY2F0aW9uLnNlYXJjaDsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQoKICAgICAgICBpZiAoaGFzSGFzaFF1ZXJ5KSB7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyDlrprkuYkgam9iCmpvYjI6CiAgc3RhZ2U6IGJ1aWxkCiAgc2NyaXB0OgogICAgLSBiYXNoIGNpLnNoCiAgICAtIGVjaG8gIkkgYW0gam9iMiIKICAgIC0gZWNobyAiSSBhbSBpbiBidWlsZCBzdGFnZSIK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc2VhcmNoR3JvdXAgPSBsb2NhdGlvbi5oYXNoLm1hdGNoKGhhc2hSZWdleCk7CgogICAgICAgIGlmICghc2VhcmNoR3JvdXApIHsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQoKICAgICAgICB1cmwgPSBzZWFyY2hHcm91cFswXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
