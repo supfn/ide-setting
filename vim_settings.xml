@@ -79,6 +79,11 @@
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/common/index.js" timestamp="1514016494922">
         <mark key="[" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/build/webpack.base.conf.js" timestamp="1514468164700">
+        <mark key="[" line="61" column="27" />
+        <mark key="]" line="61" column="27" />
+        <mark key="." line="61" column="27" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/controller.js" timestamp="1513909890910">
         <mark key="[" line="84" column="57" />
         <mark key="]" line="102" column="10" />
@@ -1032,11 +1037,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/BizRouter/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlOiAnaGlzdG9yeScK</text>
+      <register name="&quot;" type="4">
+        <text>3072</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3072</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
