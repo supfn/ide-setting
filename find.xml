@@ -7,8 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.es6" />
     <recentFileMasks>
-      <mask>*[^\.tmp].es6</mask>
       <mask>[^\.tmp].es6</mask>
       <mask>[^\tmp].es6</mask>
       <mask>[^tmp].es6</mask>
@@ -33,11 +33,12 @@
       <mask>[^(.tmp)]*.es6</mask>
       <mask>\d*.es6</mask>
       <mask>\*.es6</mask>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*.es6</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.e</mask>
+      <mask>*.es</mask>
+      <mask>*.es6</mask>
     </recentFileMasks>
   </component>
 </application>
