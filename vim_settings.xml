@@ -692,11 +692,10 @@
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/modules/GameApi.js" timestamp="1514473411593">
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/modules/report.js" timestamp="1515061419013">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/modules/report.js" timestamp="1515062526162">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/activity1/src/app.vue" timestamp="1510208539792">
         <mark key="[" line="7" column="0" />
@@ -1092,7 +1091,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHV0aWxzLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0KHsKCiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>footer</text>
@@ -1104,31 +1103,31 @@
         <text encoding="base64">aW1wb3J0IGZvb3RlciBmcm9tICcuLi9jb21wb25lbnRzL2Zvb3Rlci9Gb290ZXIudnVlJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHV0aWxzLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0KHsKCiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aGVhZGVyPjwvaGVhZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHV0aWxzLnZhbHVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9vdGVyPjwvZm9vdGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aGVhZGVyPjwvaGVhZGVyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRzL2Zvb3Rlci9IZWFkZXIudnVlJzsK</text>
+        <text encoding="base64">ICAgICAgICA8Zm9vdGVyPjwvZm9vdGVyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb290ZXIK</text>
+        <text encoding="base64">aW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRzL2Zvb3Rlci9IZWFkZXIudnVlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzIGZyb20gJy4uL21vZHVsZXMvdXRpbHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb290ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGRldkZsYWcgPSBxdWVyeSgnZGV2Jyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzIGZyb20gJy4uL21vZHVsZXMvdXRpbHMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGdldEg1VXJsIGZyb20gJ2NvbW1vbi9nZXRINVVybCc7CmltcG9ydCBnZXRBUElVcmwgZnJvbSAnY29tbW9uL2dldEFQSVVybCc7Cg==</text>
+        <text encoding="base64">bGV0IGRldkZsYWcgPSBxdWVyeSgnZGV2Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogICAgbWVtYmVySW5mbyA6IAp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdldEg1VXJsIGZyb20gJ2NvbW1vbi9nZXRINVVybCc7CmltcG9ydCBnZXRBUElVcmwgZnJvbSAnY29tbW9uL2dldEFQSVVybCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
