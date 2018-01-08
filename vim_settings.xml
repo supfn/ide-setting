@@ -96,7 +96,7 @@
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/ecosystem.config.js" timestamp="1515376570049">
+      <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/ecosystem.config.js" timestamp="1515377782445">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="15" column="11" />
         <mark key="." line="15" column="11" />
@@ -360,7 +360,7 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/app.js" timestamp="1515377372991">
+      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/app.js" timestamp="1515377791115">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
@@ -509,7 +509,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515377376508">
+      <file name="/Dummy.txt" timestamp="1515377894866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/test/build/build.js" timestamp="1509708446008">
@@ -587,7 +587,7 @@
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/home/index.js" timestamp="1515164629957">
         <mark key="[" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/rd.deploy.sh" timestamp="1515377552201">
+      <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/rd.deploy.sh" timestamp="1515377742990">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="19" column="21" />
         <mark key="^" line="19" column="21" />
@@ -613,6 +613,9 @@
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/.gitignore" timestamp="1515377822418">
+        <mark key="[" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/vue-new/src/activity/router/index.js" timestamp="1509707617991">
         <mark key="[" line="2" column="24" />
@@ -819,6 +822,11 @@
         <mark key="[" line="82" column="24" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/app.js" timestamp="1515377650479">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/index.js" timestamp="1514272990138">
         <mark key="[" line="18" column="11" />
@@ -1280,11 +1288,11 @@
       <jump line="10" column="14" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/vue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGV4dCwgZmlsZVBhdGgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>3000</text>
       </register>
       <register name="-" type="4">
-        <text>verbose</text>
+        <text>3000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
