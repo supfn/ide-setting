@@ -428,11 +428,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/components/image/Image.vue" timestamp="1515496312675">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="46" column="4" />
-        <mark key="." line="46" column="4" />
-        <mark key="^" line="46" column="4" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/components/image/Image.vue" timestamp="1515498994815">
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/pages/home.vue" timestamp="1515472290457" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/CallApp/index.js" timestamp="1515468523799" />
@@ -1380,10 +1380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0000</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>0000</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
