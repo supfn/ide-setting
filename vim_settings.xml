@@ -540,9 +540,6 @@
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/tests/d" timestamp="1514009421127">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/tests/a" timestamp="1514007913329">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/tests/b" timestamp="1514439812637">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -1507,8 +1504,8 @@
       <jump line="63" column="8" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/build/webpack.dev.conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>module.exports =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWFhYWFmZHNhZmRzYWZkc2FmZHNhCg==</text>
       </register>
       <register name="-" type="4">
         <text>module.exports =</text>
@@ -1520,34 +1517,34 @@
         <text encoding="base64">ICAgICAgICAiZGV2IjogIi4vbm9kZV9tb2R1bGVzLy5iaW4vY29va2luZyB3YXRjaCAtYyBidWlsZC9jb29raW5nLmNvbmYuanMiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnRlbGwoZGF0YSk7Cg==</text>
+        <text encoding="base64">YWFhYWFmZHNhZmRzYWZkc2FmZHNhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnRlbGwoYXdhaXQgbW9kZWwuZmluZE9uZShyZXEucGFyYW1zKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLnRlbGwoZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGRhdGEgPSBhd2FpdCBtb2RlbC5maW5kT25lQW5kVXBkYXRlKHtwcm9qZWN0OiByZXEuYm9keS5wcm9qZWN0fSwgcmVxLmJvZHksIHsKICAgICAgICAgICAgICAgIHVwc2VydDogdHJ1ZSwKICAgICAgICAgICAgICAgIG5ldzogdHJ1ZQogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLnRlbGwoYXdhaXQgbW9kZWwuZmluZE9uZShyZXEucGFyYW1zKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbW9kZWwgPSByZXF1aXJlKCcuL21vZGVsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGRhdGEgPSBhd2FpdCBtb2RlbC5maW5kT25lQW5kVXBkYXRlKHtwcm9qZWN0OiByZXEuYm9keS5wcm9qZWN0fSwgcmVxLmJvZHksIHsKICAgICAgICAgICAgICAgIHVwc2VydDogdHJ1ZSwKICAgICAgICAgICAgICAgIG5ldzogdHJ1ZQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9ldmVudCcpOwo=</text>
+        <text encoding="base64">Y29uc3QgbW9kZWwgPSByZXF1aXJlKCcuL21vZGVsJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9ldmVudCcpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHtmaWxlfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHtmaWxlfQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1567,8 +1564,8 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
