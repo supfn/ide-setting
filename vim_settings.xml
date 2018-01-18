@@ -75,11 +75,11 @@
         <mark key="]" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/test.js" timestamp="1516265219039">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/test.js" timestamp="1516271590598">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="21" column="22" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/manifest.json" timestamp="1513263398667">
         <mark key="[" line="32" column="78" />
@@ -263,10 +263,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/.eslintrc.js" timestamp="1516266274959">
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/.eslintrc.js" timestamp="1516271178671">
+        <mark key="[" line="87" column="5" />
+        <mark key="]" line="85" column="24" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="24" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/index.ejs" timestamp="1515468132155">
         <mark key="[" line="18" column="20" />
@@ -965,6 +966,11 @@
         <mark key="]" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/.eslintrc.js" timestamp="1516273613239">
+        <mark key="[" line="92" column="15" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/router.js" timestamp="1515082066831">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="10" />
@@ -1540,43 +1546,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNraXBCbGFua0xpbmVzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgc2tpcENvbW1lbnRzOnRydWUKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiZGV2IjogIi4vbm9kZV9tb2R1bGVzLy5iaW4vY29va2luZyB3YXRjaCAtYyBidWlsZC9jb29raW5nLmNvbmYuanMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAibWF4LXN0YXRlbWVudHMvbWF4IjpbCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNraXBCbGFua0xpbmVzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgc2tpcENvbW1lbnRzOnRydWUKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNraXBDb21tZW50cyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgc2tpcENvbW1lbnRzOnRydWUKICAgICAgICAgICAgfQogICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFsd2F5cyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgc2tpcENvbW1lbnRzOnRydWUKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImV4Y2VwdC1wYXJlbnMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heCA6IDE1LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImVycm9yIiwK</text>
+        <text encoding="base64">ICAgICAgICAibWF4LXN0YXRlbWVudHMiOiBbCiAgICAgICAgICAgICJlcnJvciIsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgfQogICAgICAgIF0sCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgImV4dGVuZHMiOiAiZXNsaW50OnJlY29tbWVuZGVkIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBHSVRfQ0hFQ0tPVVQ6ICd0cnVlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNraXBDb21tZW50czp0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXJpYWJsZXM6CiAgICBHSVRMQUJfSU5TRUNVUkVfQVBJOiAndHJ1ZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gbHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
