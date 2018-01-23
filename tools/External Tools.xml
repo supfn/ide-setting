@@ -2,7 +2,7 @@
   <tool name="eslint" description="eslint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="npm" />
-      <option name="PARAMETERS" value="run eslint -s" />
+      <option name="PARAMETERS" value="run eslint -s; pwd" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
     <filter>
@@ -10,5 +10,12 @@
       <option name="DESCRIPTION" value="line" />
       <option name="REGEXP" value="$FILE_PATH$: line $LINE$, col $COLUMN$" />
     </filter>
+  </tool>
+  <tool name="test" description="test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="pwd" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
   </tool>
 </toolSet>
