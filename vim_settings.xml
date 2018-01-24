@@ -663,8 +663,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516766374867">
+      <file name="/Dummy.txt" timestamp="1516778705166">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/build/cooking.conf.js" timestamp="1515564132200">
         <mark key="[" line="11" column="0" />
@@ -1228,12 +1230,7 @@
         <mark key="]" line="31" column="49" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/eslint.sh" timestamp="1516773141578">
-        <mark key="[" line="38" column="3" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="37" column="4" />
-      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/eslint.sh" timestamp="1516778276758" />
       <file name="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/md5.js" timestamp="1512627750440">
         <mark key="[" line="259" column="17" />
         <mark key="]" line="259" column="17" />
@@ -1656,11 +1653,11 @@
       <jump line="16" column="7" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/.gitlab-ci.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>单数形式problem匹配</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>单数形式problem匹配</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
