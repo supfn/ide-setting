@@ -663,7 +663,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516778705166">
+      <file name="/Dummy.txt" timestamp="1516782232974">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1230,7 +1230,12 @@
         <mark key="]" line="31" column="49" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/eslint.sh" timestamp="1516778276758" />
+      <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/eslint.sh" timestamp="1516781916260">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="71" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="14" column="71" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/md5.js" timestamp="1512627750440">
         <mark key="[" line="259" column="17" />
         <mark key="]" line="259" column="17" />
@@ -1543,11 +1548,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/cloud-eslintrc.js" timestamp="1516766046438">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/cloud-eslintrc.js" timestamp="1516782214812">
+        <mark key="[" line="111" column="12" />
+        <mark key="]" line="111" column="13" />
         <mark key="^" line="9" column="12" />
-        <mark key="." line="10" column="0" />
+        <mark key="." line="111" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -1654,10 +1659,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>单数形式problem匹配</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>单数形式problem匹配</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1666,31 +1671,31 @@
         <text encoding="base64">KiovZGlzdC8qKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAtLW5vLWVzbGludHJjIFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlfdXNlcnM9InpoYW5neXUiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhZGQgbW9yZSBnZW5lcmljIHJ1bGVzZXRzIGhlcmUsIHN1Y2ggYXM6CiAgICAgICAgLy8gJ2VzbGludDpyZWNvbW1lbmRlZCcsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZnlfdXNlcnM9InpoYW5neXUiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBhZGQgbW9yZSBnZW5lcmljIHJ1bGVzZXRzIGhlcmUsIHN1Y2ggYXM6CiAgICAgICAgLy8gJ2VzbGludDpyZWNvbW1lbmRlZCcsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3NfdHJhaXQ9J3Byb2JsZW1zICgwIGVycm9yJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
