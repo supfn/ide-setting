@@ -1107,6 +1107,9 @@
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/npm.js" timestamp="1514514816775">
         <mark key="[" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/sharp/package.json" timestamp="1516891607847">
+        <mark key="[" line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/package.json" timestamp="1516696677012">
         <mark key="[" line="7" column="83" />
         <mark key="]" line="7" column="19" />
@@ -1225,6 +1228,12 @@
         <mark key="[" line="259" column="17" />
         <mark key="]" line="259" column="17" />
         <mark key="." line="259" column="17" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/sharp/index.js" timestamp="1516891775681">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/Temp/vue_without_router/src/test2.js" timestamp="1515468455902">
         <mark key="[" line="10" column="19" />
@@ -1642,11 +1651,11 @@
       <jump line="20" column="9" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/router/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KiovaW5hcHAvYV94aWFveGlhb2xlLyoqCg==</text>
+      <register name="&quot;" type="4">
+        <text>inputJpg</text>
       </register>
       <register name="-" type="4">
-        <text>library</text>
+        <text>inputJpg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
