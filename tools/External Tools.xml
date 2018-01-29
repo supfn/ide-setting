@@ -1,0 +1,21 @@
+<toolSet name="External Tools">
+  <tool name="eslint" description="eslint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="npm" />
+      <option name="PARAMETERS" value="run eslint-raw -s --format compact" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Codes/qutoutiao/modou-web" />
+    </exec>
+    <filter>
+      <option name="NAME" value="line" />
+      <option name="DESCRIPTION" value="line" />
+      <option name="REGEXP" value="$FILE_PATH$\r?\n.*$LINE$:$COLUMN$" />
+    </filter>
+  </tool>
+  <tool name="test" description="test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="pwd" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
