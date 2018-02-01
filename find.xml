@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*[^\.tmp].es6</mask>
-      <mask>[^\.tmp].es6</mask>
-      <mask>[^\tmp].es6</mask>
-      <mask>[^tmp].es6</mask>
       <mask>[^)].es6</mask>
       <mask>[^].es6</mask>
       <mask>[^()].es6</mask>
@@ -32,8 +29,12 @@
       <mask>*.es</mask>
       <mask>*.e</mask>
       <mask>*.es6</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
