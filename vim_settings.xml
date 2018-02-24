@@ -287,11 +287,12 @@
         <mark key="." line="133" column="42" />
         <mark key="^" line="133" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/laopo/counter/index.js" timestamp="1519454614851">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="38" />
+      <file name="$USER_HOME$/Codes/laopo/counter/index.js" timestamp="1519455456184">
+        <mark key="'" line="31" column="1" />
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/components/App.vue" timestamp="1516621129848">
         <mark key="[" line="84" column="56" />
@@ -1568,7 +1569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="24" filename="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/app.js" />
       <jump line="30" column="0" filename="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/app.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/src/main.js" />
       <jump line="0" column="8" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/README.md" />
@@ -1668,13 +1668,14 @@
       <jump line="38" column="2" filename="$USER_HOME$/Codes/qutoutiao/share-service/package.json" />
       <jump line="16" column="7" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/.gitlab-ci.yml" />
       <jump line="20" column="9" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/router/index.js" />
+      <jump line="16" column="1" filename="$USER_HOME$/Codes/laopo/counter/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0sIHZhbHVlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>file</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
