@@ -24,6 +24,7 @@
       <mapping pattern="diff_1512359188028" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
   </component>

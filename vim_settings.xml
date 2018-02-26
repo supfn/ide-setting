@@ -287,12 +287,12 @@
         <mark key="." line="133" column="42" />
         <mark key="^" line="133" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/laopo/counter/index.js" timestamp="1519455456184">
-        <mark key="'" line="31" column="1" />
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="11" column="17" />
+      <file name="$USER_HOME$/Codes/laopo/counter/index.js" timestamp="1519631633262">
+        <mark key="'" line="42" column="57" />
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/components/App.vue" timestamp="1516621129848">
         <mark key="[" line="84" column="56" />
@@ -602,7 +602,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/components2/MaskBox.es6" timestamp="1517996785877" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/components/big-wheel/v1/index.vue" timestamp="1515471813039">
         <mark key="[" line="111" column="70" />
         <mark key="]" line="111" column="70" />
@@ -1569,7 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/config/app.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Codes/qutoutiao/vue-new/apps/test/src/main.js" />
       <jump line="0" column="8" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/README.md" />
       <jump line="74" column="23" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/env/index.js" />
@@ -1669,13 +1667,14 @@
       <jump line="16" column="7" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/.gitlab-ci.yml" />
       <jump line="20" column="9" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/router/index.js" />
       <jump line="16" column="1" filename="$USER_HOME$/Codes/laopo/counter/index.js" />
+      <jump line="39" column="57" filename="$USER_HOME$/Codes/laopo/counter/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1684,31 +1683,31 @@
         <text encoding="base64">KiovaW5hcHAveGlhb3hpYW9sZS8qKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0sIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIG91dHB1dENzdgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB2YWx1ZTsK</text>
+        <text encoding="base64">ICAgIG91dHB1dENzdiA9IGljb252LmVuY29kZShvdXRwdXRDc3YsJ3V0ZjgnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50ZXJNYXApOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXJyYXkuZm9yRWFjaAo=</text>
+        <text encoding="base64">ICAgICAgICBpZihocCl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKGFycmF5WzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaHAgPSBjb3VudGVyTWFwLmhhc093blByb3BlcnR5KGNvbDEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhcmRQaWMgPSBaWEJveC5nZXRDYXJkUGljKHRoaXMuc2VydmVyVGltZSk7CiAgICAgICAgICAgIGlmKGNhcmRQaWMpewogICAgICAgICAgICAgICAgbmV3IEltYWdlKCkuc3JjID0gY2FyZFBpYzsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldENhcmRQaWMoc2VydmVyVGltZSl7CiAgICAgICAgLy8g6buY6K6k5YC85Li656m677yM5L+d5oyB6buY6K6k54q25oCBCiAgICAgICAgbGV0IGNhcmRQaWMgPSAnJzsKCiAgICAgICAgLy8y5pyIN+aXpS0y5pyIMTTml6UKICAgICAgICBsZXQgc3RhZ2UxID0gaW5EYXRlUmFuZ2Uoc2VydmVyVGltZSwgbmV3IERhdGUoJzIwMTgvMDIvMDcnKSwgbmV3IERhdGUoJzIwMTgvMDIvMTQgMjM6NTk6NTknKSk7CgogICAgICAgIC8vMuaciDE15pelLTPmnIgy5pelCiAgICAgICAgbGV0IHN0YWdlMiA9IGluRGF0ZVJhbmdlKHNlcnZlclRpbWUsIG5ldyBEYXRlKCcyMDE4LzAyLzE1JyksIG5ldyBEYXRlKCcyMDE4LzAzLzAyIDIzOjU5OjU5JykpOwoKICAgICAgICBpZihzdGFnZTEpewogICAgICAgICAgICBjYXJkUGljID0gJy8vc3RhdGljLjFzYXBwLmNvbS9pbWFnZS9zcC8yMDE4LzAyLzA3L2I5YTlkNzc4ZDA1MzgwZDg2M2ZhMmMzNmI4ODA3NjEzLnBuZyc7CiAgICAgICAgfQoKICAgICAgICBpZihzdGFnZTIpewogICAgICAgICAgICBjYXJkUGljID0gJy8vc3RhdGljLjFzYXBwLmNvbS9pbWFnZS9zcC8yMDE4LzAyLzA3LzE0MjFlN2VmMDRhN2IzYmZhMDA4MjlkZDc5ZjBhOTdmLnBuZyc7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gY2FyZFBpYzsKICAgIH0K</text>
+        <text encoding="base64">dmFyIGljb252ID0gcmVxdWlyZSgnaWNvbnYtbGl0ZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
