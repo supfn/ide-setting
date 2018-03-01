@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/qutoutiao/keynotes/src/test.js" timestamp="1519894610240">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/keynotes/src/test.js" timestamp="1519896518919">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="22" column="1" />
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/components/header/Header.vue" timestamp="1515472885253">
@@ -1717,11 +1717,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/Codes/qutoutiao/keynotes/函数.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaGFuZGxlKGUpewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgbGV0IGlkID0gJCh0aGlzKS5kYXRhKCdpZCcpOgogICAgbGV0IHRva2VuID0gZ2V0Q29va2llKCd0b2tlbicpOwogICAgbG9jYXRpb24uaHJlZiA9IGAvdGVzdC91c2VyLyR7aWR9P3Rva2VuPSR7dG9rZW59YDsKfQoKJCgnI2VsZW1lbnQnKS5jbGljayhoYW5kbGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ci8vIGp1bXBVcmwoJ2lkJywndG9rZW4nKSA9PSAneHh4Jw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1729,20 +1729,20 @@
       <register name="0" type="2">
         <text encoding="base64">ZnVuY3Rpb24gaGFuZGxlKGUpewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgbGV0IGlkID0gJCh0aGlzKS5kYXRhKCdpZCcpOgogICAgbGV0IHRva2VuID0gZ2V0Q29va2llKCd0b2tlbicpOwogICAgbG9jYXRpb24uaHJlZiA9IGAvdGVzdC91c2VyLyR7aWR9P3Rva2VuPSR7dG9rZW59YDsKfQoKJCgnI2VsZW1lbnQnKS5jbGljayhoYW5kbGUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8vIGp1bXBVcmwoJ2lkJywndG9rZW4nKSA9PSAneHh4Jw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSDkvovlrZAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZG9jdW1lbnQub25jbGljayA9IGhhbmRsZTsK</text>
+        <text encoding="base64">LSDkvovlrZAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uLmhyZWYgPSAnL3Rlc3QvdXNlci8nICsgJCh0aGlzKS5hdHRyKCdkYXRhLWlkJyk7Cg==</text>
+        <text encoding="base64">ZG9jdW1lbnQub25jbGljayA9IGhhbmRsZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uLmhyZWYgPSAnL3Rlc3QvdXNlci8nICsgJCh0aGlzKS5hdHRyKCdkYXRhLWlkJyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1751,10 +1751,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gCiAgICAtIOimgeiAg+iZkeS4peiwqOeahOWuuemUmQo=</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
