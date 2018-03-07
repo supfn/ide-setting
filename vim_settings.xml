@@ -415,10 +415,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/laopo/counter/txt.js" timestamp="1520395573690">
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="27" />
-        <mark key="." line="30" column="27" />
+      <file name="$USER_HOME$/Codes/laopo/counter/txt.js" timestamp="1520429090531">
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/Image.vue" timestamp="1515080241650">
         <mark key="[" line="4" column="0" />
@@ -1735,8 +1735,8 @@
       <jump line="44" column="34" filename="$USER_HOME$/Codes/laopo/counter/demo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZighY29sMil7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbHMpCiAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1748,31 +1748,31 @@
         <text>/\S+ (\S+) \S+ (\S+)/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBpZighY29sMil7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbHMpCiAgICAgICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHI9L1xTKyAoXFMrKSBcUysgKFxTKykvOwo=</text>
+        <text encoding="base64">ICAgIGFycmF5Lmxlbmd0aCA9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGg9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2xzKQogICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGo9Owo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5WzBdKQogICAgLy8gYXJyYXkuc2hpZnQoKTsKCgogICAgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHU9dS5nZXREYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwsIGRldGFpbHMpCg==</text>
+        <text encoding="base64">ICAgIHI9L1xTKyAoXFMrKSBcUysgKFxTKykvOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSwgaXRlbSkK</text>
+        <text encoding="base64">ICAgIGg9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIE9iamVjdC5lbnRyaWVzKG1hcCkpCg==</text>
+        <text encoding="base64">ICAgIGo9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcihsZXQge2tleSwgaXRlbX0gb2YgaXRlbSkK</text>
+        <text encoding="base64">ICAgIHU9dS5nZXREYXRlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
