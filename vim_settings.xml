@@ -878,12 +878,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/build/dev-server.js" timestamp="1520531410114">
-        <mark key="'" line="86" column="2" />
-        <mark key="[" line="58" column="9" />
-        <mark key="]" line="57" column="20" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="17" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/build/dev-server.js" timestamp="1520587395275">
+        <mark key="'" line="90" column="2" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="57" column="44" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-webstrom/a.js" timestamp="1516770681427">
         <mark key="[" line="24" column="5" />
@@ -1598,11 +1598,11 @@
         <mark key="^" line="32" column="20" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/index/App.vue" timestamp="1520582958323">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="12" column="10" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/index/App.vue" timestamp="1520587450760">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/CallApp/v2/jsbridge.js" timestamp="1515401252573">
         <mark key="[" line="4" column="3" />
@@ -1755,7 +1755,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5hbWUgOiAneyNuYW1lI30nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyID0gbXVzdGFjaGUucGFyc2Uoc3RyLCB7CiAgICAgICAgICAgICAgICB0YWdzIDogWyd7IycsJyN9J10KICAgICAgICAgICAgfSkoZGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cons.requires.mustache</text>
@@ -1767,31 +1767,31 @@
         <text encoding="base64">ICAgIG5hbWUgOiAneyNuYW1lI30nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWUgOiAneyNuYW1lI30nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyID0gbXVzdGFjaGUucGFyc2Uoc3RyLCB7CiAgICAgICAgICAgICAgICB0YWdzIDogWyd7IycsJyN9J10KICAgICAgICAgICAgfSkoZGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29ucy5yZXF1aXJlcykK</text>
+        <text encoding="base64">ICAgIG5hbWUgOiAneyNuYW1lI30nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMudGFncyA9ICd7IyAjfScK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29ucy5yZXF1aXJlcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzIDogJ3sjICN9Jwo=</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMudGFncyA9ICd7IyAjfScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YWdzIDogJ3sjICN9Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">e3t9fW5hbWUlPgo=</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3t9fW5hbWUlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwLmVuZ2luZSgnaHRtbCcsIGVqcy5yZW5kZXJGaWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpPT57CiAgICAgICAgICAgIHNlbmQuYXBwbHkodGhpcyxbc3RyXSk7CiAgICAgICAgfSwxMDAwKTsK</text>
+        <text encoding="base64">YXBwLmVuZ2luZSgnaHRtbCcsIGVqcy5yZW5kZXJGaWxlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
