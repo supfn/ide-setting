@@ -769,10 +769,11 @@
         <mark key="." line="30" column="41" />
         <mark key="^" line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/src/boot.js" timestamp="1520650883939">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="52" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/src/boot.js" timestamp="1520652019528">
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="30" />
+        <mark key="^" line="63" column="30" />
+        <mark key="." line="63" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/build/vue-loader.conf.js" timestamp="1515571191338">
         <mark key="[" line="18" column="0" />
@@ -1486,7 +1487,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qserver/src/boot.js" timestamp="1520650850371">
+      <file name="$USER_HOME$/Codes/qutoutiao/qserver/src/boot.js" timestamp="1520650897984">
         <mark key="[" line="35" column="41" />
         <mark key="]" line="35" column="41" />
         <mark key="." line="35" column="41" />
@@ -1756,10 +1757,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcmVkaXNHZXQgPSBwcm9taXNpZnkoY2xpZW50LmdldCkuYmluZChjbGllbnQpOwpjb25zdCByZWRpc1NldCA9IHByb21pc2lmeShjbGllbnQuc2V0KS5iaW5kKGNsaWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXMuc2VuZChyZXEuYm9keSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>msg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1768,28 +1769,28 @@
         <text encoding="base64">Y29uc3QgcmVkaXNHZXQgPSBwcm9taXNpZnkoY2xpZW50LmdldCkuYmluZChjbGllbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcmVkaXNHZXQgPSBwcm9taXNpZnkoY2xpZW50LmdldCkuYmluZChjbGllbnQpOwpjb25zdCByZWRpc1NldCA9IHByb21pc2lmeShjbGllbnQuc2V0KS5iaW5kKGNsaWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXMuc2VuZChyZXEuYm9keSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcmVkaXNHZXQgPSBwcm9taXNpZnkoY2xpZW50LmdldCkuYmluZChjbGllbnQpOwpjb25zdCByZWRpc1NldCA9IHByb21pc2lmeShjbGllbnQuc2V0KS5iaW5kKGNsaWVudCk7Cg==</text>
+        <text encoding="base64">ICAgIGZhaWwoPSAtMSwgbXNnKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZS5ib2R5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2VuZCgpewoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXEK</text>
+        <text encoding="base64">ICAgICAgICByZWRpc1NldChyZXEuYm9keSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVkaXNHZXQgPSBwcm9taXNpZnkoY2xpZW50LmdldCkuYmluZChjbGllbnQpOwpjb25zdCByZWRpc1NldCA9IHByb21pc2lmeShjbGllbnQuc2V0KS5iaW5kKGNsaWVudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVkaXNHZXQgPSBwcm9taXNpZnkoY2xpZW50LmdldCkuYmluZChjbGllbnQpOwpjb25zdCByZWRpc1NldCA9IHByb21pc2lmeShjbGllbnQuc2V0KS5iaW5kKGNsaWVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
