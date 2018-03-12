@@ -192,6 +192,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="49" column="45" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qserver/ecosystem.config.js" timestamp="1520821611630">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="22" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/modules/dataProvider.js" timestamp="1515467913044">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="23" />
@@ -607,6 +613,11 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/ci.sh" timestamp="1520821887545">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/build/config.js" timestamp="1515566238760">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -729,11 +740,11 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qserver/src/boot.js" timestamp="1520819965358">
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="35" column="41" />
-        <mark key="." line="35" column="41" />
-        <mark key="^" line="35" column="41" />
+      <file name="$USER_HOME$/Codes/qutoutiao/qserver/src/boot.js" timestamp="1520822324749">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="33" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/components/Login.vue" timestamp="1520699316650">
         <mark key="[" line="41" column="40" />
@@ -929,44 +940,44 @@
       <jump line="57" column="24" filename="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/components/Login.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>utf8'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5wYXRoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>utf8'</text>
+        <text>currentPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcy5zZW5kKG91dHB1dHMuc3VjY2VzcygpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRQYXRoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHAsIG1hcFtwXS5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5wYXRoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52X3Byb2R1Y3Rpb246IHsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBDT01NT05fVkFSSUFCTEU6ICd0cnVlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5PREVfRU5WOiAncHJvZHVjdGlvbicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52X3Byb2R1Y3Rpb246IHsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBEZXBsb3ltZW50IHNlY3Rpb24KICAgKiBodHRwOi8vcG0yLmtleW1ldHJpY3MuaW8vZG9jcy91c2FnZS9kZXBsb3ltZW50LwogICAqLwogIGRlcGxveSA6IHsKICAgIHByb2R1Y3Rpb24gOiB7CiAgICAgIHVzZXIgOiAnbm9kZScsCiAgICAgIGhvc3QgOiAnMjEyLjgzLjE2My4xJywKICAgICAgcmVmICA6ICdvcmlnaW4vbWFzdGVyJywKICAgICAgcmVwbyA6ICdnaXRAZ2l0aHViLmNvbTpyZXBvLmdpdCcsCiAgICAgIHBhdGggOiAnL3Zhci93d3cvcHJvZHVjdGlvbicsCiAgICAgICdwb3N0LWRlcGxveScgOiAnbnBtIGluc3RhbGwgJiYgcG0yIHJlbG9hZCBlY29zeXN0ZW0uY29uZmlnLmpzIC0tZW52IHByb2R1Y3Rpb24nCiAgICB9LAogICAgZGV2IDogewogICAgICB1c2VyIDogJ25vZGUnLAogICAgICBob3N0IDogJzIxMi44My4xNjMuMScsCiAgICAgIHJlZiAgOiAnb3JpZ2luL21hc3RlcicsCiAgICAgIHJlcG8gOiAnZ2l0QGdpdGh1Yi5jb206cmVwby5naXQnLAogICAgICBwYXRoIDogJy92YXIvd3d3L2RldmVsb3BtZW50JywKICAgICAgJ3Bvc3QtZGVwbG95JyA6ICducG0gaW5zdGFsbCAmJiBwbTIgcmVsb2FkIGVjb3N5c3RlbS5jb25maWcuanMgLS1lbnYgZGV2JywKICAgICAgZW52ICA6IHsKICAgICAgICBOT0RFX0VOVjogJ2RldicKICAgICAgfQogICAgfQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5PREVfRU5WOiAnZGV2ZWxvcG1lbnQnCg==</text>
+        <text encoding="base64">ICAgIC8vIFNlY29uZCBhcHBsaWNhdGlvbgogICAgewogICAgICBuYW1lICAgICAgOiAnV0VCJywKICAgICAgc2NyaXB0ICAgIDogJ3dlYi5qcycKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuZW52X3Byb2R1Y3Rpb24pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHAsIG1hcFtwXS5sZW5ndGgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGFjY291bnRzID0gcmVxdWlyZSgnLi9hY2NvdW50cycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52X3Byb2R1Y3Rpb246IHsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5PREVfRU5WOiAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52X3Byb2R1Y3Rpb246IHsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -1017,6 +1028,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
