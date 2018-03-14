@@ -129,8 +129,8 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/server/boot.js" timestamp="1520984592442">
-        <mark key="[" line="68" column="33" />
+      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/server/boot.js" timestamp="1521001476350">
+        <mark key="[" line="11" column="39" />
         <mark key="]" line="42" column="8" />
         <mark key="." line="42" column="8" />
         <mark key="^" line="42" column="8" />
@@ -471,8 +471,8 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521000918621">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1521001682220">
+        <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -662,10 +662,12 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/server/accounts.js" timestamp="1521000821625">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/server/accounts.js" timestamp="1521001672466">
+        <mark key="i" line="11" column="9" />
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/jsbridge-api/jsbridge-api.js" timestamp="1515405101525">
         <mark key="[" line="9" column="13" />
@@ -1177,43 +1179,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">RU5WIA==</text>
+        <text>鉴权区分测试和线上</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RU5WIA==</text>
+        <text>鉴权区分测试和线上</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzg2MDYnIDogJ+e6v+S4iueOr+WigycK</text>
+        <text encoding="base64">ICAgICAgICAnemhhbmd5dScgOiAnaDhVWDJ4ZHJ2UjV6JFBVZXJxJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYmFpeW9uZ2JpYW8nIDogJ0x3OXA5ZHp1M1h6cCptV0phUScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZSA9IG1hcFtsb2NhdGlvbi5wb3J0XTsK</text>
+        <text encoding="base64">ICAgICAgICAnc2hhb2xpYW5nJyA6ICdxRGY3NHBqUyM5WGRtSnZ6RGEnLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZSA9ICh7CiAgICAgICAgICAgICc4NjA2JyA6ICfnur/kuIrnjq/looMnLAogICAgICAgICAgICAnODYwNycgOiAn5rWL6K+V546v5aKDJwogICAgICAgIH0pW2xvY2F0aW9uLnBvcnRdOwo=</text>
+        <text encoding="base64">ICAgICd6aGFuZ3l1JyA6ICdoOFVYMnhkcnZSNXokUFVlcnEnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbWFwID0gewogICAgICAgICAgICAnODYwNicgOiAn57q/5LiK546v5aKDJywKICAgICAgICAgICAgJzg2MDcnIDogJ+a1i+ivleeOr+WigycKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZSA9IG1hcFtsb2NhdGlvbi5wb3J0XTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsb2NhdGlvbi5wb3J0ID09PSAnODYwNicpewogICAgICAgICAgICB3aW5kb3cuRU5WID0gJ3Byb2R1Y3Rpb24nOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC50aXRsZSA9ICh7CiAgICAgICAgICAgICc4NjA2JyA6ICfnur/kuIrnjq/looMnLAogICAgICAgICAgICAnODYwNycgOiAn5rWL6K+V546v5aKDJwogICAgICAgIH0pW2xvY2F0aW9uLnBvcnRdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
