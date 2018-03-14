@@ -484,7 +484,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521015217186">
+      <file name="/Dummy.txt" timestamp="1521016570144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -561,7 +561,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/package.json" timestamp="1521015947713">
+      <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/package-lock.json" timestamp="1521016687103">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/package.json" timestamp="1521016681529">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
@@ -850,6 +855,9 @@
         <mark key="]" line="62" column="49" />
         <mark key="." line="62" column="49" />
         <mark key="^" line="62" column="49" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/readme.md" timestamp="1521016537326">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/js/ct.js" timestamp="1513309193234">
         <mark key="[" line="224" column="9" />
@@ -1196,10 +1204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
