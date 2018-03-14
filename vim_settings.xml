@@ -362,11 +362,11 @@
         <mark key="]" line="25" column="60" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server/src/boot.js" timestamp="1521007223711">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server/src/boot.js" timestamp="1521010059978">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="30" />
+        <mark key="^" line="74" column="33" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/image/App.vue" timestamp="1515467777608">
         <mark key="[" line="33" column="0" />
@@ -483,10 +483,10 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521007706800">
+      <file name="/Dummy.txt" timestamp="1521010070158">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/build/cooking.conf.js" timestamp="1515564132200">
         <mark key="[" line="11" column="0" />
@@ -674,7 +674,7 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/server/accounts.js" timestamp="1521001672466">
+      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/server/accounts.js" timestamp="1521008909187">
         <mark key="i" line="11" column="9" />
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="37" />
@@ -1190,43 +1190,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUuc2V0R3VpZGVEYXRhQWN0aW9uKEpTT04ucGFyc2UodGhpcy5jYWNoZS5nZXQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXMuc2V0KHsKICAgICAgICAgICAgJ0NhY2hlLUNvbnRyb2wnIDogYG1heC1hZ2U9JHtDQUNIRV9NQVhfQUdFfWAKICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>增加本地调试模式，修正动态输出md5值能力，max-age配置与之前对齐</text>
+        <text>修正多级目录时.md5路由模板路径不正确bug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3JlLnNldEd1aWRlRGF0YUFjdGlvbihKU09OLnBhcnNlKHRoaXMuY2FjaGUuZ2V0KCkpKTsKICAgICAgICAgICAgICAgIEltZ1Jlc291cmNlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldChjYWNoZUNvbnRyb2wpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUuc2V0R3VpZGVEYXRhQWN0aW9uKEpTT04ucGFyc2UodGhpcy5jYWNoZS5nZXQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXMuc2V0KHsKICAgICAgICAgICAgJ0NhY2hlLUNvbnRyb2wnIDogYG1heC1hZ2U9JHtDQUNIRV9NQVhfQUdFfWAKICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUuc2V0R3VpZGVEYXRhQWN0aW9uKEpTT04ucGFyc2UodGhpcy5jYWNoZS5nZXQoKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRocyA6IHRoaXMua2V5ICsgJy9pbmRleC5odG1sJwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRocyA6IHRoaXMua2V5ICsgJy9pbmRleC5odG1sJwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCB0cGwgPSBgJHtrZXl9LyR7cGF0aC5iYXNlbmFtZShmaWxlKX1gOwogICAgY29uc29sZS5sb2coa2V5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSkK</text>
+        <text encoding="base64">ICAgIGxldCB0cGwgPSBgJHtrZXl9LyR7cGF0aC5iYXNlbmFtZShmaWxlKX1gOwogICAgY29uc29sZS5sb2coa2V5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2NhbHMpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpczogewogICAgICAgICAgICBkYjoxCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2NhbHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpczogewogICAgICAgICAgICBkYjoxCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
