@@ -105,6 +105,7 @@
         <mark key="." line="102" column="10" />
         <mark key="^" line="102" column="10" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/package.json" timestamp="1521015450341" />
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/ui/src/components/Menu.vue" timestamp="1520840572413">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="6" column="42" />
@@ -483,7 +484,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521010070158">
+      <file name="/Dummy.txt" timestamp="1521015217186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -559,6 +560,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/package.json" timestamp="1521015947713">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/src/router.js" timestamp="1513594184626">
         <mark key="[" line="5" column="41" />
@@ -1190,12 +1196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-    name : '{# $config.name #}'
-}</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>user_desc</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
