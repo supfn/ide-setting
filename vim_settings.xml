@@ -490,7 +490,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521020298024">
+      <file name="/Dummy.txt" timestamp="1521021270838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -573,6 +573,7 @@
         <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/component_demo/app.json" timestamp="1521018309183" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/package.json" timestamp="1521020950743" />
       <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/package.json" timestamp="1521016681529">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -587,11 +588,17 @@
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/right.js" timestamp="1515410178933">
         <mark key="[" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/component_demo/build/dev-server.js" timestamp="1521018942648">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/component_demo/build/dev-server.js" timestamp="1521020989108">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/build/test.js" timestamp="1521021084516">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/ui-common/index.js" timestamp="1515472686376">
         <mark key="[" line="4" column="3" />
@@ -613,6 +620,12 @@
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/hi/index.ejs" timestamp="1515555189983">
         <mark key="[" line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/build/dev-server.js" timestamp="1521021093292">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/rd.deploy.sh" timestamp="1515377742990">
         <mark key="[" line="20" column="31" />
@@ -1223,10 +1236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
