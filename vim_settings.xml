@@ -533,10 +533,11 @@
         <mark key="." line="36" column="12" />
         <mark key="^" line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/vue-demo/node_modules/fuck/package.json" timestamp="1521126531963">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-demo/node_modules/fuck/package.json" timestamp="1521127298998">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/tests/e" timestamp="1514439807972">
         <mark key="[" line="0" column="11" />
@@ -725,6 +726,7 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/vue-demo/package.json" timestamp="1521127477901" />
       <file name="$USER_HOME$/Codes/qutoutiao/jsbridge-api/jsbridge-api.js" timestamp="1515405101525">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="8" column="2" />
@@ -1246,11 +1248,11 @@
       <jump line="104" column="0" filename="$USER_HOME$/Codes/qutoutiao/webapp-config-ui/src/server/boot.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
