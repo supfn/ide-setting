@@ -48,7 +48,11 @@
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/modules/data-provider.js" timestamp="1515059710032">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/bidding/src/pages/index/index.js" timestamp="1521188842817" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/bidding/src/pages/index/index.js" timestamp="1521189633062">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/faq_v2/src/components/Service/Service.vue" timestamp="1521011614646">
         <mark key="[" line="17" column="35" />
       </file>
@@ -597,6 +601,9 @@
         <mark key="." line="5" column="43" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/node_modules/vue/dist/vue.runtime.esm.js" timestamp="1521115340643" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/bidding/src/pages/index/App.vue" timestamp="1521189972665">
+        <mark key="[" line="165" column="38" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/right.js" timestamp="1515410178933">
         <mark key="[" line="4" column="3" />
       </file>
@@ -1247,8 +1254,8 @@
       <jump line="104" column="0" filename="$USER_HOME$/Codes/qutoutiao/webapp-config-ui/src/server/boot.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnc3dpcGVyLWRlbW8nOiBuZXcgUHJvbWlzZSgocmVzLCByZWopPT57CiAgICAgICAgICAgIHJldHVybiBpbXBvcnQoJy4uLy4uL2NvbXBvbmVudHMvc3dpcGVyL1N3aXBlci52dWUnKS50aGVuKChzKT0+ewogICAgICAgICAgICAgICAgcmV0dXJuIHMuZGVmYXVsdDsKICAgICAgICAgICAgfSkKICAgICAgICB9KQo=</text>
       </register>
       <register name="-" type="4">
         <text>index</text>
@@ -1260,33 +1267,33 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldChjYWNoZUNvbnRyb2wpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAnc3dpcGVyLWRlbW8nOiBuZXcgUHJvbWlzZSgocmVzLCByZWopPT57CiAgICAgICAgICAgIHJldHVybiBpbXBvcnQoJy4uLy4uL2NvbXBvbmVudHMvc3dpcGVyL1N3aXBlci52dWUnKS50aGVuKChzKT0+ewogICAgICAgICAgICAgICAgcmV0dXJuIHMuZGVmYXVsdDsKICAgICAgICAgICAgfSkKICAgICAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0KCcuLi8uLi9jb21wb25lbnRzL3N3aXBlci9Td2lwZXIudnVlJykudGhlbihmdW5jdGlvbiAoU3dpcGVyKSB7CiAgICBWdWUuY29tcG9uZW50KCdzd2lwZXItZGVtbycsIFN3aXBlci5kZWZhdWx0KTsKfSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0KCcuLi8uLi9jb21wb25lbnRzL3N3aXBlci9Td2lwZXIudnVlJykudGhlbihmdW5jdGlvbiAoU3dpcGVyKSB7CiAgICBWdWUuY29tcG9uZW50KCdzd2lwZXItZGVtbycsIFN3aXBlci5kZWZhdWx0KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbXBvbmVudCA6aXM9InNkZW1vIj48L2NvbXBvbmVudD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAicS13ZWJhcHAtZGV2LW1pZGRsZXdhcmUiOiAiXjEuMC4xIiwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>{
     name : '{# $config.name #}'
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBvcF9iYWNrZ3JvdW5kIDoneyMgJGNvbmZpZy5uYW1lICN9Jwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgQ09ORklHX0RBVEEgPSB7I3sgJHNDb25maWcgfSN9Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuc2V0KHsKICAgICAgICAgICAgJ0NhY2hlLUNvbnRyb2wnIDogYG1heC1hZ2U9JHtDQUNIRV9NQVhfQUdFfWAKICAgICAgICB9KTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUuc2V0R3VpZGVEYXRhQWN0aW9uKEpTT04ucGFyc2UodGhpcy5jYWNoZS5nZXQoKSkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRocyA6IHRoaXMua2V5ICsgJy9pbmRleC5odG1sJwo=</text>
+        <text encoding="base64">Ly8gICAgQ09ORklHX0RBVEEgPSB7I3sgJHNDb25maWcgfSN9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
