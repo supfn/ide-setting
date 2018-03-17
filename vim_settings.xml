@@ -677,8 +677,10 @@
       <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/.gitignore" timestamp="1515377822418">
         <mark key="[" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server2/设计/readme.md" timestamp="1521295708060">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/webapp-server2/设计/readme.md" timestamp="1521298553035">
+        <mark key="[" line="11" column="72" />
+        <mark key="]" line="11" column="72" />
+        <mark key="." line="11" column="72" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/index.js" timestamp="1513163760280">
         <mark key="[" line="8" column="21" />
@@ -1258,10 +1260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, 同时把 index_hash.html 文件名修改为 index_hash_$HASH.html</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, 同时把 index_hash.html 文件名修改为 index_hash_$HASH.html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1270,33 +1272,33 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldChjYWNoZUNvbnRyb2wpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnc3dpcGVyLWRlbW8nOiBuZXcgUHJvbWlzZSgocmVzLCByZWopPT57CiAgICAgICAgICAgIHJldHVybiBpbXBvcnQoJy4uLy4uL2NvbXBvbmVudHMvc3dpcGVyL1N3aXBlci52dWUnKS50aGVuKChzKT0+ewogICAgICAgICAgICAgICAgcmV0dXJuIHMuZGVmYXVsdDsKICAgICAgICAgICAgfSkKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICDmr5TlpoIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0KCcuLi8uLi9jb21wb25lbnRzL3N3aXBlci9Td2lwZXIudnVlJykudGhlbihmdW5jdGlvbiAoU3dpcGVyKSB7CiAgICBWdWUuY29tcG9uZW50KCdzd2lwZXItZGVtbycsIFN3aXBlci5kZWZhdWx0KTsKfSkK</text>
+        <text encoding="base64">ICAgIC0g5oyH5a6a5paH5Lu2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0KCcuLi8uLi9jb21wb25lbnRzL3N3aXBlci9Td2lwZXIudnVlJykudGhlbihmdW5jdGlvbiAoU3dpcGVyKSB7CiAgICBWdWUuY29tcG9uZW50KCdzd2lwZXItZGVtbycsIFN3aXBlci5kZWZhdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAnc3dpcGVyLWRlbW8nOiBuZXcgUHJvbWlzZSgocmVzLCByZWopPT57CiAgICAgICAgICAgIHJldHVybiBpbXBvcnQoJy4uLy4uL2NvbXBvbmVudHMvc3dpcGVyL1N3aXBlci52dWUnKS50aGVuKChzKT0+ewogICAgICAgICAgICAgICAgcmV0dXJuIHMuZGVmYXVsdDsKICAgICAgICAgICAgfSkKICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbXBvbmVudCA6aXM9InNkZW1vIj48L2NvbXBvbmVudD4K</text>
+        <text encoding="base64">aW1wb3J0KCcuLi8uLi9jb21wb25lbnRzL3N3aXBlci9Td2lwZXIudnVlJykudGhlbihmdW5jdGlvbiAoU3dpcGVyKSB7CiAgICBWdWUuY29tcG9uZW50KCdzd2lwZXItZGVtbycsIFN3aXBlci5kZWZhdWx0KTsKfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
+        <text encoding="base64">aW1wb3J0KCcuLi8uLi9jb21wb25lbnRzL3N3aXBlci9Td2lwZXIudnVlJykudGhlbihmdW5jdGlvbiAoU3dpcGVyKSB7CiAgICBWdWUuY29tcG9uZW50KCdzd2lwZXItZGVtbycsIFN3aXBlci5kZWZhdWx0KTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbXBvbmVudCA6aXM9InNkZW1vIj48L2NvbXBvbmVudD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAicS13ZWJhcHAtZGV2LW1pZGRsZXdhcmUiOiAiXjEuMC4xIiwK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
     name : '{# $config.name #}'
 }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvcF9iYWNrZ3JvdW5kIDoneyMgJGNvbmZpZy5uYW1lICN9Jwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgQ09ORklHX0RBVEEgPSB7I3sgJHNDb25maWcgfSN9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
