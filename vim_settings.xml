@@ -410,8 +410,10 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Temp/project/qtt-scaffold-component/index.js" timestamp="1521449913032">
-        <mark key="[" line="2" column="29" />
+      <file name="$USER_HOME$/Temp/project/qtt-scaffold-component/index.js" timestamp="1521451386558">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/deploy.sh" timestamp="1514330466052">
         <mark key="[" line="92" column="25" />
@@ -1246,11 +1248,11 @@
       <jump line="104" column="0" filename="$USER_HOME$/Codes/qutoutiao/webapp-config-ui/src/server/boot.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnc3dpcGVyLWRlbW8nOiBuZXcgUHJvbWlzZSgocmVzLCByZWopPT57CiAgICAgICAgICAgIHJldHVybiBpbXBvcnQoJy4uLy4uL2NvbXBvbmVudHMvc3dpcGVyL1N3aXBlci52dWUnKS50aGVuKChzKT0+ewogICAgICAgICAgICAgICAgcmV0dXJuIHMuZGVmYXVsdDsKICAgICAgICAgICAgfSkKICAgICAgICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>CLICK</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>CLICK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1258,34 +1260,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldChjYWNoZUNvbnRyb2wpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnc3dpcGVyLWRlbW8nOiBuZXcgUHJvbWlzZSgocmVzLCByZWopPT57CiAgICAgICAgICAgIHJldHVybiBpbXBvcnQoJy4uLy4uL2NvbXBvbmVudHMvc3dpcGVyL1N3aXBlci52dWUnKS50aGVuKChzKT0+ewogICAgICAgICAgICAgICAgcmV0dXJuIHMuZGVmYXVsdDsKICAgICAgICAgICAgfSkKICAgICAgICB9KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8vREVCVUctc3RhcnQKLy8gaWYgKHh4eCl7CgovLwovL0RFQlVHLWVuZA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0KCcuLi8uLi9jb21wb25lbnRzL3N3aXBlci9Td2lwZXIudnVlJykudGhlbihmdW5jdGlvbiAoU3dpcGVyKSB7CiAgICBWdWUuY29tcG9uZW50KCdzd2lwZXItZGVtbycsIFN3aXBlci5kZWZhdWx0KTsKfSkK</text>
+        <text encoding="base64">ICAgICdyZXBvcnQ6eHh4eCAke2F9JwogICAgJ2E6MSxiOjInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0KCcuLi8uLi9jb21wb25lbnRzL3N3aXBlci9Td2lwZXIudnVlJykudGhlbihmdW5jdGlvbiAoU3dpcGVyKSB7CiAgICBWdWUuY29tcG9uZW50KCdzd2lwZXItZGVtbycsIFN3aXBlci5kZWZhdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbXBvbmVudCA6aXM9InNkZW1vIj48L2NvbXBvbmVudD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
+        <text encoding="base64">J2NsaWNrOicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicS13ZWJhcHAtZGV2LW1pZGRsZXdhcmUiOiAiXjEuMC4xIiwK</text>
+        <text encoding="base64">ICAgIAogICAgJ3JlcG9ydDp4eHh4JyArIEEgKyAnJwoKCg==</text>
       </register>
       <register name="7" type="4">
-        <text>{
-    name : '{# $config.name #}'
-}</text>
+        <text encoding="base64">ewogICAgICAgIAogICAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvcF9iYWNrZ3JvdW5kIDoneyMgJGNvbmZpZy5uYW1lICN9Jwo=</text>
+      <register name="8" type="4">
+        <text>click : {
+            value:&quot;xxx&quot;
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgQ09ORklHX0RBVEEgPSB7I3sgJHNDb25maWcgfSN9Owo=</text>
+        <text encoding="base64">ICAgICdjbGljazp4eHgnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
