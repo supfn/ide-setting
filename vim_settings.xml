@@ -362,11 +362,11 @@
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cdn-services/app/model/cdn-refresh-subtask.js" timestamp="1521644517458">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
+      <file name="$USER_HOME$/Codes/lab/cdn-services/app/model/cdn-refresh-subtask.js" timestamp="1521699037900">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/.eslintrc.js" timestamp="1516359081274">
         <mark key="[" line="123" column="0" />
@@ -374,10 +374,11 @@
         <mark key="^" line="123" column="11" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cdn-services/app/controller/cdn.js" timestamp="1521688174633">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Codes/lab/cdn-services/app/controller/cdn.js" timestamp="1521697446480">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="60" column="4" />
+        <mark key="." line="60" column="4" />
+        <mark key="^" line="60" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/cdn-services/app/services/cdn.js" timestamp="1521645181156">
         <mark key="[" line="9" column="21" />
@@ -573,11 +574,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cdn-services/app/schedule/cdn-refresh.js" timestamp="1521687393376">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="14" />
-        <mark key="^" line="20" column="14" />
-        <mark key="." line="20" column="14" />
+      <file name="$USER_HOME$/Codes/lab/cdn-services/app/schedule/cdn-refresh.js" timestamp="1521699118992">
+        <mark key="[" line="80" column="44" />
+        <mark key="]" line="80" column="44" />
+        <mark key="." line="80" column="44" />
+        <mark key="^" line="80" column="40" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/src/router.js" timestamp="1513594184626">
         <mark key="[" line="5" column="41" />
@@ -639,12 +640,12 @@
         <mark key="^" line="23" column="5" />
         <mark key="." line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cdn-services/app/model/cdn-refresh-task.js" timestamp="1521644563178">
+      <file name="$USER_HOME$/Codes/lab/cdn-services/app/model/cdn-refresh-task.js" timestamp="1521696154584">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/node-cdn-refresh/tests/index.js" timestamp="1521686258389">
+      <file name="$USER_HOME$/Codes/lab/node-cdn-refresh/tests/index.js" timestamp="1521696701544">
         <mark key="[" line="63" column="3" />
         <mark key="]" line="68" column="6" />
         <mark key="." line="68" column="6" />
@@ -1193,11 +1194,11 @@
       <jump line="5" column="23" filename="$USER_HOME$/Codes/lab/cdn-services/app/model/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIHsKICAgICAgICAgICAgICAgY2RuIDogJ2FsaScsCiAgICAgICAgICAgICAgIGRvbWFpbiA6IFsnaW5hcHAuMXNhcHAuY29tJ10sCiAgICAgICAgICAgICAgIHBhdGggOiBbJy9ob21lL3dvcmsvaGVyZSddCiAgICAgICAgICAgfQogICAgICAgICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1206,31 +1207,31 @@
         <text encoding="base64">ICByb3V0ZXIuZ2V0KCcvJywgY29udHJvbGxlci5ob21lLmluZGV4KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIHsKICAgICAgICAgICAgICAgY2RuIDogJ2FsaScsCiAgICAgICAgICAgICAgIGRvbWFpbiA6IFsnaW5hcHAuMXNhcHAuY29tJ10sCiAgICAgICAgICAgICAgIHBhdGggOiBbJy9ob21lL3dvcmsvaGVyZSddCiAgICAgICAgICAgfQogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0udGFza0lkID0gZGF0YS50YXNrSWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgaXRlbS5wYXRoLm1hcChwYXRoSXRlbSA9PiB7CgogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNhdGNoKGUgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5zdGF0dXMgPSAnZXJyb3InOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5yZWFzb24gPSBlLm1lc3NhZ2U7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChub3RpZnlUYXNrKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHF1ZXJ5UmVzdWx0IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdEFsaUZhaWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly90ZXN0QWxpU3VjY2VzcygpOwovL3Rlc3RRY2xvdWRGYWlsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gdGVzdEFsaUZhaWwoKXsKICAgIGxldCBjZG4gPSAnYWxpJzsKICAgIGxldCB1cmwgPSAnaHR0cDovL2luYXBwLjFzYXBwLmNvbS9xdWthbl9uZXcyL2Rlc3Qvc3ViamVjdC9yZWFkL3N1YmplY3QvdGVzdF9xdWthbkNsaWVudC5odG1sJzsKICAgIHRyeXsKICAgICAgICBsZXQgdGFza0luZm8gPSBhd2FpdCBjZG5SZWZyZXNoLnJlZnJlc2goY2RuLCB1cmwpOwogICAgICAgIGNvbnNvbGUubG9nKCdzdWNjZXNzJywgdGFza0luZm8pOwogICAgfSBjYXRjaChlKXsKICAgICAgICBjb25zb2xlLmxvZygnZXJyb3InLCBlLm1lc3NhZ2UpIDsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihkYXRhID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IGNkbiA9ICdhbGknOwpsZXQgdXJsID0gJ2h0dHA6Ly9pbmFwcC4xc2FwcC5jb20vcXVrYW5fbmV3Mi9kZXN0L3N1YmplY3QvcmVhZC9zdWJqZWN0L3Rlc3RfcXVrYW5DbGllbnQuaHRtbCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
