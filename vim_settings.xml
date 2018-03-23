@@ -334,7 +334,6 @@
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cdn-services/app/agent.js" timestamp="1521708531320" />
       <file name="$USER_HOME$/Codes/lab/cdn-services/node_modules/@qtt/node-cdn-refresh/lib/refresh-cdn.js" timestamp="1521701716273">
         <mark key="[" line="40" column="9" />
       </file>
@@ -451,6 +450,9 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ewx-services/config/config.default.js" timestamp="1521772295575">
+        <mark key="[" line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/Temp/project/qtt-scaffold-component/index.js" timestamp="1521451386558">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -489,7 +491,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cdn-services/config/config.default.js" timestamp="1521772284895">
+      <file name="$USER_HOME$/Codes/lab/cdn-services/config/config.default.js" timestamp="1521772340743">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="38" />
         <mark key="." line="13" column="38" />
@@ -544,6 +546,12 @@
         <mark key="]" line="6" column="32" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ewx-services/app/controller/ewx.js" timestamp="1521772465821">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/example/app.vue" timestamp="1515566155531">
         <mark key="[" line="1" column="9" />
@@ -770,11 +778,22 @@
         <mark key="." line="68" column="6" />
         <mark key="^" line="68" column="6" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ewx-services/app/router.js" timestamp="1521772443811">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="49" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/layouts/main.vue" timestamp="1515338738558">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ewx-services/app/middleware/common-response.js" timestamp="1521772313225">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/index.html" timestamp="1516768369512">
         <mark key="[" line="10" column="0" />
@@ -985,6 +1004,9 @@
         <mark key="." line="62" column="49" />
         <mark key="^" line="62" column="49" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ewx-services/app/service/ewx.js" timestamp="1521772368522">
+        <mark key="[" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/readme.md" timestamp="1521016537326">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1117,7 +1139,7 @@
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cdn-services/app/router.js" timestamp="1521718173141">
+      <file name="$USER_HOME$/Codes/lab/cdn-services/app/router.js" timestamp="1521772419011">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -1177,7 +1199,7 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cdn-services/app/service/cdn.js" timestamp="1521719029977">
+      <file name="$USER_HOME$/Codes/lab/cdn-services/app/service/cdn.js" timestamp="1521772370454">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -1384,11 +1406,11 @@
       <jump line="71" column="19" filename="$USER_HOME$/Codes/lab/cdn-services/app/service/cdn.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkb3RoaXMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>egg</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>egg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1397,31 +1419,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGAke3VzZXJ9QHF1dG91dGlhby5uZXRgLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3RoaXMoKTsK</text>
+        <text encoding="base64">Y29uc3QgZmVjaGEgPSByZXF1aXJlKCdmZWNoYScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlkI7nu63kuK3pl7Tku7bmiafooYzlrozmiJDlkI7lsIblk43lupTkvZPovazmjaLmiJAgZ3ppcAogICAgICAgIGxldCBib2R5ID0gY3R4LmJvZHk7CiAgICAgICAgaWYgKCFib2R5KSByZXR1cm47CgogICAgICAgIGN0eC5ib2R5ID0gewogICAgICAgICAgICBjb2RlIDogMCwKICAgICAgICAgICAgZGF0YSA6IGN0eC5ib2R5LAogICAgICAgICAgICBtc2cgOiAnJwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5ZCO57ut5Lit6Ze05Lu25omn6KGM5a6M5oiQ5ZCO5bCG5ZON5bqU5L2T6L2s5o2i5oiQIGd6aXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8g5pSv5oyBIG9wdGlvbnMudGhyZXNob2xkCiAgICAgICAgaWYgKG9wdGlvbnMudGhyZXNob2xkICYmIGN0eC5sZW5ndGggPCBvcHRpb25zLnRocmVzaG9sZCkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb3RoaXMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNKU09OKGJvZHkpKSBib2R5ID0gSlNPTi5zdHJpbmdpZnkoYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlkI7nu63kuK3pl7Tku7bmiafooYzlrozmiJDlkI7lsIblk43lupTkvZPovazmjaLmiJAgZ3ppcAogICAgICAgIGxldCBib2R5ID0gY3R4LmJvZHk7CiAgICAgICAgaWYgKCFib2R5KSByZXR1cm47CgogICAgICAgIGN0eC5ib2R5ID0gewogICAgICAgICAgICBjb2RlIDogMCwKICAgICAgICAgICAgZGF0YSA6IGN0eC5ib2R5LAogICAgICAgICAgICBtc2cgOiAnJwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8g5pSv5oyBIG9wdGlvbnMudGhyZXNob2xkCiAgICAgICAgaWYgKG9wdGlvbnMudGhyZXNob2xkICYmIGN0eC5sZW5ndGggPCBvcHRpb25zLnRocmVzaG9sZCkgcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGA8YnI+YCwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNKU09OKGJvZHkpKSBib2R5ID0gSlNPTi5zdHJpbmdpZnkoYm9keSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBgPGJyPmAsCg==</text>
+        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGA8YnI+YCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGDliLfmlrBDRE7ku7vliqHlkK/liqhgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBgPGJyPmAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
