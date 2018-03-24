@@ -276,10 +276,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1521872342224">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1521875811418">
+        <mark key="[" line="83" column="54" />
+        <mark key="]" line="84" column="7" />
+        <mark key="." line="84" column="7" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/md5.js" timestamp="1514519399273">
         <mark key="[" line="8" column="15" />
@@ -1504,43 +1505,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeVVzZXJzLnB1c2goYm9keS5jb21taXQuYXV0aG9yLikK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbm90aWZ5VXNlcnMgPSBbXTsKICAgICAgICBub3RpZnlVc2Vycy5wdXNoKGJvZHkudXNlci51c2VybmFtZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>commonWathers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAgRVZFTlRfS0lORC5NRVJHRV9SRVFVRVNUOgogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2Z1Y2snKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbm90aWZ5VXNlcnMgPSBbXTsKICAgICAgICBub3RpZnlVc2Vycy5wdXNoKGJvZHkudXNlci51c2VybmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeVVzZXJzLnB1c2goYm9keS5jb21taXQuYXV0aG9yLikK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGl0bGUgPSBib2R5LnRpdGxlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmV0UHJvbWlzZSA9IFByb21pc2UucmVqZWN0KCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGV0IGNvbW1vbldhdGhlciA9IFsKICAgICd6aGFuZ3l1JwpdOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGBtZXJnZV9yZXF1ZXN0IOaWsOivhOiuumAsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyZXQgPT09IHRydWUpewogICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGBgLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdmdWNrJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGBQaXBlbGluZXMg5Y+Y5YqoYCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGDliIbmlK86ICR7cmVmfWAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
