@@ -276,11 +276,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1521875811418">
-        <mark key="[" line="83" column="54" />
-        <mark key="]" line="84" column="7" />
-        <mark key="." line="84" column="7" />
-        <mark key="^" line="84" column="7" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1521877989356">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="158" column="62" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/md5.js" timestamp="1514519399273">
         <mark key="[" line="8" column="15" />
@@ -673,8 +673,8 @@
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/tests/e" timestamp="1514439807972">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1521869384950">
-        <mark key="[" line="7" column="11" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1521878529522">
+        <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
@@ -812,10 +812,11 @@
         <mark key="^" line="10" column="83" />
         <mark key="." line="10" column="83" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/agent.js" timestamp="1521871064869">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/agent.js" timestamp="1521877819666">
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/modou-web/qukan_new2/activity/anniversary/script/index.es6" timestamp="1516783498259">
         <mark key="[" line="11" column="19" />
@@ -1505,10 +1506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm90aWZ5VXNlcnMgPSBbXTsKICAgICAgICBub3RpZnlVc2Vycy5wdXNoKGJvZHkudXNlci51c2VybmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>commonWathers</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1517,31 +1518,31 @@
         <text encoding="base64">ICAgICAgICBsZXQgbm90aWZ5VXNlcnMgPSBbXTsKICAgICAgICBub3RpZnlVc2Vycy5wdXNoKGJvZHkudXNlci51c2VybmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGl0bGUgPSBib2R5LnRpdGxlOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwucGFyc2UoYm9keS5wcm9qZWN0LndlYl91cmwpKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGNvbW1vbldhdGhlciA9IFsKICAgICd6aGFuZ3l1JwpdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGBtZXJnZV9yZXF1ZXN0IOaWsOivhOiuumAsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjID0gZGVzYy5zbGljZSgxLDIwKSArICcuLi4nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGBgLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS51c2Vycy5wdXNoKCd6aGFuZ3l1Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGBQaXBlbGluZXMg5Y+Y5YqoYCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGDnvJbor5HliIbmlK86ICR7cmVmfWAsCiAgICAgICAgICAgICAgICBg57yW6K+R57uT5p6cOiAke3N0YXR1c31gLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGAsCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGl0bGUgPSBib2R5LnRpdGxlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGDliIbmlK86ICR7cmVmfWAsCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
