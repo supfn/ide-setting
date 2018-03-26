@@ -609,11 +609,12 @@
         <mark key="^" line="37" column="5" />
         <mark key="." line="37" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" timestamp="1522041908901">
-        <mark key="[" line="35" column="67" />
-        <mark key="]" line="35" column="67" />
-        <mark key="." line="35" column="67" />
-        <mark key="^" line="122" column="0" />
+      <file name="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" timestamp="1522044676669">
+        <mark key="'" line="21" column="46" />
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="18" />
+        <mark key="^" line="33" column="18" />
+        <mark key="." line="33" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/pages/Home.vue" timestamp="1515116134157">
         <mark key="[" line="194" column="16" />
@@ -1259,8 +1260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/models/DeployServerGroup.js" />
-      <jump line="29" column="1" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/test.js" />
       <jump line="81" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/model.js" />
       <jump line="82" column="16" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuild/model.js" />
       <jump line="18" column="1" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/ciBuildConfig/CIBuildConfig.js" />
@@ -1359,46 +1358,48 @@
       <jump line="71" column="19" filename="$USER_HOME$/Codes/lab/cdn-services/app/service/cdn.js" />
       <jump line="34" column="22" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
       <jump line="14" column="4" filename="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" />
+      <jump line="104" column="12" filename="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" />
+      <jump line="21" column="46" filename="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VuZCAiZWNobyB2ZXJzaW9uOlwkKGdpdCBkZXNjcmliZSAtLXRhZ3MpXHIiCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZXNzYWdlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>getCurrentTag</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImNkbiI6ICJhbGkiLAogICAgICAgICAgICAgICAgImRvbWFpbiI6IFsiaW5hcHAuMXNhcHAuY29tIl0sCiAgICAgICAgICAgICAgICAicGF0aCI6IFsuLi5jaGFuZ2VMaXN0XQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VuZCAiZWNobyB2ZXJzaW9uOlwkKGdpdCBkZXNjcmliZSAtLXRhZ3MpXHIiCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZXNzYWdlKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwZWN0IHsKICAgIC1yZSB7XFswLTlcXSt9IAp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxlYXN0Rml2ZVRhZ3MxKQoKICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpcm0pOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAgICdQcml2YXRlLVRva2VuJzogJ3kzYW1iaFB5Y25YaGdScm90bXR5JwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAgICdQcml2YXRlLVRva2VuJzogJ3kzYW1iaFB5Y25YaGdScm90bXR5JwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhsZWFzdEZpdmVUYWdzKQogICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
