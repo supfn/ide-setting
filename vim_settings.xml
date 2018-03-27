@@ -354,6 +354,11 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/1key-deploy-a9/expect-scripts/getCurrentTag.sh" timestamp="1522148757282">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/Image.vue" timestamp="1515080241650">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -629,6 +634,13 @@
         <mark key="]" line="37" column="5" />
         <mark key="^" line="37" column="5" />
         <mark key="." line="37" column="5" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" timestamp="1522148973899">
+        <mark key="e" line="105" column="8" />
+        <mark key="'" line="21" column="46" />
+        <mark key="[" line="224" column="12" />
+        <mark key="]" line="224" column="12" />
+        <mark key="." line="224" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/pages/Home.vue" timestamp="1515116134157">
         <mark key="[" line="194" column="16" />
@@ -1106,7 +1118,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/1key-deploy-a9/expect-scripts/checkoutTargetTag.sh" timestamp="1522129762420">
+      <file name="$USER_HOME$/Codes/lab/1key-deploy-a9/expect-scripts/checkoutTargetTag.sh" timestamp="1522148764755">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
         <mark key="^" line="12" column="16" />
@@ -1437,7 +1449,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">Ci8vIGdpdCBjaGVj</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1448,14 +1460,14 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwZWN0ICIkIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VuZCAiZXhpdCIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8vIGdpdCBjaGVj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhpdAo=</text>
+        <text encoding="base64">c2VuZCAiZXhpdCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
+        <text encoding="base64">ZXhpdAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
@@ -1464,16 +1476,16 @@
         <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwZWN0ICJ3b3JrIgpzZW5kICJnaXQgcHVsbCAmJiBlY2hvIG5leHRcciIKZXhwZWN0ICJuZXh0IgpzZW5kICIgJiYgZWNobyBuZXh0XHIiOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwZWN0ICJ3b3JrIgpzZW5kICJnaXQgcHVsbCAmJiBlY2hvIG5leHRcciIKZXhwZWN0ICJuZXh0IgpzZW5kICIgJiYgZWNobyBuZXh0XHIiOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
