@@ -567,7 +567,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522134536603">
+      <file name="/Dummy.txt" timestamp="1522149961170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/node-cdn-refresh/index.js" timestamp="1521685109827">
@@ -722,10 +722,10 @@
         <mark key="^" line="78" column="79" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/package.json" timestamp="1521865043260">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/package.json" timestamp="1522149949945">
         <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/laopo/counter/index2.js" timestamp="1520910722594">
@@ -974,6 +974,11 @@
         <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ewx-users/list" timestamp="1522124768599" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/index.js" timestamp="1522149945576">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/modules/GameApi.js" timestamp="1514473411593">
         <mark key="[" line="1" column="23" />
       </file>
@@ -1449,10 +1454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci8vIGdpdCBjaGVj</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1460,32 +1465,32 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwZWN0ICIkIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8vIGdpdCBjaGVj</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXd4VXNlcklkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VuZCAiZXhpdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhpdAo=</text>
+        <text encoding="base64">Y29uc3QgZ2V0d3hVc2VySWQgPSByZXF1aXJlKCdAcXR0L25vZGUtZXd4LXVzZXJpZCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgdiAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0VXNlcnMucHVzaCgKICAgICAgICAgICAgICAgIGAke25hbWV9QHF1dG91dGlhby5uZXRgLAogICAgICAgICAgICAgICAgYCR7bmFtZX1AbGVtZWRpYXdlYi5jb21gCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0VXNlcnMucHVzaCh2YWx1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwZWN0ICJ3b3JrIgpzZW5kICJnaXQgcHVsbCAmJiBlY2hvIG5leHRcciIKZXhwZWN0ICJuZXh0IgpzZW5kICIgJiYgZWNobyBuZXh0XHIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSBnZXRFd3hVc2VySWQobmFtZSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwZWN0IGVvZgo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRVc2Vycy5wdXNoKAogICAgICAgICAgICBgJHtuYW1lfUBxdXRvdXRpYW8ubmV0YCwKICAgICAgICAgICAgYCR7bmFtZX1AbGVtZWRpYXdlYi5jb21gCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
