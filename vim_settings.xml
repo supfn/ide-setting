@@ -254,6 +254,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="8" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/cdn-services/deploy.exp" timestamp="1522130483399">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/index.ejs" timestamp="1520900352124">
         <mark key="[" line="13" column="11" />
       </file>
@@ -1203,7 +1209,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/1key-deploy-a9/expect-scripts/checkoutTargetTag.sh" timestamp="1522122475120">
+      <file name="$USER_HOME$/Codes/lab/1key-deploy-a9/expect-scripts/checkoutTargetTag.sh" timestamp="1522129762420">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
         <mark key="^" line="12" column="16" />
@@ -1564,10 +1570,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'@qutoutiao.net'</text>
+        <text>varname</text>
       </register>
       <register name="-" type="4">
-        <text>'@qutoutiao.net'</text>
+        <text>varname</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1576,31 +1582,31 @@
         <text encoding="base64">Y29uc29sZS5sb2coJ2xlY2h1YW4tdXNlcnMnLCBsZWNodWFuLmxlbmd0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">c2V0IHByb2ogW2ZpbGUgZGlybmFtZSAkYXJndjBdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">c2V0IHByb2ogImNkbi1zZXJ2aWNlcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihvbGRVc2Vyc01hcFtuYW1lXSl7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKG5hbWUsIGFjY3RpZCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZXhwZWN0ICJ3b3JrIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIE9iamVjdC5lbnRyaWVzKG9sZFVzZXJzTWFwKS5sZW5ndGgpCg==</text>
+        <text encoding="base64">c2VuZCAiXHIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudCwKICAgICAgICAgICAgYWxpYXMsCiAgICAgICAgICAgIHd4X2lkX2hhc2gsCiAgICAgICAgICAgIG1haW5wYXJ0eV9pZCwKICAgICAgICAgICAgd3hxeV91c2VyaWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">c2V0IHRhZyBbbGluZGV4ICRhcmd2IDBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2xlY2h1YW4nLCBsZWNodWFuLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgICBpZihvbGRVc2Vyc01hcFtuYW1lXSl7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKG5hbWUsIGFjY3RpZCkKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
