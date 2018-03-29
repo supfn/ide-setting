@@ -283,12 +283,12 @@
         <mark key="." line="84" column="56" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1522317488449">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1522318556889">
         <mark key="'" line="77" column="47" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="." line="228" column="0" />
-        <mark key="^" line="228" column="36" />
+        <mark key="[" line="220" column="16" />
+        <mark key="]" line="220" column="18" />
+        <mark key="." line="220" column="18" />
+        <mark key="^" line="220" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/md5.js" timestamp="1514519399273">
         <mark key="[" line="8" column="15" />
@@ -1590,11 +1590,11 @@
       <jump line="75" column="47" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgpsZXQgZ2l0bGFiID0gcmVxdWlyZSgnbm9kZS1naXRsYWInKQovLyBDb25uZWN0aW9uCmxldCBjbGllbnQgPSBnaXRsYWIuY3JlYXRlUHJvbWlzZSh7CiAgICBhcGk6ICdodHRwOi8vZ2l0LnF1dG91dGlhby5uZXQvYXBpL3Y0JywKICAgIHByaXZhdGVUb2tlbjogcHJvY2Vzcy5lbnYuR0lUTEFCX1BSSVZBVEVfVE9LRU4KfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mergeRequestId</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>mergeRequestId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
