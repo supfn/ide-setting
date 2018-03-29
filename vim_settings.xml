@@ -378,11 +378,11 @@
       <file name="$USER_HOME$/Codes/lab/cdn-services/node_modules/@qtt/node-cdn-refresh/lib/refresh-cdn.js" timestamp="1521701716273">
         <mark key="[" line="40" column="9" />
       </file>
-      <file name="$USER_HOME$/Codes/laopo/counter/txt.js" timestamp="1520752707716">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/Codes/laopo/counter/txt.js" timestamp="1522334054348">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-config-ui/src/server/config.js" timestamp="1520992542614">
         <mark key="[" line="10" column="5" />
@@ -1593,10 +1593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>完美解决相关人问题</text>
+        <text>let output = map[p];</text>
       </register>
       <register name="-" type="4">
-        <text>完美解决相关人问题</text>
+        <text>let output = map[p];</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1605,28 +1605,28 @@
         <text encoding="base64">ICAgICAgICBsZXQgbmVlZFRpcCA9IHN0YXRlID09PSAnb3BlbmVkJyAmJiAhL15cZHs2LH0vLnRlc3QodGl0bGUpOwogICAgICAgIGxldCB0aXBzID0gW107CiAgICAgICAgaWYobmVlZFRpcCl7CiAgICAgICAgICAgIHRpcHMucHVzaCgn5o+Q6YaS77ya5byA5Y+R5rOo5oSP5LiL77yM5L2g55qE55qE5qCH6aKY6YeM5rKh5pyJ5bimdGFwZCBpZCcpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGBgLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBgYCwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNwYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGBgLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBgYCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL21lcmdlX3JlcXVlc3RfaWQ6IGlpZCwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyZ2VfcmVxdWVzdF9pZDogaWlkLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL21lcmdlX3JlcXVlc3RfaWQ6IGlpZCwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYm9keS5wcm9qZWN0LnBhdGhfd2l0aF9uYW1lc3BhY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVyZ2VfcmVxdWVzdF9pZDogaWlkLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
