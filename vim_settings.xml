@@ -283,11 +283,11 @@
         <mark key="." line="84" column="56" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1522323321195">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1522374496221">
         <mark key="'" line="77" column="47" />
-        <mark key="[" line="82" column="20" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+        <mark key="[" line="81" column="46" />
+        <mark key="]" line="81" column="46" />
+        <mark key="." line="81" column="46" />
         <mark key="^" line="220" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/md5.js" timestamp="1514519399273">
@@ -642,7 +642,7 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522324100924">
+      <file name="/Dummy.txt" timestamp="1522374501765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1593,10 +1593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let output = map[p];</text>
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text>let output = map[p];</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
