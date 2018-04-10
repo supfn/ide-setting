@@ -18,6 +18,7 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/README.md" timestamp="1523343685819" />
       <file name="$USER_HOME$/Codes/lab/cdn-services/app/model/cdnRefresher.js" timestamp="1521644111037">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="29" />
@@ -274,7 +275,7 @@
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-server/views/test/test.html" timestamp="1521004420844">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/demos/TagPush.json" timestamp="1523338053414" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/demos/TagPush.json" timestamp="1523342615063" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/build/utils.js" timestamp="1515570618145">
         <mark key="[" line="55" column="33" />
         <mark key="]" line="133" column="42" />
@@ -287,11 +288,12 @@
         <mark key="." line="84" column="56" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1523338038999">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1523342154481">
         <mark key="'" line="97" column="47" />
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="32" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/md5.js" timestamp="1514519399273">
         <mark key="[" line="8" column="15" />
@@ -592,11 +594,10 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab.js" timestamp="1521870007020">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="8" column="59" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab.js" timestamp="1523342266526">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver/views/a/test.html" timestamp="1520595649870">
         <mark key="[" line="8" column="18" />
@@ -651,7 +652,7 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523339286286">
+      <file name="/Dummy.txt" timestamp="1523342275343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1081,11 +1082,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/index.js" timestamp="1522244356250">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-wxnotify/index.js" timestamp="1523343670714" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/modules/GameApi.js" timestamp="1514473411593">
         <mark key="[" line="1" column="23" />
       </file>
@@ -1613,11 +1610,11 @@
       <jump line="102" column="23" filename="$USER_HOME$/Codes/lab/gitlab-services/app/extend/tmpl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIOWQiOW5tjogJHtwYXJhbXMubWVyZ2VTdGF0dXN9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>趣头条</text>
       </register>
       <register name="-" type="4">
-        <text>usernames</text>
+        <text>趣头条</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1626,31 +1623,31 @@
         <text encoding="base64">ICAgICAgICBkZWxldGUgZmxhZy51cGRhdGVkQXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIOWQiOW5tjogJHtwYXJhbXMubWVyZ2VTdGF0dXN9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5ib2R5ID0gdGhpcy5jdHguYWRtaW5zOwogICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmwK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5hZG1pbnMgPSBhZG1pbnM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9qZWN0LAogICAgICAgICAgICAgICAgICAgIHRpdGxlLAogICAgICAgICAgICAgICAgICAgIHVzZXIsCiAgICAgICAgICAgICAgICAgICAgc291cmNlQnJhbmNoLAogICAgICAgICAgICAgICAgICAgIHRhcmdldEJyYW5jaCwKICAgICAgICAgICAgICAgICAgICBzdGF0ZSwKICAgICAgICAgICAgICAgICAgICBtZXJnZVN0YXR1cywKICAgICAgICAgICAgICAgICAgICBuYW1lczogbmFtZXMuam9pbignLCcpLAogICAgICAgICAgICAgICAgICAgIGxhYmVscywK</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbnMgPSBhZG1pbnMuc3BsaXQoJywnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9IiR7cGFyYW1zLnVybH0iPueCueWHu+afpeecizwvYT4gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxTRVA+CiAgICAke3BhcmFtcy51c2VyfTogICAke3BhcmFtcy5ub3RlfQogICAgPFNFUD4K</text>
+        <text encoding="base64">ICAgIOWQiOW5tjogJHtwYXJhbXMubWVyZ2VTdGF0dXN9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOebuOWFszogJHtwYXJhbXMubmFtZXN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICDmoIfpopg6ICR7cGFyYW1zLnRpdGxlfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
