@@ -160,6 +160,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/store-test/index.js" timestamp="1523348617761">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/enums.js" timestamp="1523337865529">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="7" column="18" />
@@ -1611,10 +1617,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>趣头条</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>趣头条</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1626,28 +1632,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5ib2R5ID0gdGhpcy5jdHguYWRtaW5zOwogICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Y29uc3QgY3JlYXRlID0gdHJ1ZQpjb25zdCBjbGllbnQgPSBuZXcgU3RvcmVDbGllbnQoJ1Byb2RFdmVudFJlY29yZGVyJyxjcmVhdGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5hZG1pbnMgPSBhZG1pbnM7Cg==</text>
+        <text encoding="base64">Y29uc3QgY3JlYXRlID0gdHJ1ZQpjb25zdCBjbGllbnQgPSBuZXcgU3RvcmVDbGllbnQoJ1Byb2RFdmVudFJlY29yZGVyJyxjcmVhdGUpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pbnMgPSBhZG1pbnMuc3BsaXQoJywnKTsK</text>
+        <text encoding="base64">YXdhaXQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5ib2R5ID0gdGhpcy5jdHguYWRtaW5zOwogICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIOWQiOW5tjogJHtwYXJhbXMubWVyZ2VTdGF0dXN9IAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5hZG1pbnMgPSBhZG1pbnM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbnMgPSBhZG1pbnMuc3BsaXQoJywnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
