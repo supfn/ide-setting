@@ -138,11 +138,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/store-test/index.js" timestamp="1523424139895">
-        <mark key="[" line="27" column="60" />
-        <mark key="]" line="27" column="60" />
-        <mark key="." line="27" column="60" />
-        <mark key="^" line="27" column="55" />
+      <file name="$USER_HOME$/Codes/lab/store-test/index.js" timestamp="1523447057830">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="38" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/enums.js" timestamp="1523337865529">
         <mark key="[" line="15" column="16" />
@@ -951,6 +951,9 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="23" column="35" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/store-test/node_modules/@qtt/store-client/src/Client.js" timestamp="1523446977203">
+        <mark key="[" line="134" column="57" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/ecosystem.config.js" timestamp="1520700363539">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="25" column="0" />
@@ -1087,6 +1090,7 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="31" column="51" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/store-services/app/controller/collection.js" timestamp="1523447093825" />
       <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/eslint.sh" timestamp="1517468837674">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="71" />
@@ -1471,11 +1475,11 @@
       <jump line="102" column="23" filename="$USER_HOME$/Codes/lab/gitlab-services/app/extend/tmpl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ago=</text>
+      <register name="&quot;" type="4">
+        <text>后</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>后</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1484,31 +1488,31 @@
         <text encoding="base64">ICAgICAgICBhd2FpdCBjbGllbnQuY29ubmVjdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgICAiJGNvdW50IjogMSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvdXRwdXQpCg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5YWz6IGUdGFwZDogJHtpdGVtLnRpZH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvdXRwdXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBgJHtjcmVhdGVkQXR9IC0gJHtpdGVtLmhhbmRsZXJ9IC0gJHtpdGVtLmV2ZW50fSAtICR7aXRlbS5kZXRhaWxzLnJlcGxhY2UoL1xyP1xuL2csJyAnKX1gCg==</text>
+        <text encoding="base64">5YWz6IGUdGFwZDogJHtpdGVtLnRpZH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheSA9IGFycmF5LnJldmVyc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBgJHtjcmVhdGVkQXR9IC0gJHtpdGVtLmhhbmRsZXJ9IC0gJHtpdGVtLmV2ZW50fSAtICR7aXRlbS5kZXRhaWxzLnJlcGxhY2UoL1xyP1xuL2csJyAnKX1gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnJheSA9IGFycmF5LnJldmVyc2UoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0eXBlKSB7CiAgICAgICAgICAgIHF1ZXJ5Q29uZC50eXBlID0gdHlwZTsKICAgICAgICB9CiAgICAgICAgaWYoaGFuZGxlcil7CiAgICAgICAgICAgIHF1ZXJ5Q29uZC5oYW5kbGVyID0gaGFuZGxlcjsKICAgICAgICB9CiAgICAgICAgaWYoZXZlbnQpewogICAgICAgICAgICBxdWVyeUNvbmQuZXZlbnQgPSBldmVudDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZih0eXBlKSB7CiAgICAgICAgICAgIHF1ZXJ5Q29uZC50eXBlID0gdHlwZTsKICAgICAgICB9CiAgICAgICAgaWYoaGFuZGxlcil7CiAgICAgICAgICAgIHF1ZXJ5Q29uZC5oYW5kbGVyID0gaGFuZGxlcjsKICAgICAgICB9CiAgICAgICAgaWYoZXZlbnQpewogICAgICAgICAgICBxdWVyeUNvbmQuZXZlbnQgPSBldmVudDsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
