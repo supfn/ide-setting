@@ -273,11 +273,11 @@
         <mark key="." line="84" column="56" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1523702486657">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1523703541733">
         <mark key="'" line="104" column="47" />
-        <mark key="[" line="179" column="23" />
-        <mark key="]" line="168" column="48" />
-        <mark key="." line="168" column="48" />
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
         <mark key="^" line="168" column="48" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/homework-checker/md5.js" timestamp="1514519399273">
@@ -627,7 +627,7 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523702526009">
+      <file name="/Dummy.txt" timestamp="1523703560697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1529,11 +1529,11 @@
       <jump line="67" column="28" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxTRVA+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'http://git.qutoutiao.net</text>
       </register>
       <register name="-" type="4">
-        <text>除</text>
+        <text>'http://git.qutoutiao.net</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
