@@ -120,10 +120,10 @@
         <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/package.json" timestamp="1523459767682">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="15" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="44" column="15" />
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="47" column="15" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="47" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/ui/src/components/Menu.vue" timestamp="1520840572413">
         <mark key="[" line="6" column="42" />
@@ -273,7 +273,7 @@
         <mark key="." line="84" column="56" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1523680733308">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1523689750965">
         <mark key="'" line="104" column="47" />
         <mark key="[" line="53" column="38" />
         <mark key="]" line="170" column="0" />
@@ -367,6 +367,12 @@
         <mark key="[" line="16" column="41" />
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/helper.js" timestamp="1523690261777">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="53" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="53" />
       </file>
       <file name="$USER_HOME$/Codes/laopo/counter/txt.js" timestamp="1522334054348">
         <mark key="[" line="14" column="10" />
@@ -651,6 +657,11 @@
         <mark key="." line="14" column="28" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/middleware/common-response.js" timestamp="1523690695555">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/components/swiper/demo.vue" timestamp="1512571615563">
         <mark key="[" line="28" column="52" />
         <mark key="]" line="31" column="10" />
@@ -751,7 +762,7 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1522034113098">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1523688647975">
         <mark key="[" line="28" column="53" />
         <mark key="]" line="28" column="53" />
         <mark key="." line="28" column="53" />
@@ -909,17 +920,23 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlab.js" timestamp="1523689694862">
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/jsbridge-api/jsbridge-api.js" timestamp="1515405101525">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="8" column="2" />
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder.js" timestamp="1523425146552">
-        <mark key="[" line="51" column="17" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder.js" timestamp="1523690910805">
+        <mark key="'" line="38" column="47" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/options.html" timestamp="1513305071005">
         <mark key="[" line="48" column="10" />
@@ -1266,6 +1283,12 @@
         <mark key="^" line="29" column="70" />
         <mark key="." line="29" column="70" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/gitlab.js" timestamp="1523691046409">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="63" column="38" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/components/Login.vue" timestamp="1520699316650">
         <mark key="[" line="41" column="40" />
         <mark key="]" line="42" column="42" />
@@ -1404,7 +1427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="52" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/deployServerGroup.vue" />
       <jump line="15" column="19" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/model/DeployTemplate.js" />
       <jump line="13" column="18" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/deployTask/model.js" />
       <jump line="67" column="40" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/components/home.vue" />
@@ -1504,13 +1526,14 @@
       <jump line="75" column="47" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
       <jump line="102" column="23" filename="$USER_HOME$/Codes/lab/gitlab-services/app/extend/tmpl.js" />
       <jump line="54" column="3" filename="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlab.js" />
+      <jump line="38" column="47" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2hlcmUnLE1hdGgucmFuZG9WbSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHtnaXRsYWJBcGl9L3Byb2plY3RzLyR7aWR9L3JlcG9zaXRvcnkvdGFncy8ke3RhZ31gKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>privite</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1519,31 +1542,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFuZ2VzLnB1c2goYCR7a2V5fSDlj5HnlJ/lj5jmm7RgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2hlcmUnLE1hdGgucmFuZG9WbSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHtnaXRsYWJBcGl9L3Byb2plY3RzLyR7aWR9L3JlcG9zaXRvcnkvdGFncy8ke3RhZ31gKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdHguYm9keSA9IDExCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLm1lc3Nlbmdlci5zZW5kVG9BZ2VudCgnbm90aWZ5JywgewogICAgICAgICAgICAgICAgdXNlcnM6IHRhc2suY29tbWl0dGVyLAogICAgICAgICAgICAgICAgY29udGVudDogWwogICAgICAgICAgICAgICAgICAgIGBbJHtkYXRlfV0g5Yi35pawQ0RO5Lu75Yqh5ZCv5YqoIDxhIGhyZWY9IiR7dXJsfSI+5p+l55yL6K+m5oOFPC9hPmAsCiAgICAgICAgICAgICAgICAgICAgYOmhueebru+8miR7dGFzay5wcm9qZWN0fWAsCiAgICAgICAgICAgICAgICAgICAgYOivtOaYju+8miR7dGFzay5tZXNzYWdlfWAKICAgICAgICAgICAgICAgIF0uam9pbignPGJyPicpCiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKDIyMikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpOwpjb25zdCBoZWxwZXIgPSByZXF1aXJlKCcuL2FwcC9leHRlbmQvaGVscGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKDMzMykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS51c2VycyA9IGhlbHBlci5tZXJnZVVzZXJzKG5hbWVzLCB3YXRjaGVyKS5qb2luKCcsJyk7CgogICAgICAgICAgICBheGlvcyh7CiAgICAgICAgICAgICAgICB1cmw6ICdodHRwOi8vcmQucXV0b3V0aWFvLm5ldC9hcGkvdjEvd3gtbm90aWZ5JywKICAgICAgICAgICAgICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgICAgICAgICAgICAgZGF0YTogZGF0YQogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMTEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBg5pe26Ze0OiAke2ZlY2hhLmZvcm1hdChuZXcgRGF0ZSgpLCAnWVlZWS9NTS9ERCBISDptbTpzcycpfWAsCg==</text>
+        <text encoding="base64">ICAgIHRpbWVvdXQ6IDEwMDAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBg5Y+R6LW35Lq6OiAke3Rhc2suY29tbWl0dGVyfWAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFib2R5KSByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBg5Yi35pawQ0RO5Lu75Yqh5a6M5oiQYCwKICAgICAgICAgICAgICAgICAgICBgSUQ6ICA8YSBocmVmPSJodHRwOi8vcmQucXV0b3V0aWFvLm5ldC9xZnAvaW5kZXguaHRtbCMvdGFzay9saXN0P3Rhc2tJZD0ke3Rhc2suX2lkfSI+JHt0YXNrLl9pZH08L2E+YCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kIDogJ2dldCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
