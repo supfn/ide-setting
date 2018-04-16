@@ -627,7 +627,7 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523766350884">
+      <file name="/Dummy.txt" timestamp="1523884842155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -821,13 +821,13 @@
         <mark key="^" line="10" column="83" />
         <mark key="." line="10" column="83" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/agent.js" timestamp="1523679548277">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/agent.js" timestamp="1523884836025">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/store-test/km.js" timestamp="1523878610305">
+      <file name="$USER_HOME$/Codes/lab/store-test/km.js" timestamp="1523884528885">
         <mark key="'" line="147" column="50" />
         <mark key="[" line="60" column="22" />
         <mark key="]" line="60" column="22" />
@@ -861,6 +861,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/store-test/user.js" timestamp="1523884559051">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/node-cdn-refresh/tests/index.js" timestamp="1521696701544">
         <mark key="[" line="63" column="3" />
@@ -1536,11 +1542,11 @@
       <jump line="55" column="50" filename="$USER_HOME$/Codes/lab/store-test/km.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>axios</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1549,31 +1555,31 @@
         <text encoding="base64">ICAgIGF3YWl0IHNlbmROb3RpZnkoNDkxOTA3NjcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS51c2VycyA9IGFkbWluczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGttVGl0bGUgPSAK</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIGttVGl0bGUgPSAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGttVGl0bGUpCiAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
