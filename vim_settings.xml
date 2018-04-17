@@ -119,11 +119,11 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/package.json" timestamp="1523459767682">
-        <mark key="[" line="47" column="15" />
-        <mark key="]" line="47" column="15" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/package.json" timestamp="1523961298900">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="29" column="86" />
         <mark key="^" line="29" column="19" />
-        <mark key="." line="47" column="15" />
+        <mark key="." line="29" column="86" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/ui/src/components/Menu.vue" timestamp="1520840572413">
         <mark key="[" line="6" column="42" />
@@ -368,12 +368,7 @@
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/helper.js" timestamp="1523765812744">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/helper.js" timestamp="1523961543642" />
       <file name="$USER_HOME$/Codes/laopo/counter/txt.js" timestamp="1522334054348">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="65" column="0" />
@@ -553,6 +548,9 @@
         <mark key="^" line="5" column="58" />
         <mark key="." line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/store-test/a.js" timestamp="1523961207464">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/README.md" timestamp="1523349691085">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -627,7 +625,7 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523957546274">
+      <file name="/Dummy.txt" timestamp="1523962085318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -727,7 +725,7 @@
         <mark key="." line="8" column="67" />
         <mark key="^" line="8" column="67" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.prod.js" timestamp="1523885827464">
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.prod.js" timestamp="1523961162654">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -943,12 +941,12 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder.js" timestamp="1523957530192">
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder.js" timestamp="1523962064971">
         <mark key="'" line="67" column="28" />
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="45" column="33" />
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/options.html" timestamp="1513305071005">
         <mark key="[" line="48" column="10" />
@@ -1014,6 +1012,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="23" column="35" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/store-test/node_modules/@qtt/store-client/src/Client.js" timestamp="1523446977203">
+        <mark key="[" line="134" column="57" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/demos/MR14.json" timestamp="1523607771136" />
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/ecosystem.config.js" timestamp="1520700363539">
@@ -1355,8 +1356,8 @@
         <mark key="^" line="29" column="66" />
         <mark key="." line="29" column="66" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.default.js" timestamp="1523434376862">
-        <mark key="[" line="22" column="23" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.default.js" timestamp="1523961159078">
+        <mark key="[" line="3" column="32" />
         <mark key="]" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
@@ -1547,46 +1548,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZSA9IGJvZHk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>git_repo</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYm9keS5idWlsZF9pZCkgewogICAgICAgICAgICBsZXQgZXhpc3QgPSBhd2FpdCBjbGllbnQuZmluZENvbGxlY3Rpb25JdGVtcygncmVjb3JkJywgewogICAgICAgICAgICAgICAgYnVpbGRfaWQ6IGJvZHkuYnVpbGRfaWQsCiAgICAgICAgICAgICAgICBwcm9kdWN0IDogYm9keS5wcm9kdWN0CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICBpZiAoZXhpc3QubGVuZ3RoID4gMCkgewogICAgICAgICAgICAgICAgdGhpcy5jdHgubG9nZ2VyLmluZm8oJ3JlcGVhdCBidWlsZCBpZCAnLCBKU09OLnN0cmluZ2lmeShib2R5KSk7CiAgICAgICAgICAgICAgICBjdHguYm9keSA9ICfph43lpI0gYnVpbGRfaWQnOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjbGllbnQgPSBuZXcgU3RvcmVDbGllbnQoYXBwLmNvbmZpZy5zdG9yZUtleSwgY3JlYXRlKTsKICAgICAgICBhd2FpdCBjbGllbnQuY29ubmVjdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZSA9IGJvZHk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihjYWNoZS5wcm9kdWN0ID09PSBib2R5LnByb2R1Y3QgJiYgY2FjaGUuYnVpbGRfaWQgPT09IGJvZHkuYnVpbGRfaWQpewogICAgICAgICAgICBjdHguYm9keSA9ICfph43lpI0gYnVpbGRfaWQnOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWVzID0gWyflvKDnprknXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhNYXRoLnJhbmRvbSgpLCBuZXcgRGF0ZSgpLCBleGlzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGNhY2hlID0ge307Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3RpZnlQYXJhbXMpOwoKICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY2xpZW50ID0gY3R4LmhlbHBlci5zdG9yZUNsaWVudChhcHApOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                names,
-                content: 
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
