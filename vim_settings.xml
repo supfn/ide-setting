@@ -713,11 +713,11 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/store-test/km.js" timestamp="1524047883356">
-        <mark key="'" line="153" column="50" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Codes/lab/store-test/km.js" timestamp="1524049936591">
+        <mark key="'" line="156" column="50" />
+        <mark key="[" line="96" column="34" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/index.js" timestamp="1513163760280">
         <mark key="[" line="8" column="21" />
@@ -1369,7 +1369,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3RpZnlQYXJhbXMpOwoKICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1381,9 +1381,21 @@
         <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92MS9yZWZyZXNoLWNkbi9saXN0LXRhc2snLCBjb250cm9sbGVyLmNkbi5saXN0VGFzayk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3RpZnlQYXJhbXMpOwoKICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3RpZnlQYXJhbXMpOwoKICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>console.log(
             {
                 names,
@@ -1391,26 +1403,14 @@
             }
         );</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">KEAke2JvZHkuaGFuZGxlciB8fCAnPyd9KWA7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoYm9keS5oYW5kbGVyKXsKICAgICAgICAgICAgICAgIGF3YWl0IGV3eC5ub3RpZnkoewogICAgICAgICAgICAgICAgICAgIGFwcCA6ICdxdHQnLAogICAgICAgICAgICAgICAgICAgIG5hbWVzIDogW2JvZHkuaGFuZGxlcl0sCiAgICAgICAgICAgICAgICAgICAgY29udGVudCA6ICcnCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhleGlzdCk7CiAgICAgICAgY3R4LmJvZHkgPSBleGlzdAoKICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguYm9keSA9IGV4aXN0Owo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5tb2RlbC50ZXN0LmNyZWF0ZSh7CiAgICAgICAgICAgICAKICAgICAgICB9KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoYm9keS5oYW5kbGVyKXsKICAgICAgICAgICAgICAgIGF3YWl0IGV3eC5ub3RpZnkoewogICAgICAgICAgICAgICAgICAgIGFwcCA6ICdxdHQnLAogICAgICAgICAgICAgICAgICAgIG5hbWVzIDogW2JvZHkuaGFuZGxlcl0sCiAgICAgICAgICAgICAgICAgICAgY29udGVudCA6ICcnCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
