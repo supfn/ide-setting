@@ -15,6 +15,7 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/store-test/index.html" timestamp="1524542025288" />
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/js/login-helper.js" timestamp="1513150641610">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="24" column="3" />
@@ -477,6 +478,11 @@
         <mark key="]" line="35" column="19" />
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/store-test/package.json" timestamp="1524542181691">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver/views/a/test.html" timestamp="1520595649870">
         <mark key="[" line="8" column="18" />
@@ -1358,11 +1364,11 @@
       <jump line="55" column="50" filename="$USER_HOME$/Codes/lab/store-test/km.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>atNames</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>atNames</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1371,28 +1377,28 @@
         <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92MS9yZWZyZXNoLWNkbi9saXN0LXRhc2snLCBjb250cm9sbGVyLmNkbi5saXN0VGFzayk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYWxsLCB3ZWVrLCBhdE5hbWVzKTsKCiAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYWxsKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYWxsLCB3ZWVrLCBhdE5hbWVzKTsKCiAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYWxsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3RpZnlQYXJhbXMpOwoKICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3RpZnlQYXJhbXMpOwoKICAgICAgICByZXR1cm47Cg==</text>
