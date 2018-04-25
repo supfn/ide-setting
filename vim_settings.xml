@@ -270,10 +270,10 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/router.js" timestamp="1524646001320">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/router.js" timestamp="1524649809154">
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
         <mark key="^" line="10" column="46" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-config-ui/src/ui/src/App.vue" timestamp="1521000726781">
@@ -915,11 +915,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorderV2.js" timestamp="1524649119020">
-        <mark key="[" line="386" column="65" />
-        <mark key="]" line="387" column="10" />
-        <mark key="^" line="387" column="10" />
-        <mark key="." line="387" column="10" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorderV2.js" timestamp="1524650196542">
+        <mark key="[" line="387" column="18" />
+        <mark key="]" line="391" column="0" />
+        <mark key="^" line="388" column="89" />
+        <mark key="." line="391" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/src/index.js" timestamp="1515568296429">
         <mark key="[" line="7" column="40" />
@@ -1381,10 +1381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjdHguYm9keSA9IGN0eC5yZXF1ZXN0LmJvZHk7CgogICAgICAgIC8vIHJldHVybjsK</text>
       </register>
       <register name="-" type="4">
-        <text>await</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1393,18 +1393,21 @@
         <text encoding="base64">ICAgIHJvdXRlci5wb3N0KCcvdjEvYWRkJywgY29udHJvbGxlci5yZWNvcmRlci5hZGQpOwogICAgcm91dGVyLmdldCgnL3YxL2xpc3QnLCBjb250cm9sbGVyLnJlY29yZGVyLmxpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjdHguYm9keSA9IGN0eC5yZXF1ZXN0LmJvZHk7CgogICAgICAgIC8vIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgubW9kZWwuUmVjb3JkLmNyZWF0ZShjdHgucmVxdWVzdC5ib2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjdHgubW9kZWwuUmVjb3JkLmNyZWF0ZShjdHgucmVxdWVzdC5ib2R5KTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIl9pZCIgOiAxLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IF9pZCA6ICckX2lkJywKICAgICAgICAgICAgICAgIGV2ZW50IDogeyAnJGxhc3QnIDogJyRldmVudCd9LAogICAgICAgICAgICAgICAgZGV0YWlscyA6IHsgJyRsYXN0JyA6ICckZGV0YWlscyd9LAogICAgICAgICAgICAgICAgdHlwZSA6IHsgJyRsYXN0JzogJyR0eXBlJ30sCiAgICAgICAgICAgICAgICBjcmVhdGVkQXQgOiB7JyRsYXN0JyA6ICckY3JlYXRlZEF0J30=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
                 _id : {
                     _id : '$_id'
@@ -1416,17 +1419,14 @@
             ,
             }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9pZCA6IHsgX2lkIDogJyRfaWQnLHRpZDonJHRpZCcgfSwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRpZCA6IHsgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgYXJyYXkgPSBhd2FpdCBjbGllbnQuZmluZENvbGxlY3Rpb25JdGVtcygncmVjb3JkJywgcXVlcnlDb25kKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgYXJyYXkgPSBhd2FpdCBjbGllbnQuZmluZENvbGxlY3Rpb25JdGVtcygncmVjb3JkJywgcXVlcnlDb25kKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
