@@ -269,11 +269,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/router.js" timestamp="1524569058415">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/router.js" timestamp="1524639745779">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+        <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-config-ui/src/ui/src/App.vue" timestamp="1521000726781">
         <mark key="[" line="29" column="36" />
@@ -823,12 +823,11 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder.js" timestamp="1524568766860">
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder.js" timestamp="1524641051713">
         <mark key="'" line="69" column="28" />
-        <mark key="[" line="180" column="20" />
-        <mark key="]" line="193" column="11" />
-        <mark key="^" line="193" column="11" />
-        <mark key="." line="193" column="11" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="." line="300" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/options.html" timestamp="1513305071005">
         <mark key="[" line="48" column="10" />
@@ -1385,44 +1384,61 @@
       <jump line="48" column="28" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>module.exports</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>module.exports</text>
+        <text>tem</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdvcmtzcGFjZUlkID0gd29ya3NwYWNlSWQucmVwbGFjZSgvXjAqLywnJyk7Cg==</text>
+        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92MS90ZXN0JywgY29udHJvbGxlci50ZXN0LnRlc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaXN0Lmxlbmd0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2ggKGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQge2N0eH0gPSB0aGlzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gZS5tZXNzYWdlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RvcnksdGFzayxidWcpCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQge2FwcH0gPSBjdHg7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text>const create = true;
+        const client = new StoreClient(app.config.storeKey, create);
+        await client.connect();
+
+        let {format = 'json', query, line = 80} = this.ctx.request.query;
+        let queryCond = {};
+        if (query) {
+            queryCond = JSON.parse(query);
+        }
+        if (line) {
+            line = parseInt(line, 10);
+        }
+
+        if(!queryCond._hide){
+            // queryCond._hide = {$ne:true}
+        }
+
+        let array = await client.findCollectionItems('record', queryCond);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
