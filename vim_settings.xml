@@ -915,11 +915,10 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorderV2.js" timestamp="1524650196542">
-        <mark key="[" line="387" column="18" />
-        <mark key="]" line="391" column="0" />
-        <mark key="^" line="388" column="89" />
-        <mark key="." line="391" column="0" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorderV2.js" timestamp="1524656456150">
+        <mark key="[" line="396" column="89" />
+        <mark key="]" line="396" column="89" />
+        <mark key="." line="396" column="89" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/src/index.js" timestamp="1515568296429">
         <mark key="[" line="7" column="40" />
@@ -1380,11 +1379,11 @@
       <jump line="48" column="28" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjdHguYm9keSA9IGN0eC5yZXF1ZXN0LmJvZHk7CgogICAgICAgIC8vIHJldHVybjsK</text>
+      <register name="&quot;" type="4">
+        <text>.exists();</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.exists();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1393,40 +1392,31 @@
         <text encoding="base64">ICAgIHJvdXRlci5wb3N0KCcvdjEvYWRkJywgY29udHJvbGxlci5yZWNvcmRlci5hZGQpOwogICAgcm91dGVyLmdldCgnL3YxL2xpc3QnLCBjb250cm9sbGVyLnJlY29yZGVyLmxpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjdHguYm9keSA9IGN0eC5yZXF1ZXN0LmJvZHk7CgogICAgICAgIC8vIHJldHVybjsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGN0eC5tb2RlbC5SZWNvcmQuY3JlYXRlKGl0ZW0pOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgubW9kZWwuUmVjb3JkLmNyZWF0ZShjdHgucmVxdWVzdC5ib2R5KTsK</text>
+        <text encoding="base64">fWNhdGNoKGUpe30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIl9pZCIgOiAxLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IF9pZCA6ICckX2lkJywKICAgICAgICAgICAgICAgIGV2ZW50IDogeyAnJGxhc3QnIDogJyRldmVudCd9LAogICAgICAgICAgICAgICAgZGV0YWlscyA6IHsgJyRsYXN0JyA6ICckZGV0YWlscyd9LAogICAgICAgICAgICAgICAgdHlwZSA6IHsgJyRsYXN0JzogJyR0eXBlJ30sCiAgICAgICAgICAgICAgICBjcmVhdGVkQXQgOiB7JyRsYXN0JyA6ICckY3JlYXRlZEF0J30=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoCiAgICAgICAgICAgICAgICBpdGVtLmJ1aWxkX2tleSA9PT0gJ3Byb2R1Y3RfY29udGVudF9tcGFwaS5xdXRvdXRpYW8ubmV0LzQ0NScgfHwgCiAgICAgICAgICAgICAgICBpdGVtLmJ1aWxkX2tleSA9PT0gJ3Byb2R1Y3RfY29udGVudF9tcGFwaS5xdXRvdXRpYW8ubmV0LzQ0NCcgCiAgICAgICAgICAgICl7CiAgICAgICAgICAgICAgICBpdGVtLmJ1aWxkX2tleSA9IGl0ZW0uYnVpbGRfa2V5ICsgJ18nICsgcm5kOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-                _id : {
-                    _id : '$_id'
-                }
-            ,
-                tid : {
-                    tid : '$tid'
-                }
-            ,
-            }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uYnVpbGRfa2V5ID09PSAnJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9pZCA6IHsgX2lkIDogJyRfaWQnLHRpZDonJHRpZCcgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaXRlbS5idWlsZF9rZXkgPT09ICdwcm9kdWN0X2NvbnRlbnRfbXBhcGkucXV0b3V0aWFvLm5ldC80NDUnKXsKICAgICAgICAgICAgICAgIGl0ZW0uYnVpbGRfa2V5ID0gaXRlbS5idWlsZF9rZXkgKyAnXzEnCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpZCA6IHsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjdHguYm9keSA9IGN0eC5yZXF1ZXN0LmJvZHk7CgogICAgICAgIC8vIHJldHVybjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgYXJyYXkgPSBhd2FpdCBjbGllbnQuZmluZENvbGxlY3Rpb25JdGVtcygncmVjb3JkJywgcXVlcnlDb25kKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
