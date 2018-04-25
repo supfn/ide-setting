@@ -735,8 +735,7 @@
         <mark key="]" line="93" column="16" />
         <mark key="." line="93" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/index.js" timestamp="1513163760280">
-        <mark key="[" line="8" column="21" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/index.js" timestamp="1524635910842">
         <mark key="]" line="8" column="21" />
         <mark key="." line="8" column="21" />
         <mark key="^" line="6" column="26" />
@@ -945,6 +944,9 @@
         <mark key="]" line="47" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/a.json" timestamp="1524635967761">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/build/config.js" timestamp="1515566238760">
         <mark key="[" line="11" column="0" />
@@ -1268,6 +1270,11 @@
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="26" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-cdn/app.js" timestamp="1524636083248">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/cloud-lint/cloud-eslintrc.js" timestamp="1521001084838">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -1378,11 +1385,11 @@
       <jump line="48" column="28" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>module.exports</text>
       </register>
       <register name="-" type="4">
-        <text>'1121633251001008375'</text>
+        <text>module.exports</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
