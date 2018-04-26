@@ -215,12 +215,12 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" timestamp="1524750460070">
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" timestamp="1524752451649">
         <mark key="'" line="318" column="20" />
-        <mark key="[" line="118" column="22" />
-        <mark key="]" line="278" column="40" />
-        <mark key="^" line="278" column="39" />
-        <mark key="." line="278" column="40" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/.eslintrc.js" timestamp="1516691215999">
         <mark key="[" line="7" column="5" />
@@ -541,7 +541,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524750476774">
+      <file name="/Dummy.txt" timestamp="1524752455119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -1275,7 +1275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="4" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/temp.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/temp.js" />
       <jump line="38" column="16" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/temp.js" />
@@ -1375,13 +1374,14 @@
       <jump line="48" column="28" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" />
       <jump line="75" column="52" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
       <jump line="318" column="20" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
+      <jump line="50" column="36" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>9999999999</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQge2FwcH0gPSBjdHg7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>9999999999</text>
+        <text encoding="base64">cmVxdWVzdCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1390,31 +1390,31 @@
         <text encoding="base64">ICAgICAgICAidGFwZF9waWQiIDoge3R5cGU6IFN0cmluZywgZGVmYXVsdDonJ30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsZXQge2FwcH0gPSBjdHg7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjdHgubG9nZ2VyLmluZm8oJ3JlcXVlc3QgYm9keScsIEpTT04uc3RyaW5naWZ5KGJvZHkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZXhwb3J0QWxsID0gdHJ1ZTtWRAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmxvZ2dlci5pbmZvKCdyZXF1ZXN0IGJvZHknLCBKU09OLnN0cmluZ2lmeShib2R5KSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vd29ya3NwYWNlSWQgPSBwYXJzZUludCh3b3Jrc3BhY2VJZCwgMTApOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjcmVhdGUgPSB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgdGl0bGUiOiJhYSIsCiAgICAibmFtZSI6InJlbW92ZV93eHB5X2dyYXkiLAogICAgInBsYXRmb3JtIjoiYW5kcm9pZCIsCiAgICAibWVtYmVyX2lkIjoxMDAwMCwKICAgICJuaWNrbmFtZSI6Iua1i+ivlSIKICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
