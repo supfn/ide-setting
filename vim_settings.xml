@@ -541,7 +541,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524830426392">
+      <file name="/Dummy.txt" timestamp="1524979764171">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -570,6 +570,11 @@
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
         <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/middleware/common-response.js" timestamp="1524979689008">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/components/swiper/demo.vue" timestamp="1512571615563">
         <mark key="[" line="28" column="52" />
@@ -631,6 +636,11 @@
         <mark key="." line="8" column="67" />
         <mark key="^" line="8" column="67" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.prod.js" timestamp="1523961162654">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/refresh_cdn/temp.js" timestamp="1512639966807">
         <mark key="[" line="30" column="41" />
         <mark key="]" line="30" column="41" />
@@ -672,6 +682,11 @@
         <mark key="]" line="13" column="37" />
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1523688647975">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="28" column="53" />
+        <mark key="." line="28" column="53" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/component_demo/build/dev-server.js" timestamp="1521021427212">
         <mark key="[" line="37" column="4" />
@@ -804,6 +819,11 @@
         <mark key="]" line="5" column="42" />
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlab.js" timestamp="1523689694862">
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/jsbridge-api/jsbridge-api.js" timestamp="1515405101525">
         <mark key="[" line="9" column="13" />
@@ -1143,6 +1163,11 @@
         <mark key="^" line="29" column="70" />
         <mark key="." line="29" column="70" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/gitlab.js" timestamp="1523886138789">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/components/Login.vue" timestamp="1520699316650">
         <mark key="[" line="41" column="40" />
         <mark key="]" line="42" column="42" />
@@ -1378,10 +1403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
