@@ -153,7 +153,6 @@
         <mark key="." line="42" column="8" />
         <mark key="^" line="42" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ewx-services/app/schedule/syncContact.js" timestamp="1525859303006" />
       <file name="$USER_HOME$/Codes/lab/node-cdn-refresh/lib/params-maker.js" timestamp="1521684932980">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="0" />
@@ -171,6 +170,12 @@
         <mark key="]" line="28" column="13" />
         <mark key="." line="28" column="13" />
         <mark key="^" line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/node-qtt-app-login/config.js" timestamp="1526278389107">
+        <mark key="[" line="14" column="80" />
+        <mark key="]" line="14" column="80" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="80" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-server-config/src/server/config.js" timestamp="1520919956278">
         <mark key="[" line="17" column="23" />
@@ -504,6 +509,12 @@
         <mark key="." line="22" column="9" />
         <mark key="^" line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/node-qtt-app-login/api/login.js" timestamp="1526278169891">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/Codes/temp/vue-demo/build/webpack.dll.conf.js" timestamp="1512802991341">
         <mark key="[" line="35" column="19" />
         <mark key="]" line="35" column="19" />
@@ -557,8 +568,8 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525845818879">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1526280278308">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="2" />
@@ -762,6 +773,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="20" column="11" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/node-qtt-app-login/index.js" timestamp="1526280269361">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-webstrom/a.js" timestamp="1516770681427">
         <mark key="[" line="24" column="5" />
@@ -1098,7 +1114,6 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="69" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ewx-services/app/model/user.js" timestamp="1525859354517" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/pages/router-a.vue" timestamp="1513955553613">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="40" />
@@ -1152,6 +1167,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/node-qtt-app-login/readme.md" timestamp="1526279018172">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/main.js" timestamp="1515470050588">
         <mark key="[" line="12" column="18" />
@@ -1322,11 +1343,14 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/node-qtt-app-login/package.json" timestamp="1526279916407">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="^" line="14" column="57" />
+        <mark key="." line="14" column="56" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/temp.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/temp.js" />
-      <jump line="38" column="16" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/temp.js" />
       <jump line="51" column="1" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/temp.js" />
       <jump line="19" column="3" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/CdnRefresher.js" />
       <jump line="6" column="30" filename="$USER_HOME$/Codes/qutoutiao/refresh_cdn/src/temp.js" />
@@ -1424,46 +1448,49 @@
       <jump line="75" column="52" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
       <jump line="318" column="20" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
       <jump line="50" column="36" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
+      <jump line="49" column="23" filename="$USER_HOME$/Codes/lab/node-qtt-app-login/index.js" />
+      <jump line="0" column="18" filename="$USER_HOME$/Codes/lab/node-qtt-app-login/readme.md" />
+      <jump line="37" column="0" filename="$USER_HOME$/Codes/lab/node-qtt-app-login/readme.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IOS/ruato+WPquWPkea2iOaBr+e7meWQjOS4gOS4quS6umJ1Zw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IOS/ruato+WPquWPkea2iOaBr+e7meWQjOS4gOS4quS6umJ1Zw==</text>
+        <text>qtt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jdHguYm9keSA9IHsKICAgICAgICAgICAgICAgIHJlc3VsdDogISFyZXN1bHQsCiAgICAgICAgICAgICAgICBlbnY6IGVudgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVsZXBob25lOiAnMTc1MjEwMTA2MTAnLAogICAgICAgICAgICBwYXNzd29yZDogJzEyMzMyMScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5sb2dnZXIuaW5mbygnJykK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7CiAgICAgICAgICAgIHRlbGVwaG9uZTogJzE3NTIxMDEwNjEwJywKICAgICAgICAgICAgcGFzc3dvcmQ6ICcxMjMzMjEnCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyTWFwW2NvbDFdID0gY291bnRlck1hcFtjb2wxXSArIGNvbDIuc3BsaXQoJ0BfQCcpLmxlbmd0aDsK</text>
+        <text encoding="base64">ICAgIGNoaWxkLmV4ZWMocywgKGVyciwgc3Rkb3V0LCBzdGRlcnIpID0+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZighY29scyl7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbHMsIGluZGV4KQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyIHx8IHN0ZGVycikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb2xzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coZXJyLCBzdGRlcnIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2xzKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5ib2R5ID0gISFyZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQganNvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
