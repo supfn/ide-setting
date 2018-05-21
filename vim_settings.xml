@@ -253,10 +253,10 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" timestamp="1526875692042">
-        <mark key="[" line="108" column="26" />
-        <mark key="]" line="122" column="16" />
-        <mark key="." line="122" column="16" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" timestamp="1526892278741">
+        <mark key="[" line="87" column="34" />
+        <mark key="]" line="87" column="34" />
+        <mark key="." line="87" column="34" />
         <mark key="^" line="122" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/.eslintrc.js" timestamp="1516691215999">
@@ -613,7 +613,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526875728411">
+      <file name="/Dummy.txt" timestamp="1526892282821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1336,6 +1336,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="/recorder-v2.js" timestamp="1526892272703" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/lib/index.js" timestamp="1513847454972">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="34" />
@@ -1590,11 +1591,11 @@
       <jump line="177" column="5" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/qd.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlIGl0ZW0udGltaW5nczsK</text>
+      <register name="&quot;" type="4">
+        <text>extraextractTagTidctTid</text>
       </register>
       <register name="-" type="4">
-        <text>har</text>
+        <text>extraextractTagTidctTid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
