@@ -122,10 +122,11 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/index.js" timestamp="1526881053411">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/index.js" timestamp="1526897434966">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/q-gzip/index.js" timestamp="1513223754081">
         <mark key="[" line="48" column="42" />
@@ -855,7 +856,6 @@
         <mark key="^" line="23" column="5" />
         <mark key="." line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/a.json" timestamp="1526881065830" />
       <file name="$USER_HOME$/Codes/lab/cdn-services/app/model/cdn-refresh-task.js" timestamp="1524722017905">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1591,11 +1591,11 @@
       <jump line="177" column="5" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/qd.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>extraextractTagTidctTid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVudHJpZXMucHVzaChpdGVtKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>extraextractTagTidctTid</text>
+        <text>forEach</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1604,31 +1604,31 @@
         <text encoding="base64">ICAgICd0ZXh0L2h0bWwnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlIGl0ZW0udGltaW5nczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVudHJpZXMucHVzaChpdGVtKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBpdGVtLnRpbWluZ3M7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwaWNrLCBoYXMpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsb2cuZW50cmllcy5wdXNoKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfLmluY2x1ZGVzKG1hcCwpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGxldCBoYXMgPSBpdGVtLmluZGV4T2YoY29udGVudFR5cGUudmFsdWUudG9Mb3dlckNhc2UoKSkgIT09IC0xCiAgICAgICAgICAgIHJldHVybiBoYXM7CiAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCBwaWNrID0gaXRlbS5yZXNwb25zZS5oZWFkZXJzLmZpbHRlcihhID0+IGEubmFtZS50b0xvd2VyQ2FzZSgpID09PSAnY29udGVudC10eXBlJyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlIGl0ZW0udGltaW5nczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
