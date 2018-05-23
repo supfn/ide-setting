@@ -122,11 +122,11 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/index.js" timestamp="1526901341729">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="21" column="3" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/index.js" timestamp="1527056035808">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="1" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/q-gzip/index.js" timestamp="1513223754081">
         <mark key="[" line="48" column="42" />
@@ -514,6 +514,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/yq.json" timestamp="1527056312633" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/test.js" timestamp="1520996597666">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="27" />
@@ -862,11 +863,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/helper/harRespond.js" timestamp="1526901822971">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="42" />
-        <mark key="^" line="23" column="42" />
-        <mark key="." line="23" column="42" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/helper/harRespond.js" timestamp="1527054349886">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="20" column="1" />
       </file>
       <file name="$USER_HOME$/Codes/lab/store-test/user.js" timestamp="1523939780536">
         <mark key="[" line="77" column="37" />
@@ -1089,11 +1090,11 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/yq.spec.js" timestamp="1526632944752">
-        <mark key="[" line="139" column="22" />
-        <mark key="]" line="139" column="23" />
-        <mark key="." line="139" column="23" />
-        <mark key="^" line="120" column="6" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/yq.spec.js" timestamp="1527055347209">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-config-ui/ecosystem.config.js" timestamp="1520984254288">
         <mark key="[" line="21" column="14" />
@@ -1214,6 +1215,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="21" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/helper/HarRespond.js" timestamp="1527056462719">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/wp/build/webpack.prod.conf.js" timestamp="1512734854028">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -1266,7 +1273,7 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/qd.spec.js" timestamp="1526631694850">
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/qd.spec.js" timestamp="1527055507382">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
@@ -1329,6 +1336,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/har-test.js" timestamp="1527055292209">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/components/Login.vue" timestamp="1520699316650">
         <mark key="[" line="41" column="40" />
@@ -1495,7 +1508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="18" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/git.js" />
       <jump line="19" column="14" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/git.js" />
       <jump line="24" column="13" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/git.js" />
       <jump line="35" column="7" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/git.js" />
@@ -1595,13 +1607,14 @@
       <jump line="169" column="46" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/yq.spec.js" />
       <jump line="201" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/yq.spec.js" />
       <jump line="177" column="5" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/qd.spec.js" />
+      <jump line="6" column="1" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>find</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>find</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1610,31 +1623,31 @@
         <text encoding="base64">ICAgICd0ZXh0L2h0bWwnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gbWF0Y2hlZCA9PSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRobmFtZSA9IHBhdGhuYW1lLnJlcGxhY2UoL1wvXC8vZywnXC8nKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gbWF0Y2hlZCA9PSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ21hdGNoZCcsIGVudHJ5UGF0aG5hbWUsIHBhdGhuYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIG1hdGNoZWQgPSBkb21haW5NYXRjaCgnKi5hYmMuY29tL3ByZWZpeC9wYXRoJywgJ2h0dHA6Ly93d3cuYWJjLmNvbS9wcmVmaXgvcGF0aC9maWxlbmFtZS5leHQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBpdGVtLnRpbWluZ3M7Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvL2NuenouY29tCiAgICAvL2lmKGl0ZW0ucmVxdWVzdC51cmwpCg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbgo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtLnJlcXVlc3QudXJsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
