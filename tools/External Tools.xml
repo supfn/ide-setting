@@ -18,4 +18,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="Prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/projects/share-service/node_modules/prettier/bin-prettier.js" />
+      <option name="PARAMETERS" value="--write --print-width=100 --tab-width=4 --single-quote --trailing-comma=es5 $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/share-service/node_modules/prettier" />
+    </exec>
+  </tool>
 </toolSet>

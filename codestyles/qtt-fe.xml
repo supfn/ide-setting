@@ -41,6 +41,10 @@
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
