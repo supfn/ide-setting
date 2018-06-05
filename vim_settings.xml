@@ -603,10 +603,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/wechat/wx.js" timestamp="1528156869806">
-        <mark key="[" line="116" column="13" />
-        <mark key="]" line="118" column="38" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/Codes/lab/wechat/wx.js" timestamp="1528164237140">
+        <mark key="[" line="80" column="30" />
+        <mark key="]" line="80" column="16" />
+        <mark key="." line="80" column="16" />
+        <mark key="^" line="80" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/components/PreLoad/PreLoad.vue" timestamp="1514533151184">
         <mark key="[" line="8" column="10" />
@@ -1546,11 +1547,11 @@
       <jump line="14" column="3" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/helper/filterHar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBib3Quc2VuZE1zZygn44CC44CC44CC44CC44CCJywgdG9Vc2VyTmFtZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
