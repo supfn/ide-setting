@@ -291,7 +291,6 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/wechat/package.json" timestamp="1528090388891" />
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.test.js" timestamp="1525673502180">
         <mark key="[" line="7" column="48" />
         <mark key="]" line="13" column="2" />
@@ -1292,6 +1291,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/elementui/src/schema/newsletter.json" timestamp="1528290720045">
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/config/index.js" timestamp="1512734471729">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="29" />
@@ -1340,7 +1344,6 @@
         <mark key="^" line="55" column="35" />
         <mark key="." line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/wechat/node_modules/wechat4u/src/core.js" timestamp="1528107871352" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/config.js" timestamp="1513855461351">
         <mark key="[" line="23" column="15" />
         <mark key="]" line="23" column="15" />
@@ -1547,8 +1550,8 @@
       <jump line="14" column="3" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/helper/filterHar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICEv5rex5YWl5rWF5Ye6Ly50ZXN0KGZyb21Vc2VyTmFtZSkgfHwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgInRpdGxlIjogIuWVpeWVpTEiLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICEv5rex5YWl5rWF5Ye6Ly50ZXN0KGZyb21Vc2VyTmFtZSkgfHwg</text>
@@ -1560,25 +1563,25 @@
         <text encoding="base64">ICAgICAgICBsZXQgcGljID0gYXdhaXQgZG91dHVsYSh0ZXh0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+WbvueJh+a2iOaBr++8jOS/neWtmOWIsOacrOWcsCcpCg==</text>
+        <text encoding="base64">ICAgICAgInRpdGxlIjogIuWVpeWVpTEiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPT09IGZhbHNlKXsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+WbvueJh+a2iOaBr++8jOS/neWtmOWIsOacrOWcsCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPT09IGZhbHNlKXsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPSB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCl7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPSB0cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBvc3RJbWcoZ3JvdXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCl7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBvc3RJbWcoZ3JvdXApOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
