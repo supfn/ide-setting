@@ -617,10 +617,10 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528354871823">
+      <file name="/Dummy.txt" timestamp="1528368658094">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Codes/lab/node-cdn-refresh/index.js" timestamp="1521685109827">
@@ -791,11 +791,12 @@
         <mark key="^" line="27" column="41" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" timestamp="1528354919255">
-        <mark key="[" line="82" column="6" />
-        <mark key="]" line="1227" column="27" />
-        <mark key="^" line="1227" column="27" />
-        <mark key="." line="1227" column="27" />
+      <file name="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" timestamp="1528374841970">
+        <mark key="'" line="1183" column="26" />
+        <mark key="[" line="1559" column="5" />
+        <mark key="]" line="1183" column="26" />
+        <mark key="^" line="1183" column="26" />
+        <mark key="." line="1183" column="26" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-template/build/dev-server.js" timestamp="1521021093292">
         <mark key="[" line="38" column="4" />
@@ -1464,8 +1465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="13" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/git.js" />
-      <jump line="35" column="7" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/git.js" />
       <jump line="77" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/temp.js" />
       <jump line="26" column="17" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/temp.js" />
       <jump line="15" column="60" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" />
@@ -1564,13 +1563,17 @@
       <jump line="177" column="5" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/qd.spec.js" />
       <jump line="6" column="24" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/index.js" />
       <jump line="14" column="3" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/helper/filterHar.js" />
+      <jump line="506" column="53" filename="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" />
+      <jump line="1183" column="26" filename="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//rawgit.com/brutusin/json-forms/master/dist/js</text>
+        <text>修复value为0时不展示bug
+
+增加中文message提示todo</text>
       </register>
       <register name="-" type="4">
-        <text>//rawgit.com/brutusin/json-forms/master/dist/js</text>
+        <text>Value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1578,29 +1581,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgcGljID0gYXdhaXQgZG91dHVsYSh0ZXh0KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInRpdGxlIjogIuWVpeWVpTEiLAo=</text>
+      <register name="1" type="4">
+        <text>修复value为0时不展示bug
+
+增加中文message提示todo</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+WbvueJh+a2iOaBr++8jOS/neWtmOWIsOacrOWcsCcpCg==</text>
+        <text encoding="base64">ICAgICAgInRpdGxlIjogIuWVpeWVpTEiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPT09IGZhbHNlKXsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+WbvueJh+a2iOaBr++8jOS/neWtmOWIsOacrOWcsCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPT09IGZhbHNlKXsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPSB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCl7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPSB0cnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBvc3RJbWcoZ3JvdXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCl7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBvc3RJbWcoZ3JvdXApOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
