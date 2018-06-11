@@ -500,6 +500,12 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/fast-deploy/app/controller/home.js" timestamp="1528701547309">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/deploy.sh" timestamp="1514330466052">
         <mark key="[" line="92" column="25" />
         <mark key="]" line="92" column="25" />
@@ -825,11 +831,11 @@
         <mark key="^" line="10" column="83" />
         <mark key="." line="10" column="83" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/fast-deploy/app/router.js" timestamp="1528693673225">
+      <file name="$USER_HOME$/Codes/lab/fast-deploy/app/router.js" timestamp="1528698789037">
         <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="47" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/agent.js" timestamp="1523884836025">
         <mark key="[" line="19" column="51" />
@@ -1130,8 +1136,11 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/fast-deploy/config/plugin.js" timestamp="1528693346892">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Codes/lab/fast-deploy/config/plugin.js" timestamp="1528699183177">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/sample.spec.js" timestamp="1526463124217">
         <mark key="[" line="35" column="31" />
@@ -1468,8 +1477,11 @@
         <mark key="." line="37" column="17" />
         <mark key="^" line="37" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/fast-deploy/config/config.default.js" timestamp="1528693322205">
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/Codes/lab/fast-deploy/config/config.default.js" timestamp="1528698678796">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/index.js" timestamp="1520899796440">
         <mark key="[" line="31" column="24" />
@@ -1588,45 +1600,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>11</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcGljID0gYXdhaXQgZG91dHVsYSh0ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNvbHZlKDExKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgQ29udHJvbGxlciA9IHJlcXVpcmUoJ2VnZycpLkNvbnRyb2xsZXI7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgRGVwbG95Q29udHJvbGxlciBleHRlbmRzIENvbnRyb2xsZXIgewogICAgYXN5bmMgaW5mbygpIHsKICAgICAgICBjb25zdCB7IGN0eCB9ID0gdGhpczsKICAgICAgICBjdHguYm9keSA9IHsKICAgICAgICAgICAgbmFtZTogYGhlbGxvICR7Y3R4LnBhcmFtcy5pZH1gLAogICAgICAgIH07CiAgICB9Cn0KCgptb2R1bGUuZXhwb3J0cyA9IERlcGxveUNvbnRyb2xsZXIK</text>
-      </register>
-      <register name="3" type="4">
-        <text>修复value为0时不展示bug
-
-增加中文message提示todo</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInRpdGxlIjogIuWVpeWVpTEiLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+WbvueJh+a2iOaBr++8jOS/neWtmOWIsOacrOWcsCcpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPT09IGZhbHNlKXsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNvbHZlKDExKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHdyaXRlU3RyZWFtID0gZnMuY3JlYXRlV3JpdGVTdHJlYW0oJy4vb3V0cHV0Jyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZXJyb3InKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjdHguYm9keSA9ICdlbmQnOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZW5kJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjdHguYm9keSA9ICdlcnJvcicK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjdHguYm9keSA9IDExMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCl7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
