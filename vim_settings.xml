@@ -468,7 +468,7 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/app.js" timestamp="1528685434857">
+      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/app.js" timestamp="1528687311582">
         <mark key="[" line="158" column="26" />
       </file>
       <file name="$USER_HOME$/Codes/lab/cdn-services/app/model/cdn-refresh-subtask.js" timestamp="1523244510655">
@@ -620,7 +620,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528368658094">
+      <file name="/Dummy.txt" timestamp="1528687456930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -1244,6 +1244,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/http-deploy/package.json" timestamp="1528687378308">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/main.js" timestamp="1520663149635">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="78" />
@@ -1571,12 +1576,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修复value为0时不展示bug
-
-增加中文message提示todo</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
