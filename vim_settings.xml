@@ -825,6 +825,12 @@
         <mark key="^" line="10" column="83" />
         <mark key="." line="10" column="83" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/fast-deploy/app/router.js" timestamp="1528693673225">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="47" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/agent.js" timestamp="1523884836025">
         <mark key="[" line="19" column="51" />
         <mark key="]" line="6" column="0" />
@@ -1123,6 +1129,9 @@
         <mark key="]" line="10" column="27" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/fast-deploy/config/plugin.js" timestamp="1528693346892">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/tests/sample.spec.js" timestamp="1526463124217">
         <mark key="[" line="35" column="31" />
@@ -1459,6 +1468,9 @@
         <mark key="." line="37" column="17" />
         <mark key="^" line="37" column="17" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/fast-deploy/config/config.default.js" timestamp="1528693322205">
+        <mark key="[" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/index.js" timestamp="1520899796440">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="33" column="20" />
@@ -1473,7 +1485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/temp.js" />
       <jump line="26" column="17" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/temp.js" />
       <jump line="15" column="60" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" />
       <jump line="42" column="18" filename="$USER_HOME$/Codes/temp/vue-demo/index.html" />
@@ -1573,13 +1584,14 @@
       <jump line="14" column="3" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/helper/filterHar.js" />
       <jump line="506" column="53" filename="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" />
       <jump line="1183" column="26" filename="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Codes/lab/fast-deploy/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1587,34 +1599,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgcGljID0gYXdhaXQgZG91dHVsYSh0ZXh0KTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgQ29udHJvbGxlciA9IHJlcXVpcmUoJ2VnZycpLkNvbnRyb2xsZXI7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgRGVwbG95Q29udHJvbGxlciBleHRlbmRzIENvbnRyb2xsZXIgewogICAgYXN5bmMgaW5mbygpIHsKICAgICAgICBjb25zdCB7IGN0eCB9ID0gdGhpczsKICAgICAgICBjdHguYm9keSA9IHsKICAgICAgICAgICAgbmFtZTogYGhlbGxvICR7Y3R4LnBhcmFtcy5pZH1gLAogICAgICAgIH07CiAgICB9Cn0KCgptb2R1bGUuZXhwb3J0cyA9IERlcGxveUNvbnRyb2xsZXIK</text>
+      </register>
+      <register name="3" type="4">
         <text>修复value为0时不展示bug
 
 增加中文message提示todo</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgInRpdGxlIjogIuWVpeWVpTEiLAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ+WbvueJh+a2iOaBr++8jOS/neWtmOWIsOacrOWcsCcpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmKHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPT09IGZhbHNlKXsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPSB0cnVlOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCl7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHBvc3RJbWcoZ3JvdXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaGVyW2Zyb21Vc2VyTmFtZV0gPSB0cnVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCl7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
