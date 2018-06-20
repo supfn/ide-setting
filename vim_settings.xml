@@ -139,6 +139,12 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v3.js" timestamp="1529421040706">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="63" column="35" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-server/a.json" timestamp="1520852499922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -271,9 +277,15 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" timestamp="1527161603081">
-        <mark key="[" line="87" column="34" />
-        <mark key="]" line="87" column="34" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/gitlab.js" timestamp="1529419675608">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" timestamp="1529420913355">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="183" column="12" />
         <mark key="." line="87" column="34" />
         <mark key="^" line="122" column="16" />
       </file>
@@ -343,11 +355,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/router.js" timestamp="1525334898890">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/router.js" timestamp="1529409319041">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/webapp-config-ui/src/ui/src/App.vue" timestamp="1521000726781">
         <mark key="[" line="29" column="36" />
@@ -397,10 +409,15 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/lib/build.js" timestamp="1528878038310" />
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/helper.js" timestamp="1527217619318">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="26" column="22" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" timestamp="1529418929493">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/helper.js" timestamp="1529406632666">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
       </file>
@@ -504,6 +521,12 @@
         <mark key="]" line="125" column="0" />
         <mark key="^" line="123" column="11" />
         <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/biz/bizconf.js" timestamp="1529418889376">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/pages/router.vue" timestamp="1513954278019">
         <mark key="[" line="7" column="0" />
@@ -660,6 +683,11 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/biz/bopconf.js" timestamp="1529420783806">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/build/cooking.conf.js" timestamp="1515564132200">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -677,6 +705,18 @@
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
         <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/pipeline.js" timestamp="1529404833971">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/middleware/common-response.js" timestamp="1529420541320">
+        <mark key="[" line="43" column="13" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/components/swiper/demo.vue" timestamp="1512571615563">
         <mark key="[" line="28" column="52" />
@@ -905,6 +945,13 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/compact.js" timestamp="1529418215203">
+        <mark key="'" line="7" column="30" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/Codes/laopo/counter/tags.js" timestamp="1520693138169">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="30" column="10" />
@@ -1019,6 +1066,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/pipeline.js" timestamp="1529408130271">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/ecosystem.config.js" timestamp="1520700363539">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="25" column="0" />
@@ -1031,7 +1084,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/qfe/bin/fe.js" timestamp="1528878028505" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/router.js" timestamp="1515082066831">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="10" />
@@ -1206,7 +1258,6 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/node_modules/lerna/lib/Command.js" timestamp="1528943058195" />
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/ios_game/package.json" timestamp="1528943328682">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -1293,6 +1344,12 @@
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/preproccess.js" timestamp="1529419916499">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/main.js" timestamp="1520663149635">
         <mark key="[" line="7" column="0" />
@@ -1384,6 +1441,12 @@
         <mark key="^" line="29" column="70" />
         <mark key="." line="29" column="70" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/gitlab.js" timestamp="1529419337083">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/har-test.js" timestamp="1527055292209">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
@@ -1473,6 +1536,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="14" column="44" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/biz/jenkins.js" timestamp="1529420780049">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/Codes/temp/vue-demo/build/webpack.base.conf.js" timestamp="1512805502200">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="21" />
@@ -1545,7 +1614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="17" filename="$USER_HOME$/Codes/qutoutiao/fe-cdn/temp.js" />
       <jump line="15" column="60" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" />
       <jump line="42" column="18" filename="$USER_HOME$/Codes/temp/vue-demo/index.html" />
       <jump line="44" column="30" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/perf/ssl.js" />
@@ -1645,43 +1713,44 @@
       <jump line="506" column="53" filename="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" />
       <jump line="1183" column="26" filename="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Codes/lab/fast-deploy/app/router.js" />
+      <jump line="7" column="30" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/compact.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>needStrip = '--strip-components=1';</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJvZHkuaGFuZGxlcikgewogICAgICAgICAgICAgICAgbmFtZXMucHVzaChib2R5LmhhbmRsZXIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ3aXRoZHJhd19jYXNoIiwKICAgICAgICAgICAgICAgICJzaGFyZV9nb2xkIiwKICAgICAgICAgICAgICAgICJxdV9mYXJtIiwKICAgICAgICAgICAgICAgICJwcml6ZV90ZXN0IiwKICAgICAgICAgICAgICAgICJncm91cCIsCiAgICAgICAgICAgICAgICAiYmlkZGluZyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ3aXRoZHJhd19jYXNoIiwKICAgICAgICAgICAgICAgICJzaGFyZV9nb2xkIiwKICAgICAgICAgICAgICAgICJxdV9mYXJtIiwKICAgICAgICAgICAgICAgICJwcml6ZV90ZXN0IiwKICAgICAgICAgICAgICAgICJncm91cCIsCiAgICAgICAgICAgICAgICAiYmlkZGluZyIsCiAgICAgICAgICAgICAgICAiYWNpdml0eV9saXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG5hbWVzID0gWyflvKDnprknXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2l2aXR5X2xpc3QiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiYm9vdHN0cmFwIjogewogICAgICAgICAgICAiaWdub3JlIjogImNvbXBvbmVudC0qIgogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG5hbWVzID0gW107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG5hbWVzID0gY29yZUxlYWRlcnM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQge2FmdGVyUnVuLCBwYXRofSA9IHN0cmVhbS5maWVsZHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ+S/neWtmOWQjicsIEpTT04uc3RyaW5naWZ5KHJlc3VsdCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZighYWZ0ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ+S/neWtmOWQjicsIEpTT04uc3RyaW5naWZ5KHJlc3VsdCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCl7CiAgICAgICAgc3VwZXIoKTsKICAgICAgICB0aGlzLm5vdGlmeUlzRW5hYmxlID0gdHJ1ZTsKICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
