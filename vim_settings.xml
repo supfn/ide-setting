@@ -26,10 +26,10 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/eslint-cloud/a.vue" timestamp="1529659980559">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/a.vue" timestamp="1529665340209">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/js/login-helper.js" timestamp="1513150641610">
         <mark key="[" line="18" column="0" />
@@ -97,6 +97,11 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/node_modules/eslint-plugin-vue/lib/processor.js" timestamp="1529666664423">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/pages/Report.vue" timestamp="1515142966400">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="5" column="39" />
@@ -160,6 +165,11 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/node_modules/eslint/lib/linter.js" timestamp="1529665584274">
+        <mark key="[" line="560" column="0" />
+        <mark key="]" line="560" column="0" />
+        <mark key="." line="560" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v3.js" timestamp="1529661461017">
         <mark key="[" line="118" column="25" />
@@ -627,11 +637,11 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/eslint-cloud/index.js" timestamp="1529661812061">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/index.js" timestamp="1529666709237">
+        <mark key="[" line="94" column="34" />
+        <mark key="]" line="94" column="34" />
+        <mark key="." line="94" column="34" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/temp/vue-demo/build/webpack.dll.conf.js" timestamp="1512802991341">
         <mark key="[" line="35" column="19" />
@@ -639,7 +649,7 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/eslint-cloud/node_modules/eslint-plugin-vue/lib/index.js" timestamp="1529660134327" />
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/node_modules/eslint-plugin-vue/lib/index.js" timestamp="1529665094368" />
       <file name="$USER_HOME$/Codes/qutoutiao/qserver/views/a/test.html" timestamp="1520595649870">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="18" />
@@ -1060,9 +1070,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/biz/unknown.js" timestamp="1529502616980">
-        <mark key="[" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/biz/fallback.js" timestamp="1529485222837">
         <mark key="[" line="15" column="0" />
@@ -1574,9 +1581,6 @@
         <mark key="^" line="29" column="66" />
         <mark key="." line="29" column="66" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.default.js" timestamp="1529631639661">
-        <mark key="[" line="15" column="5" />
-      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/build/webpack.prod.conf.js" timestamp="1512743446683">
         <mark key="[" line="118" column="19" />
         <mark key="]" line="95" column="43" />
@@ -1781,10 +1785,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>a.vue</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>a.vue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1793,31 +1797,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZnMud3JpdGVGaWxlU3luYyhqc29uUGF0aCwgSlNPTi5zdHJpbmdpZnkoY29uZmlnLCBudWxsLCA0KSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCfnlJ/miJDmiJDlip8hJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCfnlJ/miJDmiJDlip8hJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2VzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhY2thZ2VKc29uID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGFja2FnZVBhdGgsICd1dGYtOCcpKTsKICAgICAgICAgICAgcGFja2FnZUpzb24gPSBPYmplY3QuYXNzaWduKHBhY2thZ2VKc29uLCBjb25maWcpOwoKICAgICAgICAgICAgZnMud3JpdGVGaWxlU3luYyhwYWNrYWdlUGF0aCwgSlNPTi5zdHJpbmdpZnkocGFja2FnZUpzb24sIG51bGwsIDQpKTsKICAgICAgICAgICAgZnMud3JpdGVGaWxlU3luYyhqc29uUGF0aCwgSlNPTi5zdHJpbmdpZnkoY29uZmlnLCBudWxsLCA0KSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAicGFyc2VyT3B0aW9ucyI6IHsKICAgICAgICAgICAgImVjbWFWZXJzaW9uIjogMjAxNywKICAgICAgICAgICAgInNvdXJjZVR5cGUiOiAibW9kdWxlIgogICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4dGVuZHMgOiBbJ3BsdWdpbjp2dWUvZXNzZW50aWFsJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBhcnNlciI6ICJiYWJlbC1lc2xpbnQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIHZ1ZS9tYXgtYXR0cmlidXRlcy1wZXItbGluZSAtLT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xpLmFkZFBsdWdpbignZXNsaW50LXBsdWdpbi12dWUnKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIm1lc3NhZ2UiOiJmamRzbGthamZsZHMiCiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZkc2FmZHNhIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGV4dGVuc2lvbnM6IFsnanMnXSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0ZXh0LCBwcm92aWRlZFBhcnNlck9wdGlvbnMsIHBhcnNlck5hbWUsIHBhcnNlck1hcCwgZmlsZVBhdGgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PHRlbXBsYXRlPgogICAgPGRpdiB2LWVsc2U+CiAgICAgICAgSGVsbG8sIHt7IG5hbWUgfX0hCiAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgdi1mb3I9Iml0ZW0gb2YgaXRlbXMiCiAgICAgICAgICAgICAgICBrZXk9Iml0ZW0uaWQiCiAgICAgICAgPgogICAgICAgICAgICB7eyBpdGVtLm5hbWV9fQogICAgICAgIDwvZGl2PgogICAgICAgIDxidXR0b24gdi1vbjpjbGljaz0ib25DbGljayI+QnV0dG9uPC9idXR0b24+CiAgICA8L2Rpdj4KPC90ZW1wbGF0ZT4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgubG9nZ2VyLmluZm8oJ3JlcXVlc3QgYm9keScsIEpTT04uc3RyaW5naWZ5KGJvZHkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBIZWxsbywge3sgbmFtZSB9fSEK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
