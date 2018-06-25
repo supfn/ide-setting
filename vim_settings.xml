@@ -97,7 +97,7 @@
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/eslint-cloud/node_modules/eslint/bin/eslint.js" timestamp="1529907822929" />
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/node_modules/eslint/bin/eslint.js" timestamp="1529912657605" />
       <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/ecosystem.config.js" timestamp="1515377782445">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="15" column="11" />
@@ -406,11 +406,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/eslint-cloud/cloud-config.js" timestamp="1529909384266">
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="60" />
-        <mark key="." line="24" column="60" />
-        <mark key="^" line="53" column="11" />
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/cloud-config.js" timestamp="1529912469057">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="52" column="11" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/router.js" timestamp="1529648695866">
         <mark key="[" line="10" column="19" />
@@ -748,7 +748,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529660838372">
+      <file name="/Dummy.txt" timestamp="1529913403685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -944,12 +944,12 @@
         <mark key="^" line="27" column="41" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/eslint-cloud/bin.js" timestamp="1529910258473">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="18" column="52" />
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/bin.js" timestamp="1529912812204">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/perf-monitor/rd.deploy.sh" timestamp="1515377742990">
         <mark key="[" line="20" column="31" />
@@ -1131,10 +1131,11 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/eslint-cloud/package.json" timestamp="1529911599934">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Codes/lab/eslint-cloud/package.json" timestamp="1529912500946">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/lab/node-cdn-refresh/readme.md" timestamp="1521686496432">
         <mark key="[" line="51" column="4" />
@@ -1862,7 +1863,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiYmluIjogImJpbi9lc2xpbnQiLAo=</text>
+        <text encoding="base64">LyoqCiAqIEBmaWxlIGJpbi5qcwogKiBAYXV0aG9yIHpoYW5neXUKICogQGRhdGUgMjAxOC82LzI1CiAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>let</text>
@@ -1874,31 +1875,31 @@
         <text>require(&quot;eslint/lib/cli-engine&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYmluIjogImJpbi9lc2xpbnQiLAo=</text>
+        <text encoding="base64">LyoqCiAqIEBmaWxlIGJpbi5qcwogKiBAYXV0aG9yIHpoYW5neXUKICogQGRhdGUgMjAxOC82LzI1CiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAibWFpbiI6ICIuL2luZGV4LmpzIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKGNvbmZpZ0ZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLW5vZGUiOiAiXjYuMC4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICJhIiA6ICJub2Rlc2hpdCBiaW4uanMiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiYmluIjogImJpbi9lc2xpbnQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoJ2ZldGNoIGNsb3VkIGNvbmZpZyBmYWlsLCBiZWNhdXNlICcsIGUubWVzc2FnZSk7CiAgICAgICAgICAgIGRlYnVnKCdmYWxsYmFjayB0byBkZWZhdWx0IGxvY2FsIGNvbmZpZycsIGRlZmF1bHRDb25maWdGaWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlKGNvbmZpZ0ZpbGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
