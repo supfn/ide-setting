@@ -1250,11 +1250,11 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/package.json" timestamp="1520215136794">
-        <mark key="[" line="20" column="50" />
-        <mark key="]" line="20" column="50" />
-        <mark key="^" line="20" column="49" />
-        <mark key="." line="20" column="50" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/package.json" timestamp="1529921267001">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="17" column="67" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/Temp/vue_without_router/build/webpack.prod.conf.js" timestamp="1515409567966">
         <mark key="[" line="39" column="9" />
@@ -1705,12 +1705,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/.gitlab-ci.yml" timestamp="1520216268248">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="10" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/helper.js" timestamp="1522386933588">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="27" />
@@ -1863,43 +1857,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIEBmaWxlIGJpbi5qcwogKiBAYXV0aG9yIHpoYW5neXUKICogQGRhdGUgMjAxOC82LzI1CiAqLwo=</text>
+        <text encoding="base64">ICAgICJzb25hci1zY2FubmVyIjogIm5vZGVfbW9kdWxlcy9zb25hci1zY2FubmVyL2Jpbi9zb25hci1zY2FubmVyIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>directories</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>require(&quot;eslint/lib/cli-engine&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJzb25hci1zY2FubmVyIjogIm5vZGVfbW9kdWxlcy9zb25hci1zY2FubmVyL2Jpbi9zb25hci1zY2FubmVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIEBmaWxlIGJpbi5qcwogKiBAYXV0aG9yIHpoYW5neXUKICogQGRhdGUgMjAxOC82LzI1CiAqLwo=</text>
+        <text encoding="base64">ICAgICJzb25hci1zY2FubmVyIjogIm5vZGVfbW9kdWxlcy9zb25hci1zY2FubmVyL2Jpbi9zb25hci1zY2FubmVyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICIuL2luZGV4LmpzIiwK</text>
+        <text encoding="base64">IyDlrprkuYkgam9iCnZhcmlhYmxlczoKICBHSVRfU1RSQVRFR1k6ICdmZXRjaCcKICBHSVRfQ0hFQ0tPVVQ6ICdmYWxzZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLW5vZGUiOiAiXjYuMC4xIiwK</text>
+        <text encoding="base64">ICAtIGJ1aWxkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzOwo=</text>
+        <text encoding="base64">am9iMToKICBzdGFnZTogYnVpbGQKICBzY3JpcHQ6CiAgICAtIG5vZGUgLXYKICAgIC0gbnBtIC12Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhIiA6ICJub2Rlc2hpdCBiaW4uanMiLAo=</text>
+        <text encoding="base64">ICBvbmx5OgogICAgLSBtYXN0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiYmluIjogImJpbi9lc2xpbnQiLAo=</text>
+        <text encoding="base64">MTZkMDIyZWJlZGU5NzljMGRjYzBmNWIxZTUwMjBmMjkzNTY1ODRiMwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKGNvbmZpZ0ZpbGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIC0gbnBtIGluc3RhbGwgc2VtYW50aWMtcmVsZWFzZS1naXRsYWIgLS1uby1zYXZlCiAgICAtICQobnBtIGJpbikvc2VtYW50aWMtcmVsZWFzZS1naXRsYWIK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
