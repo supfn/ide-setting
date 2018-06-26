@@ -1532,6 +1532,12 @@
         <mark key="^" line="95" column="43" />
         <mark key="." line="95" column="43" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/.reviewdog.yml" timestamp="1529982524904">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/config.js" timestamp="1513131051184">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="22" />
@@ -1709,11 +1715,11 @@
       <jump line="16" column="0" filename="$USER_HOME$/Codes/lab/eslint-cloud/bin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVycm9yZm9ybWF0OgogICAgICAtICIlZjolbDolYzogJW0iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>golint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -1722,31 +1728,31 @@
         <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92MS9wcm94eS1hcGknLCBjb250cm9sbGVyLmdpdGxhYi5wcm94eUFwaSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBleHBvcnRzLnNlY3VyaXR5ID0gewogICAgICAgIGRvbWFpbldoaXRlTGlzdDogWyAnaHR0cDovL2xvY2FsaG9zdDo0MjAwJyBdLAogICAgfTsK</text>
+        <text encoding="base64">ICAgIGVycm9yZm9ybWF0OgogICAgICAtICIlZjolbDolYzogJW0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBleHBvcnRzLnNlY3VyaXR5ID0gewogICAgICAgIGRvbWFpbldoaXRlTGlzdDogWyAnaHR0cDovL2xvY2FsaG9zdDo0MjAwJyBdLAogICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcGkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zIDogcXVlcnksCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcGkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguYm9keSA9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zIDogcXVlcnksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICBoZWFkZXJzIDogewogICAgICAgICAgICAgICAgJ3ByaXZhdGUtdG9rZW4nIDogJ3ktRjNWdU1YbnRqcnZURW5RRzc0JwogICAgICAgICAgICB9LAogICAgICAgICAgICBtZXRob2QsCiAgICAgICAgICAgIHVybCA6IGFwaSwKICAgICAgICAgICAgcGFyYW1zIDogcXVlcnksCiAgICAgICAgICAgIGRhdGEgOmJvZHkKICAgICAgICB9CgoK</text>
+        <text encoding="base64">ICAgICAgICBjdHguYm9keSA9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICBoZWFkZXJzIDogewogICAgICAgICAgICAgICAgJ3ByaXZhdGUtdG9rZW4nIDogJ3ktRjNWdU1YbnRqcnZURW5RRzc0JwogICAgICAgICAgICB9LAogICAgICAgICAgICBtZXRob2QsCiAgICAgICAgICAgIHVybCA6IGFwaSwKICAgICAgICAgICAgcGFyYW1zIDogcXVlcnksCiAgICAgICAgICAgIGRhdGEgOmJvZHkKICAgICAgICB9CgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggY3R4LnJlcXVlc3QpCgovKgo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggY3R4LnJlcXVlc3QpCgovKgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
