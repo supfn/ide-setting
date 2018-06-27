@@ -777,10 +777,10 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/biz/bopconf.js" timestamp="1529420783806">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/biz/bopconf.js" timestamp="1530094143248">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity-components/build/cooking.conf.js" timestamp="1515564132200">
         <mark key="[" line="11" column="0" />
@@ -1197,10 +1197,10 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/pipeline.js" timestamp="1529591531792">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/pipeline.js" timestamp="1530094034504">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qserver-config/ecosystem.config.js" timestamp="1520700363539">
         <mark key="[" line="24" column="14" />
@@ -1879,7 +1879,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5LmhhbmRsZXIgPSBib2R5Lm5pY2tuYW1lOwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1891,31 +1891,31 @@
         <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92MS9wcm94eS1hcGknLCBjb250cm9sbGVyLmdpdGxhYi5wcm94eUFwaSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5LmhhbmRsZXIgPSBib2R5Lm5pY2tuYW1lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9pbnN0YWxsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVycm9yZm9ybWF0OgogICAgICAtICIlZjolbDolYzogJW0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib2R5LmhhbmRsZXIgPSBib2R5Lm5pY2tuYW1lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBleHBvcnRzLnNlY3VyaXR5ID0gewogICAgICAgIGRvbWFpbldoaXRlTGlzdDogWyAnaHR0cDovL2xvY2FsaG9zdDo0MjAwJyBdLAogICAgfTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cmVxdWlyZSgnLi9pbnN0YWxsJyk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcGkpCg==</text>
+        <text encoding="base64">ICAgIGVycm9yZm9ybWF0OgogICAgICAtICIlZjolbDolYzogJW0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zIDogcXVlcnksCg==</text>
+        <text encoding="base64">CiAgICBleHBvcnRzLnNlY3VyaXR5ID0gewogICAgICAgIGRvbWFpbldoaXRlTGlzdDogWyAnaHR0cDovL2xvY2FsaG9zdDo0MjAwJyBdLAogICAgfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguYm9keSA9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICBoZWFkZXJzIDogewogICAgICAgICAgICAgICAgJ3ByaXZhdGUtdG9rZW4nIDogJ3ktRjNWdU1YbnRqcnZURW5RRzc0JwogICAgICAgICAgICB9LAogICAgICAgICAgICBtZXRob2QsCiAgICAgICAgICAgIHVybCA6IGFwaSwKICAgICAgICAgICAgcGFyYW1zIDogcXVlcnksCiAgICAgICAgICAgIGRhdGEgOmJvZHkKICAgICAgICB9CgoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcGkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
