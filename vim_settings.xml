@@ -72,6 +72,13 @@
         <mark key="." line="26" column="37" />
         <mark key="^" line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-data/mylog" timestamp="1530776388581">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="2545180" />
+        <mark key="]" line="0" column="2545180" />
+        <mark key="^" line="0" column="28442" />
+        <mark key="." line="0" column="2545180" />
+      </file>
       <file name="$USER_HOME$/Codes/qutoutiao/juming_ext/package.json" timestamp="1513090040849">
         <mark key="[" line="42" column="25" />
         <mark key="]" line="43" column="0" />
@@ -1814,7 +1821,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="28" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/pages/test.vue" />
       <jump line="4" column="14" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/router.js" />
       <jump line="174" column="48" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/utils/index.js" />
       <jump line="19" column="9" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-sys/src/components/refreshCdnTask/route.js" />
@@ -1914,13 +1920,14 @@
       <jump line="19" column="6" filename="$USER_HOME$/Codes/lab/eslint-cloud/bin.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Codes/lab/eslint-cloud/bin.js" />
       <jump line="67" column="9" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-v2.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/gitlab-data/mylog" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
