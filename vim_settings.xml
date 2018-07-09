@@ -34,6 +34,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ee-sonar-scanner/.gitlab-ci.yml" timestamp="1531147003795" />
       <file name="$USER_HOME$/Codes/lab/gitlab-data/mylog" timestamp="1530776388581">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="2545180" />
@@ -192,22 +193,22 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/src/test.js" timestamp="1531102052068">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/src/test.js" timestamp="1531146283272">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/biz/jenkins.js" timestamp="1530255407247">
         <mark key="[" line="49" column="5" />
         <mark key="]" line="44" column="76" />
         <mark key="." line="44" column="76" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-sonar-scanner/Dockerfile" timestamp="1530927825697">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="85" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ee-sonar-scanner/Dockerfile" timestamp="1531148063770">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="2" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/tmpl.js" timestamp="1530513687644">
         <mark key="[" line="37" column="0" />
@@ -230,10 +231,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-sonar-scanner/build.sh" timestamp="1530926538581">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="5" column="45" />
+      <file name="$USER_HOME$/Codes/lab/ee-sonar-scanner/build.sh" timestamp="1531147934758">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.prod.js" timestamp="1529631643640">
         <mark key="[" line="5" column="0" />
@@ -370,8 +371,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/gitlab-data/mylog" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UlVOIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">UlVOIA==</text>
@@ -386,28 +387,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSBzb25hci1ydW5uZXIucHJvcGVydGllcyAuL3NvbmFyLXNjYW5uZXItMy4yLjAuMTIyNy1saW51eC9jb25mL3NvbmFyLXNjYW5uZXIucHJvcGVydGllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGxuIC1zbmYgL3Vzci9zaGFyZS96b25laW5mby8kVFogL2V0Yy9sb2NhbHRpbWUgJiYgZWNobyAkVFogPiAvZXRjL3RpbWV6b25lCg==</text>
+        <text encoding="base64">IyAgIGVuc3VyZSBTb25hciB1c2VzIHRoZSBwcm92aWRlZCBKYXZhIGZvciBtdXNsIGluc3RlYWQgb2YgYSBib3JrZWQgZ2xpYmMgb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWxzIC1uIC9zb25hci1zY2FubmVyL3NvbmFyLXNjYW5uZXItJFNPTkFSX1NDQU5ORVJfVkVSU0lPTi9iaW4vc29uYXItc2Nhbm5lciAvdXNyL2Jpbi9zb25hci1zY2FubmVyCg==</text>
+        <text encoding="base64">RU5WIFNPTkFSX1JVTk5FUl9IT01FPS9yb290L3NvbmFyLXNjYW5uZXItMy4yLjAuMTIyNy1saW51eApFTlYgUEFUSCAkUEFUSDovcm9vdC9zb25hci1zY2FubmVyLTMuMi4wLjEyMjctbGludXgvYmluCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkVOViBTT05BUl9TQ0FOTkVSX0hPTUU9L3NvbmFyLXNjYW5uZXIvc29uYXItc2Nhbm5lci0kU09OQVJfU0NBTk5FUl9WRVJTSU9OCkVOViBQQVRIICRQQVRIOi9zb25hci1zY2FubmVyL3NvbmFyLXNjYW5uZXItJFNPTkFSX1NDQU5ORVJfVkVSU0lPTi9iaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IGN1cmwgLVggUE9TVCBcCiAgaHR0cDovL3JlZ2lzdHJ5LnF0dDYuY24vYXBpL3JlcG9zaXRvcmllcy9mZSUyZmVlLXNvbmFyLXNjYW5uZXIvdGFncy9sYXRlc3Qvc2NhbiBcCiAgLUggJ0F1dGhvcml6YXRpb246IEJhc2ljIGVtaGhibWQ1ZFRwbE9GRmxPRXBMZHlzM09FSjFPVVUxYm1GNGJ3PT0nCg==</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iUnlhbiBNaXRjaGVsbCA8bWl0Y2hAcnlhbnNtaXRjaGVsbC5jb20+Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JiYgY3VybCAtWCBQT1NUIFwKICBodHRwOi8vcmVnaXN0cnkucXR0Ni5jbi9hcGkvcmVwb3NpdG9yaWVzL2ZlJTJmZWUtc29uYXItc2Nhbm5lci90YWdzL2xhdGVzdC9zY2FuIFwKICAtSCAnQXV0aG9yaXphdGlvbjogQmFzaWMgZW1oaGJtZDVkVHBsT0ZGbE9FcExkeXMzT0VKMU9VVTFibUY0Ync9PScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtSCAnQ2FjaGUtQ29udHJvbDogbm8tY2FjaGUnIFwKICAtSCAnUG9zdG1hbi1Ub2tlbjogMDA1ODMyMTgtNTJmZS00NmUxLTlmNjYtZjU4OTVmNWQzYzJlJwo=</text>
+        <text encoding="base64">UlVOIHNlZCAtaSAncy9kbC1jZG4uYWxwaW5lbGludXgub3JnL21pcnJvcnMudXN0Yy5lZHUuY24vZycgL2V0Yy9hcGsvcmVwb3NpdG9yaWVzIFwKJiYgYXBrIHVwZGF0ZSAmJiBhcGsgdXBncmFkZSAmJiBhcGsgYWRkIC0tbm8tY2FjaGUgIGN1cmwgZ3JlcCBzZWQgZ2l0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cHM6Ly9zb25hcnNvdXJjZS5iaW50cmF5LmNvbS9EaXN0cmlidXRpb24vc29uYXItc2Nhbm5lci1jbGkvc29uYXItc2Nhbm5lci1jbGktMy4yLjAuMTIyNy1saW51eC56aXAK</text>
+        <text encoding="base64">JiYgZG9ja2VyIHRhZyAkTkFNRTpsYXRlc3QgcmVnaXN0cnkucXR0Ni5jbi8kTkFNRTpsYXRlc3QgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
