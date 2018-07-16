@@ -39,10 +39,11 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/hr/hr.js" timestamp="1531710053919">
         <mark key="[" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/git-downloader.js" timestamp="1531713444078">
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/git-downloader.js" timestamp="1531720347344">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/.gitlab-ci.yml" timestamp="1529631105408">
         <mark key="[" line="11" column="0" />
@@ -63,7 +64,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/gen-commits.js" timestamp="1531711584831" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/gen-commits.js" timestamp="1531720041383">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/readProject.js" timestamp="1531276100111">
         <mark key="[" line="34" column="12" />
         <mark key="]" line="34" column="12" />
@@ -187,11 +193,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/stat-tags.js" timestamp="1531711203056">
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="44" column="29" />
-        <mark key="^" line="44" column="29" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/stat-tags.js" timestamp="1531720215908">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/extend/gitlab.js" timestamp="1529484850483">
         <mark key="[" line="72" column="34" />
@@ -326,12 +331,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/index.js" timestamp="1531713803208">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="24" column="77" />
-        <mark key="]" line="40" column="51" />
-        <mark key="." line="40" column="51" />
-        <mark key="^" line="40" column="51" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/index.js" timestamp="1531720364177">
+        <mark key="'" line="7" column="30" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/client.js" timestamp="1531709296365">
         <mark key="[" line="88" column="6" />
@@ -367,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="14" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/readme.md" />
       <jump line="66" column="5" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/Client/index.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test/src/main.js" />
       <jump line="22" column="20" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/main.js" />
@@ -467,43 +471,44 @@
       <jump line="45" column="45" filename="$USER_HOME$/Codes/lab/gitlab-stat/tag/index.js" />
       <jump line="21" column="17" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/index.js" />
       <jump line="26" column="4" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/index.js" />
+      <jump line="7" column="30" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>path.join(__dirname,'repos/' + project.id + '-tags.json')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coYXJyYXkubGVuZ3RoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>path.join(__dirname,'repos/' + project.id + '-tags.json')</text>
+        <text encoding="base64">IGRlYnVnKCclcycsIGUubWVzc2dlKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXJyYXkgPSBzLnJlcGxhY2UoL1xuJC9nLCcnKS5zcGxpdCgvXG4vKS5tYXAobGluZSA9PiBsaW5lLnNwbGl0KCcsJykpCgogICAgICAgIGxldCBjb3B5QXJyYXkgPSBbXTsKICAgICAgICBsZXQgbWFwID17fTsKICAgICAgICBhcnJheS5tYXAoaXRlbSA9PiB7CiAgICAgICAgICAgIGxldCBrZXkgPSBpdGVtWzBdIHx8IGl0ZW1bMV07CiAgICAgICAgICAgIGxldCB2YWx1ZSA9IGl0ZW1bMl07CiAgICAgICAgICAgIGNvcHlBcnJheS5wdXNoKHsKICAgICAgICAgICAgICAgIGRhdGUgOiBuZXcgRGF0ZShrZXkpLAogICAgICAgICAgICAgICAgdmFsdWUgOiB2YWx1ZQogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKCiAgICAgICAgY29weUFycmF5LnNvcnQoKGEsYik9PiBhLmRhdGUgLSBiLmRhdGUpOwoKICAgICAgICBjb3B5QXJyYXkuZm9yRWFjaChpdGVtID0+ewogICAgICAgICAgICBsZXQgZGF0ZSA9IGZlY2hhLmZvcm1hdChpdGVtLmRhdGUsICdZWVlZL01NL0REJyk7CiAgICAgICAgICAgIG1hcFtkYXRlXSA9IG1hcFtkYXRlXSB8fCAwOwogICAgICAgICAgICBtYXBbZGF0ZV0gPSBtYXBbZGF0ZV0gKyAxOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYXJyYXkubGVuZ3RoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGFycmF5ID0gcHJvamVjdEluZm8uYWN0UHJvamVjdHMuY29uY2F0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGZpcnN0ID0gcHJvamVjdEluZm8uYWN0UHJvamVjdHNbMF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgb3V0cHV0ID0gZXhlYyhjbWQpOwogICAgICAgIHJlc29sdmUob3V0cHV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaXNDdXJyZW50R2l0QW5kRXhpc3RDbWQgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFwID17fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Y2F0Y2goZSl7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShhcnJheSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZS5tZXNzYWdlLmluZGV4T2YoJycpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygncmVtb3ZlICVzJywgZGlyKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
