@@ -169,11 +169,10 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/client.js" timestamp="1531813921898">
-        <mark key="[" line="109" column="31" />
-        <mark key="]" line="109" column="31" />
-        <mark key="^" line="88" column="6" />
-        <mark key="." line="109" column="31" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/client.js" timestamp="1531815434573">
+        <mark key="[" line="118" column="31" />
+        <mark key="]" line="118" column="31" />
+        <mark key="." line="118" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -280,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dates</text>
+        <text>lastMaps</text>
       </register>
       <register name="-" type="4">
-        <text>dates</text>
+        <text>lastMaps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -292,31 +291,31 @@
         <text encoding="base64">bGV0IGFycmF5ID0gT2JqZWN0LmVudHJpZXMobWFwcyk7CgphcnJheS5zb3J0KChhLGIpID0+IHsKICAgIHJldHVybiBuZXcgRGF0ZShhWzBdKSAtIG5ldyBEYXRlKGJbMF0pOwp9KTsKCmxldCByZXQgPSB7fTsKbGV0IGRhdGVzID0gW107CmxldCB2YWx1ZXMgPSBbXTsKCl8uZWFjaChhcnJheSwgaXRlbSA9PiB7CiAgICBkYXRlcy5wdXNoKGl0ZW1bMF0pOwogICAgdmFsdWVzLnB1c2goaXRlbVsxXSk7Cn0pCl8uZWFjaChhcnJheSwgaXRlbSA9PiByZXRbaXRlbVswXV0gPSBpdGVtWzFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgZGF0ZXMsCiAgICAgICAgdmFsdWVzCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIF8ua2V5cyhhcnJheTEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgZGF0ZXMsCiAgICAgICAgdmFsdWVzCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJldCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvamVjdC5uYW1lc3BhY2UubmFtZSA9PT0gZ3JvdXApIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJldCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocHJvamVjdC5uYW1lc3BhY2UubmFtZSA9PT0gZ3JvdXApIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
