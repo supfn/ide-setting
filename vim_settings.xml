@@ -139,9 +139,10 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/commits.js" timestamp="1531754741632">
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="16" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/commits.js" timestamp="1531793011898">
+        <mark key="'" line="66" column="24" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="80" column="45" />
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="16" />
       </file>
@@ -163,15 +164,14 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/client.js" timestamp="1531709296365">
-        <mark key="[" line="88" column="6" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="86" column="43" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/client.js" timestamp="1531793025653">
+        <mark key="[" line="105" column="16" />
+        <mark key="]" line="105" column="16" />
+        <mark key="^" line="88" column="6" />
+        <mark key="." line="105" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="20" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/src/main.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/modules/BizRouter/index.js" />
       <jump line="48" column="14" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/qu_farm/build/webpack.base.conf.js" />
       <jump line="29" column="16" filename="$USER_HOME$/Codes/qutoutiao/homework-checker/charStat.js" />
@@ -271,19 +271,20 @@
       <jump line="7" column="30" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/index.js" />
       <jump line="46" column="33" filename="$USER_HOME$/Codes/lab/gitlab-stat/project/android-projects.js" />
       <jump line="32" column="1" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/commits.js" />
+      <jump line="66" column="24" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/commits.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ret</text>
+        <text>maps</text>
       </register>
       <register name="-" type="4">
-        <text>ret</text>
+        <text>maps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnMud3JpdGVKc29uU3luYygnY29tbWl0cy1kYXRhLmpzb24nLCByZXQsICd1dGYtOCcpOwo=</text>
+        <text encoding="base64">bGV0IGFycmF5ID0gT2JqZWN0LmVudHJpZXMobWFwcyk7CgphcnJheS5zb3J0KChhLGIpID0+IHsKICAgIHJldHVybiBuZXcgRGF0ZShhWzBdKSAtIG5ldyBEYXRlKGJbMF0pOwp9KTsKCmxldCByZXQgPSB7fTsKbGV0IGRhdGVzID0gW107CmxldCB2YWx1ZXMgPSBbXTsKCl8uZWFjaChhcnJheSwgaXRlbSA9PiB7CiAgICBkYXRlcy5wdXNoKGl0ZW1bMF0pOwogICAgdmFsdWVzLnB1c2goaXRlbVsxXSk7Cn0pCl8uZWFjaChhcnJheSwgaXRlbSA9PiByZXRbaXRlbVswXV0gPSBpdGVtWzFdKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
