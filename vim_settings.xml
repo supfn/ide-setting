@@ -144,11 +144,11 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/commits.js" timestamp="1531817832618">
-        <mark key="'" line="85" column="24" />
-        <mark key="[" line="106" column="3" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/commits.js" timestamp="1531818999617">
+        <mark key="'" line="89" column="24" />
+        <mark key="[" line="33" column="54" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-sonar-scanner/Dockerfile" timestamp="1531148063770">
         <mark key="[" line="16" column="0" />
@@ -278,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cy5sZW5ndGggPSAxMAo=</text>
+        <text encoding="base64">ICAgIGxldCBsZW5ndGggPSBqc29uLmxlbmd0aDsK</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text encoding="base64">ID0gZGF0ZUF1dGhvcnNba2V5XQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -290,31 +290,31 @@
         <text encoding="base64">bGV0IGFycmF5ID0gT2JqZWN0LmVudHJpZXMobWFwcyk7CgphcnJheS5zb3J0KChhLGIpID0+IHsKICAgIHJldHVybiBuZXcgRGF0ZShhWzBdKSAtIG5ldyBEYXRlKGJbMF0pOwp9KTsKCmxldCByZXQgPSB7fTsKbGV0IGRhdGVzID0gW107CmxldCB2YWx1ZXMgPSBbXTsKCl8uZWFjaChhcnJheSwgaXRlbSA9PiB7CiAgICBkYXRlcy5wdXNoKGl0ZW1bMF0pOwogICAgdmFsdWVzLnB1c2goaXRlbVsxXSk7Cn0pCl8uZWFjaChhcnJheSwgaXRlbSA9PiByZXRbaXRlbVswXV0gPSBpdGVtWzFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cy5sZW5ndGggPSAxMAo=</text>
+        <text encoding="base64">ICAgIGxldCBsZW5ndGggPSBqc29uLmxlbmd0aDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YS5sZW5ndGggPSAxMDsK</text>
+        <text encoding="base64">ICAgICAgICBkYXRlQXV0aG9yc1trZXldID0gZGF0ZUF1dGhvcnNba2V5XSB8fCB7fTsKICAgICAgICBkYXRlQXV0aG9yc1trZXldW2l0ZW0uY29tbWl0dGVyLm5hbWVdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobGVuZ3RoKTsK</text>
+        <text encoding="base64">cy5sZW5ndGggPSAxMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBhdXRob3JzID0ge307Cg==</text>
+        <text encoding="base64">YS5sZW5ndGggPSAxMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodHlwZW9mIGl0ZW1bMV0gPT09ICdzdHJpbmcnKXsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pOwogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKDEpCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobGVuZ3RoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0eXBlb2YgYWRkID09PSAnc3RyaW5nJyl7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGFkZCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBhdXRob3JzID0ge307Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodHlwZW9mIGl0ZW1bMV0gPT09ICdzdHJpbmcnKXsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pOwogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKDEpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZih0eXBlb2YgYWRkID09PSAnc3RyaW5nJyl7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGFkZCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBhbGxBZGQgPSAwOwogICAgbGV0IGFsbERlbCA9IDA7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
