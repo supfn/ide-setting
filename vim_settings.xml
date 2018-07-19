@@ -237,11 +237,10 @@
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-ci-fast/check.sh" timestamp="1531985913924">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="36" column="13" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ee-ci-fast/check.sh" timestamp="1531994084019">
+        <mark key="[" line="79" column="29" />
+        <mark key="]" line="79" column="29" />
+        <mark key="." line="79" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/repos/76-commits.json" timestamp="1531879943462" />
       <file name="$USER_HOME$/Codes/lab/eslint-cloud/index.js" timestamp="1529667931842">
@@ -480,44 +479,44 @@
       <jump line="13211" column="26" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/php-publish-raw" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+      <register name="&quot;" type="4">
+        <text>count</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X2FsbF9lcnJvcj0kKGNhdCAuY2hlY2sgfCBhd2sgJ3twcmludCAkMX0nKQo=</text>
+        <text encoding="base64">ICAgIGlmIFtbICRjdXJyZW50X2FsbF9lcnJvciBlcSAtMSBdXTsgdGhlbgogICAgICAgIGV4aXQgMwogICAgaWYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nICIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGEK</text>
+        <text encoding="base64">ICAgIGxvZyAiJGN1cnJlbnRfYWxsX2Vycm9yICRjdXJyZW50X2FkZGVkX2Vycm9yIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZyAiY3VycmVudCBhbGwgZXJyb3I6ICRjdXJyZW50X2FsbF9lcnJvciIKICAgIGxvZyAiY3VycmVudCBhZGRlZCBlcnJvcjogJGN1cnJlbnRfYWRkZWRfZXJyb3IiCiAgICBsb2cgImN1cnJlbnQgZmlsZXMgY291bnQ6ICRjdXJyZW50X2ZpbGVzX2NvdW50IgogICAgbG9nICJjdXJyZW50IGFkZGVkIGZpbGVzIGNvdW50OiAkY3VycmVudF9hZGRlZF9maWxlc19jb3VudCIKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YT0xCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGV4aXQgMTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBpZiBbIC1mIC5jaGVjayBdOyB0aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
