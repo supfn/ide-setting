@@ -237,6 +237,12 @@
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ee-ci-fast/check.sh" timestamp="1531980603356">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="36" column="13" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/repos/76-commits.json" timestamp="1531879943462" />
       <file name="$USER_HOME$/Codes/lab/eslint-cloud/index.js" timestamp="1529667931842">
         <mark key="[" line="9" column="0" />
@@ -475,43 +481,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICfmr4/mrKHlj5HluIPlop7ooYwnLAogICAgYWRkVG90YWwvcHVibGlzaENvdW50LAoKICAgICfmr4/mrKHlj5HluIPliKDooYwnLAogICAgZGVsVG90YWwvcHVibGlzaENvdW50LAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>布</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICfmr4/mrKHlj5HluIPlop7ooYwnLAogICAgYWRkVG90YWwvcHVibGlzaENvdW50LAoKICAgICfmr4/mrKHlj5HluIPliKDooYwnLAogICAgZGVsVG90YWwvcHVibGlzaENvdW50LAo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X2FsbF9lcnJvcj0kKGNhdCAuY2hlY2sgfCBhd2sgJ3twcmludCAkMX0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAn5Y+R5biD5aSp5pWwJywKICAgIGRheXMsCg==</text>
+        <text encoding="base64">ICAgIGZpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coc2luZ2xlSG90Zml4L3B1Ymxpc2hDb3VudCkK</text>
+        <text encoding="base64">bWFpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBzCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NvbnNvbGUubG9nKGxpbmVzLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgIGVjaG8gJGEK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YT0xCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZigvaG90Zml4Ly50ZXN0KGZpcnN0KSl7Cg==</text>
+        <text encoding="base64">CiAgICBpZiBbIC1mIC5jaGVjayBdOyB0aGVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
