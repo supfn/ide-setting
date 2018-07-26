@@ -214,6 +214,11 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/ios-raw.json" timestamp="1531559514217">
         <mark key="[" line="0" column="760" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ewx-services/app/controller/ewx.js" timestamp="1532585026171">
+        <mark key="[" line="98" column="21" />
+        <mark key="]" line="98" column="21" />
+        <mark key="." line="98" column="21" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/php-publish-raw" timestamp="1531880874966">
         <mark key="[" line="13211" column="0" />
         <mark key="]" line="13211" column="0" />
@@ -471,10 +476,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>count</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
