@@ -42,11 +42,12 @@
         <mark key="]" line="32" column="31" />
         <mark key="." line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/km/index.js" timestamp="1533535358361">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="45" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/km/index.js" timestamp="1533536534893">
+        <mark key="'" line="40" column="41" />
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="36" />
+        <mark key="^" line="41" column="100" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/git-downloader.js" timestamp="1531735219880">
         <mark key="[" line="21" column="0" />
@@ -140,7 +141,7 @@
         <mark key="." line="180" column="19" />
         <mark key="^" line="180" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-stat/km/1.json" timestamp="1533535336431">
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/km/1.json" timestamp="1533536172617">
         <mark key="[" line="0" column="58892" />
         <mark key="]" line="0" column="58892" />
         <mark key="^" line="0" column="58892" />
@@ -416,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/domain-black/detect.sh" />
       <jump line="3" column="10" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/domain-black/detect.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/domain-black/detect.sh" />
       <jump line="33" column="35" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/src/models/Game.js" />
@@ -516,46 +516,47 @@
       <jump line="13211" column="26" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/php-publish-raw" />
       <jump line="21" column="7" filename="$USER_HOME$/Codes/lab/gitlab-stat/km/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/gitlab-stat/km/2.json" />
+      <jump line="40" column="41" filename="$USER_HOME$/Codes/lab/gitlab-stat/km/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>update_times</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>update_times</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBsZXQgcmVzID0gYXdhaXQgaHR0cC5nZXQoJ2h0dHA6Ly9yZC1ld3gtc2VydmljZS5xdXRvdXRpYW8ubmV0L3YxL3VzZXJzJyx7Cg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZXNNYXBbZGVwLmRlcGFydG1lbnRfbmFtZV0udXBkYXRlX3RpbWVzID0gdXBkYXRlc01hcFtkZXAuZGVwYXJ0bWVudF9uYW1lXS51cGRhdGVfdGltZXMgfHwgMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IG5hbWVzID0gXy5jaHVuayhkYXRhcywxMDApOwoKCm5hbWVzID0gbmFtZXNbMV07CgoKY29uc29sZS5sb2cobmFtZXMubGVuZ3RoKTsKCihhc3luYyBmdW5jdGlvbigpewoKICAgIHRyeSB7CiAgICAgICAgbGV0IHJlcyA9IGF3YWl0IGh0dHAuZ2V0KCdodHRwOi8vcmQtZXd4LXNlcnZpY2UucXV0b3V0aWFvLm5ldC92MS91c2VycycsIHsKICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICBxdWVyeTogKEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICRpbjogbmFtZXMKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfSkpLAogICAgICAgICAgICAgICAgbGltaXQ6IDIwMAogICAgICAgICAgICB9CiAgICAgICAgfSk7CgogICAgICAgIC8vY29uc29sZS5sb2coXy51bmlxKG5hbWVzKSkKCiAgICAgICAgZnMud3JpdGVKc29uU3luYygnLi8yLmpzb24nLCByZXMuZGF0YSk7CgogICAgfWNhdGNoKGUpewogICAgICAgIGNvbnNvbGUubG9nKGUubWVzc2FnZSkKICAgIH0KfSgpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVzTWFwW2RlcC5kZXBhcnRtZW50X25hbWVdID0gewogICAgICAgIHVwZGF0ZV90aW1lcyA6IHVwZGF0ZXNNYXBbZGVwLmRlcGFydG1lbnRfbmFtZV0gfHwgMDsKICAgIH0KICAgICAgICAKICAgIHVwZGF0ZXNNYXBbZGVwLmRlcGFydG1lbnRfbmFtZV0gKz0gMTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Vl0sInRvdGFsIjoxNTEsImxpbWl0IjoiMjAwIiwicGFnZSI6MSwicGFnZXMiOjF9Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVzTWFwW2RlcC5kZXBhcnRtZW50X25hbWVdIHx8IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbWFwID0ge307CgogICAgICAgIF8uZWFjaChyZXMuZGF0YSwgaXRlbSA9PiB7CiAgICAgICAgICAgIG1hcFtpdGVtLm5hbWVdID0gaXRlbS5kZXBhcnRtZW50X25hbWU7CiAgICAgICAgfSkKCiAgICAgICAgY29uc29sZS5sb2cocmVzLmRhdGEpCg==</text>
+        <text encoding="base64">bGV0IG5hbWVzID0gXy5jaHVuayhkYXRhcywxMDApOwoKCm5hbWVzID0gbmFtZXNbMV07CgoKY29uc29sZS5sb2cobmFtZXMubGVuZ3RoKTsKCihhc3luYyBmdW5jdGlvbigpewoKICAgIHRyeSB7CiAgICAgICAgbGV0IHJlcyA9IGF3YWl0IGh0dHAuZ2V0KCdodHRwOi8vcmQtZXd4LXNlcnZpY2UucXV0b3V0aWFvLm5ldC92MS91c2VycycsIHsKICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICBxdWVyeTogKEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICRpbjogbmFtZXMKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfSkpLAogICAgICAgICAgICAgICAgbGltaXQ6IDIwMAogICAgICAgICAgICB9CiAgICAgICAgfSk7CgogICAgICAgIC8vY29uc29sZS5sb2coXy51bmlxKG5hbWVzKSkKCiAgICAgICAgZnMud3JpdGVKc29uU3luYygnLi8yLmpzb24nLCByZXMuZGF0YSk7CgogICAgfWNhdGNoKGUpewogICAgICAgIGNvbnNvbGUubG9nKGUubWVzc2FnZSkKICAgIH0KfSgpKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5kZXBhcnRtZW50X25hbWUK</text>
+        <text encoding="base64">Vl0sInRvdGFsIjoxNTEsImxpbWl0IjoiMjAwIiwicGFnZSI6MSwicGFnZXMiOjF9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobmFtZXMubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFwID0ge307CgogICAgICAgIF8uZWFjaChyZXMuZGF0YSwgaXRlbSA9PiB7CiAgICAgICAgICAgIG1hcFtpdGVtLm5hbWVdID0gaXRlbS5kZXBhcnRtZW50X25hbWU7CiAgICAgICAgfSkKCiAgICAgICAgY29uc29sZS5sb2cocmVzLmRhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5kZXBhcnRtZW50X25hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmFtZXMgPSBfLnRha2UobmFtZXMsMSwxMDApCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobmFtZXMubGVuZ3RoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeSA6IGVuY29kZVVSSUNvbXBvbmVudChKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICAgIG5hbWUgOiB7CiAgICAgICAgICAgICAgICAkaW4gOiBuYW1lcwogICAgICAgICAgICB9LAogICAgICAgIH0pKSwKICAgICAgICBsaW1pdCA6IDUwMAo=</text>
+        <text encoding="base64">bmFtZXMgPSBfLnRha2UobmFtZXMsMSwxMDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
