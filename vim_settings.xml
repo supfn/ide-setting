@@ -8,6 +8,12 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/km/2.json" timestamp="1533535102661">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/semantic-release/Dockerfile" timestamp="1530770698404">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="7" column="0" />
@@ -35,6 +41,12 @@
         <mark key="[" line="32" column="31" />
         <mark key="]" line="32" column="31" />
         <mark key="." line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/km/index.js" timestamp="1533535358361">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/git-downloader.js" timestamp="1531735219880">
         <mark key="[" line="21" column="0" />
@@ -127,6 +139,12 @@
         <mark key="]" line="180" column="19" />
         <mark key="." line="180" column="19" />
         <mark key="^" line="180" column="19" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/km/1.json" timestamp="1533535336431">
+        <mark key="[" line="0" column="58892" />
+        <mark key="]" line="0" column="58892" />
+        <mark key="^" line="0" column="58892" />
+        <mark key="." line="0" column="58892" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/php-commits.js" timestamp="1531881848082">
         <mark key="[" line="31" column="0" />
@@ -301,6 +319,12 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/android-raw.json" timestamp="1531559160920">
         <mark key="[" line="496" column="5" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/commits.js" timestamp="1531828039397">
+        <mark key="'" line="89" column="24" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="53" column="10" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/qukan-php-tags.json" timestamp="1531880515479">
         <mark key="[" line="473" column="0" />
         <mark key="]" line="473" column="0" />
@@ -348,6 +372,12 @@
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/index.js" timestamp="1531738774229">
+        <mark key="'" line="7" column="30" />
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/config/config.prod.js" timestamp="1529631643640">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -386,8 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/domain-black/list.txt" />
-      <jump line="50" column="1" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/domain-black/list.txt" />
       <jump line="5" column="0" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/domain-black/detect.sh" />
       <jump line="3" column="10" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/domain-black/detect.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/domain-black/detect.sh" />
@@ -486,46 +514,48 @@
       <jump line="108575" column="48" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/php-publish-raw" />
       <jump line="180" column="18" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/qukan-php-tags.json" />
       <jump line="13211" column="26" filename="$USER_HOME$/Codes/lab/gitlab-stat/app/php-publish-raw" />
+      <jump line="21" column="7" filename="$USER_HOME$/Codes/lab/gitlab-stat/km/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/gitlab-stat/km/2.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIFtbICRjdXJyZW50X2FsbF9lcnJvciBlcSAtMSBdXTsgdGhlbgogICAgICAgIGV4aXQgMwogICAgaWYK</text>
+        <text encoding="base64">CiAgICBsZXQgcmVzID0gYXdhaXQgaHR0cC5nZXQoJ2h0dHA6Ly9yZC1ld3gtc2VydmljZS5xdXRvdXRpYW8ubmV0L3YxL3VzZXJzJyx7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IG5hbWVzID0gXy5jaHVuayhkYXRhcywxMDApOwoKCm5hbWVzID0gbmFtZXNbMV07CgoKY29uc29sZS5sb2cobmFtZXMubGVuZ3RoKTsKCihhc3luYyBmdW5jdGlvbigpewoKICAgIHRyeSB7CiAgICAgICAgbGV0IHJlcyA9IGF3YWl0IGh0dHAuZ2V0KCdodHRwOi8vcmQtZXd4LXNlcnZpY2UucXV0b3V0aWFvLm5ldC92MS91c2VycycsIHsKICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICBxdWVyeTogKEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICRpbjogbmFtZXMKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfSkpLAogICAgICAgICAgICAgICAgbGltaXQ6IDIwMAogICAgICAgICAgICB9CiAgICAgICAgfSk7CgogICAgICAgIC8vY29uc29sZS5sb2coXy51bmlxKG5hbWVzKSkKCiAgICAgICAgZnMud3JpdGVKc29uU3luYygnLi8yLmpzb24nLCByZXMuZGF0YSk7CgogICAgfWNhdGNoKGUpewogICAgICAgIGNvbnNvbGUubG9nKGUubWVzc2FnZSkKICAgIH0KfSgpKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Vl0sInRvdGFsIjoxNTEsImxpbWl0IjoiMjAwIiwicGFnZSI6MSwicGFnZXMiOjF9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFwID0ge307CgogICAgICAgIF8uZWFjaChyZXMuZGF0YSwgaXRlbSA9PiB7CiAgICAgICAgICAgIG1hcFtpdGVtLm5hbWVdID0gaXRlbS5kZXBhcnRtZW50X25hbWU7CiAgICAgICAgfSkKCiAgICAgICAgY29uc29sZS5sb2cocmVzLmRhdGEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpc1Byb2R1Y3Rpb24gPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5kZXBhcnRtZW50X25hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobmFtZXMubGVuZ3RoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">bmFtZXMgPSBfLnRha2UobmFtZXMsMSwxMDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cCA9IFsndGVzdDEnXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lcyA9IFtdOwogICAgICAgIGdyb3VwID0gWyd0ZXN0MScsICd0ZXN0MiddOwoK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSA6IGVuY29kZVVSSUNvbXBvbmVudChKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICAgIG5hbWUgOiB7CiAgICAgICAgICAgICAgICAkaW4gOiBuYW1lcwogICAgICAgICAgICB9LAogICAgICAgIH0pKSwKICAgICAgICBsaW1pdCA6IDUwMAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
