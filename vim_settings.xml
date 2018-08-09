@@ -138,17 +138,17 @@
         <mark key="]" line="47" column="10" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/git.js" timestamp="1533831204020">
-        <mark key="[" line="12" column="59" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/Codes/lab/q/libs/git.js" timestamp="1533833430360">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/read-meta.js" timestamp="1533831895190">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="38" />
-        <mark key="." line="28" column="38" />
-        <mark key="^" line="28" column="38" />
+      <file name="$USER_HOME$/Codes/lab/q/libs/read-meta.js" timestamp="1533833332999">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="39" />
       </file>
       <file name="$USER_HOME$/Codes/lab/eslint-cloud/config.js" timestamp="1529893167057">
         <mark key="[" line="0" column="0" />
@@ -228,11 +228,11 @@
       <file name="/Clipboard.txt" timestamp="1533289078054">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1533831536876">
-        <mark key="[" line="24" column="63" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="3" />
+      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1533833427582">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/meta.yml" timestamp="1533828614911">
         <mark key="[" line="0" column="0" />
@@ -559,10 +559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcy1leHRyYScpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -571,31 +571,31 @@
         <text encoding="base64">ICAgICAgICBsZXQganNQYXRoID0gcGF0aC5qb2luKGRlc3QsIGpzQ29uZmlnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcy1leHRyYScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBsZXQgaXRlbSA9IHt9Owo=</text>
+        <text encoding="base64">Y29uc3Qgb3MgPSByZXF1aXJlKCdvcycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZW0gPSB7fTsKICAgICAgICAgICAgaXRlbS50eXBlID0gJ3RleHQnOwogICAgICAgICAgICBpdGVtLm1lc3NhZ2UgPSB2YWx1ZS50b1N0cmluZygpOwogICAgICAgICAgICBpdGVtLm5hbWUgPSBuYW1lOwogICAgICAgICAgICBxdWVzdGlvbnMucHVzaChpdGVtKTsK</text>
+        <text encoding="base64">bGV0IHRtcCA9IHBhdGguam9pbihvcy50bXBkaXIoKSwnY2FjaGUnKTsKZnMucmVtb3ZlU3luYyh0bXApOwpmcy5lbnN1cmVEaXJTeW5jKHRtcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHR5cGUgPSB0eXBlb2YgdmFsdWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodHlwZW9mIHZhbHVlID09PSAnbnVtYmVyJyl7CiAgICAgICAgICAgICAgICBpdGVtLnR5cGUgPSAnbnVtYmVyJzsKICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodHlwZW9mIC9udW1iZXJ8c3RyaW5nLy50ZXN0KHZhbHVlKSl7CiAgICAgICAgICAgIH0pewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID09PSAnc3RyaW5nJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codG1wKQoKY29uc29sZS5sb2coCiAgICByZWFkTWV0YS5yZWFkTWV0YShwYXRoLmpvaW4odG1wLCAndGVtcGxhdGUnKSkKKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodHlwZSB2YWx1ZSA9PT0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
