@@ -165,11 +165,11 @@
       <file name="/Clipboard.txt" timestamp="1533289078054">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1533911331064">
-        <mark key="[" line="89" column="34" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="33" column="40" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1533954102520">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/meta.yml" timestamp="1533828614911">
         <mark key="[" line="0" column="0" />
@@ -314,11 +314,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/git.js" timestamp="1533908656244">
-        <mark key="[" line="51" column="27" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
+      <file name="$USER_HOME$/Codes/lab/q/libs/git.js" timestamp="1533953990492">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/libs/read-meta.js" timestamp="1533833332999">
         <mark key="[" line="20" column="0" />
@@ -390,12 +390,12 @@
         <mark key="]" line="13211" column="0" />
         <mark key="." line="13211" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/bin/q-init.js" timestamp="1533911291065">
+      <file name="$USER_HOME$/Codes/lab/q/bin/q-init.js" timestamp="1533954082212">
         <mark key="'" line="5" column="22" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/project/stat-repo.js" timestamp="1531710791364">
         <mark key="[" line="27" column="80" />
@@ -627,11 +627,11 @@
       <jump line="32" column="12" filename="$USER_HOME$/Codes/lab/q/libs/generate.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>generate</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>generate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
