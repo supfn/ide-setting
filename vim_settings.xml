@@ -165,11 +165,11 @@
       <file name="/Clipboard.txt" timestamp="1533289078054">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1533998564309">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="150" column="36" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1534053064633">
+        <mark key="[" line="142" column="37" />
+        <mark key="]" line="157" column="34" />
+        <mark key="." line="157" column="34" />
+        <mark key="^" line="157" column="34" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/meta.yml" timestamp="1533828614911">
         <mark key="[" line="0" column="0" />
@@ -226,11 +226,11 @@
       <file name="$USER_HOME$/Codes/lab/q/libs/eval.js" timestamp="1533837363157">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/meta.js" timestamp="1533958552533">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-        <mark key="^" line="27" column="38" />
+      <file name="$USER_HOME$/Codes/lab/q/libs/meta.js" timestamp="1534052986639">
+        <mark key="[" line="64" column="29" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/qukan-php-tags.json" timestamp="1531880515479">
         <mark key="[" line="473" column="0" />
@@ -315,10 +315,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/git.js" timestamp="1533958369922">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Codes/lab/q/libs/git.js" timestamp="1534052581937">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/libs/read-meta.js" timestamp="1533833332999">
         <mark key="[" line="20" column="0" />
@@ -390,12 +391,12 @@
         <mark key="]" line="13211" column="0" />
         <mark key="." line="13211" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/bin/q-init.js" timestamp="1533997683271">
+      <file name="$USER_HOME$/Codes/lab/q/bin/q-init.js" timestamp="1534052453580">
         <mark key="'" line="5" column="22" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="7" column="22" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/project/stat-repo.js" timestamp="1531710791364">
         <mark key="[" line="27" column="80" />
@@ -440,8 +441,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/tests/meta.js" timestamp="1533828680106">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Codes/lab/q/tests/meta.js" timestamp="1534050779144">
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="66" column="7" />
+        <mark key="." line="66" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/android-raw.json" timestamp="1531559160920">
         <mark key="[" line="496" column="5" />
@@ -629,47 +632,47 @@
       <jump line="24" column="17" filename="$USER_HOME$/Codes/lab/q/libs/check-version.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>green</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb25maWcuYWZ0ZXIpewogICAgICAgICAgICBsZXQgb3V0cHV0ID0gY29uZmlnLmFmdGVyKGNvbmZpZyk7CiAgICAgICAgICAgIGlmKHR5cGVvZiBvdXRwdXQgPT09ICdzdHJpbmcnKXsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNoYWxrLmdyZWVuKG91dHB1dCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oJy12LCAtLXZlcmJvc2UnLCAn6L6T5Ye66L+Q6KGM57uG6IqCbG9nJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNoYWxrLmdyZWVuKG91dHB1dCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuZXJyb3IgJiYgY29uZmlnLmVycm9yKGNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRleHR8bnVtYmVyfGNvbmZpcm18dG9nZ2xlfGF1dG9jb21wbGV0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuYWZ0ZXIgJiYgY29uZmlnLmFmdGVyKGNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuYmVmb3JlICYmIGNvbmZpZy5iZWZvcmUoY29uZmlnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuJGFyZ3MgPSBwcm9ncmFtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHRzW2l0ZW0ubmFtZV0gPSBpdGVtLmluaXRpYWw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5vcHRpb24oJy1kLCAtLWRpciA8bmFtZT4nLCAn5oyH5a6a5qih5p2/5paH5Lu255qE55uu5b2VJywgJ3RlbXBsYXRlcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaXRlbS50eXBlID09PSAnbGlzdCcpewogICAgICAgICAgICAgICAgZGVmYXVsdHNbaXRlbS5uYW1lXSA9IChpdGVtLmluaXRpYWwgfHwgJycpLnNwbGl0KCcsJyk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmKGl0ZW0udHlwZSA9PT0gJ3NlbGVjdCcpewogICAgICAgICAgICAgICAgZGVmYXVsdHNbaXRlbS5uYW1lXSA9IGl0ZW0uY2hvaWNlc1tpdGVtLmluaXRpYWxdLnZhbHVlOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZihpdGVtLnR5cGUgPT09ICdtdWx0aXNlbGVjdCcpewogICAgICAgICAgICAgICAgZGVmYXVsdHNbaXRlbS5uYW1lXSA9IGl0ZW0uY2hvaWNlcy5maWx0ZXIoaXRlbSA9PiBpdGVtLnNlbGVjdGVkKS5tYXAoaXRlbSA9PiBpdGVtLnZhbHVlKTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gdGV4dHxudW1iZXJ8Y29uZmlybXx0b2dnbGV8YXV0b2NvbXBsZXRlCiAgICAgICAgICAgIGRlZmF1bHRzW2l0ZW0ubmFtZV0gPSBpdGVtLmluaXRpYWw7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAicHJpdmF0ZSI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
