@@ -73,11 +73,10 @@
         <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jenkins-bot/index.js" timestamp="1534167411217">
-        <mark key="[" line="5" column="95" />
-        <mark key="]" line="5" column="118" />
-        <mark key="." line="5" column="118" />
-        <mark key="^" line="14" column="1" />
+      <file name="$USER_HOME$/Codes/lab/jenkins-bot/index.js" timestamp="1534169975162">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/libs/git-user.js" timestamp="1533902513598">
         <mark key="[" line="0" column="0" />
@@ -271,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="8" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/gitlab-ci.yml" />
-      <jump line="5" column="86" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/test.sh" />
       <jump line="5" column="3" filename="$USER_HOME$/Codes/qutoutiao/cloud-lint/.eslintrc.js" />
       <jump line="38" column="2" filename="$USER_HOME$/Codes/qutoutiao/share-service/package.json" />
       <jump line="16" column="7" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/.gitlab-ci.yml" />
@@ -371,49 +368,51 @@
       <jump line="119" column="1" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
       <jump line="136" column="0" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/tapd-db/insert.js" />
+      <jump line="17" column="1" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
+      <jump line="27" column="3" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSByZXF1aXJlKCcuL2RiJyk7CmNvbnN0IEJ1ZyA9IHJlcXVpcmUoJy4vYnVnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gamVua2lucy5qb2IuZGVzdHJveSgnRUUvZWUtdGVzdCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIGplbmtpbnMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgamVua2lucyA9IHJlcXVpcmUoJ2plbmtpbnMnKTsK</text>
+        <text encoding="base64">amVua2lucy5qb2IuY3JlYXRlKAogICAgJ2VlLXRlc3QxJywKICAgIGZzLnJlYWRGaWxlU3luYygnLi9hLnhtbCcsICd1dGYtOCcpCikKICAgIC50aGVuKCgpID0+IHsKICAgICAgICByZXR1cm4gamVua2lucy52aWV3LmFkZCgnRUUnLCAnZWUtdGVzdDEnKTsKICAgIH0pCiAgICAudGhlbigoKSA9PiB7CiAgICB9KQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gamVua2lucy5qb2IuZGVzdHJveSgnRUUvZWUtdGVzdCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSByZXF1aXJlKCcuL2RiJyk7CmNvbnN0IEJ1ZyA9IHJlcXVpcmUoJy4vYnVnJyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmouZGlmZkZpbGVMaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB0aHJvdyBlcnI7CiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
