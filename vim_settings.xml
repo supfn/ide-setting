@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/lab/tapd-db/index.js" timestamp="1534129299726">
-        <mark key="[" line="71" column="11" />
-        <mark key="]" line="71" column="11" />
-        <mark key="." line="71" column="11" />
+      <file name="$USER_HOME$/Codes/lab/tapd-db/index.js" timestamp="1534145697948">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/faq/package.json" timestamp="1528943283334">
         <mark key="[" line="9" column="15" />
@@ -286,6 +286,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-db/insert.js" timestamp="1534144952906">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/hr/hr.js" timestamp="1531813788574">
         <mark key="[" line="32" column="31" />
         <mark key="]" line="32" column="31" />
@@ -376,7 +382,7 @@
         <mark key="]" line="84" column="4" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-db/db.js" timestamp="1534079735374">
+      <file name="$USER_HOME$/Codes/lab/tapd-db/db.js" timestamp="1534145439932">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
@@ -566,7 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Codes/qutoutiao/util_scripts/daily-report/index.js" />
       <jump line="11" column="8" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/gitlab-ci.yml" />
       <jump line="5" column="86" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/test.sh" />
       <jump line="5" column="3" filename="$USER_HOME$/Codes/qutoutiao/cloud-lint/.eslintrc.js" />
@@ -666,13 +671,14 @@
       <jump line="64" column="1" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
       <jump line="119" column="1" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
       <jump line="136" column="0" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/tapd-db/insert.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>emptyDirSync</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>emptyDirSync</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -681,34 +687,34 @@
         <text encoding="base64">Y29uc3QgZGIgPSByZXF1aXJlKCcuL2RiJyk7CmNvbnN0IEJ1ZyA9IHJlcXVpcmUoJy4vYnVnJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSByZXF1aXJlKCcuL2RiJyk7CmNvbnN0IEJ1ZyA9IHJlcXVpcmUoJy4vYnVnJyk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmouZGlmZkZpbGVMaXN0KCkpOwo=</text>
+        <text encoding="base64">Y29uc3QgZGIgPSByZXF1aXJlKCcuL2RiJyk7CmNvbnN0IEJ1ZyA9IHJlcXVpcmUoJy4vYnVnJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGQpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmouZGlmZkZpbGVMaXN0KCkpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFpbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGQpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0ZW1wTGlzdCwgY3VycmVudCkK</text>
+        <text encoding="base64">bWFpbigpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGVtcExpc3QgPSBvYmoucmVhZEZpbGVMaXN0KCd0ZW1wJyk7CiAgICAgICAgbGV0IGN1cnJlbnQgPSBvYmoucmVhZEZpbGVMaXN0KCdjdXJyZW50Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
