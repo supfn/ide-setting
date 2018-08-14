@@ -64,10 +64,12 @@
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1534242932720">
-        <mark key="[" line="42" column="19" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1534248281874">
+        <mark key="e" line="38" column="22" />
+        <mark key="[" line="35" column="80" />
+        <mark key="]" line="35" column="80" />
+        <mark key="." line="35" column="80" />
+        <mark key="^" line="35" column="83" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1533875200589">
         <mark key="[" line="10" column="32" />
@@ -210,13 +212,6 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/q/bin/q-init.js" timestamp="1534052453580">
-        <mark key="'" line="5" column="22" />
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/project/android-projects.js" timestamp="1531797046195">
         <mark key="[" line="42" column="50" />
         <mark key="]" line="45" column="9" />
@@ -258,6 +253,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/gitlab.js" timestamp="1534249261807">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/project/read-project.js" timestamp="1531827300875">
         <mark key="[" line="79" column="0" />
@@ -394,46 +395,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExLCBzdGF0dXMpCg==</text>
+        <text encoding="base64">Y2xpZW50Lm1pbGVzdG9uZXMubGlzdCh7aWQ6IDF9LCBmdW5jdGlvbiAoZXJyLCBtaWxlc3RvbmVzKSB7CiAgICBjb25zb2xlLmxvZyhlcnIsIG1pbGVzdG9uZXMpOwp9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>put</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRlIGpvYiBzdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZVN0YXR1czogaWdub3JlQ29uZmxpY3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExLCBzdGF0dXMpCg==</text>
+        <text encoding="base64">Y2xpZW50Lm1pbGVzdG9uZXMubGlzdCh7aWQ6IDF9LCBmdW5jdGlvbiAoZXJyLCBtaWxlc3RvbmVzKSB7CiAgICBjb25zb2xlLmxvZyhlcnIsIG1pbGVzdG9uZXMpOwp9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGF3YWl0IHJlbW92ZUdyb3VwKCdmZS9mZS1jaScpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3JlYXRlR3JvdXAoJ2ZlL2ZlLWNpJyk7Cg==</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0UHJvamVjdE1lbWJlcnMoKXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygKICAgICAgICAgICAgYC9wcm9qZWN0cy8ke2VuY29kZVVSSUNvbXBvbmVudChwcm9qZWN0TmFtZSl9J2AKICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXN5bnggdGVzdCgpewogICAgcmV0dXJuIGF4aW9zLmdldCgnL2EvcHJvamVjdHMvJyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuc3RhdHVzID09PSAyMDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCkKCiAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgIGxldCByZXMgPSBhd2FpdCBheGlvcy5nZXQoYC9wcm9qZWN0cy8keyhwcm9qZWN0TmFtZSl9J2ApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
