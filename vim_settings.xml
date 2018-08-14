@@ -64,11 +64,12 @@
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1534260377100">
+      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1534261973677">
         <mark key="e" line="38" column="22" />
-        <mark key="[" line="87" column="69" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="104" column="25" />
+        <mark key="]" line="104" column="25" />
+        <mark key="." line="104" column="25" />
+        <mark key="^" line="93" column="33" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1533875200589">
         <mark key="[" line="10" column="32" />
@@ -393,11 +394,11 @@
       <jump line="60" column="1" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzCg==</text>
+      <register name="&quot;" type="4">
+        <text>read</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
