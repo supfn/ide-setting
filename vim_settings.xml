@@ -56,6 +56,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/jenkins-bot/a.xml" timestamp="1534207758641">
+        <mark key="[" line="92" column="20" />
+        <mark key="]" line="92" column="16" />
+        <mark key="^" line="92" column="16" />
+        <mark key="." line="92" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
       </file>
@@ -73,10 +79,11 @@
         <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jenkins-bot/index.js" timestamp="1534169975162">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Codes/lab/jenkins-bot/index.js" timestamp="1534208189328">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="52" column="38" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/libs/git-user.js" timestamp="1533902513598">
         <mark key="[" line="0" column="0" />
@@ -270,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="3" filename="$USER_HOME$/Codes/qutoutiao/cloud-lint/.eslintrc.js" />
       <jump line="38" column="2" filename="$USER_HOME$/Codes/qutoutiao/share-service/package.json" />
       <jump line="16" column="7" filename="$USER_HOME$/Codes/qutoutiao/fe-ci/.gitlab-ci.yml" />
       <jump line="20" column="9" filename="$USER_HOME$/Codes/qutoutiao/fe-deploy-ui/src/router/index.js" />
@@ -369,50 +375,51 @@
       <jump line="136" column="0" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/tapd-db/insert.js" />
       <jump line="17" column="1" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
-      <jump line="27" column="3" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
+      <jump line="27" column="1" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
+      <jump line="60" column="1" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>appxly</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gamVua2lucy5qb2IuZGVzdHJveSgnRUUvZWUtdGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBqZW5raW5zLmpvYi5jb25maWcoa2V5LCBsb2NhbENvbmZpZyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGplbmtpbnMuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">amVua2lucy5qb2IuY3JlYXRlKAogICAgJ2VlLXRlc3QxJywKICAgIGZzLnJlYWRGaWxlU3luYygnLi9hLnhtbCcsICd1dGYtOCcpCikKICAgIC50aGVuKCgpID0+IHsKICAgICAgICByZXR1cm4gamVua2lucy52aWV3LmFkZCgnRUUnLCAnZWUtdGVzdDEnKTsKICAgIH0pCiAgICAudGhlbigoKSA9PiB7CiAgICB9KQoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gamVua2lucy5qb2IuZGVzdHJveSgnRUUvZWUtdGVzdCcpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoKamVua2lucy5qb2IuZGVzdHJveSgnZWUtdGVzdDEnKS50aGVuKCgpID0+IHsKCiAgICByZXR1cm4gamVua2lucy5qb2IuY3JlYXRlKAogICAgICAgICdlZS10ZXN0MScsCiAgICAgICAgZnMucmVhZEZpbGVTeW5jKCcuL2EueG1sJywgJ3V0Zi04JykKICAgICkKICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgIHJldHVybiBqZW5raW5zLnZpZXcuYWRkKCdFRScsICdlZS10ZXN0MScpOwogICAgICAgIH0pCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIH0pCgp9KQoqLwoK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIHJldHVybjsKICAgIGxldCBuZXdPbmUgPSBmcy5yZWFkRmlsZVN5bmMoJy4vYS54bWwnLCAndXRmLTgnKTsKCiAgICBjb25zb2xlLmxvZyh2YWxpZGF0ZShjdXJyZW50LCBuZXdPbmUpKTsKICAgIGxldCByZXN1bHQgPSBhd2FpdCBqZW5raW5zLmpvYi5jb25maWcoa2V5LCBuZXdPbmUpOwoKICAgIGN1cnJlbnQgPSBhd2FpdCBqZW5raW5zLmpvYi5jb25maWcoa2V5KTsKICAgIGNvbnNvbGUubG9nKHMscmVzdWx0LCB2YWxpZGF0ZShjdXJyZW50LCBuZXdPbmUpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB0aHJvdyBlcnI7CiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
