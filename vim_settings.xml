@@ -64,11 +64,10 @@
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1534240849576">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1534242932720">
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1533875200589">
         <mark key="[" line="10" column="32" />
@@ -395,10 +394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCkKCiAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExLCBzdGF0dXMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>put</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -407,34 +406,34 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRlIGpvYiBzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCkKCiAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExLCBzdGF0dXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBhcnJheSA9IGF3YWl0IGF4aW9zLmdldCgnaHR0cDovL3JkLXRhcGQtY2FjaGUtc2VydmVyLnF1dG91dGlhby5uZXQvdjEvYnVnLWFsbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgIGF3YWl0IHJlbW92ZUdyb3VwKCdmZS9mZS1jaScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9yci0yemU0ZzRyMThiOHUxdDg1Ny5teXNxbC5yZHMuYWxpeXVuY3MuY29tICAgLXVxdWthbiAgLXBpREx2TzN5UUd2Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y3JlYXRlR3JvdXAoJ2ZlL2ZlLWNpJyk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBhcnJheSA9IGZzLnJlYWRKc29uU3luYygnYnVnLWFsbCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCk7CiAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gYXN5bnggdGVzdCgpewogICAgcmV0dXJuIGF4aW9zLmdldCgnL2EvcHJvamVjdHMvJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gbWFpbigpIHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCkKCiAgICByZXR1cm47Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycmF5Lmxlbmd0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
