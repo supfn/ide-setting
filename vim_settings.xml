@@ -187,7 +187,7 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/node.sh" timestamp="1534397559106">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/node.sh" timestamp="1534401612155">
         <mark key="[" line="2" column="58" />
         <mark key="^" line="2" column="55" />
       </file>
@@ -272,7 +272,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" timestamp="1534398267260">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/java.sh" timestamp="1534400867415">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" timestamp="1534401904878">
         <mark key="'" line="1" column="23" />
         <mark key="[" line="20" column="33" />
         <mark key="]" line="20" column="18" />
@@ -351,10 +354,10 @@
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534398822883">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534401287933">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
         <mark key="^" line="23" column="41" />
       </file>
     </filemarks>
@@ -461,11 +464,11 @@
       <jump line="1" column="23" filename="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
