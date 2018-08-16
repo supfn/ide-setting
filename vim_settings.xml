@@ -14,6 +14,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-db/index.js" timestamp="1534222956639">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/q/index.js" timestamp="1533893132030">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,7 +28,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/common.xml" timestamp="1534410544289">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/common.xml" timestamp="1534418221643">
         <mark key="[" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-db/insert.js" timestamp="1534241393480">
@@ -133,11 +138,12 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/jenkins.js" timestamp="1534417222351">
+      <file name="$USER_HOME$/Codes/lab/code-bot/jenkins.js" timestamp="1534418363663">
         <mark key="'" line="48" column="31" />
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/messages-sdk.tpl.js" timestamp="1533876187613">
         <mark key="[" line="27" column="31" />
@@ -181,7 +187,7 @@
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/php.xml" timestamp="1534404002463">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/php.xml" timestamp="1534418240256">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
@@ -194,6 +200,11 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1534397083154">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1534227696573">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/meta.yml" timestamp="1533828614911">
         <mark key="[" line="0" column="0" />
@@ -292,7 +303,7 @@
       <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/java.sh" timestamp="1534400867415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/oc.xml" timestamp="1534414621885">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/oc.xml" timestamp="1534418234325">
         <mark key="[" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" timestamp="1534403992968">
@@ -485,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
