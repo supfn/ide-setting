@@ -371,15 +371,15 @@
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534408362444">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="44" column="0" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534409133686">
+        <mark key="'" line="22" column="21" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="46" column="1" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="22" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="100" filename="$USER_HOME$/Codes/qutoutiao/keynotes/cal.html" />
       <jump line="27" column="0" filename="$USER_HOME$/Codes/qutoutiao/keynotes/cal.html" />
       <jump line="44" column="34" filename="$USER_HOME$/Codes/laopo/counter/demo.js" />
       <jump line="65" column="2" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/build/dev-server.js" />
@@ -479,13 +479,14 @@
       <jump line="34" column="31" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Codes/lab/code-bot/gate.js" />
       <jump line="1" column="23" filename="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" />
+      <jump line="22" column="21" filename="$USER_HOME$/Codes/lab/code-bot/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>must</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
