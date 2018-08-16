@@ -14,11 +14,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-db/index.js" timestamp="1534222956639">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/q/index.js" timestamp="1533893132030">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,12 +122,12 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/jenkins.js" timestamp="1534383778544">
-        <mark key="'" line="46" column="31" />
-        <mark key="[" line="26" column="55" />
-        <mark key="]" line="26" column="56" />
-        <mark key="." line="26" column="56" />
-        <mark key="^" line="26" column="56" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/jenkins.js" timestamp="1534398675268">
+        <mark key="'" line="48" column="31" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/messages-sdk.tpl.js" timestamp="1533876187613">
         <mark key="[" line="27" column="31" />
@@ -180,13 +175,8 @@
         <mark key="." line="26" column="6" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1533289078054">
+      <file name="/Clipboard.txt" timestamp="1534397083154">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1534227696573">
-        <mark key="[" line="56" column="35" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/meta.yml" timestamp="1533828614911">
         <mark key="[" line="0" column="0" />
@@ -197,7 +187,7 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/node.sh" timestamp="1534384310393">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/node.sh" timestamp="1534397559106">
         <mark key="[" line="2" column="58" />
         <mark key="^" line="2" column="55" />
       </file>
@@ -231,9 +221,9 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="55" column="24" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/gate.js" timestamp="1534392529428">
+      <file name="$USER_HOME$/Codes/lab/code-bot/gate.js" timestamp="1534398328747">
         <mark key="'" line="105" column="0" />
-        <mark key="[" line="76" column="57" />
+        <mark key="[" line="93" column="30" />
         <mark key="]" line="76" column="33" />
         <mark key="." line="76" column="33" />
         <mark key="^" line="76" column="32" />
@@ -257,6 +247,12 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/oc.sh" timestamp="1534398970662">
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="52" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/project/android-projects.js" timestamp="1531797046195">
         <mark key="[" line="42" column="50" />
         <mark key="]" line="45" column="9" />
@@ -276,7 +272,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" timestamp="1534396512740">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" timestamp="1534398267260">
         <mark key="'" line="1" column="23" />
         <mark key="[" line="20" column="33" />
         <mark key="]" line="20" column="18" />
@@ -355,11 +351,11 @@
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534336425887">
-        <mark key="[" line="13" column="57" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="12" column="73" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534398822883">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+        <mark key="^" line="23" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -466,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAuYmFzaHJjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -478,34 +474,34 @@
         <text encoding="base64">ZnVuY3Rpb24gcmVkKHN0cil7CiAgICByZXR1cm4gYDxiIHN0eWxlPSJjb2xvcjpyZWQiPiR7c3RyfTwvYj5gOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAuYmFzaHJjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3poYW5neXVAcXV0b3V0aWFvLm5ldCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS1nZXJyaXRfY2hhbmdlX293bmVyX2VtYWlsICRHRVJSSVRfQ0hBTkdFX09XTkVSX0VNQUlMCi0tZ2Vycml0X2NoYW5nZV9zdWJqZWN0ICRHRVJSSVRfQ0hBTkdFX1NVQkpFQ1QKLS1nZXJyaXRfcHJvamVjdCAkR0VSUklUX1BST0pFQ1QKLS1nZXJyaXRfY2hhbmdlX293bmVyX25hbWUgJEdFUlJJVF9DSEFOR0VfT1dORVJfTkFNRQotLWdlcnJpdF9jaGFuZ2VfdXJsICRHRVJSSVRfQ0hBTkdFX1VSTAotLWplbmtpbnNfYnVpbGRfdXJsICRCVUlMRF9VUkwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gLS1nZXJyaXRfcmVmc3BlYyAkR0VSUklUX1JFRlNQRUMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5vcHRpb24oJy0tZ2Vycml0X3JlZnNwZWMgPHZhbHVlPicsICdnZXJyaXRfcmVmc3BlYycpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYCR7Y29uZmlnWG1sfSBub3QgZXhpc3RgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAuYmFzaHJjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9KU09OLnN0cmluZ2lmeShbY3VycmVudENvbmZpZywgIGxhc3RSZXBvcnRdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3poYW5neXVAcXV0b3V0aWFvLm5ldCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS1nZXJyaXRfY2hhbmdlX293bmVyX2VtYWlsICRHRVJSSVRfQ0hBTkdFX09XTkVSX0VNQUlMCi0tZ2Vycml0X2NoYW5nZV9zdWJqZWN0ICRHRVJSSVRfQ0hBTkdFX1NVQkpFQ1QKLS1nZXJyaXRfcHJvamVjdCAkR0VSUklUX1BST0pFQ1QKLS1nZXJyaXRfY2hhbmdlX293bmVyX25hbWUgJEdFUlJJVF9DSEFOR0VfT1dORVJfTkFNRQotLWdlcnJpdF9jaGFuZ2VfdXJsICRHRVJSSVRfQ0hBTkdFX1VSTAotLWplbmtpbnNfYnVpbGRfdXJsICRCVUlMRF9VUkwK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvZ3JhbS5lcnJvcnMgPiBsYXN0UmVwb3J0LmVycm9ycykgewogICAgICAgICAgICBwcm9jZXNzLmV4aXQoMik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gLS1nZXJyaXRfcmVmc3BlYyAkR0VSUklUX1JFRlNQRUMK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
