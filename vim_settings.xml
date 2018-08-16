@@ -126,11 +126,11 @@
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="2" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/php.sh" timestamp="1534405685065">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/php.sh" timestamp="1534420307953">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="73" />
+        <mark key="." line="17" column="73" />
+        <mark key="^" line="17" column="73" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/read.js" timestamp="1531827829056">
         <mark key="[" line="9" column="51" />
@@ -138,12 +138,12 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/jenkins.js" timestamp="1534418363663">
+      <file name="$USER_HOME$/Codes/lab/code-bot/jenkins.js" timestamp="1534420407169">
         <mark key="'" line="48" column="31" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+        <mark key="^" line="27" column="47" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/messages-sdk.tpl.js" timestamp="1533876187613">
         <mark key="[" line="27" column="31" />
@@ -225,6 +225,7 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/helper-bash/gate.sh" timestamp="1534420635882" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab.js" timestamp="1533876293250">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="24" />
@@ -496,10 +497,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>bash</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>bash</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
