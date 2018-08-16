@@ -169,7 +169,7 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/sonar.sh" timestamp="1534406264404">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/sonar.sh" timestamp="1534407404977">
         <mark key="[" line="7" column="56" />
         <mark key="]" line="63" column="95" />
         <mark key="^" line="63" column="95" />
@@ -238,7 +238,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="55" column="24" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/gate.js" timestamp="1534398328747">
+      <file name="$USER_HOME$/Codes/lab/code-bot/gate.js" timestamp="1534408064639">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="93" column="30" />
         <mark key="]" line="76" column="33" />
@@ -281,7 +281,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534405565136">
+      <file name="/Dummy.txt" timestamp="1534407710398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/bin/q.js" timestamp="1533975350160">
@@ -371,11 +371,11 @@
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534403612655">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="23" column="41" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534408362444">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -482,10 +482,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7e2dhdGV9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>java</text>
+        <text>must</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -494,34 +494,34 @@
         <text encoding="base64">ZnVuY3Rpb24gcmVkKHN0cil7CiAgICByZXR1cm4gYDxiIHN0eWxlPSJjb2xvcjpyZWQiPiR7c3RyfTwvYj5gOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7e2dhdGV9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmlmIFsgIiRMQU5HIiA9ICJwaHAiIF07IHRoZW4KICAgICAKZmkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LURzb25hci5qYXZhLmJpbmFyaWVzPWFwcC9idWlsZC9vdXRwdXRzL2Fway8gXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LnZlcnNpb24oJzAuMS4wJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oJy0tZ2Vycml0X2NoYW5nZV9vd25lcl9uYW1lIDx2YWx1ZT4nLCAnZ2Vycml0X2NoYW5nZV9vd25lcl9uYW1lJykKICAgIC5vcHRpb24oJy0tZ2Vycml0X2NoYW5nZV9zdWJqZWN0IDx2YWx1ZT4nLCAnZ2Vycml0X2NoYW5nZV9zdWJqZWN0JykKICAgIC5vcHRpb24oJy0tZ2Vycml0X3Byb2plY3QgPHZhbHVlPicsICdnZXJyaXRfY2hhbmdlX3N1YmplY3QnKQogICAgLm9wdGlvbignLS1nZXJyaXRfY2hhbmdlX3VybCA8dmFsdWU+JywgJ2dlcnJpdF9jaGFuZ2VfdXJsJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oJy0tam9iIDx2YWx1ZT4nLCAnamVua2lucyBqb2InKQogICAgLm9wdGlvbignLS1lcnJvcnMgPG4+JywgJ+aJgOaciWVycm9ycycsIHBhcnNlSW50KQogICAgLm9wdGlvbignLS1uZXdfZmlsZXNfZXJyb3JzIDxuPicsICfmlrDlop5lcnJvcnMnLCBwYXJzZUludCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7e2dhdGV9fQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYCR7Y29uZmlnWG1sfSBub3QgZXhpc3RgKTsK</text>
+        <text encoding="base64">CmlmIFsgIiRMQU5HIiA9ICJwaHAiIF07IHRoZW4KICAgICAKZmkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
