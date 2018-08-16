@@ -116,6 +116,12 @@
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="2" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/php.sh" timestamp="1534403265623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/app/read.js" timestamp="1531827829056">
         <mark key="[" line="9" column="51" />
         <mark key="]" line="9" column="7" />
@@ -168,6 +174,11 @@
         <mark key="]" line="23" column="10" />
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="10" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/php.xml" timestamp="1534404002463">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/commits.js" timestamp="1531752884163">
         <mark key="[" line="15" column="0" />
@@ -275,12 +286,12 @@
       <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/java.sh" timestamp="1534400867415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" timestamp="1534401904878">
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" timestamp="1534403992968">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="19" column="24" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/libs/eval.js" timestamp="1533837363157">
         <mark key="[" line="1" column="0" />
@@ -305,10 +316,10 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/rules/java/all.xml" timestamp="1534343668425">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/rules/java/all.xml" timestamp="1534403533003">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/gitlab.js" timestamp="1534336509171">
@@ -354,7 +365,7 @@
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534401287933">
+      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534403612655">
         <mark key="[" line="23" column="40" />
         <mark key="]" line="23" column="40" />
         <mark key="." line="23" column="40" />
@@ -464,11 +475,11 @@
       <jump line="1" column="23" filename="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7e2dhdGV9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>java</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -477,34 +488,34 @@
         <text encoding="base64">ZnVuY3Rpb24gcmVkKHN0cil7CiAgICByZXR1cm4gYDxiIHN0eWxlPSJjb2xvcjpyZWQiPiR7c3RyfTwvYj5gOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7e2dhdGV9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIFsgIiRMQU5HIiA9ICJwaHAiIF07IHRoZW4KICAgICAKZmkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LURzb25hci5qYXZhLmJpbmFyaWVzPWFwcC9idWlsZC9vdXRwdXRzL2Fway8gXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYCR7Y29uZmlnWG1sfSBub3QgZXhpc3RgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAuYmFzaHJjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3poYW5neXVAcXV0b3V0aWFvLm5ldCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS1nZXJyaXRfY2hhbmdlX293bmVyX2VtYWlsICRHRVJSSVRfQ0hBTkdFX09XTkVSX0VNQUlMCi0tZ2Vycml0X2NoYW5nZV9zdWJqZWN0ICRHRVJSSVRfQ0hBTkdFX1NVQkpFQ1QKLS1nZXJyaXRfcHJvamVjdCAkR0VSUklUX1BST0pFQ1QKLS1nZXJyaXRfY2hhbmdlX293bmVyX25hbWUgJEdFUlJJVF9DSEFOR0VfT1dORVJfTkFNRQotLWdlcnJpdF9jaGFuZ2VfdXJsICRHRVJSSVRfQ0hBTkdFX1VSTAotLWplbmtpbnNfYnVpbGRfdXJsICRCVUlMRF9VUkwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gLS1nZXJyaXRfcmVmc3BlYyAkR0VSUklUX1JFRlNQRUMK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYCR7Y29uZmlnWG1sfSBub3QgZXhpc3RgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
