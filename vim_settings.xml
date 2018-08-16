@@ -122,12 +122,12 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/jenkins.js" timestamp="1534337696186">
-        <mark key="'" line="43" column="31" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="29" column="3" />
-        <mark key="." line="29" column="3" />
-        <mark key="^" line="29" column="3" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/jenkins.js" timestamp="1534383778544">
+        <mark key="'" line="46" column="31" />
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="26" column="56" />
+        <mark key="." line="26" column="56" />
+        <mark key="^" line="26" column="56" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/messages-sdk.tpl.js" timestamp="1533876187613">
         <mark key="[" line="27" column="31" />
@@ -159,7 +159,10 @@
         <mark key="^" line="0" column="58892" />
         <mark key="." line="0" column="58892" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-ci-fast/check.sh" timestamp="1534346200527" />
+      <file name="$USER_HOME$/Codes/lab/ee-ci-fast/check.sh" timestamp="1534380405230">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="25" column="24" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v3.js" timestamp="1532606983816">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="23" column="10" />
@@ -189,11 +192,9 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/node.sh" timestamp="1534337625250">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/node.sh" timestamp="1534384310393">
+        <mark key="[" line="2" column="58" />
         <mark key="^" line="2" column="55" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-db/db.js" timestamp="1534241460915">
         <mark key="[" line="5" column="56" />
@@ -219,11 +220,18 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/php-publish.js" timestamp="1531841784050">
         <mark key="[" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/rules/node/eslintrc.js" timestamp="1534337102614">
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="21" />
-        <mark key="^" line="55" column="44" />
-        <mark key="." line="55" column="21" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/rules/node/eslintrc.js" timestamp="1534384049587">
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="24" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/gate.js" timestamp="1534386432791">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/a.js.ts" timestamp="1534054889055">
         <mark key="[" line="0" column="0" />
@@ -255,13 +263,20 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534343365377">
+      <file name="/Dummy.txt" timestamp="1534386303238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/bin/q.js" timestamp="1533975350160">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" timestamp="1534384853634">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/libs/eval.js" timestamp="1533837363157">
         <mark key="[" line="1" column="0" />
@@ -308,10 +323,11 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-data/bash.sh" timestamp="1530839157854">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/node.xml" timestamp="1534337657303">
-        <mark key="[" line="92" column="15" />
-        <mark key="]" line="92" column="15" />
-        <mark key="." line="92" column="15" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/node.xml" timestamp="1534383804802">
+        <mark key="[" line="94" column="5" />
+        <mark key="]" line="95" column="5" />
+        <mark key="." line="95" column="5" />
+        <mark key="^" line="95" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/a" timestamp="1530582132600">
         <mark key="[" line="20" column="2" />
@@ -342,8 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="35" filename="$USER_HOME$/Codes/qutoutiao/keynotes/cal.html" />
-      <jump line="10" column="0" filename="$USER_HOME$/Codes/qutoutiao/keynotes/cal.html" />
       <jump line="35" column="100" filename="$USER_HOME$/Codes/qutoutiao/keynotes/cal.html" />
       <jump line="27" column="0" filename="$USER_HOME$/Codes/qutoutiao/keynotes/cal.html" />
       <jump line="44" column="34" filename="$USER_HOME$/Codes/laopo/counter/demo.js" />
@@ -442,49 +456,51 @@
       <jump line="24" column="41" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
       <jump line="34" column="31" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Codes/lab/code-bot/gate.js" />
+      <jump line="1" column="23" filename="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmKCFmcy5wYXRoRXhpc3RzU3luYyhjb25maWdYbWwpKXsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYCR7Y29uZmlnWG1sfSBub3QgZXhpc3RgKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygnaXMgZmlyc3QgcnVuLCB3cml0ZSByZXBvcnQnLCBwcm9ncmFtKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxydWxlIHJlZj0icnVsZXNldHMvamF2YS91bnVzZWRjb2RlLnhtbCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJvZ3JhbS5lcnJvcnMgPiBsYXN0UmVwb3J0LmVycm9ycykgewogICAgICAgICAgICBwcm9jZXNzLmV4aXQoMik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICA8cnVsZSByZWY9InJ1bGVzc2V0cy9qYXZhL0dvIHRvIHBhcmVudCBkaXJlY3RvcnkiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxydWxlIHJlZj0icnVsZXNldHMvamF2YS9iYXNpYy54bWwiPgogICAgICAgIDxleGNsdWRlIG5hbWU9IlVubmVjZXNzYXJ5RmluYWxNb2RpZmllciIvPgogICAgPC9ydWxlPgoKICAgIDxydWxlIHJlZj0icnVsZXNldHMvamF2YS9icmFjZXMueG1sIi8+CiAgICA8cnVsZSByZWY9InJ1bGVzZXRzL2phdmEvY2xvbmUueG1sIi8+CiAgICA8cnVsZSByZWY9InJ1bGVzZXRzL2phdmEvY29tbWVudHMueG1sIi8+CgogICAgPHJ1bGUgcmVmPSJydWxlc2V0cy9qYXZhL2NvbnRyb3ZlcnNpYWwueG1sIj4KICAgICAgICA8ZXhjbHVkZSBuYW1lPSJBdExlYXN0T25lQ29uc3RydWN0b3IiLz4KICAgICAgICA8ZXhjbHVkZSBuYW1lPSJVbm5lY2Vzc2FyeVBhcmVudGhlc2VzIi8+CiAgICA8L3J1bGU+CgogICAgPHJ1bGUgcmVmPSJydWxlc2V0cy9qYXZhL2Rlc2lnbi54bWwiPgogICAgICAgIDxleGNsdWRlIG5hbWU9IkdvZENsYXNzIi8+CiAgICA8L3J1bGU+CgogICAgPHJ1bGUgcmVmPSJydWxlc2V0cy9qYXZhL2VtcHR5LnhtbCIvPgogICAgPHJ1bGUgcmVmPSJydWxlc2V0cy9qYXZhL2ZpbmFsaXplcnMueG1sIi8+CiAgICA8cnVsZSByZWY9InJ1bGVzZXRzL2phdmEvaW1wb3J0cy54bWwiLz4KICAgIDxydWxlIHJlZj0icnVsZXNldHMvamF2YS9qMmVlLnhtbCIvPgogICAgPHJ1bGUgcmVmPSJydWxlc2V0cy9qYXZhL2phdmFiZWFucy54bWwiLz4KICAgIDxydWxlIHJlZj0icnVsZXNldHMvamF2YS9qdW5pdC54bWwiLz4KICAgIDxydWxlIHJlZj0icnVsZXNldHMvamF2YS9sb2dnaW5nLWpha2FydGEtY29tbW9ucy54bWwiLz4KICAgIDxydWxlIHJlZj0icnVsZXNldHMvamF2YS9sb2dnaW5nLWphdmEueG1sIi8+CiAgICA8cnVsZSByZWY9InJ1bGVzZXRzL2phdmEvbmFtaW5nLnhtbCIvPgogICAgPHJ1bGUgcmVmPSJydWxlc2V0cy9qYXZhL29wdGltaXphdGlvbnMueG1sIi8+CiAgICA8cnVsZSByZWY9InJ1bGVzZXRzL2phdmEvc3RyaWN0ZXhjZXB0aW9uLnhtbCIvPgogICAgPHJ1bGUgcmVmPSJydWxlc2V0cy9qYXZhL3N0cmluZ3MueG1sIi8+CiAgICA8cnVsZSByZWY9InJ1bGVzZXRzL2phdmEvc3Vuc2VjdXJlLnhtbCIvPgogICAgPHJ1bGUgcmVmPSJydWxlc2V0cy9qYXZhL3R5cGVyZXNvbHV0aW9uLnhtbCIvPgoKICAgIDxydWxlIHJlZj0icnVsZXNldHMvamF2YS91bm5lY2Vzc2FyeS54bWwiPgogICAgICAgIDxleGNsdWRlIG5hbWU9IlVubmVjZXNzYXJ5RmluYWxNb2RpZmllciIvPgogICAgICAgIDxleGNsdWRlIG5hbWU9IlVubmVjZXNzYXJ5UmV0dXJuIi8+CiAgICAgICAgPGV4Y2x1ZGUgbmFtZT0iVXNlbGVzc1BhcmVudGhlc2VzIi8+CiAgICA8L3J1bGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQgR09ST09UPS9kYXRhL2FwcHMvZ28KZXhwb3J0IEdPUEFUSD0vZGF0YS9nby1hcHBzCmV4cG9ydCBQQVRIPSRQQVRIOiRHT1JPT1QvYmluOiRHT1BBVEgvYmluCmRvY2tlciBwcwpnb2xpbnQgLXNldF9leGl0X3N0YXR1cwoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXdhaXQgc2VzLnNlbmRFbWFpbCh7CiAgICBlbWFpbDogWyd6aGFuZ3BlbmdqdUBxdXRvdXRpYW8ubmV0J10sCiAgICBuaWNrbmFtZTogJ+eglOWPkeW3peS9nOW5s+WPsCcsCiAgICBjYzogWyd6aGFuZ3BwZWpAMTYzLmNvbSddLCAvLyDmioTpgIHnu5nosIEKICAgIHN1YmplY3Q6ICfmtYvor5UnLAogICAgYm9keTogJzxoMT7mtYvor5U8L2gxPicKfSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
