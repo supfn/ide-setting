@@ -85,7 +85,7 @@
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1534743854425">
+      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1535019334704">
         <mark key="'" line="182" column="0" />
         <mark key="[" line="109" column="48" />
         <mark key="]" line="108" column="0" />
@@ -333,6 +333,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/gitlab.js" timestamp="1535019853683">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="4" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/project/read-project.js" timestamp="1531827300875">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="15" column="95" />
@@ -369,7 +375,7 @@
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1534743236647">
+      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1535019551667">
         <mark key="'" line="21" column="21" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -479,11 +485,11 @@
       <jump line="22" column="21" filename="$USER_HOME$/Codes/lab/code-bot/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -492,28 +498,28 @@
         <text encoding="base64">ICByb3V0ZXIuZ2V0KCcvJywgY29udHJvbGxlci5ob21lLmluZGV4KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN0eCA9IGF3YWl0IG5ldyBQcnhvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CgogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjb2RlICE9PSAwKXsKCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgZ2l0IHJlbW90ZSAtdiB8IGdyZXAgZ2l0bGFiIC12IC1xOyB0aGVuCiAgICBlY2hvIDIyMgppZgo=</text>
+        <text encoding="base64">ICAgIH1jYXRjaChlKXsKICAgICAgICBjb25zb2xlLmxvZygxMTEsZSkKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobWVtYmVycykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW2Ake2dyb3VwfWBdIDp7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYWN0aW9uIjogIkRFTlkiCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIFtgJHtwcm9qZWN0TmFtZX1gXSA6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhY3Rpb24iIDogIkFMTE9XIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmb3JjZSI6IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH1jYXRjaChlKXsKICAgICAgICBjb3Nub2xlLmxvZyhlKQogICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
