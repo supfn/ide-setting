@@ -273,11 +273,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/lockBranchAccess.js" timestamp="1534743308645">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="6" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/lockBranchAccess.js" timestamp="1535351245203">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="35" column="76" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/project/android-projects.js" timestamp="1531797046195">
         <mark key="[" line="42" column="50" />
@@ -286,7 +286,7 @@
         <mark key="." line="45" column="9" />
       </file>
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/menuConfig.js" timestamp="1535333636317" />
-      <file name="/Dummy.txt" timestamp="1535009980146">
+      <file name="/Dummy.txt" timestamp="1535351317849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/java.sh" timestamp="1535009971752">
@@ -367,10 +367,10 @@
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1535166495539">
+      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1535350949314">
         <mark key="'" line="21" column="21" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="25" column="24" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/pages/Projects/components/ContentList/Lists.jsx" timestamp="1535349287666">
@@ -485,46 +485,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdlYkxpbmtzID0gd2ViTGlua3MgfHwgW3t9XQo=</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gbWFpbigpewogICAgbGV0IHByb2plY3ROYW1lID0gJ2ZlL2ZlLWNpJzsKICAgIGxldCByZWZOYW1lID0gJ3JlZnMvaGVhZHMvZmVhdHVyZS9ib3QtYnJhbmNoLTInOwogICAgYXdhaXQgZ2Vycml0LmxvY2tQcm9qZWN0QWNjZXNzKHByb2plY3ROYW1lLCByZWZOYW1lKTsKCn0KCm1haW4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>refName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICAvLyDmi4nlj5bnrKzkuIDpobXnmoTmlbDmja4KICAgIHRoaXMucHJvcHMudXBkYXRlQmluZGluZ0RhdGEoJ3NlbGZEZXRhaWwnLCB7CiAgICAgIGRhdGE6IHsKICAgICAgICBwYWdlOiAxLAogICAgICB9LAogICAgfSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IGdlcnJpdC5sb2NrUHJvamVjdEFjY2Vzcyhwcm9qZWN0TmFtZSwgcmVmTmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdlYkxpbmtzID0gd2ViTGlua3MgfHwgW3t9XQo=</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gbWFpbigpewogICAgbGV0IHByb2plY3ROYW1lID0gJ2ZlL2ZlLWNpJzsKICAgIGxldCByZWZOYW1lID0gJ3JlZnMvaGVhZHMvZmVhdHVyZS9ib3QtYnJhbmNoLTInOwogICAgYXdhaXQgZ2Vycml0LmxvY2tQcm9qZWN0QWNjZXNzKHByb2plY3ROYW1lLCByZWZOYW1lKTsKCn0KCm1haW4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCB1cmwgPSB3ZWJMaW5rc1swXS51cmw7CiAgIHJldHVybiA8YSBocmVmPXt1cmx9IHRhcmdldD0iX2JsYW5rIj7mn6XnnIs8L2E+Owo=</text>
+        <text encoding="base64">ICAgIGF3YWl0ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdlYkxpbmtzKQogICAgcmV0dXJuICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCkK</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oJy0tdXBsb2FkZXIgPHZhbHVlPicsICfor63oqIAnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oJy0tbGFuZyA8dmFsdWU+JywgJ+ivreiogCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8TGluayB0bz17dXJsfT48L0xpbms+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8YSBocmVmPXt1cmx9IHRhcmdldD0iX2JsYW5rIj7mn6XnnIs8L2E+Owo=</text>
+        <text encoding="base64">ICAgIHdlYkxpbmtzID0gd2ViTGlua3MgfHwgW3t9XQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
