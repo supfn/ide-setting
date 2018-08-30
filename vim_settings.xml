@@ -116,10 +116,10 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/php-publish.js" timestamp="1531841784050">
         <mark key="[" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/gate.js" timestamp="1535610378455">
-        <mark key="[" line="102" column="5" />
-        <mark key="]" line="102" column="5" />
-        <mark key="." line="102" column="5" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/gate.js" timestamp="1535614238644">
+        <mark key="[" line="105" column="36" />
+        <mark key="]" line="105" column="36" />
+        <mark key="." line="105" column="36" />
         <mark key="^" line="102" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/htmlReport.js" timestamp="1535537465412">
@@ -314,11 +314,11 @@
       <jump line="35" column="20" filename="$USER_HOME$/Codes/lab/code-bot/javaHtmlReport.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
