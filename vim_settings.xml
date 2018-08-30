@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/lab/code-bot/javaHtmlReport.js" timestamp="1535616568213">
+      <file name="$USER_HOME$/Codes/lab/code-bot/javaHtmlReport.js" timestamp="1535618567237">
         <mark key="'" line="27" column="20" />
         <mark key="[" line="81" column="55" />
         <mark key="]" line="86" column="0" />
@@ -39,12 +39,6 @@
       <file name="$USER_HOME$/Codes/lab/code-bot/error_report" timestamp="1535583722167" />
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/gerrit.js" timestamp="1535352707740">
-        <mark key="'" line="219" column="7" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1533875200589">
         <mark key="[" line="10" column="32" />
@@ -87,6 +81,11 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/report-parser/output.js" timestamp="1535618685909">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="34" column="2" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1534397083154">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,11 +94,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/report-parser/java.js" timestamp="1535616608291">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="21" column="8" />
-        <mark key="." line="21" column="8" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/report-parser/java.js" timestamp="1535618680785">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="58" column="5" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/meta.yml" timestamp="1533828614911">
         <mark key="[" line="0" column="0" />
@@ -201,12 +201,6 @@
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/index.js" timestamp="1535350949314">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/pages/Projects/components/ContentList/Lists.jsx" timestamp="1535356473928">
         <mark key="[" line="82" column="53" />
         <mark key="]" line="82" column="53" />
@@ -218,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="6" filename="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/App.vue" />
       <jump line="63" column="51" filename="$USER_HOME$/Codes/qutoutiao/fe-activity/apps/test_full/build/dev-server.js" />
       <jump line="57" column="24" filename="$USER_HOME$/Codes/qutoutiao/qserver-config/src/ui/src/components/Login.vue" />
       <jump line="15" column="0" filename="$USER_HOME$/Codes/qutoutiao/q-webapp-dev-middleware/package.json" />
@@ -318,49 +311,50 @@
       <jump line="68" column="155" filename="$USER_HOME$/iceworks-workspace/gerrit-ui/src/pages/Project/Project.jsx" />
       <jump line="64" column="0" filename="$USER_HOME$/iceworks-workspace/gerrit-ui/src/pages/Project/Project.jsx" />
       <jump line="35" column="20" filename="$USER_HOME$/Codes/lab/code-bot/javaHtmlReport.js" />
+      <jump line="25" column="13" filename="$USER_HOME$/Codes/lab/code-bot/report-parser/java.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG91dHB1dERhdGEocmVwb3J0cywgbmV3RmlsZXMpewogICAgICAgIC8vIGxldCBvcmlnaW5SZXBvcnQgPSBmcy5yZWFkRmlsZVN5bmMoJy4vZXJyb3JfcmVwb3J0JywgJ3V0Zi04Jyk7CiAgICAgICAgLy8gbGV0IG5ld0ZpbGVzID0gZnMucmVhZEZpbGVTeW5jKCcuLy5uZXdfZmlsZXMnLCAndXRmLTgnKS5zcGxpdCgnXG4nKTsKICAgICAgICAvL2xldCByZXBvcnRzID0gb3JpZ2luUmVwb3J0LnNwbGl0KCdcbicpOwogICAgICAgIGxldCByZXN1bHRzID0gW107CiAgICAgICAgbGV0IHRlbXAgPSB7fTsKCiAgICAgICAgcmVwb3J0cy5tYXAoaXRlbSA9PiB7CgoKICAgICAgICAgICAgbGV0IGxpbmVJbmZvID0gdGhpcy5wYXJzZUZvcm1hdChpdGVtKTsKCiAgICAgICAgICAgIGlmICghbGluZUluZm8pIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCF0ZW1wW2xpbmVJbmZvLmZpbGVQYXRoXSkgewogICAgICAgICAgICAgICAgdGVtcFtsaW5lSW5mby5maWxlUGF0aF0gPSB7CiAgICAgICAgICAgICAgICAgICAgZmlsZVBhdGg6IGxpbmVJbmZvLmZpbGVQYXRoLAogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2VzOiBbXQogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgfQogICAgICAgICAgICB0ZW1wW2xpbmVJbmZvLmZpbGVQYXRoXS5tZXNzYWdlcy5wdXNoKGxpbmVJbmZvLm1lc3NhZ2UpOwogICAgICAgIH0pOwoKICAgICAgICBPYmplY3Qua2V5cyh0ZW1wKS5tYXAoa2V5ID0+IHsKICAgICAgICAgICAgbGV0IG9iaiA9IHRlbXBba2V5XTsKICAgICAgICAgICAgb2JqLmVycm9yQ291bnQgPSBvYmoubWVzc2FnZXMubGVuZ3RoOwogICAgICAgICAgICBvYmoud2FybmluZ0NvdW50ID0gMDsKICAgICAgICAgICAgcmVzdWx0cy5wdXNoKHRlbXBba2V5XSkKICAgICAgICB9KTsKCiAgICAgICAgcmV0dXJuIHJlc3VsdHM7CiAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>parsePmdFormat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>`./report-${GERRIT_CHANGE_NUMBER}-${GERRIT_PATCHSET_NUMBER}.html`</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG91dHB1dERhdGEocmVwb3J0cywgbmV3RmlsZXMpewogICAgICAgIC8vIGxldCBvcmlnaW5SZXBvcnQgPSBmcy5yZWFkRmlsZVN5bmMoJy4vZXJyb3JfcmVwb3J0JywgJ3V0Zi04Jyk7CiAgICAgICAgLy8gbGV0IG5ld0ZpbGVzID0gZnMucmVhZEZpbGVTeW5jKCcuLy5uZXdfZmlsZXMnLCAndXRmLTgnKS5zcGxpdCgnXG4nKTsKICAgICAgICAvL2xldCByZXBvcnRzID0gb3JpZ2luUmVwb3J0LnNwbGl0KCdcbicpOwogICAgICAgIGxldCByZXN1bHRzID0gW107CiAgICAgICAgbGV0IHRlbXAgPSB7fTsKCiAgICAgICAgcmVwb3J0cy5tYXAoaXRlbSA9PiB7CgoKICAgICAgICAgICAgbGV0IGxpbmVJbmZvID0gdGhpcy5wYXJzZUZvcm1hdChpdGVtKTsKCiAgICAgICAgICAgIGlmICghbGluZUluZm8pIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCF0ZW1wW2xpbmVJbmZvLmZpbGVQYXRoXSkgewogICAgICAgICAgICAgICAgdGVtcFtsaW5lSW5mby5maWxlUGF0aF0gPSB7CiAgICAgICAgICAgICAgICAgICAgZmlsZVBhdGg6IGxpbmVJbmZvLmZpbGVQYXRoLAogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2VzOiBbXQogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgfQogICAgICAgICAgICB0ZW1wW2xpbmVJbmZvLmZpbGVQYXRoXS5tZXNzYWdlcy5wdXNoKGxpbmVJbmZvLm1lc3NhZ2UpOwogICAgICAgIH0pOwoKICAgICAgICBPYmplY3Qua2V5cyh0ZW1wKS5tYXAoa2V5ID0+IHsKICAgICAgICAgICAgbGV0IG9iaiA9IHRlbXBba2V5XTsKICAgICAgICAgICAgb2JqLmVycm9yQ291bnQgPSBvYmoubWVzc2FnZXMubGVuZ3RoOwogICAgICAgICAgICBvYmoud2FybmluZ0NvdW50ID0gMDsKICAgICAgICAgICAgcmVzdWx0cy5wdXNoKHRlbXBba2V5XSkKICAgICAgICB9KTsKCiAgICAgICAgcmV0dXJuIHJlc3VsdHM7CiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgR0VSUklUXyA9IHByb2Nlc3MuZW52LkdFUlJJVF9DSEFOR0VfTlVNQkVSOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5vcHRpb24oJy0tJykK</text>
+        <text encoding="base64">Y29uc3QgR0VSUklUXyA9IHByb2Nlc3MuZW52LkdFUlJJVF9DSEFOR0VfTlVNQkVSOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmFidG46YWZ0ZXJ7CmNvbnRlbnQ6IuWPqueci+aWsOWiniIKfQo=</text>
+        <text encoding="base64">ICAgIC5vcHRpb24oJy0tJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Lm9ubHktYWRkZWQtZmlsZXMgLmFidG46YWZ0ZXJ7CmNvbnRlbnQ6Iuafpeeci+WFqOmDqCIKfQo=</text>
+        <text encoding="base64">LmFidG46YWZ0ZXJ7CmNvbnRlbnQ6IuWPqueci+aWsOWiniIKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lm9ubHktYWRkZWQtZmlsZXMgI2ZpbGVPdmVydmlldyAubGludC1yZXN1bHQsCi5vbmx5LWFkZGVkLWZpbGVzICNmaWxlT3ZlcnZpZXcgLmxpbnQtcmVzdWx0K3RyewogICAgZGlzcGxheTpub25lOwp9Ci5vbmx5LWFkZGVkLWZpbGVzICNmaWxlT3ZlcnZpZXcgIyR7YWRkZWRJZHMuam9pbignLCMnKX17IGRpc3BsYXk6dGFibGUtcm93IH0KLm9ubHktYWRkZWQtZmlsZXMgI2ZpbGVPdmVydmlldyAjJHthZGRlZElkcy5qb2luKCcrdHIsIycpICsgJyt0cid9eyBkaXNwbGF5OnRhYmxlLXJvdyB9Ci5vbmx5LWFkZGVkLWZpbGVzICNmaWxlT3ZlcnZpZXcgIyR7YWRkZWRJZHMuam9pbignK3RyLmhpZGRlbiwjJykgKyAnK3RyLmhpZGRlbid9eyBkaXNwbGF5Om5vbmUgfQo=</text>
+        <text encoding="base64">Lm9ubHktYWRkZWQtZmlsZXMgLmFidG46YWZ0ZXJ7CmNvbnRlbnQ6Iuafpeeci+WFqOmDqCIKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAucmVwbGFjZSgvPFwvYm9keT4vLCBgJCY8c2NyaXB0PiR7anN9PC9zY3JpcHQ+YCkK</text>
+        <text encoding="base64">Lm9ubHktYWRkZWQtZmlsZXMgI2ZpbGVPdmVydmlldyAubGludC1yZXN1bHQsCi5vbmx5LWFkZGVkLWZpbGVzICNmaWxlT3ZlcnZpZXcgLmxpbnQtcmVzdWx0K3RyewogICAgZGlzcGxheTpub25lOwp9Ci5vbmx5LWFkZGVkLWZpbGVzICNmaWxlT3ZlcnZpZXcgIyR7YWRkZWRJZHMuam9pbignLCMnKX17IGRpc3BsYXk6dGFibGUtcm93IH0KLm9ubHktYWRkZWQtZmlsZXMgI2ZpbGVPdmVydmlldyAjJHthZGRlZElkcy5qb2luKCcrdHIsIycpICsgJyt0cid9eyBkaXNwbGF5OnRhYmxlLXJvdyB9Ci5vbmx5LWFkZGVkLWZpbGVzICNmaWxlT3ZlcnZpZXcgIyR7YWRkZWRJZHMuam9pbignK3RyLmhpZGRlbiwjJykgKyAnK3RyLmhpZGRlbid9eyBkaXNwbGF5Om5vbmUgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBqcyA9IGAKICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNkZXRhaWxzIEgyLnBhZ2UtaGVhZGVyJykuaW5uZXJIVE1MICs9IAogICAgJyA8YnV0dG9uIG9uY2xpY2s9ImRvY3VtZW50LmJvZHkuY2xhc3NMaXN0LnRvZ2dsZShcXCdvbmx5LWFkZGVkLWZpbGVzXFwnKSIgY2xhc3M9ImFidG4iPjwvYnV0dG9uPicKICAgIGA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVwbGFjZSgvPFwvYm9keT4vLCBgJCY8c2NyaXB0PiR7anN9PC9zY3JpcHQ+YCkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBqcyA9IGAKICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNkZXRhaWxzIEgyLnBhZ2UtaGVhZGVyJykuaW5uZXJIVE1MICs9IAogICAgJyA8YnV0dG9uIG9uY2xpY2s9ImRvY3VtZW50LmJvZHkuY2xhc3NMaXN0LnRvZ2dsZShcXCdvbmx5LWFkZGVkLWZpbGVzXFwnKSIgY2xhc3M9ImFidG4iPjwvYnV0dG9uPicKICAgIGA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
