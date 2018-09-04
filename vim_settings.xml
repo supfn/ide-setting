@@ -422,11 +422,11 @@
       <file name="/Dummy.txt" timestamp="1535629933577">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536057933795">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="17" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536061376786">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="7" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/oc.xml" timestamp="1535163850248">
         <mark key="[" line="11" column="47" />
@@ -583,10 +583,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kind</text>
+        <text>projects[1]</text>
       </register>
       <register name="-" type="4">
-        <text>kind</text>
+        <text>projects[1]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
