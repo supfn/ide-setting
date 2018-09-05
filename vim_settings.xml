@@ -13,11 +13,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/build.sh" timestamp="1536136212291">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/build.sh" timestamp="1536144103361">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/php-publish-parse.js" timestamp="1531844345097">
         <mark key="[" line="9" column="31" />
@@ -80,6 +80,11 @@
       <file name="$USER_HOME$/Codes/lab/q/cmds/init.js" timestamp="1533892429356">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/debug" timestamp="1536142468483">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/php-publish.js" timestamp="1531841784050">
         <mark key="[" line="4" column="3" />
       </file>
@@ -88,6 +93,11 @@
         <mark key="]" line="105" column="36" />
         <mark key="." line="105" column="36" />
         <mark key="^" line="102" column="5" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/gitlab-ci.yml" timestamp="1536144475940">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/a.js.ts" timestamp="1534054889055">
         <mark key="[" line="0" column="0" />
@@ -121,10 +131,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536135822092">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536144058244">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/pages/Project/Project.jsx" timestamp="1535356979992">
         <mark key="[" line="86" column="60" />
@@ -317,10 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="25" filename="$USER_HOME$/Codes/lab/cdn-services/app/schedule/cdn-refresh.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Codes/lab/cdn-services/app/controller/cdn.js" />
-      <jump line="8" column="17" filename="$USER_HOME$/Codes/lab/cdn-services/app/service/cdn.js" />
-      <jump line="71" column="19" filename="$USER_HOME$/Codes/lab/cdn-services/app/service/cdn.js" />
       <jump line="34" column="22" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
       <jump line="14" column="4" filename="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" />
       <jump line="104" column="12" filename="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" />
@@ -417,40 +424,44 @@
       <jump line="1" column="15" filename="$USER_HOME$/Codes/lab/code-bot/report-parser/java.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Codes/lab/code-bot/test.js" />
       <jump line="4" column="17" filename="$USER_HOME$/Codes/lab/dockerfiles/go/build.sh" />
+      <jump line="25" column="3" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
+      <jump line="30" column="0" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
+      <jump line="26" column="13" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
+      <jump line="20" column="4" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gKnNvbmFyLXNjYW5uZXIKICAgIC0gZ2F0ZS1jaGVjawoK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcD0kMQo=</text>
+        <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC0gKnNvbmFyLXNjYW5uZXIKICAgIC0gZ2F0ZS1jaGVjawoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LnNvbmFyLXNjYW5uZXI6ICZzb25hci1zY2FubmVyIHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnVpbGQgZWUtZ28K</text>
+        <text encoding="base64">ICBzdGFnZTogcXVhbGl0eV9jaGVjawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHJlcAo=</text>
+        <text encoding="base64">ICAgIC1Ec29uYXIucHJvamVjdEtleT0kQ0lfUFJPSkVDVF9OQU1FU1BBQ0U6JENJX1BST0pFQ1RfTkFNRSAtRHNvbmFyLnByb2plY3ROYW1lPSRDSV9QUk9KRUNUX1BBVEggLURzb25hci5zb3VyY2VzPS4gLURzb25hci5leGNsdXNpb25zPXZlbmRvcnMvKiosdWVkaXRvci8qKixzcmMvYXBwbGljYXRpb24vTGlicmFyeS9BbGkqLyoqLHNyYy9hcHBsaWNhdGlvbi9MaWJyYXJ5L1dlY2hhdC8qKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHJlcAo=</text>
+        <text encoding="base64">ICAgIC0gIGVjaG8gMTsgI2dhdGUtY2hlY2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHJlcAo=</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVzaAo=</text>
+        <text encoding="base64">IyBSdW4gb3VyIHRlc3RzCiMgSWYgWGRlYnVnIHdhcyBpbnN0YWxsZWQgeW91IGNhbiBnZW5lcmF0ZSBhIGNvdmVyYWdlIHJlcG9ydCBhbmQgc2VlIGNvZGUgY292ZXJhZ2UgbWV0cmljcy4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -459,7 +470,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvY2tlciB0YWcgZmUvJHJlcDpsYXRlc3QgcmVnaXN0cnkucXR0Ni5jbi9mZS8kcmVwOmxhdGVzdAogICAgZG9ja2VyIHB1c2ggcmVnaXN0cnkucXR0Ni5jbi9mZS8kcmVwOmxhdGVzdAogICAgc2NhbiAkcmVwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
