@@ -124,15 +124,15 @@
       <file name="$USER_HOME$/Codes/lab/q/libs/eval.js" timestamp="1533837363157">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/bin/sonar-scanner" timestamp="1536116884345">
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/bin/sonar-scanner" timestamp="1536118357078">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/Dockerfile" timestamp="1536116893340">
-        <mark key="[" line="7" column="57" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/Dockerfile" timestamp="1536120064398">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
       </file>
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/pages/Projects/components/ContentList/Lists.jsx" timestamp="1535356473928">
         <mark key="[" line="82" column="53" />
@@ -189,7 +189,7 @@
       <file name="$USER_HOME$/Codes/lab/code-bot/report-parser/lang/java.js" timestamp="1535630627691">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties" timestamp="1536115903449">
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties" timestamp="1536119768324">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>init</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>init</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -385,34 +385,34 @@
         <text encoding="base64">c29uYXItc2Nhbm5lciBcCi1Ec29uYXIuaG9zdC51cmw9JFNPTkFSX0lOU1RBTkNFIFwKLURzb25hci5sb2dpbj0kU09OQVJfQUNDRVNTX1RPS0VOIFwKLURzb25hci5wcm9qZWN0S2V5PWZlOmZlLWNpIFwKLURzb25hci5wcm9qZWN0TmFtZT1mZS9mZS1jaSBcCi1Ec29uYXIuc291cmNlcz0uICBcCi1Ec29uYXIucmVwb3J0LmV4cG9ydC5wYXRoPXJlcG9ydC5qc29uCgovZGF0YS9lZS9jb2RlLWJvdC9oZWxwZXItYmFzaC9zb25hci5zaCAkU09OQVJfSU5TVEFOQ0UgJFNPTkFSX0FDQ0VTU19UT0tFTgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIC9iaW4vYmFzaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V09SS0RJUj0vcm9vdAo=</text>
+        <text encoding="base64">QUREIC4vamRrIC9yb290L2pkawo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UEFUSD0vZGF0YS9iaW46JFBBVEgK</text>
+        <text encoding="base64">V09SS0RJUj0vcm9vdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZ2l0bGFiID0gcmVxdWlyZSgnbm9kZS1naXRsYWInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpc3QgPSBudWxsOwo=</text>
+        <text encoding="base64">UEFUSD0vZGF0YS9iaW46JFBBVEgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBzbGVlcCgxMDAwKTsK</text>
+        <text encoding="base64">Y29uc3QgZ2l0bGFiID0gcmVxdWlyZSgnbm9kZS1naXRsYWInKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaXN0Lmxlbmd0aCwgcGFnZSArIDEpOwo=</text>
+        <text encoding="base64">ICAgIGxpc3QgPSBudWxsOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBzbGVlcCgxMDAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
