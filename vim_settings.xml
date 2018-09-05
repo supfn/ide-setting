@@ -13,25 +13,26 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/code.qutoutiao.net.txt" timestamp="1535626651064" />
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/.eslintrc.js" timestamp="1536150398347" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/.eslintrc.js" timestamp="1536151883448">
+        <mark key="[" line="13" column="53" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/common.xml" timestamp="1535163856435">
+        <mark key="[" line="11" column="47" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/build.sh" timestamp="1536144103361">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/report-undefined-undefined.html" timestamp="1535584394678" />
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/php-publish-parse.js" timestamp="1531844345097">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/package.json" timestamp="1535253625871" />
       <file name="$USER_HOME$/Codes/lab/code-bot/bash/job_shell.sh" timestamp="1535772906835">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/error_report" timestamp="1535583722167" />
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
       </file>
@@ -137,12 +138,14 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/report-parser/lang/node.js" timestamp="1535630613680" />
       <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536144058244">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/java.sh" timestamp="1535600821021">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/pages/Project/Project.jsx" timestamp="1535356979992">
         <mark key="[" line="86" column="60" />
@@ -281,11 +284,14 @@
       <file name="$USER_HOME$/Codes/lab/dockerfiles/.gitignore" timestamp="1536133351237">
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1536150205537">
-        <mark key="[" line="3" column="73" />
-        <mark key="]" line="3" column="73" />
-        <mark key="." line="3" column="73" />
-        <mark key="^" line="2" column="49" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1536152040698">
+        <mark key="[" line="2" column="107" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/bash/build.js" timestamp="1535772883846">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/test.js" timestamp="1536040599052">
         <mark key="[" line="33" column="0" />
@@ -300,6 +306,9 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
         <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/oc.xml" timestamp="1535163850248">
+        <mark key="[" line="11" column="47" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/Dockerfile" timestamp="1536128005338">
         <mark key="[" line="0" column="33" />
@@ -338,6 +347,9 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/routerConfig.js" timestamp="1535356618397">
+        <mark key="[" line="24" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -443,11 +455,11 @@
       <jump line="20" column="0" filename="$USER_HOME$/Codes/lab/dockerfiles/php/gitlab-ci.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFwKJiYgbnBtIGluc3RhbGwgLS1zYXZlLWRldiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtLXJlZ2lzdHJ5IGh0dHA6Ly9uZXh1cy5xdXRvdXRpYW8ubmV0L3JlcG9zaXRvcnkvZmUvCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>fe/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -455,35 +467,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAtLXJlZ2lzdHJ5IGh0dHA6Ly9uZXh1cy5xdXRvdXRpYW8ubmV0L3JlcG9zaXRvcnkvZmUvCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IFwKJiYgbnBtIGluc3RhbGwgLS1zYXZlLWRldiA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC0gc29uYXItc2Nhbm5lcgogICAgICAgIC1Ec29uYXIucHJvamVjdEtleT0kQ0lfUFJPSkVDVF9OQU1FU1BBQ0U6JENJX1BST0pFQ1RfTkFNRQogICAgICAgIC1Ec29uYXIucHJvamVjdE5hbWU9JENJX1BST0pFQ1RfUEFUSAogICAgICAgIC1Ec29uYXIuc291cmNlcz0uCiAgICAgICAgLURzb25hci5leGNsdXNpb25zPXZlbmRvcnMvKiosdWVkaXRvci8qKixzcmMvYXBwbGljYXRpb24vTGlicmFyeS9BbGkqLyoqLHNyYy9hcHBsaWNhdGlvbi9MaWJyYXJ5L1dlY2hhdC8qKgogICAgLSBnYXRlLWNoZWNrCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBvbmx5OgogICAgLSAvXnJldGVudGlvblwvLwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cgpzb25hci1zY2FubmVyOgogIG9ubHk6CiAgICAtIC9ecmV0ZW50aW9uXC8vCiAgdGFnczoKICAgIC0gZWUtc2hhcmVkCiAgc2NyaXB0OgogICAgLSBzb25hci1zY2FubmVyIFwKICAgICAgLURzb25hci5wcm9qZWN0S2V5PSRDSV9QUk9KRUNUX05BTUVTUEFDRTokQ0lfUFJPSkVDVF9OQU1FIFwKICAgICAgLURzb25hci5wcm9qZWN0TmFtZT0kQ0lfUFJPSkVDVF9QQVRIIFwKICAgICAgLURzb25hci5zb3VyY2VzPS4gXAogICAgICAtRHNvbmFyLmV4Y2x1c2lvbnM9dmVuZG9ycy8qKix1ZWRpdG9yLyoqLHNyYy9hcHBsaWNhdGlvbi9MaWJyYXJ5L0FsaSovKiosc3JjL2FwcGxpY2F0aW9uL0xpYnJhcnkvV2VjaGF0LyoqCiAgICAtIGdhdGUtY2hlY2sK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gKnNvbmFyLXNjYW5uZXIKICAgIC0gZ2F0ZS1jaGVjawoK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">LnNvbmFyLXNjYW5uZXI6ICZzb25hci1zY2FubmVyIHwK</text>
+        <text encoding="base64">ICAgIC0gKnNvbmFyLXNjYW5uZXIKICAgIC0gZ2F0ZS1jaGVjawoK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGFnZTogcXVhbGl0eV9jaGVjawo=</text>
+        <text encoding="base64">LnNvbmFyLXNjYW5uZXI6ICZzb25hci1zY2FubmVyIHwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
