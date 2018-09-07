@@ -28,8 +28,8 @@
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/job-dsl.txt" timestamp="1536311226952">
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/job-dsl.txt" timestamp="1536313758877">
+        <mark key="[" line="59" column="53" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
@@ -52,11 +52,11 @@
       <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/sync.js" timestamp="1536283461038">
         <mark key="[" line="32" column="65" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/build-jobs.sh" timestamp="1536312107918">
-        <mark key="[" line="3" column="61" />
-        <mark key="]" line="3" column="61" />
-        <mark key="." line="3" column="61" />
-        <mark key="^" line="3" column="92" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/build-jobs.sh" timestamp="1536313380355">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="56" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties" timestamp="1536127484729">
         <mark key="[" line="13" column="0" />
@@ -276,13 +276,14 @@
       <file name="/Dummy.txt" timestamp="1536297270539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536307558648">
-        <mark key="'" line="33" column="12" />
-        <mark key="[" line="43" column="2" />
-        <mark key="]" line="43" column="2" />
-        <mark key="." line="43" column="2" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536313287582">
+        <mark key="'" line="31" column="12" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="41" column="23" />
+        <mark key="^" line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536309126075">
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536312952791">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -482,11 +483,11 @@
       <jump line="24" column="12" filename="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgZnMgCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'{&quot;parameter&quot;: [{&quot;name&quot;:&quot;repo&quot;, &quot;file&quot;:&quot;&quot;}]}'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -495,71 +496,34 @@
         <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZnMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9wLmxlbmd0aCA9IDEwOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgpjb25zb2xlLmxvZyhwLmxlbmd0aCk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+        <text encoding="base64">LS1mb3JtIGZpbGUwPUAkKHB3ZCkvTElTVCBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KTsgLy8ubWFwKHAgPT4gcC5uYW1lX3dpdGhfbmFtZXNwYWNlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>; \
-	export \
-# set GOROOT_BOOTSTRAP such that we can actually build Go
-		GOROOT_BOOTSTRAP=&quot;$(go env GOROOT)&quot; \
-# ... and set &quot;cross-building&quot; related vars to the installed system's values so that we create a build targeting the proper arch
-# (for example, if our build host is GOARCH=amd64, but our build env/image is GOARCH=386, our build needs GOARCH=386)
-		GOOS=&quot;$(go env GOOS)&quot; \
-		GOARCH=&quot;$(go env GOARCH)&quot; \
-		GOHOSTOS=&quot;$(go env GOHOSTOS)&quot; \
-		GOHOSTARCH=&quot;$(go env GOHOSTARCH)&quot; \
-	; \
-# also explicitly set GO386 and GOARM if appropriate
-# https://github.com/docker-library/golang/issues/184
-	apkArch=&quot;$(apk --print-arch)&quot;; \
-	case &quot;$apkArch&quot; in \
-		armhf) export GOARM='6' ;; \
-		x86) export GO386='387' ;; \
-	esac; \
-	\
-	wget -O go.tgz &quot;https://golang.org/dl/go$GOLANG_VERSION.src.tar.gz&quot;; \
-	echo 'afc1e12f5fe49a471e3aae7d906c73e9d5b1fdd36d52d72652dde8f6250152fb *go.tgz' | sha256sum -c -; \
-	tar -C /usr/local -xzf go.tgz; \
-	rm go.tgz; \
-	\
-	cd /usr/local/go/src; \
-	./make.bash; \
-	\
-	rm -rf \
-# https://github.com/golang/go/blob/0b30cf534a03618162d3015c8705dd2231e34703/src/cmd/dist/buildtool.go#L121-L125
-		/usr/local/go/pkg/bootstrap \
-# https://golang.org/cl/82095
-# https://github.com/golang/build/blob/e3fe1605c30f6a3fd136b561569933312ede8782/cmd/release/releaselet.go#L56
-		/usr/local/go/pkg/obj \
-	; \
-	apk del .build-deps; \
-	\
-	export PATH=&quot;/usr/local/go/bin:$PATH&quot;; \
-	go version</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlnbyBcCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cgpjb25zb2xlLmxvZyhwLmxlbmd0aCk=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIEdPTEFOR19WRVJTSU9OIDEuMTEK</text>
+        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
