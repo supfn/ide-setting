@@ -68,6 +68,11 @@
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/readme.md" timestamp="1536131631245">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/go/repositories" timestamp="1536291816873">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
       </file>
@@ -322,10 +327,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/go/Dockerfile" timestamp="1536290831290">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/go/Dockerfile" timestamp="1536292738953">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/meta.json" timestamp="1533828845476">
         <mark key="[" line="0" column="0" />
@@ -461,11 +466,48 @@
       <jump line="20" column="0" filename="$USER_HOME$/Codes/lab/dockerfiles/php/gitlab-ci.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc29uYXItc2Nhbm5lcgogICAgICAgIC1Ec29uYXIucHJvamVjdEtleT0kQ0lfUFJPSkVDVF9OQU1FU1BBQ0U6JENJX1BST0pFQ1RfTkFNRQogICAgICAgIC1Ec29uYXIucHJvamVjdE5hbWU9JENJX1BST0pFQ1RfUEFUSAogICAgICAgIC1Ec29uYXIuc291cmNlcz0uCiAgICAgICAgLURzb25hci5leGNsdXNpb25zPXZlbmRvcnMvKiosdWVkaXRvci8qKixzcmMvYXBwbGljYXRpb24vTGlicmFyeS9BbGkqLyoqLHNyYy9hcHBsaWNhdGlvbi9MaWJyYXJ5L1dlY2hhdC8qKgogICAgLSBnYXRlLWNoZWNrCg==</text>
+      <register name="&quot;" type="4">
+        <text>; \
+	export \
+# set GOROOT_BOOTSTRAP such that we can actually build Go
+		GOROOT_BOOTSTRAP=&quot;$(go env GOROOT)&quot; \
+# ... and set &quot;cross-building&quot; related vars to the installed system's values so that we create a build targeting the proper arch
+# (for example, if our build host is GOARCH=amd64, but our build env/image is GOARCH=386, our build needs GOARCH=386)
+		GOOS=&quot;$(go env GOOS)&quot; \
+		GOARCH=&quot;$(go env GOARCH)&quot; \
+		GOHOSTOS=&quot;$(go env GOHOSTOS)&quot; \
+		GOHOSTARCH=&quot;$(go env GOHOSTARCH)&quot; \
+	; \
+# also explicitly set GO386 and GOARM if appropriate
+# https://github.com/docker-library/golang/issues/184
+	apkArch=&quot;$(apk --print-arch)&quot;; \
+	case &quot;$apkArch&quot; in \
+		armhf) export GOARM='6' ;; \
+		x86) export GO386='387' ;; \
+	esac; \
+	\
+	wget -O go.tgz &quot;https://golang.org/dl/go$GOLANG_VERSION.src.tar.gz&quot;; \
+	echo 'afc1e12f5fe49a471e3aae7d906c73e9d5b1fdd36d52d72652dde8f6250152fb *go.tgz' | sha256sum -c -; \
+	tar -C /usr/local -xzf go.tgz; \
+	rm go.tgz; \
+	\
+	cd /usr/local/go/src; \
+	./make.bash; \
+	\
+	rm -rf \
+# https://github.com/golang/go/blob/0b30cf534a03618162d3015c8705dd2231e34703/src/cmd/dist/buildtool.go#L121-L125
+		/usr/local/go/pkg/bootstrap \
+# https://golang.org/cl/82095
+# https://github.com/golang/build/blob/e3fe1605c30f6a3fd136b561569933312ede8782/cmd/release/releaselet.go#L56
+		/usr/local/go/pkg/obj \
+	; \
+	apk del .build-deps; \
+	\
+	export PATH=&quot;/usr/local/go/bin:$PATH&quot;; \
+	go version</text>
       </register>
       <register name="-" type="4">
-        <text>sonar-scanner</text>
+        <text>alpine:3.8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -473,35 +515,72 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gc29uYXItc2Nhbm5lcgogICAgICAgIC1Ec29uYXIucHJvamVjdEtleT0kQ0lfUFJPSkVDVF9OQU1FU1BBQ0U6JENJX1BST0pFQ1RfTkFNRQogICAgICAgIC1Ec29uYXIucHJvamVjdE5hbWU9JENJX1BST0pFQ1RfUEFUSAogICAgICAgIC1Ec29uYXIuc291cmNlcz0uCiAgICAgICAgLURzb25hci5leGNsdXNpb25zPXZlbmRvcnMvKiosdWVkaXRvci8qKixzcmMvYXBwbGljYXRpb24vTGlicmFyeS9BbGkqLyoqLHNyYy9hcHBsaWNhdGlvbi9MaWJyYXJ5L1dlY2hhdC8qKgogICAgLSBnYXRlLWNoZWNrCg==</text>
+      <register name="1" type="4">
+        <text>; \
+	export \
+# set GOROOT_BOOTSTRAP such that we can actually build Go
+		GOROOT_BOOTSTRAP=&quot;$(go env GOROOT)&quot; \
+# ... and set &quot;cross-building&quot; related vars to the installed system's values so that we create a build targeting the proper arch
+# (for example, if our build host is GOARCH=amd64, but our build env/image is GOARCH=386, our build needs GOARCH=386)
+		GOOS=&quot;$(go env GOOS)&quot; \
+		GOARCH=&quot;$(go env GOARCH)&quot; \
+		GOHOSTOS=&quot;$(go env GOHOSTOS)&quot; \
+		GOHOSTARCH=&quot;$(go env GOHOSTARCH)&quot; \
+	; \
+# also explicitly set GO386 and GOARM if appropriate
+# https://github.com/docker-library/golang/issues/184
+	apkArch=&quot;$(apk --print-arch)&quot;; \
+	case &quot;$apkArch&quot; in \
+		armhf) export GOARM='6' ;; \
+		x86) export GO386='387' ;; \
+	esac; \
+	\
+	wget -O go.tgz &quot;https://golang.org/dl/go$GOLANG_VERSION.src.tar.gz&quot;; \
+	echo 'afc1e12f5fe49a471e3aae7d906c73e9d5b1fdd36d52d72652dde8f6250152fb *go.tgz' | sha256sum -c -; \
+	tar -C /usr/local -xzf go.tgz; \
+	rm go.tgz; \
+	\
+	cd /usr/local/go/src; \
+	./make.bash; \
+	\
+	rm -rf \
+# https://github.com/golang/go/blob/0b30cf534a03618162d3015c8705dd2231e34703/src/cmd/dist/buildtool.go#L121-L125
+		/usr/local/go/pkg/bootstrap \
+# https://golang.org/cl/82095
+# https://github.com/golang/build/blob/e3fe1605c30f6a3fd136b561569933312ede8782/cmd/release/releaselet.go#L56
+		/usr/local/go/pkg/obj \
+	; \
+	apk del .build-deps; \
+	\
+	export PATH=&quot;/usr/local/go/bin:$PATH&quot;; \
+	go version</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvbmx5OgogICAgLSAvXnJldGVudGlvblwvLwo=</text>
+        <text encoding="base64">CQlnbyBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGFnZTogdXQKICBvbmx5OgogICAgLSAvXnJldGVudGlvblwvLwo=</text>
+        <text encoding="base64">RU5WIEdPTEFOR19WRVJTSU9OIDEuMTEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cFswXQo=</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBiaW51dGlscyBnY2MgbWFrZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgbGV0IG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
+        <text encoding="base64">UlVOIGFwayB1cGRhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2cobGFzdEFjdCkK</text>
+        <text encoding="base64">ICAgIC0gc29uYXItc2Nhbm5lcgogICAgICAgIC1Ec29uYXIucHJvamVjdEtleT0kQ0lfUFJPSkVDVF9OQU1FU1BBQ0U6JENJX1BST0pFQ1RfTkFNRQogICAgICAgIC1Ec29uYXIucHJvamVjdE5hbWU9JENJX1BST0pFQ1RfUEFUSAogICAgICAgIC1Ec29uYXIuc291cmNlcz0uCiAgICAgICAgLURzb25hci5leGNsdXNpb25zPXZlbmRvcnMvKiosdWVkaXRvci8qKixzcmMvYXBwbGljYXRpb24vTGlicmFyeS9BbGkqLyoqLHNyYy9hcHBsaWNhdGlvbi9MaWJyYXJ5L1dlY2hhdC8qKgogICAgLSBnYXRlLWNoZWNrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgfQo=</text>
+        <text encoding="base64">ICBvbmx5OgogICAgLSAvXnJldGVudGlvblwvLwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydQo=</text>
+        <text encoding="base64">ICBzdGFnZTogdXQKICBvbmx5OgogICAgLSAvXnJldGVudGlvblwvLwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
