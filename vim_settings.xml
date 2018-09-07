@@ -259,11 +259,11 @@
       <file name="/Dummy.txt" timestamp="1536297270539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536303355602">
-        <mark key="[" line="24" column="58" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="33" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536307558648">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="43" column="2" />
+        <mark key="]" line="43" column="2" />
+        <mark key="." line="43" column="2" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536144058244">
         <mark key="'" line="20" column="4" />
@@ -363,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" />
       <jump line="104" column="12" filename="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" />
       <jump line="21" column="46" filename="$USER_HOME$/Codes/lab/1key-deploy-a9/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/test.js" />
@@ -463,13 +462,14 @@
       <jump line="26" column="13" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
       <jump line="20" column="4" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
       <jump line="20" column="0" filename="$USER_HOME$/Codes/lab/dockerfiles/php/gitlab-ci.yml" />
+      <jump line="24" column="12" filename="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KTsgLy8ubWFwKHAgPT4gcC5uYW1lX3dpdGhfbmFtZXNwYWNlKSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cgpjb25zb2xlLmxvZyhwLmxlbmd0aCk=</text>
       </register>
       <register name="-" type="4">
-        <text>.replace(/\//,'-')</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -477,10 +477,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">Cgpjb25zb2xlLmxvZyhwLmxlbmd0aCk=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">KTsgLy8ubWFwKHAgPT4gcC5uYW1lX3dpdGhfbmFtZXNwYWNlKSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>; \
 	export \
 # set GOROOT_BOOTSTRAP such that we can actually build Go
@@ -520,29 +529,20 @@
 	export PATH=&quot;/usr/local/go/bin:$PATH&quot;; \
 	go version</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlnbyBcCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">RU5WIEdPTEFOR19WRVJTSU9OIDEuMTEK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBiaW51dGlscyBnY2MgbWFrZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">UlVOIGFwayB1cGRhdGUK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gc29uYXItc2Nhbm5lcgogICAgICAgIC1Ec29uYXIucHJvamVjdEtleT0kQ0lfUFJPSkVDVF9OQU1FU1BBQ0U6JENJX1BST0pFQ1RfTkFNRQogICAgICAgIC1Ec29uYXIucHJvamVjdE5hbWU9JENJX1BST0pFQ1RfUEFUSAogICAgICAgIC1Ec29uYXIuc291cmNlcz0uCiAgICAgICAgLURzb25hci5leGNsdXNpb25zPXZlbmRvcnMvKiosdWVkaXRvci8qKixzcmMvYXBwbGljYXRpb24vTGlicmFyeS9BbGkqLyoqLHNyYy9hcHBsaWNhdGlvbi9MaWJyYXJ5L1dlY2hhdC8qKgogICAgLSBnYXRlLWNoZWNrCg==</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBiaW51dGlscyBnY2MgbWFrZQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvbmx5OgogICAgLSAvXnJldGVudGlvblwvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
