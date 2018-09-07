@@ -253,11 +253,10 @@
       <file name="/Dummy.txt" timestamp="1536197408839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536283699173">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="14" />
-        <mark key="." line="23" column="14" />
-        <mark key="^" line="19" column="2" />
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536285426601">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536144058244">
         <mark key="'" line="20" column="4" />
@@ -459,10 +458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>length</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -471,34 +470,34 @@
         <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cFswXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgbGV0IG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2cobGFzdEFjdCkK</text>
+        <text encoding="base64">ICAgbGV0IG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgfQo=</text>
+        <text encoding="base64">ICAgY29uc29sZS5sb2cobGFzdEFjdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydQo=</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gcHdkCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcnRpZmFjdHM6CiAgICAgIHBhdGhzOgogICAgICAgIC0gcmVwb3J0Lmh0bWwK</text>
+        <text encoding="base64">ICAgIC0gcHdkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtLXJlZ2lzdHJ5IGh0dHA6Ly9uZXh1cy5xdXRvdXRpYW8ubmV0L3JlcG9zaXRvcnkvZmUvCg==</text>
+        <text encoding="base64">ICBhcnRpZmFjdHM6CiAgICAgIHBhdGhzOgogICAgICAgIC0gcmVwb3J0Lmh0bWwK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFwKJiYgbnBtIGluc3RhbGwgLS1zYXZlLWRldiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAtLXJlZ2lzdHJ5IGh0dHA6Ly9uZXh1cy5xdXRvdXRpYW8ubmV0L3JlcG9zaXRvcnkvZmUvCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
