@@ -85,6 +85,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/test/Dockerfile" timestamp="1536323595906">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qfp/.gitignore" timestamp="1531208904654">
         <mark key="[" line="8" column="5" />
       </file>
@@ -485,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZnMgCg==</text>
+        <text encoding="base64">QUREIC5lc2xpbnRyYy5qcyAvcm9vdC8uZXNsaW50cmMuanMK</text>
       </register>
       <register name="-" type="4">
-        <text>'{&quot;parameter&quot;: [{&quot;name&quot;:&quot;repo&quot;, &quot;file&quot;:&quot;&quot;}]}'</text>
+        <text>nodejs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -497,34 +503,34 @@
         <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZnMgCg==</text>
+        <text encoding="base64">QUREIC5lc2xpbnRyYy5qcyAvcm9vdC8uZXNsaW50cmMuanMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9wLmxlbmd0aCA9IDEwOwo=</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGVzbGludCBlc2xpbnQtY29uZmlnLXN0YW5kYXJkIGVzbGludC1wbHVnaW4taW1wb3J0IGVzbGludC1wbHVnaW4tcHJvbWlzZSBlc2xpbnQtcGx1Z2luLW5vZGUgZXNsaW50LXBsdWdpbi1zdGFuZGFyZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Y29uc3QgZnMgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
+        <text encoding="base64">Ly9wLmxlbmd0aCA9IDEwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS1mb3JtIGZpbGUwPUAkKHB3ZCkvTElTVCBcCg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS1mb3JtIGZpbGUwPUAkKHB3ZCkvTElTVCBcCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cgpjb25zb2xlLmxvZyhwLmxlbmd0aCk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
