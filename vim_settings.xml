@@ -28,6 +28,12 @@
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/job-dsl.txt" timestamp="1536311226952">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/q/index.js" timestamp="1533893132030">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,6 +51,12 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/sync.js" timestamp="1536283461038">
         <mark key="[" line="32" column="65" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/build-jobs.sh" timestamp="1536312107918">
+        <mark key="[" line="3" column="61" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="3" column="61" />
+        <mark key="^" line="3" column="92" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties" timestamp="1536127484729">
         <mark key="[" line="13" column="0" />
@@ -110,6 +122,11 @@
         <mark key="]" line="18" column="73" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/LIST" timestamp="1536311909014">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="51" />
+        <mark key="." line="0" column="51" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/test.js" timestamp="1536040727415">
         <mark key="[" line="42" column="41" />
@@ -466,10 +483,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cgpjb25zb2xlLmxvZyhwLmxlbmd0aCk=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -477,19 +494,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cgpjb25zb2xlLmxvZyhwLmxlbmd0aCk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cgpjb25zb2xlLmxvZyhwLmxlbmd0aCk=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAna3ViaWtuZXdzJywKICAgICAgICAncXV0b3V0aWFvLWFuZHJvaWQnLAogICAgICAgICcnCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">KTsgLy8ubWFwKHAgPT4gcC5uYW1lX3dpdGhfbmFtZXNwYWNlKSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>; \
 	export \
 # set GOROOT_BOOTSTRAP such that we can actually build Go
@@ -529,20 +552,14 @@
 	export PATH=&quot;/usr/local/go/bin:$PATH&quot;; \
 	go version</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlnbyBcCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">RU5WIEdPTEFOR19WRVJTSU9OIDEuMTEK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBiaW51dGlscyBnY2MgbWFrZQo=</text>
+        <text encoding="base64">CQlnbyBcCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIEdPTEFOR19WRVJTSU9OIDEuMTEK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
