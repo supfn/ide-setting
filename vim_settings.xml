@@ -77,8 +77,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/readme.md" timestamp="1536131631245">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/readme.md" timestamp="1536385136830">
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="60" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/repositories" timestamp="1536291816873">
         <mark key="[" line="2" column="0" />
@@ -237,11 +240,11 @@
       <file name="$USER_HOME$/Codes/lab/dockerfiles/.gitignore" timestamp="1536133351237">
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1536152040698">
-        <mark key="[" line="2" column="107" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1536384900053">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/bash/build.js" timestamp="1535772883846">
         <mark key="[" line="1" column="0" />
@@ -280,7 +283,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536331223574">
+      <file name="/Dummy.txt" timestamp="1536384581683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" timestamp="1536313287582">
@@ -490,8 +493,8 @@
       <jump line="24" column="12" filename="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QUREIC5lc2xpbnRyYy5qcyAvcm9vdC8uZXNsaW50cmMuanMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CnBocC1aZW5kIE9QY2FjaGU=</text>
       </register>
       <register name="-" type="4">
         <text>nodejs</text>
@@ -502,29 +505,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGN1cmwgLXUgJERPQ0tFUl9VU0VSOiRET0NLRVJfUEFTUyBcCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QUREIC5lc2xpbnRyYy5qcyAvcm9vdC8uZXNsaW50cmMuanMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnBocC1aZW5kIE9QY2FjaGU=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGVzbGludCBlc2xpbnQtY29uZmlnLXN0YW5kYXJkIGVzbGludC1wbHVnaW4taW1wb3J0IGVzbGludC1wbHVnaW4tcHJvbWlzZSBlc2xpbnQtcGx1Z2luLW5vZGUgZXNsaW50LXBsdWdpbi1zdGFuZGFyZAo=</text>
+        <text encoding="base64">QUREIC5lc2xpbnRyYy5qcyAvcm9vdC8uZXNsaW50cmMuanMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZnMgCg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGVzbGludCBlc2xpbnQtY29uZmlnLXN0YW5kYXJkIGVzbGludC1wbHVnaW4taW1wb3J0IGVzbGludC1wbHVnaW4tcHJvbWlzZSBlc2xpbnQtcGx1Z2luLW5vZGUgZXNsaW50LXBsdWdpbi1zdGFuZGFyZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9wLmxlbmd0aCA9IDEwOwo=</text>
+        <text encoding="base64">Y29uc3QgZnMgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Ly9wLmxlbmd0aCA9IDEwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS1mb3JtIGZpbGUwPUAkKHB3ZCkvTElTVCBcCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS1mb3JtIGZpbGUwPUAkKHB3ZCkvTElTVCBcCg==</text>
       </register>
       <register name="x" type="4">
         <text />
