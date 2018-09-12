@@ -109,6 +109,11 @@
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" timestamp="1536732941801">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v3.js" timestamp="1535507956753">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -388,10 +393,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
