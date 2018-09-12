@@ -87,6 +87,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/mr/backend-services-favorite" timestamp="1536739988469" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1533875200589">
         <mark key="[" line="10" column="32" />
       </file>
@@ -96,7 +97,7 @@
       <file name="$USER_HOME$/Codes/lab/tapd-db/help_scripts/gen_schema.js" timestamp="1534079436291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/cr/index.js" timestamp="1536661848091">
+      <file name="$USER_HOME$/Codes/lab/data-stat/cr/index.js" timestamp="1536739250230">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
@@ -108,6 +109,12 @@
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/notes.js" timestamp="1536740126045">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="56" column="13" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" timestamp="1536735842672">
         <mark key="[" line="0" column="0" />
@@ -167,6 +174,11 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/q/tests/a.js.ts" timestamp="1534054889055">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/readall.js" timestamp="1536739147681">
+        <mark key="[" line="80" column="30" />
+        <mark key="]" line="80" column="30" />
+        <mark key="." line="80" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/ios-raw.json" timestamp="1531559514217">
         <mark key="[" line="0" column="760" />
@@ -393,11 +405,11 @@
       <jump line="2" column="22" filename="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>auto:fe:dev:fe-page-report</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGVyZScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>auto:fe:dev:fe-page-report</text>
+        <text>sKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -406,16 +418,16 @@
         <text encoding="base64">cmVwb3J0PSQoc29uYXItcmVwb3J0ICRwcm9qZWN0S2V5IHwgbm9kZSAtZSAnbGV0IGpzb24gPSBKU09OLnBhcnNlKHJlcXVpcmUoImZzIikucmVhZEZpbGVTeW5jKDApKTsgbGV0IGRhdGE9e307IGpzb24uY29tcG9uZW50Lm1lYXN1cmVzLm1hcChpdGVtPT4gZGF0YVtpdGVtLm1ldHJpY109aXRlbS52YWx1ZSApOyBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhKSknKQoKYnVncz0kKGVjaG8gJHJlcG9ydCB8IGpxIC1yICcuYnVncycpCnZ1bG5lcmFiaWxpdGllcz0kKGVjaG8gJHJlcG9ydCB8IGpxIC1yICcudnVsbmVyYWJpbGl0aWVzJykKbmV3X2J1Z3M9JChlY2hvICRyZXBvcnQgfCBqcSAtciAnLm5ld19idWdzJykKbmV3X3Z1bG5lcmFiaWxpdGllcz0kKGVjaG8gJHJlcG9ydCB8IGpxIC1yICcubmV3X3Z1bG5lcmFiaWxpdGllcycpCgpzcWFsZV9pbmRleD0kKGVjaG8gJHJlcG9ydCB8IGpxIC1yICcuc3FhbGVfaW5kZXgnKQpjb2RlX3NtZWxscz0kKGVjaG8gJHJlcG9ydCB8IGpxIC1yICcuY29kZV9zbWVsbHMnKQpuZXdfdGVjaG5pY2FsX2RlYnQ9JChlY2hvICRyZXBvcnQgfCBqcSAtciAnLm5ld190ZWNobmljYWxfZGVidCcpCm5ld19jb2RlX3NtZWxscz0kKGVjaG8gJHJlcG9ydCB8IGpxIC1yICcubmV3X2NvZGVfc21lbGxzJykKCmR1cGxpY2F0ZWRfYmxvY2tzPSQoZWNobyAkcmVwb3J0IHwganEgLXIgJy5kdXBsaWNhdGVkX2Jsb2NrcycpCmR1cGxpY2F0ZWRfbGluZXNfZGVuc2l0eT0kKGVjaG8gJHJlcG9ydCB8IGpxIC1yICcuZHVwbGljYXRlZF9saW5lc19kZW5zaXR5JykKbmV3X2R1cGxpY2F0ZWRfbGluZXNfZGVuc2l0eT0kKGVjaG8gJHJlcG9ydCB8IGpxIC1yICcubmV3X2R1cGxpY2F0ZWRfbGluZXNfZGVuc2l0eScpCgoKbGluZTE9ImJ1Z3M6ICR7YnVnc30g5ryP5rSe77yaJHt2dWxuZXJhYmlsaXRpZXN9IHwg5paw5aKeYnVnczogJHtuZXdfYnVnc30g5paw5aKe5ryP5rSeOiAke25ld192dWxuZXJhYmlsaXRpZXN9IgpsaW5lMj0i5oqA5pyv5YC65YqhKOWwj+aXtik6ICR7c3FhbGVfaW5kZXh9IOS7o+eggeWdj+WRs+mBkzogJHtjb2RlX3NtZWxsc30gfCDmlrDmioDmnK/lgLrliqE6ICR7bmV3X3RlY2huaWNhbF9kZWJ0fSDmlrDlop7ku6PnoIHlnY/lkbPpgZM6ICR7bmV3X2NvZGVfc21lbGxzfSIKbGluZTM9IumHjeWkjeWdlzogJHtkdXBsaWNhdGVkX2Jsb2Nrc30g5Luj56CB6YeN5aSN546HOiAke2R1cGxpY2F0ZWRfbGluZXNfZGVuc2l0eX0gfCDmlrDlop7ku6PnoIHph43lpI3njoc6ICR7bmV3X2R1cGxpY2F0ZWRfbGluZXNfZGVuc2l0eX0iCgpqc29uX3BheWxvYWQ9IiR7bGluZTF9PGJyPiR7bGluZTJ9PGJyPiR7bGluZTN9IgoKUUFEUF9JTlNUQU5DRT1odHRwOi8vcmQtcWFkcC1zZXJ2ZXIucXV0b3V0aWFvLm5ldC92MS9mbG93X2hpc3RvcnkvCgppZiBbICIkUUFEUF9FTlYiID0gIlRFU1QiIF07IHRoZW4KICAgUUFEUF9JTlNUQU5DRT1odHRwOi8vcXR0LWVlLXFhZHAtc2VydmVyLWs4cy10c3QucXV0b3V0aWFvLm5ldC92MS9mbG93X2hpc3RvcnkvCmZpCgojIHJlZjogaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTcwMjk5MDIvdXNpbmctY3VybC1wb3N0LXdpdGgtdmFyaWFibGVzLWRlZmluZWQtaW4tYmFzaC1zY3JpcHQtZnVuY3Rpb25zCgpjdXJsICRRQURQX0lOU1RBTkNFLyRRQURQX1NURVBfSUQgXAotLWRhdGEgQDwoY2F0IDw8RU9GCnsKICAgICJyZW1vdGVfY2FsbF9vdXRwdXQiIDogIiR7anNvbl9wYXlsb2FkfSIKfQpFT0YKKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGVyZScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyBqc29uX3BheWxvYWQK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coZmlsZXMpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVwb3J0PSQoc29uYXItcmVwb3J0IGF1dG86ZmU6ZGV2OmZlLXBhZ2UtcmVwb3J0IHwgbm9kZSAtZSAnbGV0IGpzb24gPSBKU09OLnBhcnNlKHJlcXVpcmUoImZzIikucmVhZEZpbGVTeW5jKDApKTsgbGV0IGRhdGE9e307IGpzb24uY29tcG9uZW50Lm1lYXN1cmVzLm1hcChpdGVtPT4gZGF0YVtpdGVtLm1ldHJpY109KGl0ZW0udmFsdWV8fCItIikgKTsgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZGF0YSkpJykK</text>
+        <text encoding="base64">ICAgIGxldCBrZXkgPSBlbmNvZGVVUklDb21wb25lbnQob3JpZ2luS2V5KTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -424,16 +436,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBrZXkgPSBlbmNvZGVVUklDb21wb25lbnQob3JpZ2luS2V5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U09OQVJfSU5TVEFOQ0U9aHR0cHM6Ly9zb25hci5xdHQ2LmNuClNPTkFSX0FDQ0VTU19UT0tFTj0xNmQwMjJlYmVkZTk3OWMwZGNjMGY1YjFlNTAyMGYyOTM1NjU4NGIzCgo=</text>
+        <text encoding="base64">ICAgIGxldCBvcmlnaW5LZXkgPSBpdGVtLnNwbGl0KCc6JylbMV0uc3BsaXQoJy5naXQnKVswXTsKICAgIGxldCBzS2V5ID0gb3JpZ2luS2V5LnJlcGxhY2UoL1wvL2csJy0nKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1yTGlzdCA9IEpTT04ucGFyc2UoaXRlbSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
