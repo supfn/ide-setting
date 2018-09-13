@@ -45,6 +45,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/gate-check" timestamp="1536735628321">
+        <mark key="[" line="70" column="35" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/php-publish-parse.js" timestamp="1531844345097">
         <mark key="[" line="9" column="31" />
       </file>
@@ -114,6 +117,9 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1536660290278">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1534227696573">
         <mark key="[" line="56" column="35" />
         <mark key="]" line="58" column="0" />
@@ -154,10 +160,10 @@
       <file name="$USER_HOME$/Codes/lab/q/tests/a.js.ts" timestamp="1534054889055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/records/index.js" timestamp="1536804572857">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/index.js" timestamp="1536807474065">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/readall.js" timestamp="1536739147681">
         <mark key="[" line="80" column="30" />
@@ -210,11 +216,14 @@
         <mark key="." line="14" column="59" />
       </file>
       <file name="$USER_HOME$/Codes/lab/data-stat/cr/all.json" timestamp="1536660594121" />
-      <file name="$USER_HOME$/Codes/lab/data-stat/records/stat.js" timestamp="1536805315718">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="17" column="27" />
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/stat.js" timestamp="1536807795995">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="39" column="4" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/users-deps.json" timestamp="1536806837216">
+        <mark key="[" line="0" column="1346" />
       </file>
       <file name="/Dummy.txt" timestamp="1536750635771">
         <mark key="[" line="0" column="0" />
@@ -407,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -419,34 +428,34 @@
         <text encoding="base64">Y29uc3Qgc3RyaW5naWZ5ID0gcmVxdWlyZSgnY3N2LXN0cmluZ2lmeScpOwoKc3RyaW5naWZ5KHRpY2UsIGZ1bmN0aW9uKGVyciwgb3V0cHV0KXsKICAgIGZzLndyaXRlRmlsZVN5bmMoJy4vdGljZV9yZXdyaXRlLmNzdicsIG91dHB1dCk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGxpbmVbNl0sIHRhcGRpZC5pbmRleE9mKGxpbmVbNl0pKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVtYWlsKTsKICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGxpbmVbNl0sIHRhcGRpZC5pbmRleE9mKGxpbmVbNl0pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZG9uZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
