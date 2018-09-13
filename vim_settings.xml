@@ -121,7 +121,7 @@
         <mark key="." line="14" column="59" />
       </file>
       <file name="$USER_HOME$/Codes/lab/data-stat/cr/all.json" timestamp="1536660594121" />
-      <file name="$USER_HOME$/Codes/lab/data-stat/records/stat.js" timestamp="1536822174832">
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/stat.js" timestamp="1536826641091">
         <mark key="[" line="55" column="27" />
         <mark key="]" line="39" column="4" />
         <mark key="^" line="39" column="24" />
@@ -202,6 +202,13 @@
       <file name="$USER_HOME$/Codes/lab/tapd-db/help_scripts/gen_schema.js" timestamp="1534079436291">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/notes.js" timestamp="1536742008944">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="56" column="13" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/report-parser/lang/java.js" timestamp="1535630627691">
         <mark key="[" line="6" column="20" />
       </file>
@@ -220,11 +227,12 @@
         <mark key="]" line="69" column="18" />
         <mark key="." line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/records/publish.js" timestamp="1536825810077">
-        <mark key="[" line="30" column="46" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/publish.js" timestamp="1536827410155">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="62" column="14" />
+        <mark key="." line="62" column="14" />
+        <mark key="^" line="62" column="14" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/libs/client/ios-raw.json" timestamp="1531559514217">
         <mark key="[" line="0" column="760" />
@@ -284,7 +292,7 @@
       <file name="$USER_HOME$/Codes/qutoutiao/fe-ci/a" timestamp="1530582132600">
         <mark key="[" line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/rewrite.js" timestamp="1536766336907">
+      <file name="$USER_HOME$/Codes/lab/data-stat/rewrite.js" timestamp="1536826578399">
         <mark key="[" line="33" column="44" />
         <mark key="]" line="25" column="6" />
         <mark key="^" line="25" column="6" />
@@ -312,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/test.js" />
       <jump line="75" column="47" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
       <jump line="102" column="23" filename="$USER_HOME$/Codes/lab/gitlab-services/app/extend/tmpl.js" />
       <jump line="54" column="3" filename="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlab.js" />
@@ -412,13 +419,14 @@
       <jump line="24" column="12" filename="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/read.js" />
       <jump line="2" column="22" filename="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" />
       <jump line="73" column="0" filename="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/notes.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/Codes/lab/data-stat/records/publish.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -427,36 +435,36 @@
         <text encoding="base64">Y29uc3Qgc3RyaW5naWZ5ID0gcmVxdWlyZSgnY3N2LXN0cmluZ2lmeScpOwoKc3RyaW5naWZ5KHRpY2UsIGZ1bmN0aW9uKGVyciwgb3V0cHV0KXsKICAgIGZzLndyaXRlRmlsZVN5bmMoJy4vdGljZV9yZXdyaXRlLmNzdicsIG91dHB1dCk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGNzdiA9IFsKICAgIFsncmVwbycsIC4uLmRhdGVzXQpdOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">fQoKbG9vcCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c3gubWFwKGFzeW5jIGxpbmUgPT4gewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coY3N2KQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>for(let [key, value] in Object.entries(map)){
 
 }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coT2JqZWN0LmVudHJpZXMobWFwKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cobWFwKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coT2JqZWN0LmVudHJpZXMobWFwKSkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
