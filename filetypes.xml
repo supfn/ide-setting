@@ -8,6 +8,8 @@
       <mapping pattern=".cloudrc" type="PLAIN_TEXT" />
       <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
+      <mapping pattern="php-text" type="PLAIN_TEXT" />
+      <mapping pattern="golint-text" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="ttt" type="PLAIN_TEXT" />
       <mapping pattern="users-deps" type="PLAIN_TEXT" />
