@@ -25,6 +25,11 @@
       <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/common.xml" timestamp="1535163856435">
         <mark key="[" line="11" column="47" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/build.sh" timestamp="1536910530421">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-stat/php-publish-parse.js" timestamp="1531844345097">
         <mark key="[" line="9" column="31" />
       </file>
@@ -122,6 +127,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/build.sh" timestamp="1536910520802" />
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/menuConfig.js" timestamp="1535355711485">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="23" column="0" />
@@ -138,7 +144,12 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536907650980" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536910440845">
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="10" />
+        <mark key="^" line="39" column="49" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/java.sh" timestamp="1535600821021">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,6 +161,11 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/q/libs/eval.js" timestamp="1533837363157">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/java/build.sh" timestamp="1536910516118">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/bin/sonar-scanner" timestamp="1536118357078">
         <mark key="[" line="39" column="17" />
@@ -189,6 +205,11 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/push-all.sh" timestamp="1536910534930">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/go.sh" timestamp="1536132115867">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -199,10 +220,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/build.sh" timestamp="1536136206688">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/build.sh" timestamp="1536910527426">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/index.js" timestamp="1533893132030">
         <mark key="[" line="0" column="0" />
@@ -259,6 +280,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/go/build.sh" timestamp="1536910357344">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/htmlReport.js" timestamp="1535537465412">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="69" column="18" />
@@ -308,7 +334,7 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536909636883">
+      <file name="/Dummy.txt" timestamp="1536910539998">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/package.json" timestamp="1536899032653">
@@ -488,11 +514,11 @@
       <jump line="38" column="0" filename="$USER_HOME$/Codes/lab/html-reporter/app/parser/java-parser.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCByZXBvcnRlciA9IHJlcXVpcmUoJy4vcmVwb3J0ZXInKTsKCmxldCBzdHIgPSByZXBvcnRlcihtb2R1bGUuZXhwb3J0cygKICAgIGZzLnJlYWRGaWxlU3luYygnLi9qYXZhLXRleHQnLCAndXRmLTgnKQopKQoKZnMud3JpdGVGaWxlU3luYygnLi9qYXZhLXJlcG9ydC5odG1sJywgc3RyKQoK</text>
+      <register name="&quot;" type="4">
+        <text>build</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -501,25 +527,25 @@
         <text encoding="base64">Y29uc3Qgbm9kZVBhcnNlciA9IHJlcXVpcmUoJy4uL3BhcnNlci9ub2RlLXBhcnNlcicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCByZXBvcnRlciA9IHJlcXVpcmUoJy4vcmVwb3J0ZXInKTsKCmxldCBzdHIgPSByZXBvcnRlcihtb2R1bGUuZXhwb3J0cygKICAgIGZzLnJlYWRGaWxlU3luYygnLi9qYXZhLXRleHQnLCAndXRmLTgnKQopKQoKZnMud3JpdGVGaWxlU3luYygnLi9qYXZhLXJlcG9ydC5odG1sJywgc3RyKQoK</text>
+        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGxpbmUgPSBsaW5lLnN1YnN0cihpbmRleCArIDEpOwogICAgLy8KICAgIC8vIGluZGV4ID0gbGluZS5pbmRleE9mKCc6Jyk7CiAgICAvLwogICAgLy8gbGV0IGNvbCA9IGxpbmUuc3Vic3RyKDAsIGluZGV4KTsK</text>
+        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgICBwYXRoLAogICAgICAgIGxpbmU6IHJvdywKICAgICAgICBjb2x1bW46IGNvbCwKICAgICAgICBtZXNzYWdlLAogICAgICAgIHJ1bGVJZCwKICAgICAgICB0eXBlCiAgICB9KQo=</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCByZXBvcnRlciA9IHJlcXVpcmUoJy4vcmVwb3J0ZXInKTsKCmxldCBzdHIgPSByZXBvcnRlcihtb2R1bGUuZXhwb3J0cygKICAgIGZzLnJlYWRGaWxlU3luYygnLi9qYXZhLXRleHQnLCAndXRmLTgnKQopKQoKZnMud3JpdGVGaWxlU3luYygnLi9qYXZhLXJlcG9ydC5odG1sJywgc3RyKQoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvdykK</text>
+        <text encoding="base64">ICAgIC8vIGxpbmUgPSBsaW5lLnN1YnN0cihpbmRleCArIDEpOwogICAgLy8KICAgIC8vIGluZGV4ID0gbGluZS5pbmRleE9mKCc6Jyk7CiAgICAvLwogICAgLy8gbGV0IGNvbCA9IGxpbmUuc3Vic3RyKDAsIGluZGV4KTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -528,7 +554,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGgsIGxpbmUscm93KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgICBwYXRoLAogICAgICAgIGxpbmU6IHJvdywKICAgICAgICBjb2x1bW46IGNvbCwKICAgICAgICBtZXNzYWdlLAogICAgICAgIHJ1bGVJZCwKICAgICAgICB0eXBlCiAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
