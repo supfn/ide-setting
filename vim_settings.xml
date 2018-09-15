@@ -89,8 +89,10 @@
       <file name="$USER_HOME$/Codes/lab/q/tests/meta.yml" timestamp="1533828614911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/cp2nfs.sh" timestamp="1536996878821">
-        <mark key="[" line="0" column="19" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/cp2nfs.sh" timestamp="1536998002359">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/q/cmds/init.js" timestamp="1533892429356">
         <mark key="[" line="0" column="0" />
@@ -201,6 +203,9 @@
         <mark key="]" line="23" column="24" />
         <mark key="." line="23" column="24" />
         <mark key="^" line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/docker-install.sh" timestamp="1536998252477">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/push-all.sh" timestamp="1536910534930">
         <mark key="[" line="6" column="15" />
@@ -408,6 +413,9 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/note.tpl" timestamp="1530514356865">
         <mark key="[" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/.gitignore" timestamp="1536998266954">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/ee-php/build.sh" timestamp="1531223208911">
         <mark key="[" line="0" column="0" />
       </file>
@@ -519,10 +527,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>report</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>report</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
