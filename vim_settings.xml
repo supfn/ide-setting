@@ -65,6 +65,9 @@
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/nfs-setup.sh" timestamp="1537000197081">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" timestamp="1536753478603">
         <mark key="[" line="29" column="51" />
         <mark key="]" line="29" column="51" />
@@ -204,8 +207,11 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/docker-install.sh" timestamp="1536998252477">
-        <mark key="[" line="0" column="19" />
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/docker-install.sh" timestamp="1537000080802">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="136" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/push-all.sh" timestamp="1536910534930">
         <mark key="[" line="6" column="15" />
@@ -527,10 +533,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>install</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>install</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
@@ -539,34 +545,34 @@
         <text encoding="base64">Y29uc3Qgbm9kZVBhcnNlciA9IHJlcXVpcmUoJy4uL3BhcnNlci9ub2RlLXBhcnNlcicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
+        <text encoding="base64">bWtkaXIgLXAgbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
+        <text encoding="base64">ZGFlbW9uLmpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCByZXBvcnRlciA9IHJlcXVpcmUoJy4vcmVwb3J0ZXInKTsKCmxldCBzdHIgPSByZXBvcnRlcihtb2R1bGUuZXhwb3J0cygKICAgIGZzLnJlYWRGaWxlU3luYygnLi9qYXZhLXRleHQnLCAndXRmLTgnKQopKQoKZnMud3JpdGVGaWxlU3luYygnLi9qYXZhLXJlcG9ydC5odG1sJywgc3RyKQoK</text>
+        <text encoding="base64">ZGFlbW9uLmpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGxpbmUgPSBsaW5lLnN1YnN0cihpbmRleCArIDEpOwogICAgLy8KICAgIC8vIGluZGV4ID0gbGluZS5pbmRleE9mKCc6Jyk7CiAgICAvLwogICAgLy8gbGV0IGNvbCA9IGxpbmUuc3Vic3RyKDAsIGluZGV4KTsK</text>
+        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgICBwYXRoLAogICAgICAgIGxpbmU6IHJvdywKICAgICAgICBjb2x1bW46IGNvbCwKICAgICAgICBtZXNzYWdlLAogICAgICAgIHJ1bGVJZCwKICAgICAgICB0eXBlCiAgICB9KQo=</text>
+        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
