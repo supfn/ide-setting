@@ -267,11 +267,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-phplint" timestamp="1537154241675">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="5" column="47" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-phplint" timestamp="1537228083063">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
         <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="47" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1533875200589">
         <mark key="[" line="10" column="32" />
@@ -364,7 +364,7 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537154298732">
+      <file name="/Dummy.txt" timestamp="1537227745543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -551,10 +551,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVwb3J0IA==</text>
+        <text>show_warnings 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVwb3J0IA==</text>
+        <text>show_warnings 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGl0XD4=</text>
