@@ -267,7 +267,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-phplint" timestamp="1536996296289" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-phplint" timestamp="1537154241675">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1533875200589">
         <mark key="[" line="10" column="32" />
       </file>
@@ -277,7 +282,11 @@
       <file name="$USER_HOME$/Codes/lab/tapd-db/help_scripts/gen_schema.js" timestamp="1534079436291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-nodelint" timestamp="1536996277195" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-nodelint" timestamp="1537154221620">
+        <mark key="[" line="6" column="82" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/report-parser/lang/java.js" timestamp="1535630627691">
         <mark key="[" line="6" column="20" />
       </file>
@@ -291,10 +300,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-golint" timestamp="1536996271942">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-golint" timestamp="1537154226977">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/build.sh" timestamp="1536910357344">
         <mark key="[" line="7" column="0" />
@@ -350,8 +359,11 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537149887723">
+      <file name="/Dummy.txt" timestamp="1537154298732">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/package.json" timestamp="1536899032653">
         <mark key="[" line="24" column="14" />
@@ -533,8 +545,8 @@
       <jump line="38" column="0" filename="$USER_HOME$/Codes/lab/html-reporter/app/parser/java-parser.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>install</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>install</text>
@@ -546,22 +558,22 @@
         <text encoding="base64">Y29uc3Qgbm9kZVBhcnNlciA9IHJlcXVpcmUoJy4uL3BhcnNlci9ub2RlLXBhcnNlcicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWtkaXIgLXAgbgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bWtkaXIgLXAgbgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGFlbW9uLmpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ZGFlbW9uLmpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
+        <text encoding="base64">ZGFlbW9uLmpzb24K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">cHVzaCAkcHJvamVjdApzY2FuICRwcm9qZWN0CmRlc2MgJHByb2plY3QK</text>
