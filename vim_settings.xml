@@ -88,7 +88,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/gitlab-ci.yml" timestamp="1537149825992" />
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/readme.md" timestamp="1537263517164">
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/readme.md" timestamp="1537265503972">
         <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/readall.js" timestamp="1536739147681">
@@ -220,6 +220,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/phpcs.xml" timestamp="1537266071094">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/repositories" timestamp="1536291816873">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -231,11 +237,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-phplint" timestamp="1537228083063">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="8" column="10" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-phplint" timestamp="1537267022708">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-fetch.sh" timestamp="1537238404671">
         <mark key="[" line="6" column="0" />
@@ -312,7 +318,7 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537263528738">
+      <file name="/Dummy.txt" timestamp="1537266919981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -490,11 +496,11 @@
       <jump line="129" column="27" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLXRhZ3MgLS12ZXJib3NlCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaFw+</text>
@@ -503,34 +509,34 @@
         <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLWFsbCAtLXZlcmJvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLXRhZ3MgLS12ZXJib3NlCg==</text>
+        <text encoding="base64">CiAgICA8IS0tCiAgICAgICAgVGhlIGFwcHNlcnZlci5pbyBjb2Rpbmcgc3RhbmRhcmQgaXMgdXNpbmcgYSBtaXggb2YgUFNSLTIKICAgICAgICBjb2RpbmcgY29udmVudGlvbnMgYW5kIFBFQVIgZG9jLWJsb2NrIGNvbW1lbnRpbmcgcnVsZXMuCiAgICAtLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLXRhZ3MgLS12ZXJib3NlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLXRhZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLW1pcnJvcgo=</text>
+        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLXRhZ3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLW1pcnJvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU5JVF9VU0VSPXpoYW5neXUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdpdCByZW1vdGUK</text>
+        <text encoding="base64">SU5JVF9VU0VSPXpoYW5neXUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdpdCByZW1vdGUK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVwX2dyb3VwPWVlLXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
