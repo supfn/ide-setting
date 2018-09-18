@@ -117,10 +117,11 @@
         <mark key="]" line="80" column="30" />
         <mark key="." line="80" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/start.sh" timestamp="1537238389183">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/start.sh" timestamp="1537253873714">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="filetypes.xml" timestamp="1536644066248">
         <mark key="[" line="0" column="0" />
@@ -404,10 +405,11 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="64" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" timestamp="1537242603295">
-        <mark key="[" line="16" column="374" />
-        <mark key="]" line="16" column="278" />
-        <mark key="." line="16" column="278" />
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" timestamp="1537255114772">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/go-parser.js" timestamp="1536909325366">
         <mark key="[" line="28" column="0" />
@@ -461,15 +463,13 @@
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/routerConfig.js" timestamp="1535356618397">
         <mark key="[" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1537242378325">
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1537252554876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="28" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" />
-      <jump line="75" column="52" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
       <jump line="318" column="20" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
       <jump line="50" column="36" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
       <jump line="49" column="23" filename="$USER_HOME$/Codes/lab/node-qtt-app-login/index.js" />
@@ -568,13 +568,15 @@
       <jump line="38" column="0" filename="$USER_HOME$/Codes/lab/html-reporter/app/parser/java-parser.js" />
       <jump line="9" column="9" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" />
       <jump line="30" column="0" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" />
+      <jump line="19" column="0" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/start.sh" />
+      <jump line="20" column="0" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/start.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bWtkaXIgLXAgJHtmaWxlX2xvZ19wYXRofQo=</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaFw+</text>
@@ -583,34 +585,34 @@
         <text encoding="base64">ICAgIGRpcj0uL3JlcG9zLyR7cmVwb30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdzaGl0Jwo=</text>
+        <text encoding="base64">bWtkaXIgLXAgJHtmaWxlX2xvZ19wYXRofQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHdkCiAgICBjZCAke2Rpcn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAke2Rpcn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHtkaXJ9CiAgICBwd2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2QgJHtkaXJ9Cg==</text>
+        <text encoding="base64">ZmlsZV9sb2dfcGF0aD0kKHB3ZCkvbG9ncwpmaWxlX2xvZz0ke2ZpbGVfbG9nX3BhdGh9LyR7cmVwb30ubG9nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcG89JCggZWNobyAke2xpbmV9IHwgYXdrIC1GJy8nICd7cHJpbnQgJDV9JyB8IHNlZCAncy8uZ2l0JC8vZycgKQogICAgZGlyPS4vcmVwb3MvJHtyZXBvfQo=</text>
+        <text encoding="base64">ICAgIGxvZyAiZmV0Y2ggJHtncm91cH0vJHtyZXBvfSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGlyPS4vcmVwb3MvJHtsaW5lfQo=</text>
+        <text encoding="base64">bWtkaXIgLXAgLi9yZXBvcy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLUggJ0NhY2hlLUNvbnRyb2w6IG5vLWNhY2hlJyBcCg==</text>
+        <text encoding="base64">Z2l0X2FjdGlvbigpewogICAgbGluZT0kMQogICAgZWNobwogICAgZWNobyAkbGluZTsKICAgIHJlcG89JCggZWNobyAke2xpbmV9IHwgYXdrIC1GJy8nICd7cHJpbnQgJDV9JyB8IHNlZCAncy8uZ2l0JC8vZycgKQogICAgZGlyPS4vcmVwb3MvJHtyZXBvfQogICAgaWYgWyAhIC1lICR7ZGlyfSBdOyB0aGVuCiAgICAgICAgZ2l0IGNsb25lICR7bGluZX0gJHtkaXJ9CiAgICBmaQogICAgZ2l0IC0tZXhlYy1wYXRoPSR7ZGlyfSBmZXRjaCAtLWFsbAp9Cgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2ZvciByZXBvIGluIGBscyAuL3JlcG9zL2A7CiNkbwojICAgIGVjaG8gJHJlcG8KI2RvbmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
