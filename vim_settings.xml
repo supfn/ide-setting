@@ -404,10 +404,10 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="64" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" timestamp="1537238825365">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" timestamp="1537242603295">
+        <mark key="[" line="16" column="374" />
+        <mark key="]" line="16" column="278" />
+        <mark key="." line="16" column="278" />
       </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/go-parser.js" timestamp="1536909325366">
         <mark key="[" line="28" column="0" />
@@ -461,15 +461,13 @@
       <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/routerConfig.js" timestamp="1535356618397">
         <mark key="[" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1537236711760">
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1537242378325">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="50" filename="$USER_HOME$/Codes/lab/store-test/km.js" />
-      <jump line="42" column="31" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" />
       <jump line="48" column="28" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" />
       <jump line="75" column="52" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
       <jump line="318" column="20" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v2.js" />
@@ -568,58 +566,60 @@
       <jump line="41" column="9" filename="$USER_HOME$/Codes/lab/html-reporter/app/parser/go-parser.js" />
       <jump line="52" column="0" filename="$USER_HOME$/Codes/lab/html-reporter/app/parser/node-parser.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Codes/lab/html-reporter/app/parser/java-parser.js" />
+      <jump line="9" column="9" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" />
+      <jump line="30" column="0" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHtkCg==</text>
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGl0XD4=</text>
+        <text encoding="base64">XDxmZXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgbm9kZVBhcnNlciA9IHJlcXVpcmUoJy4uL3BhcnNlci9ub2RlLXBhcnNlcicpOwo=</text>
+        <text encoding="base64">ICAgIGRpcj0uL3JlcG9zLyR7cmVwb30K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JHtkCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICdzaGl0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmVjaG8gJDEgJDIK</text>
+        <text encoding="base64">cHdkCiAgICBjZCAke2Rpcn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8K</text>
+        <text encoding="base64">ZWNobyAke2Rpcn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJHtkaXJ9CiAgICBwd2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdpdCBjbG9uZSAke2xpbmV9IC4vcmVwb3MvJHtyZXBvfQo=</text>
+        <text encoding="base64">Y2QgJHtkaXJ9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHJlcG8K</text>
+        <text encoding="base64">ICAgIHJlcG89JCggZWNobyAke2xpbmV9IHwgYXdrIC1GJy8nICd7cHJpbnQgJDV9JyB8IHNlZCAncy8uZ2l0JC8vZycgKQogICAgZGlyPS4vcmVwb3MvJHtyZXBvfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkZpbGU6JHtsaW5lfSIK</text>
+        <text encoding="base64">ZGlyPS4vcmVwb3MvJHtsaW5lfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLUggJ0NhY2hlLUNvbnRyb2w6IG5vLWNhY2hlJyBcCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGRldGFpbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGl0XD4=</last-search>
+      <last-search encoding="base64">XDxmZXRjaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGl0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmZXRjaFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlbnVtc1w+</last-substitute>
       <last-dir>-1</last-dir>
@@ -632,6 +632,7 @@
         <entry encoding="base64">XDxoZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxleGl0XD4=</entry>
+        <entry encoding="base64">XDxmZXRjaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
