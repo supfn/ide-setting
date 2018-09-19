@@ -50,17 +50,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537333272274">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537334569411">
+        <mark key="[" line="19" column="81" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537333263851">
-        <mark key="[" line="49" column="94" />
-        <mark key="]" line="49" column="85" />
-        <mark key="." line="49" column="85" />
-        <mark key="^" line="49" column="85" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537333493078">
+        <mark key="[" line="53" column="33" />
+        <mark key="]" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+        <mark key="^" line="51" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/phpcs.xml" timestamp="1537266071094">
         <mark key="[" line="2" column="0" />
@@ -530,11 +530,11 @@
       <jump line="129" column="27" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://git.qutoutiao.net/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://git.qutoutiao.net/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaFw+</text>
@@ -549,28 +549,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0ICxicmFuY2gpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0ICxicmFuY2gpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92Mi9leHRlbmQvbWVyZ2UtcmVxdWVzdCcsIGNvbnRyb2xsZXIuZ2l0bGFiRXh0ZW5kLnF1ZXJ5TWVyZ2VSZXF1ZXN0QnlCcmFuY2gpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBhc3luYyBxdWVyeU1lcmdlUmVxdWVzdEJ5QnJhbmNoKGlkLCBicmFuY2gpIHsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGUucmVzcG9uc2Uuc3RhdHVzID09PSApCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXIgPSByZXMuZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYW5CZU1lcmdlZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYW5CZU1lcmdlZCA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
