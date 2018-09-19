@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/go.sh" timestamp="1536132115867">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/readme.md" timestamp="1536131127334">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/tapd-db/index.js" timestamp="1534222956639">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="28" />
@@ -18,186 +28,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/bash/job_shell.sh" timestamp="1535772906835">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/helper/sonar.sh" timestamp="1536115988272">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/cr/index.js" timestamp="1536739250230">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/java-parser.js" timestamp="1536909806846">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/LIST" timestamp="1536311909014">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="51" />
-        <mark key="." line="0" column="51" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" timestamp="1536753478603">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="51" />
-        <mark key="." line="29" column="51" />
-        <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v3.js" timestamp="1535507956753">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/php.xml" timestamp="1535163838787">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1534227696573">
-        <mark key="[" line="56" column="35" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/cp2nfs.sh" timestamp="1536998002359">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/debug" timestamp="1536735625620">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/template.html" timestamp="1536909504760">
-        <mark key="[" line="105" column="25" />
-        <mark key="]" line="105" column="25" />
-        <mark key="." line="105" column="25" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" timestamp="1537261525246">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="64" column="36" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/gitlab-ci.yml" timestamp="1537149825992" />
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/readme.md" timestamp="1537265503972">
-        <mark key="[" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/readall.js" timestamp="1536739147681">
-        <mark key="[" line="80" column="30" />
-        <mark key="]" line="80" column="30" />
-        <mark key="." line="80" column="30" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/start.sh" timestamp="1537261391410">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/test/test/a" timestamp="1536726971439">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/menuConfig.js" timestamp="1535355711485">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/list.js" timestamp="1536742782613">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="14" column="59" />
-        <mark key="." line="14" column="59" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/records/stat.js" timestamp="1536826641091">
-        <mark key="[" line="55" column="27" />
-        <mark key="]" line="39" column="4" />
-        <mark key="^" line="39" column="24" />
-        <mark key="." line="39" column="4" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536910440845">
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="39" column="49" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/sonar-report" timestamp="1536728412350">
-        <mark key="[" line="4" column="83" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/java/build.sh" timestamp="1536910516118">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/bin/sonar-scanner" timestamp="1536118357078">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/reporter.js" timestamp="1536850313121">
-        <mark key="[" line="72" column="57" />
-        <mark key="]" line="72" column="57" />
-        <mark key="." line="72" column="57" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/Dockerfile" timestamp="1537190384163">
-        <mark key="[" line="83" column="48" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/gitlab-ci.yml" timestamp="1537002937657">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/go/Dockerfile" timestamp="1536655427326">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/html-reporter/app/controller/home.js" timestamp="1537190109971">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-        <mark key="^" line="42" column="36" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/common.js" timestamp="1536909541174">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="0" column="38" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/docker-install.sh" timestamp="1537000080802">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="14" column="136" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/push-all.sh" timestamp="1536910534930">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/code-bot/job-bash/go.sh" timestamp="1536132115867">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/readme.md" timestamp="1536131127334">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/build-jobs.sh" timestamp="1536313380355">
         <mark key="[" line="6" column="12" />
@@ -220,11 +50,28 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537324666183">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="70" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537325030672">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/phpcs.xml" timestamp="1537266071094">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/bash/job_shell.sh" timestamp="1535772906835">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/repositories" timestamp="1536291816873">
         <mark key="[" line="2" column="0" />
@@ -237,21 +84,68 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/helper/sonar.sh" timestamp="1536115988272">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-phplint" timestamp="1537267022708">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="11" />
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/cr/index.js" timestamp="1536739250230">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-fetch.sh" timestamp="1537238404671">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/java-parser.js" timestamp="1536909806846">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/sonar-scanner/LIST" timestamp="1536311909014">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" timestamp="1536753478603">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="51" />
+        <mark key="." line="29" column="51" />
+        <mark key="^" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-nodelint" timestamp="1537154221620">
         <mark key="[" line="6" column="82" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-services.js" timestamp="1537321025051">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v3.js" timestamp="1535507956753">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/code-bot/job-tmpl/php.xml" timestamp="1535163838787">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/q/libs/generate.js" timestamp="1534227696573">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties" timestamp="1536119768324">
         <mark key="[" line="9" column="12" />
@@ -263,20 +157,62 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/cp2nfs.sh" timestamp="1536998002359">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-golint" timestamp="1537154226977">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab.js" timestamp="1537321730914" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/debug" timestamp="1536735625620">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/build.sh" timestamp="1536910357344">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlab.js" timestamp="1537321333879" />
+      <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/template.html" timestamp="1536909504760">
+        <mark key="[" line="105" column="25" />
+        <mark key="]" line="105" column="25" />
+        <mark key="." line="105" column="25" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" timestamp="1537261525246">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="64" column="36" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/readme.md" timestamp="1537265503972">
+        <mark key="[" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/code-bot/htmlReport.js" timestamp="1535537465412">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="69" column="18" />
         <mark key="." line="69" column="18" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/readall.js" timestamp="1536739147681">
+        <mark key="[" line="80" column="30" />
+        <mark key="]" line="80" column="30" />
+        <mark key="." line="80" column="30" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/start.sh" timestamp="1537261391410">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/test/test/a" timestamp="1536726971439">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1536760417985">
         <mark key="[" line="2" column="39" />
@@ -306,6 +242,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-extend.js" timestamp="1537325048197">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="26" column="13" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/app/router.js" timestamp="1536890470787">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="38" />
@@ -318,11 +260,33 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/iceworks-workspace/gerrit-ui/src/menuConfig.js" timestamp="1535355711485">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/list.js" timestamp="1536742782613">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="14" column="59" />
+        <mark key="." line="14" column="59" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/stat.js" timestamp="1536826641091">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="39" column="4" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1537266919981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" timestamp="1536910440845">
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="10" />
+        <mark key="^" line="39" column="49" />
       </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/package.json" timestamp="1537190126566">
         <mark key="[" line="24" column="36" />
@@ -336,11 +300,31 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/sonar-report" timestamp="1536728412350">
+        <mark key="[" line="4" column="83" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/Dockerfile" timestamp="1536907058937">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="2" />
         <mark key="^" line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" timestamp="1537321722915">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/java/build.sh" timestamp="1536910516118">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/bin/sonar-scanner" timestamp="1536118357078">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab.sh" timestamp="1537235664842">
         <mark key="[" line="120" column="12" />
@@ -371,16 +355,65 @@
         <mark key="]" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/reporter.js" timestamp="1536850313121">
+        <mark key="[" line="72" column="57" />
+        <mark key="]" line="72" column="57" />
+        <mark key="." line="72" column="57" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/php/Dockerfile" timestamp="1537190384163">
+        <mark key="[" line="83" column="48" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1537321804954">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/gitlab-ci.yml" timestamp="1537002937657">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/data-stat/rewrite.js" timestamp="1536826578399">
         <mark key="[" line="33" column="44" />
         <mark key="]" line="25" column="6" />
         <mark key="^" line="25" column="6" />
         <mark key="." line="25" column="6" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/go/Dockerfile" timestamp="1536655427326">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/html-reporter/app/controller/home.js" timestamp="1537190109971">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="42" column="36" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/common.js" timestamp="1536909541174">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/docker-install.sh" timestamp="1537000080802">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="136" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/data-stat/records/fe" timestamp="1536801256974">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/push-all.sh" timestamp="1536910534930">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/.gitignore" timestamp="1537260301162">
         <mark key="[" line="1" column="6" />
@@ -496,41 +529,41 @@
       <jump line="129" column="27" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLWFsbCAtLXZlcmJvc2UK</text>
+        <text encoding="base64">CmNvbnN0IGZlY2hhID0gcmVxdWlyZSgnZmVjaGEnKTsKY29uc3QgU2VydmljZSA9IHJlcXVpcmUoJ2VnZycpLlNlcnZpY2U7CmNvbnN0IEVWRU5UX0tJTkQgPSByZXF1aXJlKCcuLi9leHRlbmQvZW51bXMnKS5FVkVOVF9LSU5EOwpjb25zdCB1cmwgPSByZXF1aXJlKCd1cmwnKTsKY29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICA8IS0tCiAgICAgICAgVGhlIGFwcHNlcnZlci5pbyBjb2Rpbmcgc3RhbmRhcmQgaXMgdXNpbmcgYSBtaXggb2YgUFNSLTIKICAgICAgICBjb2RpbmcgY29udmVudGlvbnMgYW5kIFBFQVIgZG9jLWJsb2NrIGNvbW1lbnRpbmcgcnVsZXMuCiAgICAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLXRhZ3MgLS12ZXJib3NlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXIgPSByZXMuZGF0YTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLXRhZ3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdpdCBwdXNoIGdpdGxhYiAtLW1pcnJvcgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobXIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">SU5JVF9VU0VSPXpoYW5neXUK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdpdCByZW1vdGUK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtcikK</text>
       </register>
       <register name="x" type="4">
         <text />
