@@ -50,10 +50,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537334569411">
-        <mark key="[" line="19" column="81" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537340091520">
+        <mark key="[" line="21" column="51" />
+        <mark key="]" line="21" column="51" />
+        <mark key="." line="21" column="51" />
         <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537333493078">
@@ -530,11 +530,11 @@
       <jump line="0" column="33" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2FsYXJtLWNlbnRlci5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2FuYWwuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9hbmFseXplci5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL0FudGlzcGFtTWwuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9hcy5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2F1dG8tdGVzdC5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2F6a2FiYW4tcHJvamVjdHMuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9icy5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2J1ZGdldC1jZW50ZXIuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9jaGFyZ2UtcmVhbHRpbWUuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9jaGFyZ2VzZXJ2ZXIuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9jbGlja3NlcnZlci5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL0NvbmZpZ3VyZVNlcnZlci5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2NwYy1wb3J0cmFpdC5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL0N0ck1hc3Rlci5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2N0cm1vZGVsLmdpdApzc2g6Ly9naXRAZ2l0Lmlubm90ZWNoeC5jb206Nzk5OS9jcGMvZGVwZW5kZW5jZS5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2R1bXBlci5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2V0bC11c2VycHJvZmlsZS5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2V2ZW50bGlzdGVuZXIuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9GRS5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL2dhbWVhcGkuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9nYW1lZmUuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9pT1NTREsuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9tYWNoLWxlYXJuLmdpdApzc2g6Ly9naXRAZ2l0Lmlubm90ZWNoeC5jb206Nzk5OS9jcGMvbWwuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9tbGNwcC5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL21vdGl2YXRlQWQuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9tb3RpdmF0ZWFwcC5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL21yLmdpdApzc2g6Ly9naXRAZ2l0Lmlubm90ZWNoeC5jb206Nzk5OS9jcGMvcGFudGhlci5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL3Byb3RvY29sLmdpdApzc2g6Ly9naXRAZ2l0Lmlubm90ZWNoeC5jb206Nzk5OS9jcGMvcmVwb3J0LmdpdApzc2g6Ly9naXRAZ2l0Lmlubm90ZWNoeC5jb206Nzk5OS9jcGMvc2NhbGEtbWwuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9TREsuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9zaXRlLXRvb2wuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy9zc3BhcGkuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy90b29sLmdpdApzc2g6Ly9naXRAZ2l0Lmlubm90ZWNoeC5jb206Nzk5OS9jcGMvdG9vbHMuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy91bmlvbmFwaS5naXQKc3NoOi8vZ2l0QGdpdC5pbm5vdGVjaHguY29tOjc5OTkvY3BjL3VuaW9uZmUuZ2l0CnNzaDovL2dpdEBnaXQuaW5ub3RlY2h4LmNvbTo3OTk5L2NwYy91bmlvbmxvZy1yZWFsdGltZS5naXQK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaFw+</text>
