@@ -115,6 +115,12 @@
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/enable.sh" timestamp="1537348313753">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" timestamp="1536753478603">
         <mark key="[" line="29" column="51" />
         <mark key="]" line="29" column="51" />
@@ -125,6 +131,9 @@
         <mark key="[" line="6" column="82" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/deploy-keys-batch.sh" timestamp="1537348378127">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-services.js" timestamp="1537321025051">
         <mark key="[" line="6" column="28" />
@@ -183,7 +192,7 @@
         <mark key="]" line="105" column="25" />
         <mark key="." line="105" column="25" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" timestamp="1537261525246">
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" timestamp="1537347372584">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="64" column="36" />
@@ -201,12 +210,6 @@
         <mark key="[" line="80" column="30" />
         <mark key="]" line="80" column="30" />
         <mark key="." line="80" column="30" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/start.sh" timestamp="1537335769845">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/test/test/a" timestamp="1536726971439">
         <mark key="[" line="0" column="0" />
@@ -274,7 +277,7 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537337180980">
+      <file name="/Dummy.txt" timestamp="1537348428794">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -330,8 +333,8 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="64" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" timestamp="1537263487126">
-        <mark key="[" line="31" column="29" />
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" timestamp="1537348414415">
+        <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="12" />
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="12" />
@@ -425,7 +428,7 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1537337167552">
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1537348029685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -535,10 +538,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>json</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaFw+</text>
@@ -547,25 +550,25 @@
         <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92Mi9leHRlbmQvbWVyZ2UtcmVxdWVzdC1hY2NlcHQnLCBjb250cm9sbGVyLmdpdGxhYkV4dGVuZC5hY2NlcHRNZXJnZVJlcXVlc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGRhdGEgPSBhd2FpdCBjdHguc2VydmljZS5naXRsYWJSYXcubWVyZ2VSZXF1ZXN0UmV2aWV3Q2hlY2sobXIudGFyZ2V0X3Byb2plY3RfaWQsIG1yLmlpZCk7Cg==</text>
+        <text encoding="base64">ZWNobyAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">I2NhdCAuL3JlcG8tbGlzdC50eHQgfCBwYXJhbGxlbCAtaiA1IC1rIGJhc2ggLi9naXQtYWN0aW9ucy5zaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC8ke3JlcG99L2RlcGxveV9rZXlzLzEwNDQvZW5hYmxlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQge3Byb2plY3QsIGJyYW5jaH0gPSBjdHgucmVxdWVzdC5xdWVyeTsK</text>
+        <text encoding="base64">ICAgIHBvc3RfZGF0YT0kMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBhc3luYyBjaGVja01lcmdlUmVxdWVzdChpZCwgbWlkKXsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAtZCAiJHtwb3N0X2RhdGF9IiBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGdldE1lcmdlUmVxdWVzdERldGFpbHMoaWQsIG1pZCl7CgogICAgICAgIC8vaHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC9mZS9mZS1jaS9tZXJnZV9yZXF1ZXN0cy80NC5qc29uCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGRhdGEgPSBhd2FpdCBjdHguc2VydmljZS5naXRsYWJSYXcubWVyZ2VSZXF1ZXN0UmV2aWV3Q2hlY2sobXIudGFyZ2V0X3Byb2plY3RfaWQsIG1yLmlpZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -574,7 +577,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3R4LmJvZHkgPSBtcjsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQge3Byb2plY3QsIGJyYW5jaH0gPSBjdHgucmVxdWVzdC5xdWVyeTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -632,6 +635,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
