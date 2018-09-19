@@ -50,17 +50,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537324666183">
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="70" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537330576491">
+        <mark key="[" line="19" column="81" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537325030672">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="23" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537330710290">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="8" column="45" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/phpcs.xml" timestamp="1537266071094">
         <mark key="[" line="2" column="0" />
@@ -242,8 +242,8 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-extend.js" timestamp="1537328476365">
-        <mark key="[" line="69" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-extend.js" timestamp="1537330616037">
+        <mark key="[" line="70" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
@@ -337,6 +337,7 @@
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="12" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/node_modules/egg-cluster/lib/utils/messenger.js" timestamp="1537330180041" />
       <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/go-parser.js" timestamp="1536909325366">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="46" column="0" />
@@ -365,10 +366,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1537321804954">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1537330205374">
+        <mark key="[" line="27" column="93" />
+        <mark key="]" line="27" column="94" />
+        <mark key="." line="27" column="94" />
+        <mark key="^" line="27" column="93" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node/gitlab-ci.yml" timestamp="1537002937657">
         <mark key="[" line="2" column="0" />
@@ -528,47 +530,47 @@
       <jump line="129" column="27" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBhc3luYyBxdWVyeU1lcmdlUmVxdWVzdEJ5QnJhbmNoKGlkLCBicmFuY2gpIHsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>https://git.qutoutiao.net/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>https://git.qutoutiao.net/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmNvbnN0IGZlY2hhID0gcmVxdWlyZSgnZmVjaGEnKTsKY29uc3QgU2VydmljZSA9IHJlcXVpcmUoJ2VnZycpLlNlcnZpY2U7CmNvbnN0IEVWRU5UX0tJTkQgPSByZXF1aXJlKCcuLi9leHRlbmQvZW51bXMnKS5FVkVOVF9LSU5EOwpjb25zdCB1cmwgPSByZXF1aXJlKCd1cmwnKTsKY29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92Mi9leHRlbmQvbWVyZ2UtcmVxdWVzdCcsIGNvbnRyb2xsZXIuZ2l0bGFiRXh0ZW5kLnF1ZXJ5TWVyZ2VSZXF1ZXN0QnlCcmFuY2gpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBhc3luYyBxdWVyeU1lcmdlUmVxdWVzdEJ5QnJhbmNoKGlkLCBicmFuY2gpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXIgPSByZXMuZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0ICxicmFuY2gpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0ICxicmFuY2gpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92Mi9leHRlbmQvbWVyZ2UtcmVxdWVzdCcsIGNvbnRyb2xsZXIuZ2l0bGFiRXh0ZW5kLnF1ZXJ5TWVyZ2VSZXF1ZXN0QnlCcmFuY2gpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobXIpCg==</text>
+        <text encoding="base64">CiAgICBhc3luYyBxdWVyeU1lcmdlUmVxdWVzdEJ5QnJhbmNoKGlkLCBicmFuY2gpIHsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXIgPSByZXMuZGF0YTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
