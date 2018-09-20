@@ -19,10 +19,10 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1537427362611">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1537431601413">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/hook-center.js" timestamp="1537406072052">
         <mark key="[" line="9" column="0" />
@@ -61,11 +61,11 @@
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1537426990045">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1537430660390">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/enable.sh" timestamp="1537348313753">
         <mark key="[" line="13" column="12" />
@@ -125,6 +125,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="64" column="36" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/readme.md" timestamp="1537265503972">
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/data-stat/gitlab-ci/readall.js" timestamp="1536739147681">
         <mark key="[" line="80" column="30" />
@@ -318,6 +321,12 @@
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1537431610022">
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/trigger-center.js" timestamp="1537423598664">
         <mark key="[" line="100" column="24" />
         <mark key="]" line="100" column="14" />
@@ -328,6 +337,9 @@
         <mark key="[" line="6" column="82" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/deploy-keys-batch.sh" timestamp="1537348378127">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties" timestamp="1536119768324">
         <mark key="[" line="9" column="12" />
@@ -354,11 +366,11 @@
         <mark key="]" line="69" column="18" />
         <mark key="." line="69" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537428009932">
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="4" />
-        <mark key="." line="78" column="4" />
-        <mark key="^" line="36" column="9" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537432610186">
+        <mark key="[" line="69" column="14" />
+        <mark key="]" line="69" column="14" />
+        <mark key="." line="69" column="14" />
+        <mark key="^" line="69" column="14" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/trigger-center.js" timestamp="1537408452251">
         <mark key="[" line="25" column="6" />
@@ -397,6 +409,9 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/entity.js" timestamp="1537431227873">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/app/router.js" timestamp="1536890470787">
         <mark key="[" line="7" column="38" />
@@ -469,6 +484,11 @@
         <mark key="." line="39" column="34" />
         <mark key="^" line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test.js" timestamp="1537433081082">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-jobs.js" timestamp="1537365984173">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="12" column="0" />
@@ -498,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="23" filename="$USER_HOME$/Codes/lab/node-qtt-app-login/index.js" />
       <jump line="0" column="18" filename="$USER_HOME$/Codes/lab/node-qtt-app-login/readme.md" />
       <jump line="37" column="0" filename="$USER_HOME$/Codes/lab/node-qtt-app-login/readme.md" />
       <jump line="8" column="19" filename="$USER_HOME$/Codes/qutoutiao/fe-automation/mocha/helper/yq.js" />
@@ -598,111 +617,62 @@
       <jump line="20" column="0" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/start.sh" />
       <jump line="129" column="27" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" />
       <jump line="0" column="33" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" />
+      <jump line="66" column="12" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// 不需要钩子
-    async pmCheck() {
-        this.ctx.body = 111;
-        this.ctx.body = {
-            code: 0,
-            msg: `success`,
-            data: {
-                result: 'success',
-                payload: '{}'
-
-            }
-        }
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgIGF3YWl0IGF4aW9zLnBvc3Qoe2VtYWlsU2VydmljZSwgcXMuc3RyaW5naWZ5KHsKICAgICAgICAgICAgICAgIGlucHV0OiBwYXJhbXMuaW5wdXQsCiAgICAgICAgICAgICAgICBwYXlsb2FkOiBwYXJhbXMucGF5bG9hZCwKICAgICAgICAgICAgICAgIGVudGl0eTogY3R4LmZsb3dQYXJhbXMuZW50aXR5CiAgICAgICAgICAgIH0pKTsKICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>createJob</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZXRjaFw+</text>
+        <text>*</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCBmbG93RW50cmllcyA9IE9iamVjdC5lbnRyaWVzKGNvbnRyb2xsZXIuYnJhbmNoRmxvd1RyaWdnZXIpLmZpbHRlcigoW2tleV0pPT4gIS9eXy8udGVzdChrZXkpKTsKCiAgICBmbG93RW50cmllcy5mb3JFYWNoKChba2V5XSkgPT4gewogICAgICAgIGxldCByb3V0ZXJOYW1lID0ga2V5LnJlcGxhY2UoL1tBLVpdL2csKGEpPT4gYC0ke2EudG9Mb3dlckNhc2UoKX1gICk7CiAgICAgICAgcm91dGVyLnBvc3QoIGAvdjIvdHJpZ2dlci9icmFuY2gtZmxvdy8ke3JvdXRlck5hbWV9YCwgZmxvd1BhcmFtcywgY29udHJvbGxlci5icmFuY2hGbG93VHJpZ2dlcltrZXldICk7CiAgICAgICAgcm91dGVyLmdldCggYC92Mi90cmlnZ2VyL2JyYW5jaC1mbG93LyR7cm91dGVyTmFtZX1gLCBmbG93UGFyYW1zLCBjb250cm9sbGVyLmJyYW5jaEZsb3dUcmlnZ2VyW2tleV0gKTsKICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>// 不需要钩子
-    async pmCheck() {
-        this.ctx.body = 111;
-        this.ctx.body = {
-            code: 0,
-            msg: `success`,
-            data: {
-                result: 'success',
-                payload: '{}'
-
-            }
-        }
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgIGF3YWl0IGF4aW9zLnBvc3Qoe2VtYWlsU2VydmljZSwgcXMuc3RyaW5naWZ5KHsKICAgICAgICAgICAgICAgIGlucHV0OiBwYXJhbXMuaW5wdXQsCiAgICAgICAgICAgICAgICBwYXlsb2FkOiBwYXJhbXMucGF5bG9hZCwKICAgICAgICAgICAgICAgIGVudGl0eTogY3R4LmZsb3dQYXJhbXMuZW50aXR5CiAgICAgICAgICAgIH0pKTsKICAgICAgICAgICAgICovCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>// 未实现
-    async runFunctionTest() {
-        this.ctx.body = {
-            code: 0,
-            msg: `success`,
-            data: {
-                result: 'success',
-                payload: '{}'
-            }
-        }
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnB1dCA6IHBhcmFtcy5pbnB1dCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQge2NvbmZpZ30gPSBjdHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGVuKHJlcyA9PiByZXMuZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vaHR0cDovLzE3Mi4xNi41NC4yMDE6ODA4MC9jaS9kZXBsb3lQcmRWRAo=</text>
+        <text encoding="base64">ICAgICkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5sb2dnZXIgPSB7CiAgICAgICAgZGlyOiAnL2RhdGEvbG9ncycKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZW1haWxTZXIK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>_makeResponse(
-        params
-    ){
-        let {ctx} = this;
-        ctx.preventJsonWrap = true;
-        let msg =  params.result ? '成功' : '失败';
-
-        return {
-            code : params.result ? 0 : -1,
-            msg : `${params.step} 构建${msg}`,
-            data: {
-                result : params.message,
-                payload : JSON.stringify(params.payload)
-
-            }
-        }
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5ib2R5ID0gewogICAgICAgICAgICBjb2RlOiAwLAogICAgICAgICAgICBtc2c6IGBzdWNjZXNzYCwKICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgcmVzdWx0OiAnc3VjY2VzcycsCiAgICAgICAgICAgICAgICBwYXlsb2FkOiAne30nCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZXRjaFw+</last-search>
+      <last-search>*</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZXRjaFw+</last-pattern>
+      <last-pattern>*</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlbnVtc1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -713,6 +683,7 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxleGl0XD4=</entry>
         <entry encoding="base64">XDxmZXRjaFw+</entry>
+        <entry>*</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
