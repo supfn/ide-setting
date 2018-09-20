@@ -19,6 +19,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1537461267114">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/controller/email.js" timestamp="1537457986821">
         <mark key="[" line="109" column="68" />
         <mark key="]" line="113" column="25" />
@@ -293,13 +299,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537436722762">
-        <mark key="'" line="9" column="24" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="99" column="8" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537439340030">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -310,6 +309,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateLocal.js" timestamp="1537461153824">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/repositories" timestamp="1536291816873">
         <mark key="[" line="2" column="0" />
@@ -339,6 +344,9 @@
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/app/controller/flow_pattern.js" timestamp="1537460622743">
+        <mark key="[" line="132" column="7" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1537450019978">
         <mark key="[" line="72" column="68" />
         <mark key="]" line="72" column="0" />
@@ -357,6 +365,9 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/deploy-keys-batch.sh" timestamp="1537348378127">
         <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.json" timestamp="1537458317041">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties" timestamp="1536119768324">
         <mark key="[" line="9" column="12" />
@@ -450,7 +461,10 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537455174594">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1537460926761">
+        <mark key="[" line="9" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537461293270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -512,6 +526,9 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test.js" timestamp="1537450319776">
         <mark key="[" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1537461118760">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-jobs.js" timestamp="1537365984173">
         <mark key="[" line="6" column="0" />
@@ -649,11 +666,11 @@
       <jump line="9" column="24" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgLyoKICAgIAogICAgCiAgICAKICAgIAogICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -662,67 +679,13 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBjdHggfSA9IHRoaXM7CgogICAgICAgICAgICBsZXQgcGFyYW1zICAgICAgICAgPSBjdHgucmVxdWVzdC5ib2R5OwogICAgICAgICAgICBsZXQgdGVtcGxhdGVfcGF0aCAgPSBwYXRoLmpvaW4odGhpcy5hcHAuY29uZmlnLmJhc2VEaXIsICdhcHAvdmlldy9lbWFpbC9hcHBseV90ZXN0LmVqcycpCiAgICAgICAgICAgIGxldCB0ZW1wbGF0ZV90YyAgICA9IGZzLnJlYWRGaWxlU3luYyh0ZW1wbGF0ZV9wYXRoLCd1dGYtOCcpCgogICAgICAgICAgICBjb25zdCB0ZW1wbGF0ZSAgICAgPSBlanMuY29tcGlsZSh0ZW1wbGF0ZV90YywndXRmLTgnKTsKICAgICAgICAgICAgbGV0IGVtYWlsX29iaiAgICAgID0gdGhpcy5wYXJzZV9hcHBseV9mb3JfdGVzdChwYXJhbXMpCgogICAgICAgICAgICBlbWFpbF9vYmpbImJvZHkiXSAgPSB0ZW1wbGF0ZShlbWFpbF9vYmopOwoKICAgICAgICAgICAgLy/mo4Dmn6UgY3R4IHZhbGlkYXRlCiAgICAgICAgICAgIGxldCBzZW5kX2VtYWlsX3JlcyA9IGF3YWl0IGN0eC5zZXJ2aWNlLmVtYWlsLnNlbmQoZW1haWxfb2JqKQogICAgICAgICAgICBpZihzZW5kX2VtYWlsX3JlcykgewogICAgICAgICAgICAgICAgY3R4LmJvZHkgPSB7CiAgICAgICAgICAgICAgICAgICAgImNvZGUiOiAwLAogICAgICAgICAgICAgICAgICAgICJtc2ciOiAib2siCiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgY3R4LnN0YXR1cyA9IDIwMDsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBjdHguc3RhdHVzID0gNTAwOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgLyoKICAgIAogICAgCiAgICAKICAgIAogICAgICovCg==</text>
+        <text encoding="base64">bWFpbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByb3V0ZXIucG9zdCgnL3YxL2VtYWlsL3Byb2R1Y3Rfc3VjY2VzJywgY29udHJvbGxlci5lbWFpbC5wcm9kdWN0X3N1Y2Nlcyk7ICAvL+S4iue6v+a1i+ivlemAmui/hwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>//测试通过
-    async test_success() {
-
-/*
-  'test_ticket_desc',         // 提测单
-            'test_daily_report',        // 日报
-            'test_report_for_function', // 功能测试报告
-            'pm_pass_report',           // 产品验收报告
-            'production_pass_report'    // 线上验收报告
- */
-
-        const { ctx } = this;
-
-        let params         = ctx.request.body;
-
-        let email_obj      = this.parse_apply_for_test(params);
-
-        email_obj.body = email_obj.test_report_for_function;
-
-        //检查 ctx validate
-        let send_email_res = await ctx.service.email.send(email_obj)
-        if(send_email_res) {
-            ctx.body = {
-                &quot;code&quot;: 0,
-                &quot;msg&quot;: &quot;ok&quot;
-            };
-            ctx.status = 200;
-        }else{
-            ctx.status = 500;
-        }
-
-    }
-
-    //产品验收
-    async product_accept() {
-
-        const { ctx } = this;
-
-        let send_email_res = await ctx.service.email.send()
-
-        ctx.body = { 'res': send_email_res };
-        ctx.status = 200;
-    }
-
-    //上线测试通过
-    async product_succes() {
-
-        const { ctx } = this;
-
-
-        let send_email_res = await ctx.service.email.send()
-
-        ctx.body = { 'res': send_email_res };
-        ctx.status = 200;
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuYmFzZVVSTCA9ICdodHRwOi8vMTI3LjAuMC4xOjcwMDEnOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -730,30 +693,11 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGNvbnN0IHsgY3R4IH0gPSB0aGlzOwoKICAgICAgICBsZXQgcGFyYW1zICAgICAgICAgPSBjdHgucmVxdWVzdC5ib2R5OwoKICAgICAgICBsZXQgZW1haWxfb2JqICAgICAgPSB0aGlzLnBhcnNlX2FwcGx5X2Zvcl90ZXN0KHBhcmFtcyk7CgogICAgICAgIGVtYWlsX29iai5ib2R5ID0gZW1haWxfb2JqLnRlc3RfZGFpbHlfcmVwb3J0OwoKICAgICAgICAvL+ajgOafpSBjdHggdmFsaWRhdGUKICAgICAgICBsZXQgc2VuZF9lbWFpbF9yZXMgPSBhd2FpdCBjdHguc2VydmljZS5lbWFpbC5zZW5kKGVtYWlsX29iaikKICAgICAgICBpZihzZW5kX2VtYWlsX3JlcykgewogICAgICAgICAgICBjdHguYm9keSA9IHsKICAgICAgICAgICAgICAgICJjb2RlIjogMCwKICAgICAgICAgICAgICAgICJtc2ciOiAib2siCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGN0eC5zdGF0dXMgPSAyMDA7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIGN0eC5zdGF0dXMgPSA1MDA7CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZnAsIG51bGwsIDQpKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>//开发提测
-    async apply_test() {
-
-        const { ctx,app } = this;
-
-        let params         = ctx.request.body;
-        // params              =  Object.assign(params,{
-        //     type : app.config.email_type.apply_test
-        // });
-        //检查 ctx validate
-
-        let send_email_res = await ctx.service.email.send(params)
-        if(send_email_res) {
-            ctx.body = {'res': send_email_res};
-            ctx.status = 200;
-        }else{
-            ctx.status = 500;
-        }
-
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmV0KQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -762,7 +706,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGN0eCB9ID0gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJldCA9IHVwZGF0ZUZsb3dQYXR0ZXJuKGZwLl9pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
