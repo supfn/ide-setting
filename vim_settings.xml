@@ -9,25 +9,28 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1537499229731">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1537499611239">
         <mark key="[" line="95" column="10" />
         <mark key="]" line="95" column="10" />
         <mark key="." line="95" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/controller/email.js" timestamp="1537461636311">
-        <mark key="[" line="76" column="33" />
-        <mark key="]" line="76" column="33" />
-        <mark key="^" line="76" column="32" />
-        <mark key="." line="76" column="33" />
+      <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/controller/email.js" timestamp="1537501216859">
+        <mark key="[" line="723" column="44" />
+        <mark key="]" line="723" column="44" />
+        <mark key="^" line="717" column="23" />
+        <mark key="." line="723" column="44" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1537497368708">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1537499377333">
         <mark key="[" line="38" column="73" />
         <mark key="]" line="42" column="16" />
         <mark key="." line="42" column="16" />
         <mark key="^" line="42" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1537464594331">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/service/email.js" timestamp="1537501159046">
+        <mark key="[" line="27" column="71" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1537500293400">
+        <mark key="[" line="5" column="24" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="16" column="78" />
         <mark key="." line="14" column="0" />
@@ -60,6 +63,9 @@
         <mark key="]" line="13" column="12" />
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-common-service/config/config.prd.js" timestamp="1537500811332">
+        <mark key="[" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/qadp-callback" timestamp="1536753478603">
         <mark key="[" line="29" column="51" />
@@ -196,10 +202,10 @@
       <file name="$USER_HOME$/Codes/lab/qadp-server/app/controller/flow_pattern.js" timestamp="1537498265457">
         <mark key="[" line="132" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1537464648305">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1537500180074">
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="16" />
+        <mark key="." line="71" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/trigger-center.js" timestamp="1537423598664">
         <mark key="[" line="100" column="24" />
@@ -219,7 +225,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537464631836">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537500588243">
         <mark key="e" line="108" column="24" />
         <mark key="[" line="110" column="5" />
         <mark key="]" line="47" column="0" />
@@ -277,7 +283,7 @@
         <mark key="]" line="74" column="52" />
         <mark key="." line="74" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537497282982">
+      <file name="/Dummy.txt" timestamp="1537501260029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -331,8 +337,10 @@
         <mark key="." line="39" column="34" />
         <mark key="^" line="35" column="52" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test.js" timestamp="1537450319776">
-        <mark key="[" line="2" column="6" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test.js" timestamp="1537500990291">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1537465062630">
         <mark key="[" line="5" column="44" />
@@ -352,7 +360,7 @@
         <mark key="^" line="25" column="6" />
         <mark key="." line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/router.js" timestamp="1537464499791">
+      <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/router.js" timestamp="1537500716404">
         <mark key="[" line="12" column="56" />
         <mark key="]" line="12" column="56" />
         <mark key="." line="12" column="56" />
@@ -467,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>require('fs').readFileSync(</text>
+        <text>1j23l12j3l</text>
       </register>
       <register name="-" type="4">
-        <text>require('fs').readFileSync(</text>
+        <text>1j23l12j3l</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -479,35 +487,25 @@
         <text encoding="base64">ICAgICAgICAic3RhcnQ6b2ZmaWNlOnFhIjogImNyb3NzLWVudiBFR0dfU0VSVkVSX0VOVj1xYSBlZ2ctc2NyaXB0cyBzdGFydCAtLXdvcmtlcnM9MiAtLXRpdGxlPWVnZy1zZXJ2ZXItZ2l0bGFiLXNlcnZpY2VzICAtLXBvcnQgOTgwMCIsCiAgICAgICAgInN0b3A6b2ZmaWNlOnFhIjogImNyb3NzLWVudiBFR0dfU0VSVkVSX0VOVj1xYSBlZ2ctc2NyaXB0cyBzdG9wIC0tdGl0bGU9ZWdnLXNlcnZlci1naXRsYWItc2VydmljZXMiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHgucmVxdWVzdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZGVsZXRlRmxvd1BhdHRlcm4gPSAoaWQpID0+IHsKICAgIHJldHVybiBheGlvcyh7CiAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgdXJsIDogYHYxL2Zsb3dfcGF0dGVybmAsCiAgICAgICAgZGF0YQogICAgfSkudGhlbihyZXMgPT4gcmVzLmRhdGEpCiAgICAgICAgLmNhdGNoKGU9PmNvbnNvbGUubG9nKGUuc3RhY2spKQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZGVsZXRlRmxvd1BhdHRlcm4gPSAoaWQpID0+IHsKICAgIHJldHVybiBheGlvcyh7CiAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgdXJsIDogYHYxL2Zsb3dfcGF0dGVybmAsCiAgICAgICAgZGF0YQogICAgfSkudGhlbihyZXMgPT4gcmVzLmRhdGEpCiAgICAgICAgLmNhdGNoKGU9PmNvbnNvbGUubG9nKGUuc3RhY2spKQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICJjcm9zcy1lbnYgRUdHX1NFUlZFUl9FTlY9cWEgZWdnLXNjcmlwdHMgc3RvcCAtLXRpdGxlPWVnZy1zZXJ2ZXItZ2l0bGFiLXNlcnZpY2VzIiwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyYXdGbG93KSkKICAgICAgICByZXR1cm47Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICJjcm9zcy1lbnYgRUdHX1NFUlZFUl9FTlY9cWEgZWdnLXNjcmlwdHMgc3RvcCAtLXRpdGxlPWVnZy1zZXJ2ZXItZ2l0bGFiLXNlcnZpY2VzIiwK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-    HOOK_BUILD_TEST: `${hookUri}/v2/trigger/branch-flow/build-test-env?key=test_ticket_desc`,
-    HOOK_SEND_TEST_DAILY_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=test_daily_report`,
-    HOOK_SEND_FUNC_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=test_report_for_func`,
-    HOOK_SEND_PM_PASS_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=pm_pass_report`,
-    HOOK_MERGE_TO_TRUNK: `${hookUri}/v2/trigger/branch-flow/merge-to-trunk`,
-    HOOK_SEND_REGRESS_QA_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=regress_qa_test_report`,
-    HOOK_SEND_REGRESS_PRE_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=regress_pre_report`,
-    HOOK_SEND_REGRESS_PRD_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=regress_prd_report`,
-    HOOK_SEND_PRODUCTION_CHECK_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=production_check_pass_notes`,
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyYXdGbG93KSkKICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="4">
         <text>{
@@ -520,13 +518,23 @@
     HOOK_SEND_REGRESS_PRE_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=regress_pre_report`,
     HOOK_SEND_REGRESS_PRD_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=regress_prd_report`,
     HOOK_SEND_PRODUCTION_CHECK_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=production_check_pass_notes`,
-})</text>
+}</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5lbWFpbFNlcnZpY2UgPSAnaHR0cDovL3FhZHAtY29tbW9uLXNlcnZpY2UucXV0b3V0aWFvLm5ldC92MS9lbWFpbC9zZW5kJwo=</text>
+      <register name="9" type="4">
+        <text>{
+    HOOK_BUILD_TEST: `${hookUri}/v2/trigger/branch-flow/build-test-env?key=test_ticket_desc`,
+    HOOK_SEND_TEST_DAILY_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=test_daily_report`,
+    HOOK_SEND_FUNC_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=test_report_for_func`,
+    HOOK_SEND_PM_PASS_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=pm_pass_report`,
+    HOOK_MERGE_TO_TRUNK: `${hookUri}/v2/trigger/branch-flow/merge-to-trunk`,
+    HOOK_SEND_REGRESS_QA_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=regress_qa_test_report`,
+    HOOK_SEND_REGRESS_PRE_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=regress_pre_report`,
+    HOOK_SEND_REGRESS_PRD_TEST_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=regress_prd_report`,
+    HOOK_SEND_PRODUCTION_CHECK_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=production_check_pass_notes`,
+})</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
