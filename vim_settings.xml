@@ -239,12 +239,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537529388331">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537534684819">
         <mark key="e" line="111" column="24" />
-        <mark key="[" line="220" column="24" />
-        <mark key="]" line="222" column="46" />
-        <mark key="." line="222" column="46" />
-        <mark key="^" line="222" column="46" />
+        <mark key="[" line="259" column="61" />
+        <mark key="]" line="300" column="0" />
+        <mark key="." line="300" column="0" />
+        <mark key="^" line="302" column="37" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/trigger-center.js" timestamp="1537408452251">
         <mark key="[" line="25" column="6" />
@@ -490,8 +490,8 @@
       <jump line="92" column="0" filename="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
@@ -503,34 +503,34 @@
         <text encoding="base64">ICAgICAgICBsZXQge2N0eH0gPSB0aGlzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIOWbnuW9kua1i+ivlSAtIOacquWunueOsAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIOeUn+S6p+mDqOe9siDmnKrlrp7njrAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ2l0Q29uZmlncyA9IGNvbXBhY3RPbGRJbnB1dChjdHguZmxvd1BhcmFtcy5pbnB1dCk7CgogICAgICAgIGdpdENvbmZpZ3MuYnJhbmNoID0gIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQge2VtYWlsU2VydmljZX0gPSBjdHguYXBwLmNvbmZpZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ2l0Q29uZmlncyA9IGNvbXBhY3RPbGRJbnB1dChjdHguZmxvd1BhcmFtcy5pbnB1dCk7CgogICAgICAgIGdpdENvbmZpZ3MuYnJhbmNoID0gJ21hc3Rlcic7CgogICAgICAgIGxldCB7cmVzdWx0LCBkYXRhLCBtZXNzYWdlfSA9IGF3YWl0IGN0eC5zZXJ2aWNlLmpvYk1hc3Rlci5jcmVhdGVKb2IoewogICAgICAgICAgICBjaGVja09uY2UgOiB0cnVlLAogICAgICAgICAgICBhc3luYyBzdGFydCgpIHsKCiAgICAgICAgICAgICAgICByZXR1cm4gYXhpb3MoewogICAgICAgICAgICAgICAgICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgICAgICAgICAgICAgICAgIHRpbWVvdXQ6IDAsCiAgICAgICAgICAgICAgICAgICAgdXJsOiBxYUNvbmZpZy5kZXBsb3lUZXN0LAogICAgICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQ6IEpTT04uc3RyaW5naWZ5KGdpdENvbmZpZ3MpLAogICAgICAgICAgICAgICAgICAgICAgICBwYXlsb2FkOiBKU09OLnN0cmluZ2lmeShjdHguZmxvd1BhcmFtcy5wYXlsb2FkKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgLnRoZW4ocmVzID0+IHJlcy5kYXRhKQogICAgICAgICAgICAgICAgICAgIC5jYXRjaChlID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5lcnJvcignam9iIGVycm9yOicsIGUubWVzc2FnZSwgZS5zdGFjayk7CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0sCgogICAgICAgICAgICBhc3luYyBjaGVjayhkYXRhKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZGF0YS5jb2RlID09PSAwOwogICAgICAgICAgICB9CgogICAgICAgIH0pLnN0YXJ0KCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDpgJrov4fml7blgZrkuKTku7bkuosKICAgICAgICAgICAgICAgICAgICAvLyDlj5Hpgq7ku7Yg5Zue5b2S5rWL6K+VKOa1i+ivleeOr+Wigykg5a6Ma+aIkAogICAgICAgICAgICAgICAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQge2tleX0gPSBjdHgucmVxdWVzdC5xdWVyeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmraTml7bpooTlj5HluIPnjq/looPlm57lvZLlrozmiJDvvIzlhYjlj5Hpgq7ku7bvvIzlho3pg6jnvbIK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBsZXQgcmVzID0gIGF3YWl0IGF4aW9zKHsKICAgICAgICAgICAgICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgICAgICAgICAgICAgdXJsOiBgJHtlbWFpbFNlcnZpY2Uuc2VuZFJlcG9ydH0ke2tleX1gLAogICAgICAgICAgICAgICAgZGF0YTogY3R4LmZsb3dQYXJhbXMKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHRoaXMubG9nKGBzZW5kIHFhIHJlZ3Jlc3MgcmVwb3J0IHJlc3VsdDpgLCBKU09OLnN0cmluZ2lmeShyZXMuZGF0YSkpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgdGhpcy5lcnJvcignc2VuZCBxYSByZWdyZXNzIHJlcG9ydCBmYWlsdXJlJywgZS5zdGFjaykgOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncmVtb3RlX2NhbGxfdXJsJzogJyR7SE9PS18nLAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQge2tleX0gPSBjdHgucmVxdWVzdC5xdWVyeTsKICAgICAgICBsZXQge2VtYWlsU2VydmljZX0gPSBjdHguYXBwLmNvbmZpZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlcyA9IGF3YWl0IGF4aW9zKHsKICAgICAgICAgICAgICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgICAgICAgICAgICAgdXJsOiBlbWFpbFNlcnZpY2Uuc2VuZFRlc3RUaWNrZXQsCiAgICAgICAgICAgICAgICBkYXRhOiBjdHguZmxvd1BhcmFtcwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBsZXQgcmVzID0gIGF3YWl0IGF4aW9zKHsKICAgICAgICAgICAgICAgIG1ldGhvZDogJ3Bvc3QnLAogICAgICAgICAgICAgICAgdXJsOiBgJHtlbWFpbFNlcnZpY2Uuc2VuZFJlcG9ydH0ke2tleX1gLAogICAgICAgICAgICAgICAgZGF0YTogY3R4LmZsb3dQYXJhbXMKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHRoaXMubG9nKGBzZW5kIHByZSByZWdyZXNzIHJlcG9ydCByZXN1bHQ6YCwgSlNPTi5zdHJpbmdpZnkocmVzLmRhdGEpKTsKICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIHRoaXMuZXJyb3IoJ3NlbmQgcHJlIHJlZ3Jlc3MgcmVwb3J0IGZhaWx1cmUnLCBlLnN0YWNrKSA7CiAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgIC8vIOWbnuW9kua1i+ivlSAtIOacquWunueOsAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
