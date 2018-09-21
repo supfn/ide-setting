@@ -77,7 +77,6 @@
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/create_flow.sh" timestamp="1537509340034">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlab.js" timestamp="1537321333879" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1537506906905">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="24" />
@@ -106,7 +105,6 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="49" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.qa.js" timestamp="1537439707645" />
       <file name="$USER_HOME$/Codes/lab/dockerfiles/sonar-scanner/sonar-scanner-3.2.0.1227-linux/bin/sonar-report" timestamp="1536728412350">
         <mark key="[" line="4" column="83" />
         <mark key="]" line="4" column="0" />
@@ -227,7 +225,6 @@
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.json" timestamp="1537458317041">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab.js" timestamp="1537321730914" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/sonar.js" timestamp="1537451331197">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="6" />
@@ -288,7 +285,11 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1537510205425" />
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1537521306026">
+        <mark key="[" line="197" column="32" />
+        <mark key="]" line="197" column="32" />
+        <mark key="." line="197" column="32" />
+      </file>
       <file name="/Dummy.txt" timestamp="1537518245960">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -325,7 +326,6 @@
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/node_modules/egg-cluster/lib/utils/messenger.js" timestamp="1537330180041" />
       <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/go-parser.js" timestamp="1536909325366">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="46" column="0" />
@@ -481,11 +481,11 @@
       <jump line="92" column="0" filename="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQge2tleX0gPSBjdHgucmVxdWVzdC5xdWVyeTsK</text>
+      <register name="&quot;" type="4">
+        <text>skip_regress_qa_test</text>
       </register>
       <register name="-" type="4">
-        <text>.name === tag;</text>
+        <text>skip_regress_qa_test</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
