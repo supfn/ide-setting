@@ -9,7 +9,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1537525839920">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1537529614246">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="60" column="1" />
         <mark key="." line="60" column="1" />
@@ -77,11 +77,11 @@
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/create_flow.sh" timestamp="1537509340034">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1537506906905">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="14" column="24" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1537528540929">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="39" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="30" column="39" />
         <mark key="o" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" timestamp="1537347372584">
@@ -169,11 +169,11 @@
         <mark key="^" line="100" column="32" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537516966448">
-        <mark key="[" line="97" column="23" />
-        <mark key="]" line="97" column="23" />
-        <mark key="." line="97" column="23" />
-        <mark key="^" line="97" column="23" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537528147229">
+        <mark key="[" line="80" column="31" />
+        <mark key="]" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+        <mark key="^" line="78" column="11" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/phpcs.xml" timestamp="1537266071094">
         <mark key="[" line="2" column="0" />
@@ -231,12 +231,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537525814758">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537529388331">
         <mark key="e" line="111" column="24" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
-        <mark key="^" line="358" column="14" />
+        <mark key="[" line="220" column="24" />
+        <mark key="]" line="222" column="46" />
+        <mark key="." line="222" column="46" />
+        <mark key="^" line="222" column="46" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/trigger-center.js" timestamp="1537408452251">
         <mark key="[" line="25" column="6" />
@@ -285,13 +285,13 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1537525489101">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1537529455310">
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="0" />
         <mark key="." line="228" column="0" />
         <mark key="^" line="229" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537525876792">
+      <file name="/Dummy.txt" timestamp="1537528419847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -350,7 +350,7 @@
         <mark key="]" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1537508363116">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1537529293489">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="55" />
         <mark key="^" line="2" column="0" />
@@ -482,11 +482,11 @@
       <jump line="92" column="0" filename="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIOWbnuW9kua1i+ivlSAtIOacquWunueOsAo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>\n主干测试结果: ${message}</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
