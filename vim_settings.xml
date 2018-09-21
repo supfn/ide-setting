@@ -30,6 +30,12 @@
         <mark key="^" line="76" column="32" />
         <mark key="." line="76" column="33" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1537497368708">
+        <mark key="[" line="38" column="73" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1537464594331">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -466,7 +472,7 @@
         <mark key="]" line="74" column="52" />
         <mark key="." line="74" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537465122881">
+      <file name="/Dummy.txt" timestamp="1537497282982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -670,25 +676,31 @@
       <jump line="3" column="10" filename="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>office</text>
       </register>
       <register name="-" type="4">
-        <text>FUNC_TEST_</text>
+        <text>office</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5lbWFpbFNlcmljZSA9IHsKICAgICAgICBzZW5kVGVzdFRpY2tldCA6ICdodHRwOi8vMTkyLjE2OC45MC41OjMwMDA0L3YxL2VtYWlsL3NlbmQnLAogICAgICAgIHNlbmRSZXBvcnQgOiAnaHR0cDovLzE5Mi4xNjguOTAuNTozMDAwNC92MS9lbWFpbC9yZXBvcnQvJwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAic3RhcnQ6b2ZmaWNlOnFhIjogImNyb3NzLWVudiBFR0dfU0VSVkVSX0VOVj1xYSBlZ2ctc2NyaXB0cyBzdGFydCAtLXdvcmtlcnM9MiAtLXRpdGxlPWVnZy1zZXJ2ZXItZ2l0bGFiLXNlcnZpY2VzICAtLXBvcnQgOTgwMCIsCiAgICAgICAgInN0b3A6b2ZmaWNlOnFhIjogImNyb3NzLWVudiBFR0dfU0VSVkVSX0VOVj1xYSBlZ2ctc2NyaXB0cyBzdG9wIC0tdGl0bGU9ZWdnLXNlcnZlci1naXRsYWItc2VydmljZXMiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICJjcm9zcy1lbnYgRUdHX1NFUlZFUl9FTlY9cWEgZWdnLXNjcmlwdHMgc3RvcCAtLXRpdGxlPWVnZy1zZXJ2ZXItZ2l0bGFiLXNlcnZpY2VzIiwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyYXdGbG93KSkKICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>{
     HOOK_BUILD_TEST: `${hookUri}/v2/trigger/branch-flow/build-test-env?key=test_ticket_desc`,
     HOOK_SEND_TEST_DAILY_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=test_daily_report`,
@@ -701,7 +713,7 @@
     HOOK_SEND_PRODUCTION_CHECK_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=production_check_pass_notes`,
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
     HOOK_BUILD_TEST: `${hookUri}/v2/trigger/branch-flow/build-test-env?key=test_ticket_desc`,
     HOOK_SEND_TEST_DAILY_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=test_daily_report`,
@@ -714,23 +726,17 @@
     HOOK_SEND_PRODUCTION_CHECK_REPORT: `${hookUri}/v2/trigger/branch-flow/send-report?key=production_check_pass_notes`,
 })</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbmZpZy5lbWFpbFNlcnZpY2UgPSAnaHR0cDovL3FhZHAtY29tbW9uLXNlcnZpY2UucXV0b3V0aWFvLm5ldC92MS9lbWFpbC9zZW5kJwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICBjb25maWcuZW1haWxTZXJ2aWNlID0gJ2h0dHA6Ly9xYWRwLWNvbW1vbi1zZXJ2aWNlLnF1dG91dGlhby5uZXQvZW1haWwvc2VuZCcK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5lbWFpbFNlcnZpY2UgPSAnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9yZXF1aXJlKCcuL3VwZGF0ZVBhdHRlcm5zJykoJycpCg==</text>
+        <text encoding="base64">ICAgICBjb25maWcuZW1haWxTZXJ2aWNlID0gJ2h0dHA6Ly9xYWRwLWNvbW1vbi1zZXJ2aWNlLnF1dG91dGlhby5uZXQvZW1haWwvc2VuZCcK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
