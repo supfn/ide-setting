@@ -171,11 +171,11 @@
         <mark key="^" line="100" column="32" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537512443724">
-        <mark key="[" line="83" column="7" />
-        <mark key="]" line="82" column="35" />
-        <mark key="." line="82" column="35" />
-        <mark key="^" line="82" column="35" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537516966448">
+        <mark key="[" line="97" column="23" />
+        <mark key="]" line="97" column="23" />
+        <mark key="." line="97" column="23" />
+        <mark key="^" line="97" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/phpcs.xml" timestamp="1537266071094">
         <mark key="[" line="2" column="0" />
@@ -234,12 +234,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537512940377">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1537517392299">
         <mark key="e" line="111" column="24" />
-        <mark key="[" line="371" column="59" />
-        <mark key="]" line="371" column="59" />
-        <mark key="." line="371" column="59" />
-        <mark key="^" line="297" column="48" />
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="377" column="28" />
+        <mark key="." line="377" column="28" />
+        <mark key="^" line="376" column="46" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/trigger-center.js" timestamp="1537408452251">
         <mark key="[" line="25" column="6" />
@@ -289,7 +289,7 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1537510205425" />
-      <file name="/Dummy.txt" timestamp="1537510524252">
+      <file name="/Dummy.txt" timestamp="1537514952844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -481,11 +481,11 @@
       <jump line="92" column="0" filename="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>branch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>branch</text>
+        <text>.name === tag;</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -494,34 +494,34 @@
         <text encoding="base64">ICAgICAgICBsZXQgbGF0ZXN0UGF5bG9hZCA9IGN0eC5mbG93UGFyYW1zLnBheWxvYWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0OiBKU09OLnN0cmluZ2lmeSh7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlc3RQYXlsb2FkLmJyYW5jaCA9IGxhdGVzdFBheWxvYWQudGFnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiByZXMuZGF0YS50YXJnZXQgPT09IGNvbW1pdFNoYTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY29weSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgL3Byb2plY3RzLyR7ZW5jb2RlVVJJQ29tcG9uZW50KGlkKX0vcmVwb3NpdG9yeS90YWdzYCwgewogICAgICAgICAgICB0YWdfbmFtZTogdGFnLAogICAgICAgICAgICByZWY6IGNvbW1pdFNoYSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlc3RQYXlsb2FkLmJyYW5jaCA9IGxhdGVzdFBheWxvYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZQogICAgICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9pZCwgY29tbWl0U2hhLCB0YWcsIG1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZS5yZXNwb25zZS5kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVjaGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZS5yZXNwb25zZS5kYXRhLm1lc3NhZ2UuaW5kZXhPZigpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICAgICAgICAgICAnQ29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCcKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguc2VydmljZS5naXRsYWJSYXcubWFrZVRhZygKICAgICAgICAgICAgcmVwb05hbWUsCiAgICAgICAgICAgIGFjY2VwdFJlc3VsdC5tZXJnZWRJbmZvLm1lcmdlX2NvbW1pdF9zaGEKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IGB0YWdfbmFtZT0ke2VuY29kZVVSSUNvbXBvbmVudCh0YWcpfSZyZWY9JHtjb21taXRTaGF9Jm1lc3NhZ2U9JHtlbmNvZGVVUklDb21wb25lbnQobWVzc2FnZSl9YCwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
