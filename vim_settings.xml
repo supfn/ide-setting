@@ -9,7 +9,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1537529614246">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1537530404582">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="60" column="1" />
         <mark key="." line="60" column="1" />
@@ -93,6 +93,11 @@
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/readme.md" timestamp="1537265503972">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/deleteFlow.js" timestamp="1537531050788">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/data-stat/records/stat.js" timestamp="1536826641091">
         <mark key="[" line="55" column="27" />
         <mark key="]" line="39" column="4" />
@@ -133,6 +138,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/app/extend/helper.js" timestamp="1537531220119">
+        <mark key="[" line="51" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/tests/merge-step.js" timestamp="1537437324689">
         <mark key="[" line="19" column="22" />
@@ -350,7 +358,7 @@
         <mark key="]" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1537529293489">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1537530465317">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="55" />
         <mark key="^" line="2" column="0" />
@@ -483,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
