@@ -287,10 +287,10 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/code-scanner-seed/seed.groovy" timestamp="1537844592229">
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="71" column="43" />
-        <mark key="." line="71" column="43" />
+      <file name="$USER_HOME$/Codes/lab/code-scanner-seed/seed.groovy" timestamp="1537929805632">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="20" />
+        <mark key="." line="58" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/app/parser/php-parser.js" timestamp="1536852696721">
         <mark key="[" line="44" column="23" />
@@ -328,7 +328,7 @@
         <mark key="." line="186" column="32" />
         <mark key="^" line="32" column="142" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537927843183">
+      <file name="/Dummy.txt" timestamp="1537929810339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -519,11 +519,11 @@
       <jump line="207" column="45" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
