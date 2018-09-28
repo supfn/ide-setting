@@ -22,10 +22,10 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1538106395830">
-        <mark key="[" line="48" column="29" />
-        <mark key="]" line="48" column="30" />
-        <mark key="." line="48" column="30" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1538113236034">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="17" />
         <mark key="^" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/trunk-flow-trigger.js" timestamp="1537426342027">
@@ -34,24 +34,17 @@
         <mark key="^" line="100" column="32" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-extend.js" timestamp="1537941653224">
-        <mark key="'" line="9" column="24" />
-        <mark key="[" line="65" column="17" />
-        <mark key="]" line="100" column="8" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1537927698614">
         <mark key="[" line="124" column="24" />
         <mark key="]" line="124" column="24" />
         <mark key="." line="124" column="24" />
         <mark key="^" line="124" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1537507240502">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="16" column="78" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1538112049960">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="21" column="78" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/phpcs.xml" timestamp="1537266071094">
         <mark key="[" line="2" column="0" />
@@ -108,22 +101,17 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1537941391260">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/enable.sh" timestamp="1537348313753">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="12" />
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1538033222911">
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="73" column="16" />
-        <mark key="." line="73" column="16" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1538113340131">
+        <mark key="[" line="65" column="37" />
+        <mark key="]" line="65" column="37" />
+        <mark key="." line="65" column="37" />
+        <mark key="^" line="65" column="37" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/trigger-center.js" timestamp="1537423598664">
         <mark key="[" line="100" column="24" />
@@ -137,8 +125,17 @@
         <mark key="." line="29" column="51" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1537964399714">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/.gitlab-ci.yml" timestamp="1538113489077">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/qa-job.test.js" timestamp="1538113434415">
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1538111928989">
+        <mark key="[" line="13" column="5" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="o" line="16" column="23" />
@@ -159,10 +156,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1538056288984">
-        <mark key="[" line="215" column="82" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1538112455589">
+        <mark key="[" line="221" column="13" />
+        <mark key="]" line="221" column="13" />
+        <mark key="." line="221" column="13" />
+        <mark key="^" line="223" column="69" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/trigger-center.js" timestamp="1537408452251">
         <mark key="[" line="25" column="6" />
@@ -326,11 +324,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-jobs.js" timestamp="1537365984173">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-jobs.js" timestamp="1538113299294">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="37" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/tests/merge-step.js" timestamp="1537437324689">
         <mark key="[" line="19" column="22" />
@@ -488,46 +486,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAicmVzdGFydDplY3M6cHJkIiA6ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAgYXdhaXQgY3R4LnNlcnZpY2UucWFKb2JzLmdldFJlcG8oJ190ZXN0X2hpdF9rZXknKTsKICAgICAgICBhc3NlcnQocmVzdWx0ID09PSAnX3Rlc3RfaGl0X3ZhbHVlJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAic3RhcnQ6ZWNzOnByZCI6ICJjcm9zcy1lbnYgRUdHX1NFUlZFUl9FTlY9cHJkIGVnZy1zY3JpcHRzIHN0YXJ0ICAtLWRhZW1vbiAgLS13b3JrZXJzPTIgLS10aXRsZT1lZ2ctc2VydmVyLWdpdGxhYi1zZXJ2aWNlcyAgLS1wb3J0IDk4MDAiLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAgYXdhaXQgY3R4LnNlcnZpY2UucWFKb2JzLmdldFJlcG8oJ190ZXN0X2hpdF9rZXknKTsKICAgICAgICBhc3NlcnQocmVzdWx0ID09PSAnX3Rlc3RfaGl0X3ZhbHVlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAicmVzdGFydDplY3M6cHJkIiA6ICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICduYW1lJzogJ+WQiOW5tuS4u+WIhuaUrycsCiAgICAgICAgICAgICdpbmRleCc6IDQsCiAgICAgICAgICAgICdhY3Rpb24nOiBbCiAgICAgICAgICAgICAgICAvLyB7CiAgICAgICAgICAgICAgICAvLyAgICAgJ25hbWUnOiAn6Lez6L+HJywKICAgICAgICAgICAgICAgIC8vICAgICAncm9sZSc6ICdkbScsCiAgICAgICAgICAgICAgICAvLyAgICAgJ3R5cGUnOiAnTkVYVCcsCiAgICAgICAgICAgICAgICAvLyAgICAgJ2lucHV0X3BhdHRlcm4nOiBbewogICAgICAgICAgICAgICAgLy8gICAgICAgICAna2V5JzogJ21lcmdlX3RvX3RydW5rX25vdGVzJywKICAgICAgICAgICAgICAgIC8vICAgICAgICAgJ2xhYmVsJzogJ+Wkh+azqCcsCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICd0eXBlJzogJ1RFWFQnLAogICAgICAgICAgICAgICAgLy8gICAgICAgICAndmFsdWUnOiAnJywKICAgICAgICAgICAgICAgIC8vICAgICAgICAgJ2V4cGxhaW4nOiAn5aSH5rOoJywKICAgICAgICAgICAgICAgIC8vICAgICB9XSwKICAgICAgICAgICAgICAgIC8vICAgICAncmVtb3RlX2NhbGxfdXJsJzogJyR7SE9PS19TS0lQX01FUkdFX1RPX1RSVU5LfScsCiAgICAgICAgICAgICAgICAvLyB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICduYW1lJzogJ+WQiOW5ticsCiAgICAgICAgICAgICAgICAgICAgJ3JvbGUnOiAnZGV2JywKICAgICAgICAgICAgICAgICAgICAndHlwZSc6ICdORVhUJywKICAgICAgICAgICAgICAgICAgICAnaW5wdXRfcGF0dGVybic6IFt7CiAgICAgICAgICAgICAgICAgICAgICAgICdrZXknOiAnYXBwTmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICfmnI3liqHlkI3np7Av5LuT5bqT5ZCNICjkuI3kv67mlLnliJnkvb/nlKjmj5DmtYvnmoTlgLwpJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnSU5QVVQnLAogICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiAnJGFwcE5hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnZXhwbGFpbic6ICc8cD5hcHBOYW1lOiDmnI3liqHlkI3np7Av5LuT5bqT5ZCNPC9wPicsCiAgICAgICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgICAgICAna2V5JzogJ2JyYW5jaCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICfliIbmlK/lkI0gKOS4jeS/ruaUueWImeS9v+eUqOaPkOa1i+eahOWAvCknLAogICAgICAgICAgICAgICAgICAgICAgICAndHlwZSc6ICdJTlBVVCcsCiAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6ICckYnJhbmNoJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2V4cGxhaW4nIDogYAogICAgICAgICAgICAgICAgICAgICAgICA8cD7lt7LmjqXlhaXnmoRwYXNzcG9ydOacjeWKoeacie+8mnRva2Vuc+OAgW1pY3JvLXdlaXhpbi1hY2NvdW5044CBbWljcm8tcGhvbmUtYWNjb3VudOOAgXN1Yi1hY2NvdW50c+OAgXVzZXItZmllbGRz44CBc21zLWNhcHRjaGE8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwPuW3sue7j+aOpeWFpeeahOWGheWuuee6v+acjeWKoeacie+8mmF1ZGl0PC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8cD7lt7Lnu4/mjqXlhaXnmoTnlKjmiLfnur/mnI3liqHmnInvvJp1c2VyLWxldmVsPC9wPmAKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgJ2tleSc6ICd0YWcnLAogICAgICAgICAgICAgICAgICAgICAgICAnbGFiZWwnOiAndGFnJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnSU5QVVQnLAogICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiAnJHByZWZpeF8kZGF0ZV8kdGFwZF8kY291bnQnLAogICAgICAgICAgICAgICAgICAgICAgICAnZXhwbGFpbic6ICc8cD50YWcg6KeE6IyD77yaIOS4muWKoee6v1/ml6XmnJ9fdHBhZGlkX+asoeaVsDwvcD4nLAogICAgICAgICAgICAgICAgICAgIH1dLAogICAgICAgICAgICAgICAgICAgICdyZW1vdGVfY2FsbF91cmwnOiAnJHtIT09LX01FUkdFX1RPX1RSVU5LfScsCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICBdLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKCdyZXBvJywgcmVwbywgYXBwUmVwb3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2V4cGxhaW4nOiBgCiAgICAgICAgICAgICAgICAgICAgICAgIDxwPuW3suaOpeWFpeeahOacjeWKoeacie+8mnRva2Vuc+OAgW1pY3JvLXdlaXhpbi1hY2NvdW5044CBbWljcm8tcGhvbmUtYWNjb3VudOOAgXN1Yi1hY2NvdW50c+OAgXVzZXItZmllbGRz44CBc21zLWNhcHRjaGE8L3A+YCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdleHBsYWluJzogYAogICAgICAgICAgICAgICAgICAgICAgICA8cD7lt7LmjqXlhaXnmoTmnI3liqHmnInvvJp0b2tlbnPjgIFtaWNyby13ZWl4aW4tYWNjb3VudOOAgW1pY3JvLXBob25lLWFjY291bnTjgIFzdWItYWNjb3VudHPjgIF1c2VyLWZpZWxkc+OAgXNtcy1jYXB0Y2hhPC9wPjxwPmJyYW5jaDog5byA5Y+R5YiG5pSvPC9wPmAsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdleHBsYWluJzogYAogICAgICAgICAgICAgICAgICAgICAgICA8cD7lt7LmjqXlhaXnmoTmnI3liqHmnInvvJp0b2tlbnPjgIFtaWNyby13ZWl4aW4tYWNjb3VudOOAgW1pY3JvLXBob25lLWFjY291bnTjgIFzdWItYWNjb3VudHPjgIF1c2VyLWZpZWxkc+OAgXNtcy1jYXB0Y2hhPC9wPjxwPmJyYW5jaDog5byA5Y+R5YiG5pSvPC9wPmAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2V4cGxhaW4nOiAnPHA+5bey5o6l5YWl55qE5pyN5Yqh5pyJ77yadG9rZW5z44CBbWljcm8td2VpeGluLWFjY291bnTjgIFtaWNyby1waG9uZS1hY2NvdW5044CBc3ViLWFjY291bnRz44CBdXNlci1maWVsZHPjgIFzbXMtY2FwdGNoYTwvcD48cD5icmFuY2g6IOW8gOWPkeWIhuaUrzwvcD4nLAo=</text>
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2cocmVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdleHBsYWluJzogYAogICAgICAgICAgICAgICAgICAgICAgICA8cD7lt7LmjqXlhaXnmoTmnI3liqHmnInvvJp0b2tlbnPjgIFtaWNyby13ZWl4aW4tYWNjb3VudOOAgW1pY3JvLXBob25lLWFjY291bnTjgIFzdWItYWNjb3VudHPjgIF1c2VyLWZpZWxkc+OAgXNtcy1jYXB0Y2hhPC9wPjxwPmJyYW5jaDog5byA5Y+R5YiG5pSvPC9wPmAsCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdleHBsYWluJzogYAogICAgICAgICAgICAgICAgICAgICAgICA8cD7lt7LmjqXlhaXnmoTmnI3liqHmnInvvJp0b2tlbnPjgIFtaWNyby13ZWl4aW4tYWNjb3VudOOAgW1pY3JvLXBob25lLWFjY291bnTjgIFzdWItYWNjb3VudHPjgIF1c2VyLWZpZWxkc+OAgXNtcy1jYXB0Y2hhPC9wPjxwPmJyYW5jaDog5byA5Y+R5YiG5pSvPC9wPmAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2V4cGxhaW4nOiAnPHA+5bey5o6l5YWl55qE5pyN5Yqh5pyJ77yadG9rZW5z44CBbWljcm8td2VpeGluLWFjY291bnTjgIFtaWNyby1waG9uZS1hY2NvdW5044CBc3ViLWFjY291bnRz44CBdXNlci1maWVsZHPjgIFzbXMtY2FwdGNoYTwvcD48cD5icmFuY2g6IOW8gOWPkeWIhuaUrzwvcD4nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
