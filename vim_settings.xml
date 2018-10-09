@@ -143,11 +143,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/records/index.js" timestamp="1539094697891">
-        <mark key="[" line="60" column="56" />
-        <mark key="]" line="60" column="56" />
-        <mark key="." line="60" column="56" />
-        <mark key="^" line="60" column="56" />
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/index.js" timestamp="1539098746789">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="41" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" timestamp="1538114397682">
         <mark key="[" line="223" column="23" />
@@ -263,7 +263,7 @@
         <mark key="." line="50" column="19" />
         <mark key="^" line="43" column="60" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/data-stat/records/datas/tice.json" timestamp="1539093045951" />
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/datas/tice.json" timestamp="1539099159831" />
       <file name="$USER_HOME$/Codes/lab/data-stat/records-8月/stat.js" timestamp="1539092957747" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/hook-center.js" timestamp="1537369288596">
         <mark key="[" line="20" column="6" />
@@ -448,8 +448,8 @@
       <jump line="24" column="0" filename="$USER_HOME$/Codes/lab/data-stat/records/repos.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcGRpZCwgbGluZS50aWQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -461,34 +461,34 @@
         <text encoding="base64">ICAgIGlmKG5ldyBEYXRlKGl0ZW0uY3JlYXRlZF9hdCkgPCBuZXcgRGF0ZSgnMjAxOC8wOS8wMSAwMDowMCcpKXsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcGRpZCwgbGluZS50aWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0YXBkaWQuaW5kZXhPZikgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2codHlwZW9mIHRhcGRpZCkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGl0ZW0uZGlmZiA9IGRpZmY7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBwdWJsaXNoSXRlbSA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtLCBwdWJsaXNoSXRlbSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBpdGVtLmNvbnRlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0YXBkaWQuaW5kZXhPZikgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2codHlwZW9mIHRhcGRpZCkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBkaWZmID0gbmV3IERhdGUodGltZSkgLSBuZXcgRGF0ZShpdGVtLmNyZWF0ZWRBdCkK</text>
+        <text encoding="base64">ICAgIGl0ZW0uZGlmZiA9IGRpZmY7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCkKICAgIGNvbnNvbGUubG9nKDExMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtLCBwdWJsaXNoSXRlbSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBpdGVtLmNvbnRlbnQ7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBkaWZmID0gbmV3IERhdGUodGltZSkgLSBuZXcgRGF0ZShpdGVtLmNyZWF0ZWRBdCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
