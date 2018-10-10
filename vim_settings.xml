@@ -90,6 +90,13 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/data-stat/records/index8.js" timestamp="1539138747590">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="139" column="63" />
+        <mark key="]" line="41" column="42" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="41" column="42" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/enable.sh" timestamp="1537348313753">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="12" />
@@ -346,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1183" column="26" filename="$USER_HOME$/Codes/gitlab/json-forms/src/js/brutusin-json-forms.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Codes/lab/fast-deploy/app/router.js" />
       <jump line="7" column="30" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/compact.js" />
       <jump line="6" column="10" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/gitlab.js" />
@@ -446,49 +452,50 @@
       <jump line="3" column="17" filename="$USER_HOME$/Codes/lab/gitlab-stat/master/run.sh" />
       <jump line="26" column="3" filename="$USER_HOME$/Codes/lab/data-stat/records/publish.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Codes/lab/data-stat/records/repos.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Codes/lab/data-stat/records/index8.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcGRpZCwgbGluZS50aWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>avg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>avg</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmKG5ldyBEYXRlKGl0ZW0uY3JlYXRlZF9hdCkgPCBuZXcgRGF0ZSgnMjAxOC8wOS8wMSAwMDowMCcpKXsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmFuZ2VTdGFydERhdGUgPSBuZXcgRGF0ZSggc3RhcnREYXRlKTsKICAgICAgICBsZXQgcmFuZ2VFbmREYXRlID0gbmV3IERhdGUoZW5kRGF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcGRpZCwgbGluZS50aWQpOwo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGhhbmRsZURhdGEoc3RhcnREYXRlLCBlbmREYXRlKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmFuZ2VTdGFydERhdGUgPSBuZXcgRGF0ZSggc3RhcnREYXRlKTsKICAgICAgICBsZXQgcmFuZ2VFbmREYXRlID0gbmV3IERhdGUoZW5kRGF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBwdWJsaXNoSXRlbSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmFuZ2VFbmREYXRlID0gbmV3IERhdGUoZW5kRGF0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFwZGlkID09ICcxMTIwODE4ODMxMDAxMDI0MDU5JykgewogICAgICAgICAgICAvL2NvbnNvbGUubG9nKGl0ZW0sIHB1Ymxpc2hJdGVtKQogICAgICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0YXBkaWQuaW5kZXhPZikgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2codHlwZW9mIHRhcGRpZCkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0ZW0uZGlmZiA9IGRpZmY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcGRpZCwgbGluZS50aWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtLCBwdWJsaXNoSXRlbSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBpdGVtLmNvbnRlbnQ7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBwdWJsaXNoSXRlbSA7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBkaWZmID0gbmV3IERhdGUodGltZSkgLSBuZXcgRGF0ZShpdGVtLmNyZWF0ZWRBdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
