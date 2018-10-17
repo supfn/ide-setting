@@ -9,7 +9,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1539775413705">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1539780788724">
         <mark key="[" line="74" column="33" />
         <mark key="]" line="73" column="7" />
         <mark key="^" line="73" column="7" />
@@ -73,10 +73,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-branch.js" timestamp="1539775878669">
-        <mark key="[" line="197" column="38" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-branch.js" timestamp="1539781217976">
+        <mark key="[" line="252" column="26" />
+        <mark key="]" line="252" column="26" />
+        <mark key="." line="252" column="26" />
+        <mark key="^" line="228" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1539702055623">
         <mark key="[" line="18" column="5" />
@@ -258,11 +259,11 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-trunk.js" timestamp="1539777750509">
-        <mark key="[" line="229" column="20" />
-        <mark key="]" line="159" column="17" />
-        <mark key="." line="159" column="17" />
-        <mark key="^" line="159" column="17" />
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-trunk.js" timestamp="1539781143507">
+        <mark key="[" line="199" column="31" />
+        <mark key="]" line="199" column="31" />
+        <mark key="^" line="199" column="31" />
+        <mark key="." line="199" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/Dockerfile" timestamp="1538120693188">
         <mark key="[" line="83" column="48" />
@@ -586,7 +587,7 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539778336575">
+      <file name="/Dummy.txt" timestamp="1539781543735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -645,7 +646,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1539718514747">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1539780763507">
         <mark key="[" line="53" column="99" />
         <mark key="]" line="53" column="99" />
         <mark key="." line="53" column="99" />
@@ -805,17 +806,17 @@
       <jump line="154" column="24" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtdLmpvaW4oJzxicj4nKSwK</text>
+      <register name="&quot;" type="4">
+        <text>regress_pre_not_pass</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>regress_pre_not_pass</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBIT09LX1JVTl9SRUdSRVNTX1BSRV9URVNUIDogYCR7aG9va1VyaX0vdjIvdHJpZ2dlci9icmFuY2gtZmxvdy9ydW4tcmVncmVzcy1wcmUtdGVzdD9lbnY9cHJlYCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWwoewogICAgICAgICAgICAgICAgICAgICdyb2xlJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICdrZXknOiAncmVncmVzc19wcmVfbm90X3Bhc3MnLAogICAgICAgICAgICAgICAgfSksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFtdLmpvaW4oJzxicj4nKSwK</text>
