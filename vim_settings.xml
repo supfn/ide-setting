@@ -9,7 +9,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1539763687568">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1539775413705">
         <mark key="[" line="74" column="33" />
         <mark key="]" line="73" column="7" />
         <mark key="^" line="73" column="7" />
@@ -73,11 +73,10 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-branch.js" timestamp="1539772694988">
-        <mark key="[" line="185" column="42" />
-        <mark key="]" line="186" column="39" />
-        <mark key="." line="186" column="39" />
-        <mark key="^" line="186" column="39" />
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-branch.js" timestamp="1539775878669">
+        <mark key="[" line="197" column="38" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1539702055623">
         <mark key="[" line="18" column="5" />
@@ -259,11 +258,11 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-trunk.js" timestamp="1539764195591">
-        <mark key="[" line="223" column="20" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-        <mark key="^" line="222" column="60" />
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-trunk.js" timestamp="1539775927226">
+        <mark key="[" line="229" column="20" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
+        <mark key="^" line="228" column="60" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/php/Dockerfile" timestamp="1538120693188">
         <mark key="[" line="83" column="48" />
@@ -500,11 +499,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/flow-actions.test.js" timestamp="1539721691239">
-        <mark key="[" line="172" column="33" />
-        <mark key="]" line="172" column="33" />
-        <mark key="." line="172" column="33" />
-        <mark key="^" line="167" column="7" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/flow-actions.test.js" timestamp="1539775790248">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="164" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/git-action.js" timestamp="1539663736247">
         <mark key="[" line="3" column="22" />
@@ -641,10 +640,10 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/qa-deploy.test.js" timestamp="1539739898749">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/qa-deploy.test.js" timestamp="1539775814422">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1539718514747">
         <mark key="[" line="53" column="99" />
@@ -691,11 +690,11 @@
         <mark key="]" line="37" column="53" />
         <mark key="." line="37" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" timestamp="1539769627989">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" timestamp="1539776393157">
         <mark key="[" line="291" column="46" />
-        <mark key="]" line="291" column="43" />
-        <mark key="." line="291" column="43" />
-        <mark key="^" line="291" column="43" />
+        <mark key="]" line="378" column="37" />
+        <mark key="." line="378" column="37" />
+        <mark key="^" line="378" column="37" />
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1537348029685">
         <mark key="[" line="0" column="0" />
@@ -807,7 +806,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwogICAgICAgIGRlcGxveVByZTogJ2h0dHA6Ly8xNzIuMTYuNTQuMjAxOjgwODAvY2kvZGVwbG95UHJlJywKICAgICAgICBkZXBsb3lQcmQ6ICdodHRwOi8vMTcyLjE2LjU0LjIwMTo4MDgwL2NpL2RlcGxveVByZCcK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -819,34 +818,34 @@
         <text encoding="base64">ICAgICAgICBIT09LX1JVTl9SRUdSRVNTX1BSRV9URVNUIDogYCR7aG9va1VyaX0vdjIvdHJpZ2dlci9icmFuY2gtZmxvdy9ydW4tcmVncmVzcy1wcmUtdGVzdD9lbnY9cHJlYCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwogICAgICAgIGRlcGxveVByZTogJ2h0dHA6Ly8xNzIuMTYuNTQuMjAxOjgwODAvY2kvZGVwbG95UHJlJywKICAgICAgICBkZXBsb3lQcmQ6ICdodHRwOi8vMTcyLjE2LjU0LjIwMTo4MDgwL2NpL2RlcGxveVByZCcK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGJvZHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGJvZHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdCA9IGF3YWl0IGN0eC5zZXJ2aWNlLnFhRGVwbG95Lm9ubGluZVRlc3QodGhpcy5nZXRRYUJ1aWxkUGFyYW1zKHBhcmFtcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKnsKICAgICAgICAgICAgbmFtZTogJ+WQiOW5tuS4u+WIhuaUrycsCiAgICAgICAgICAgIGluZGV4OiA0LAogICAgICAgICAgICBhY3Rpb246IFsKICAgICAgICAgICAgICAgIHNraXAoJ21lcmdlX3RvX3RydW5rX25vdGVzJyksCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ+WQiOW5ticsCiAgICAgICAgICAgICAgICAgICAgcm9sZTogJ2RldicsCiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ05FWFQnLAogICAgICAgICAgICAgICAgICAgIGlucHV0X3BhdHRlcm46IFt7CiAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ2FwcE5hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbDogJ+acjeWKoeWQjeensC/ku5PlupPlkI0gKOS4jeS/ruaUueWImeS9v+eUqOaPkOa1i+eahOWAvCknLAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAnSU5QVVQnLAogICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogJyRhcHBOYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgZXhwbGFpbjogJzxwPmFwcE5hbWU6IOacjeWKoeWQjeensC/ku5PlupPlkI08L3A+JywKICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgIGtleTogJ2JyYW5jaCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsOiAn5YiG5pSv5ZCNICjkuI3kv67mlLnliJnkvb/nlKjmj5DmtYvnmoTlgLwpJywKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ0lOUFVUJywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6ICckYnJhbmNoJywKICAgICAgICAgICAgICAgICAgICAgICAgZXhwbGFpbjogYAogICAgICAgICAgICAgICAgICAgICAgICA8cD7lt7LmjqXlhaXnmoRwYXNzcG9ydOacjeWKoeacie+8mnRva2Vuc+OAgW1pY3JvLXdlaXhpbi1hY2NvdW5044CBbWljcm8tcGhvbmUtYWNjb3VudOOAgXN1Yi1hY2NvdW50c+OAgXVzZXItZmllbGRz44CBc21zLWNhcHRjaGE8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwPuW3sue7j+aOpeWFpeeahOWGheWuuee6v+acjeWKoeacie+8mmF1ZGl0PC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8cD7lt7Lnu4/mjqXlhaXnmoTnlKjmiLfnur/mnI3liqHmnInvvJp1c2VyLWxldmVsPC9wPmAsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5OiAndGFnJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsOiAndGFnJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICdJTlBVVCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogJyRwcmVmaXhfJGRhdGVfJHRhcGRfJGNvdW50JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGxhaW46ICc8cD50YWcg6KeE6IyD77yaIOS4muWKoee6v1/ml6XmnJ9fdHBhZGlkX+asoeaVsDwvcD4nLAogICAgICAgICAgICAgICAgICAgICAgICB9XSwKICAgICAgICAgICAgICAgICAgICByZW1vdGVfY2FsbF91cmw6ICcke0hPT0tfTUVSR0VfVE9fVFJVTkt9JywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0sCiAgICAgICAgfSwqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwogICAgICAgIGRlcGxveVByZTogJ2h0dHA6Ly8xNzIuMTYuNTQuMjAxOjgwODAvY2kvZGVwbG95UHJlJywKICAgICAgICBkZXBsb3lQcmQ6ICdodHRwOi8vMTcyLjE2LjU0LjIwMTo4MDgwL2NpL2RlcGxveVByZCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fbWFrZVJlc3BvbnNlKHsKICAgICAgICAgICAgICAgIHN0ZXA6ICfkuLvlubLmtYvor5Uo5rWL6K+V546v5aKDKScsCiAgICAgICAgICAgICAgICBzdGVwUmVzdWx0OiByZXN1bHQsCiAgICAgICAgICAgICAgICBzdGVwUmVwb3J0OiBgJHttZXNzYWdlfWAsCiAgICAgICAgICAgICAgICBsb2c6IGxvZ091dHB1dCh7CiAgICAgICAgICAgICAgICAgICAgc2VydmljZUlucHV0OiBnZXRLZXlJbnB1dHMobGF0ZXN0SW5wdXQpLAogICAgICAgICAgICAgICAgICAgIHNlcnZpY2VPdXRwdXQ6IGRhdGEsCiAgICAgICAgICAgICAgICAgICAgaW5wdXQ6IGdldEtleUlucHV0cyhsYXRlc3RJbnB1dCkKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2coJ2NyZWF0ZUpvYicsIHFhQ29uZmlnLmRlcGxveVRlc3QsIEpTT04uc3RyaW5naWZ5KGxhdGVzdElucHV0KSwgY3R4LmZsb3dQYXJhbXMucGF5bG9hZCk7CgogICAgICAgICAgICBsZXQge3Jlc3VsdCwgZGF0YSwgbWVzc2FnZX0gPSBhd2FpdCBjdHguc2VydmljZS5qb2JNYXN0ZXIuY3JlYXRlSm9iKHsKICAgICAgICAgICAgICAgIGNoZWNrT25jZTogdHJ1ZSwKICAgICAgICAgICAgICAgIGFzeW5jIHN0YXJ0KCkgewoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYXhpb3MoewogICAgICAgICAgICAgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgICAgICAgICAgICAgdGltZW91dDogMCwKICAgICAgICAgICAgICAgICAgICAgICAgdXJsOiBxYUNvbmZpZy5kZXBsb3lUZXN0LAogICAgICAgICAgICAgICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnB1dDogSlNPTi5zdHJpbmdpZnkoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwcE5hbWU6IGxhdGVzdElucHV0LmFwcE5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJhbmNoOiBsYXRlc3RJbnB1dC5icmFuY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZDogSlNPTi5zdHJpbmdpZnkoY3R4LmZsb3dQYXJhbXMucGF5bG9hZCkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIC50aGVuKHJlcyA9PiByZXMuZGF0YSkKICAgICAgICAgICAgICAgICAgICAgICAgLmNhdGNoKGUgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5lcnJvcignam9iIGVycm9yOicsIGUubWVzc2FnZSwgZS5zdGFjayk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSwKCiAgICAgICAgICAgICAgICBhc3luYyBjaGVjayhkYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRhdGEuY29kZSA9PT0gMDsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIH0pLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
