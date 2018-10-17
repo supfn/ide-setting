@@ -9,11 +9,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1539780788724">
-        <mark key="[" line="74" column="33" />
-        <mark key="]" line="73" column="7" />
-        <mark key="^" line="73" column="7" />
-        <mark key="." line="73" column="7" />
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1539787630045">
+        <mark key="[" line="77" column="33" />
+        <mark key="]" line="76" column="7" />
+        <mark key="^" line="76" column="7" />
+        <mark key="." line="76" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/controller/email.js" timestamp="1537501216859">
         <mark key="[" line="723" column="44" />
@@ -73,10 +73,10 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-branch.js" timestamp="1539782932348">
-        <mark key="[" line="252" column="26" />
-        <mark key="]" line="252" column="26" />
-        <mark key="." line="252" column="26" />
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-branch.js" timestamp="1539787610985">
+        <mark key="[" line="198" column="43" />
+        <mark key="]" line="198" column="43" />
+        <mark key="." line="198" column="43" />
         <mark key="^" line="228" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1539702055623">
@@ -254,7 +254,7 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-trunk.js" timestamp="1539782934759">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-trunk.js" timestamp="1539787451508">
         <mark key="[" line="210" column="0" />
         <mark key="]" line="222" column="18" />
         <mark key="^" line="199" column="31" />
@@ -652,7 +652,7 @@
         <mark key="]" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1539785294026">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1539787444121">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="55" />
         <mark key="^" line="2" column="0" />
@@ -801,11 +801,11 @@
       <jump line="154" column="24" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnbmFtZSc6ICfmiafooYzoh6rliqjljJbmtYvor5UnLAogICAgICAgICAgICAgICAgICAgICdyb2xlJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ1NUQVknLAogICAgICAgICAgICAgICAgICAgICdpbnB1dF9wYXR0ZXJuJzogW3sKICAgICAgICAgICAgICAgICAgICAgICAgJ2tleSc6ICdydW5fcmVncmVzc19wcmVfdGVzdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICflpIfms6gnLAogICAgICAgICAgICAgICAgICAgICAgICAndHlwZSc6ICdURVhUJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlJzogJycsCiAgICAgICAgICAgICAgICAgICAgICAgICdleHBsYWluJzogJ+Wkh+azqCcsCiAgICAgICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgICAgICAgJ3JlbW90ZV9jYWxsX3VybCc6ICcke0hPT0tfUlVOX1JFR1JFU1NfUFJFX1RFU1RfVFJVTkt9JywKICAgICAgICAgICAgICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>regress_pre_not_pass</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>*</text>
