@@ -9,7 +9,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1539833583627">
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1539844850671">
         <mark key="[" line="86" column="103" />
         <mark key="]" line="86" column="103" />
         <mark key="^" line="76" column="7" />
@@ -114,10 +114,10 @@
         <mark key="^" line="11" column="52" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlabV2.js" timestamp="1539651168079">
-        <mark key="[" line="48" column="66" />
-        <mark key="]" line="48" column="66" />
-        <mark key="." line="48" column="66" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlabV2.js" timestamp="1539845195339">
+        <mark key="[" line="47" column="66" />
+        <mark key="]" line="47" column="66" />
+        <mark key="." line="47" column="66" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/flow-actions.js" timestamp="1539696558639">
         <mark key="[" line="311" column="15" />
@@ -292,6 +292,9 @@
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-v2.js" timestamp="1539845215335">
+        <mark key="[" line="39" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/html-reporter/app/controller/home.js" timestamp="1537190109971">
         <mark key="[" line="9" column="6" />
@@ -565,6 +568,9 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1539684891867">
+        <mark key="[" line="2" column="18" />
+      </file>
       <file name="/Dummy.txt" timestamp="1539839859943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -784,11 +790,11 @@
       <jump line="154" column="24" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qge2N0eH0gPSB0aGlzOwogICAgICAgICAgICBjb25zdCB7ZW52fSA9IGN0eC5xdWVyeTsK</text>
+      <register name="&quot;" type="4">
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>qfp</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
