@@ -73,10 +73,10 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-branch.js" timestamp="1539820255553">
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="256" column="18" />
-        <mark key="." line="249" column="22" />
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/new-branch.js" timestamp="1539825192398">
+        <mark key="[" line="245" column="27" />
+        <mark key="]" line="245" column="27" />
+        <mark key="." line="245" column="27" />
         <mark key="^" line="253" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1539702055623">
@@ -802,10 +802,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>');</text>
+        <text>NEXT</text>
       </register>
       <register name="-" type="4">
-        <text>');</text>
+        <text>NEXT</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
