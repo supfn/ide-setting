@@ -162,11 +162,11 @@
         <mark key="^" line="22" column="22" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1539782820201">
-        <mark key="[" line="179" column="26" />
-        <mark key="]" line="179" column="22" />
-        <mark key="^" line="179" column="22" />
-        <mark key="." line="179" column="22" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1539830208112">
+        <mark key="[" line="115" column="27" />
+        <mark key="]" line="115" column="25" />
+        <mark key="^" line="115" column="25" />
+        <mark key="." line="115" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" timestamp="1537347372584">
         <mark key="[" line="3" column="0" />
@@ -180,8 +180,8 @@
         <mark key="^" line="41" column="20" />
         <mark key="." line="41" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" timestamp="1539704162049">
-        <mark key="[" line="193" column="22" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" timestamp="1539829514808">
+        <mark key="[" line="167" column="55" />
         <mark key="]" line="193" column="43" />
         <mark key="." line="193" column="43" />
         <mark key="^" line="193" column="43" />
@@ -802,16 +802,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NEXT</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>NEXT</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MoewogICAgICAgICAgICAgICAgICAgIG5hbWUgOiAn6YOo572y5a6M5oiQJywKICAgICAgICAgICAgICAgICAgICByb2xlOiAndGVzdCcsCiAgICAgICAgICAgICAgICAgICAga2V5OiAncHJkX3JlcG9ydCcsCiAgICAgICAgICAgICAgICAgICAgbGFiZWw6ICflpIfms6gnLAogICAgICAgICAgICAgICAgICAgIGV4cGxhaW46ICc8cD7lpIfms6g8L3A+JywKICAgICAgICAgICAgICAgICAgICByZW1vdGVfY2FsbF91cmw6ICcke0hPT0tfU0VORF9QUk9EVUNUSU9OX1BSRF9SRVBPUlR9JywKICAgICAgICAgICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigvXnRydWUkL2kudGVzdCh2YWx1ZSkpewogICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
