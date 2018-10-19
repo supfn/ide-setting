@@ -160,11 +160,11 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="27" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1539930612983">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="27" column="10" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1539932142176">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/helper.sh" timestamp="1537347372584">
         <mark key="[" line="3" column="0" />
@@ -412,10 +412,10 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1539730692306">
-        <mark key="[" line="43" column="32" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1539932066880">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="43" column="108" />
+        <mark key="." line="43" column="108" />
         <mark key="^" line="40" column="24" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/qa-deploy.js" timestamp="1539671140267">
@@ -807,11 +807,11 @@
       <jump line="154" column="24" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
