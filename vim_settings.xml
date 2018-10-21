@@ -178,11 +178,11 @@
         <mark key="^" line="41" column="20" />
         <mark key="." line="41" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" timestamp="1540091384935">
-        <mark key="[" line="235" column="15" />
-        <mark key="]" line="234" column="70" />
-        <mark key="." line="234" column="70" />
-        <mark key="^" line="234" column="70" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" timestamp="1540092564334">
+        <mark key="[" line="233" column="57" />
+        <mark key="]" line="231" column="23" />
+        <mark key="." line="231" column="62" />
+        <mark key="^" line="231" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ExtendedChoiceParameterDefinition.js" timestamp="1539832136776">
         <mark key="[" line="8" column="53" />
@@ -346,12 +346,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/op-jenkins.test.js" timestamp="1540091572565">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="97" column="29" />
-        <mark key="]" line="97" column="29" />
-        <mark key="." line="97" column="29" />
-        <mark key="^" line="97" column="29" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/op-jenkins.test.js" timestamp="1540092277894">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="98" column="29" />
+        <mark key="." line="98" column="29" />
+        <mark key="^" line="98" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/flow-tests.test.js" timestamp="1539710180290">
         <mark key="[" line="102" column="33" />
@@ -809,10 +809,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.replace(/\*/g,'.*?')</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.replace(/\*/g,'.*?')</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
