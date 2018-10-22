@@ -420,6 +420,7 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-deploy.sh" timestamp="1540186507668" />
       <file name="$USER_HOME$/Codes/lab/dockerfiles/test/Dockerfile" timestamp="1536323595906">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -457,6 +458,12 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/config/plugin.js" timestamp="1539846034625">
         <mark key="[" line="7" column="2" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-build.sh" timestamp="1540185890689">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/flow-actions.js" timestamp="1539697902632">
         <mark key="[" line="2" column="30" />
@@ -614,7 +621,7 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540181127203">
+      <file name="/Dummy.txt" timestamp="1540186154927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="9" />
@@ -841,11 +848,11 @@
       <jump line="1" column="16" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/base-service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhbGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>build</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
