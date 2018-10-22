@@ -311,10 +311,10 @@
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-v2.js" timestamp="1540101696890">
-        <mark key="[" line="75" column="20" />
-        <mark key="]" line="57" column="12" />
-        <mark key="." line="57" column="12" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-v2.js" timestamp="1540193089396">
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="27" />
+        <mark key="." line="45" column="27" />
         <mark key="^" line="57" column="11" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/schedule/update-gitlab.js" timestamp="1540130792611">
@@ -854,10 +854,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Branch</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Branch</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
