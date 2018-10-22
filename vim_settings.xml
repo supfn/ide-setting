@@ -348,10 +348,10 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="/job.js" timestamp="1540101033856" />
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/job.js" timestamp="1540131560345">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/job.js" timestamp="1540192335727">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="31" />
+        <mark key="." line="52" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/flow-tests.js" timestamp="1539708953908">
         <mark key="[" line="4" column="46" />
@@ -853,11 +853,11 @@
       <jump line="1" column="16" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/base-service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHVzaCDlpLHotKXvvIHor7flj4LogIPlpoLkuIsKCiAtIOWksei0peWOn+WboDogIG1lc3NhZ2Ug5LiN56ym5ZCI6KeE6IyDCiAtIOinhOiMg+WPguiAgzogaHR0cDovL2ttLnF1dG91dGlhby5uZXQvcGFnZXMvdmlld3BhZ2UuYWN0aW9uP3BhZ2VJZD02NDQyOTQ5MQogLQogLSDop6PlhrPmlrnlvI86CiAtIDEuIOS9v+eUqGdpdCBjb21taXQgLS1hbWVuZCAtLWF1dGhvcj0i55yf5a6e5aeT5ZCNIDx4eHhAcXV0b3V0aWFvLm5ldD4iIOWPr+S/ruaUueacgOWQjuS4gOasoeaPkOS6pOeahGNvbW1pdOS/oeaBrwogLSAyLiDmnInlpJrkuKpjb21taXTkv6Hmga/kuI3nrKblkIjop4TojIPvvIzlj6/kvb/nlKhnaXQgcmViYXNlIC1pIDxjb21taXRoYXNoPuadpeS/ruaUuQogLQogLSDpgYfliLDpl67popjlj6/ku6XogZTns7sgQOaWueiNo+aYjCDmiJYgQOW8oOemuQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
