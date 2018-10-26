@@ -120,6 +120,9 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/jenkins/op-jenkins-roles.json" timestamp="1540130425995">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlabV2.js" timestamp="1539845940582">
         <mark key="[" line="47" column="66" />
         <mark key="]" line="47" column="66" />
@@ -149,6 +152,12 @@
         <mark key="]" line="7" column="53" />
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-trunk.js" timestamp="1540518380693">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="^" line="51" column="15" />
+        <mark key="." line="51" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-v2.js" timestamp="1540445765791" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-form.test.js" timestamp="1539658716602">
@@ -192,6 +201,9 @@
         <mark key="." line="141" column="60" />
         <mark key="^" line="141" column="60" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1540518377403">
+        <mark key="[" line="51" column="18" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ExtendedChoiceParameterDefinition.js" timestamp="1539832136776">
         <mark key="[" line="8" column="53" />
         <mark key="]" line="6" column="62" />
@@ -215,6 +227,11 @@
         <mark key="]" line="39" column="4" />
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/createFlowPattern.js" timestamp="1540518238013">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/GitParameterDefinition.js" timestamp="1539694932096">
         <mark key="[" line="5" column="0" />
@@ -631,7 +648,7 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1540451381811" />
-      <file name="/Dummy.txt" timestamp="1540517658462">
+      <file name="/Dummy.txt" timestamp="1540518392496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="9" />
@@ -864,11 +881,11 @@
       <jump line="9" column="4" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/job.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNraXAoJ3NraXBfc2VuZF90ZXN0JyksCg==</text>
+      <register name="&quot;" type="4">
+        <text>前端</text>
       </register>
       <register name="-" type="4">
-        <text>后端</text>
+        <text>前端</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
