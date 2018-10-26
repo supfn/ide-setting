@@ -570,7 +570,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1540447456736" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1540520672593">
+        <mark key="[" line="116" column="21" />
+        <mark key="]" line="123" column="41" />
+        <mark key="^" line="123" column="41" />
+        <mark key="." line="123" column="41" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-job.test.js" timestamp="1539662654460">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="34" />
@@ -648,7 +653,7 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/branch.js" timestamp="1540451381811" />
-      <file name="/Dummy.txt" timestamp="1540518392496">
+      <file name="/Dummy.txt" timestamp="1540520683205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="9" />
@@ -882,10 +887,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>前端</text>
+        <text>OTHER</text>
       </register>
       <register name="-" type="4">
-        <text>前端</text>
+        <text>OTHER</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
