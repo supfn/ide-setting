@@ -126,10 +126,10 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-trunk.js" timestamp="1540818740123">
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="52" />
-        <mark key="." line="255" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-trunk.js" timestamp="1540864684012">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-v2.js" timestamp="1540445765791" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-form.test.js" timestamp="1539658716602">
@@ -172,10 +172,10 @@
         <mark key="." line="228" column="0" />
         <mark key="^" line="238" column="38" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1540818838969">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="301" column="52" />
-        <mark key="." line="301" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1540864675051">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="16" />
         <mark key="^" line="112" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ExtendedChoiceParameterDefinition.js" timestamp="1539832136776">
@@ -449,11 +449,11 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/.gitlab-ci.yml" timestamp="1540812246446">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/.gitlab-ci.yml" timestamp="1540864289628">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/env.js" timestamp="1540453513931">
         <mark key="[" line="11" column="10" />
@@ -793,10 +793,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>repo未提供</text>
+        <text>提测流程</text>
       </register>
       <register name="-" type="4">
-        <text>repo未提供</text>
+        <text>提测流程</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -808,31 +808,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmbG93SWQgPSBmbG93SWQgfHwgY3R4LmZsb3dQYXJhbXMuZW50aXR5LmZsb3cuX2lkLnNsaWNlKDAsIDUpOwo=</text>
+        <text encoding="base64">c2VydmljZXM6CiAgLSBuYW1lOiByZWdpc3RyeS5xdHQ2LmNuL2ZlL2VlLW5vZGU6bGF0ZXN0CiAgICBhbGlhczogZGItcG9zdGdyZXMKICAgIGVudHJ5cG9pbnQ6IFsiL3Vzci9sb2NhbC9iaW4vZGItcG9zdGdyZXMiXQogICAgY29tbWFuZDogWyJzdGFydCJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWNhdGNoKGUpewoKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IFsic3RhcnQiXQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHtWRAo=</text>
+        <text encoding="base64">c2VydmljZXM6CiAgLSBuYW1lOiByZWdpc3RyeS5xdHQ2LmNuL2ZlL2VlLW5vZGU6bGF0ZXN0CiAgICBhbGlhczogZGItcG9zdGdyZXMKICAgIGVudHJ5cG9pbnQ6IFsiL3Vzci9sb2NhbC9iaW4vZGItcG9zdGdyZXMiXQogICAgY29tbWFuZDogWyJzdGFydCJdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbG93SWQgPSBmbG93SWQgfHwgY3R4LmZsb3dQYXJhbXMuZW50aXR5LmZsb3cuX2lkLnNsaWNlKDAsIDUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWNhdGNoKGUpewoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgW2JyYW5jaGVzLCB0YWdzXSA9IGF3YWl0IFByb21pc2UuYWxsKFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHtWRAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
