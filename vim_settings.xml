@@ -95,10 +95,10 @@
         <mark key="^" line="11" column="52" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/app.js" timestamp="1540866929970">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="52" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/app.js" timestamp="1540870904470">
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd-extend.js" timestamp="1540289210502">
         <mark key="[" line="10" column="41" />
@@ -798,10 +798,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>当日测试报告</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>当日测试报告</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
