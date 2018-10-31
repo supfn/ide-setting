@@ -3,24 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-ref.test.js" timestamp="1540973825334">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="49" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" timestamp="1540452950762">
         <mark key="[" line="86" column="103" />
         <mark key="]" line="86" column="103" />
         <mark key="^" line="76" column="7" />
         <mark key="." line="86" column="103" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/op-jenkins.test.js" timestamp="1540954840593">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/op-jenkins.test.js" timestamp="1540988648964">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="7" />
-        <mark key="^" line="30" column="12" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="49" column="7" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/controller/email.js" timestamp="1540266674253">
         <mark key="[" line="47" column="23" />
@@ -28,44 +22,11 @@
         <mark key="^" line="71" column="28" />
         <mark key="." line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/JenkinsControlBase.js" timestamp="1540884934667">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/info.js" timestamp="1540985056162">
-        <mark key="[" line="39" column="19" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="o" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-trunk.js" timestamp="1540981645693">
-        <mark key="[" line="153" column="27" />
-        <mark key="]" line="153" column="27" />
-        <mark key="." line="153" column="27" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1540806720348">
-        <mark key="[" line="58" column="14" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1540990083829">
+        <mark key="[" line="58" column="17" />
         <mark key="]" line="58" column="14" />
         <mark key="." line="58" column="14" />
         <mark key="^" line="58" column="19" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/repo.js" timestamp="1540453261654">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1540981554404">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="229" column="24" />
-        <mark key="." line="229" column="24" />
-        <mark key="^" line="229" column="24" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/flow-actions.test.js" timestamp="1540811602728">
-        <mark key="[" line="134" column="28" />
-        <mark key="]" line="134" column="28" />
-        <mark key="." line="134" column="28" />
-        <mark key="^" line="134" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/tests.js" timestamp="1540814657757">
         <mark key="'" line="98" column="21" />
@@ -74,24 +35,7 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="46" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1540553666292">
-        <mark key="[" line="116" column="21" />
-        <mark key="]" line="123" column="41" />
-        <mark key="^" line="123" column="41" />
-        <mark key="." line="123" column="41" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" timestamp="1540811637243">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="." line="228" column="0" />
-        <mark key="^" line="238" column="38" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1540983437953">
-        <mark key="[" line="100" column="33" />
-        <mark key="]" line="100" column="33" />
-        <mark key="^" line="75" column="32" />
-        <mark key="." line="100" column="33" />
-      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/op-jenkins.test.js" timestamp="1540988208506" />
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateLocal.js" timestamp="1540452839993">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="4" column="36" />
@@ -104,53 +48,14 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ExtendedChoiceParameterDefinition.js" timestamp="1540884913979">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="6" column="62" />
-        <mark key="." line="6" column="62" />
-        <mark key="^" line="6" column="62" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/gitlab-raw.test.js" timestamp="1540954811129">
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="50" column="14" />
-        <mark key="." line="50" column="14" />
-        <mark key="^" line="53" column="31" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/createFlowPattern.js" timestamp="1540517337538">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="34" />
-        <mark key="^" line="12" column="47" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1540978806544" />
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/output.js" timestamp="1540978313287">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/op-jenkins.js" timestamp="1540978543191" />
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/GitParameterDefinition.js" timestamp="1540884916365">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1540985157419">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/auth.test.js" timestamp="1540954679553">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" timestamp="1540981028044">
-        <mark key="[" line="156" column="24" />
-        <mark key="]" line="157" column="12" />
-        <mark key="." line="157" column="12" />
-        <mark key="^" line="157" column="12" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" timestamp="1540988956474">
+        <mark key="'" line="147" column="16" />
+        <mark key="[" line="82" column="29" />
+        <mark key="]" line="83" column="29" />
+        <mark key="." line="83" column="29" />
+        <mark key="^" line="83" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-build.sh" timestamp="1540185890689">
         <mark key="[" line="3" column="62" />
@@ -158,23 +63,19 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1540980343112">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1540990581076">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="31" column="52" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1540561307080">
-        <mark key="[" line="109" column="65" />
-        <mark key="]" line="109" column="65" />
-        <mark key="^" line="109" column="77" />
-        <mark key="." line="109" column="65" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1540988862959">
+        <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/deploy-qa.sh" timestamp="1540810817976">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-repo.test.js" timestamp="1540988726091">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
@@ -182,35 +83,17 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.ut.js" timestamp="1540806413277">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="14" column="2" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.ut.js" timestamp="1540988808727">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
         <mark key="^" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1540978529865">
-        <mark key="[" line="79" column="25" />
-        <mark key="]" line="79" column="25" />
-        <mark key="." line="79" column="25" />
-        <mark key="^" line="82" column="14" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1540452967123">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/schedule/update-gitlab.js" timestamp="1540979880426">
-        <mark key="[" line="71" column="40" />
-        <mark key="]" line="71" column="40" />
-        <mark key="." line="71" column="40" />
-        <mark key="^" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/email.test.js" timestamp="1540308558257">
-        <mark key="[" line="18" column="83" />
-        <mark key="]" line="18" column="83" />
-        <mark key="." line="18" column="83" />
-        <mark key="^" line="954" column="27" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-deploy.js" timestamp="1540989549131">
+        <mark key="'" line="77" column="12" />
+        <mark key="[" line="50" column="49" />
+        <mark key="]" line="50" column="49" />
+        <mark key="." line="50" column="49" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ChoiceParameterDefinition.js" timestamp="1540884910915">
         <mark key="[" line="5" column="0" />
@@ -229,16 +112,10 @@
         <mark key="." line="10" column="41" />
         <mark key="^" line="15" column="60" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/updatePatterns.js" timestamp="1540977343139">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="35" column="1" />
-        <mark key="." line="132" column="43" />
-        <mark key="^" line="119" column="24" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/env.js" timestamp="1540453513931">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/env.js" timestamp="1540990757062">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/app.js" timestamp="1540517455381">
         <mark key="[" line="52" column="16" />
@@ -246,42 +123,172 @@
         <mark key="^" line="150" column="19" />
         <mark key="." line="52" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/ref.js" timestamp="1540866469316">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/form.js" timestamp="1540991358763">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-ref.test.js" timestamp="1540973825334">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="49" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/JenkinsControlBase.js" timestamp="1540884934667">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-trunk.js" timestamp="1540981645693">
+        <mark key="[" line="153" column="27" />
+        <mark key="]" line="153" column="27" />
+        <mark key="." line="153" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/.eslintrc.js" timestamp="1540989092966">
+        <mark key="[" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/repo.js" timestamp="1540453261654">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/base-controller.js" timestamp="1540981554404">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="229" column="24" />
+        <mark key="." line="229" column="24" />
+        <mark key="^" line="229" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/flow-actions.test.js" timestamp="1540811602728">
+        <mark key="[" line="134" column="28" />
+        <mark key="]" line="134" column="28" />
+        <mark key="." line="134" column="28" />
+        <mark key="^" line="134" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/tapd.test.js" timestamp="1540988135979">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1540553666292">
+        <mark key="[" line="116" column="21" />
+        <mark key="]" line="123" column="41" />
+        <mark key="^" line="123" column="41" />
+        <mark key="." line="123" column="41" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" timestamp="1540989009049">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="23" />
+        <mark key="^" line="234" column="38" />
+        <mark key="." line="45" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1540989879957">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ExtendedChoiceParameterDefinition.js" timestamp="1540989049737">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="6" column="62" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/gitlab-raw.test.js" timestamp="1540988661723">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/createFlowPattern.js" timestamp="1540517337538">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="^" line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/output.js" timestamp="1540988749260">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-        <mark key="^" line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/job.js" timestamp="1540978307869">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/GitParameterDefinition.js" timestamp="1540884916365">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540990772024">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/auth.test.js" timestamp="1540954679553">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/deploy-qa.sh" timestamp="1540810817976">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/qa-deploy.test.js" timestamp="1540989258178">
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1540991494146">
+        <mark key="[" line="84" column="11" />
+        <mark key="]" line="84" column="11" />
+        <mark key="." line="84" column="11" />
+        <mark key="^" line="82" column="14" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1540452967123">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-jobs.js" timestamp="1540988887735">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/schedule/update-gitlab.js" timestamp="1540979880426">
+        <mark key="[" line="71" column="40" />
+        <mark key="]" line="71" column="40" />
+        <mark key="." line="71" column="40" />
+        <mark key="^" line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/email.test.js" timestamp="1540308558257">
+        <mark key="[" line="18" column="83" />
+        <mark key="]" line="18" column="83" />
+        <mark key="." line="18" column="83" />
+        <mark key="^" line="954" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/updatePatterns.js" timestamp="1540977343139">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="132" column="43" />
+        <mark key="^" line="119" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/ref.js" timestamp="1540990734656">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/job.js" timestamp="1540990727001">
         <mark key="'" line="9" column="4" />
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="60" column="16" />
-        <mark key="." line="60" column="16" />
-        <mark key="^" line="36" column="38" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" timestamp="1540883575266">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="9" column="14" />
-      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" timestamp="1540989174141" />
     </filemarks>
     <jumps>
-      <jump line="2" column="24" filename="$USER_HOME$/Codes/lab/q/bin/q.js" />
-      <jump line="5" column="22" filename="$USER_HOME$/Codes/lab/q/bin/q-init.js" />
-      <jump line="33" column="48" filename="$USER_HOME$/Codes/lab/q/libs/generate.js" />
-      <jump line="32" column="12" filename="$USER_HOME$/Codes/lab/q/libs/generate.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Codes/lab/q/bin/q.js" />
-      <jump line="0" column="20" filename="$USER_HOME$/Codes/lab/q/libs/check-version.js" />
-      <jump line="5" column="32" filename="$USER_HOME$/Codes/lab/q/libs/check-version.js" />
-      <jump line="24" column="17" filename="$USER_HOME$/Codes/lab/q/libs/check-version.js" />
-      <jump line="64" column="1" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
-      <jump line="119" column="1" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
-      <jump line="136" column="0" filename="$USER_HOME$/Codes/lab/tapd-db/index.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/tapd-db/insert.js" />
-      <jump line="17" column="1" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
-      <jump line="27" column="1" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
-      <jump line="60" column="1" filename="$USER_HOME$/Codes/lab/jenkins-bot/index.js" />
       <jump line="29" column="30" filename="$USER_HOME$/Codes/lab/code-bot/gitlab.js" />
       <jump line="163" column="0" filename="$USER_HOME$/Codes/lab/code-bot/gerrit.js" />
       <jump line="6" column="4" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
@@ -367,49 +374,64 @@
       <jump line="98" column="21" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/tests.js" />
       <jump line="51" column="12" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-v2.js" />
       <jump line="20" column="3" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/output.js" />
+      <jump line="90" column="32" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-deploy.js" />
+      <jump line="77" column="12" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-deploy.js" />
+      <jump line="147" column="16" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" />
+      <jump line="11" column="24" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" />
+      <jump line="20" column="43" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/job-master.js" />
+      <jump line="16" column="36" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ExtendedChoiceParameterDefinition.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
+      <jump line="71" column="16" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
+      <jump line="67" column="47" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
+      <jump line="88" column="34" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5LnVuc2hpZnQoJzx0cj4nKTsK</text>
+        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy92Mi9jaS9mb3JtJywgY29udHJvbGxlci5jaS5mb3JtLmxpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUgeyAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjdHguYm9keSA9IFtdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5LnVuc2hpZnQoJzx0cj4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7cXVlcnl9ID0gY3R4LnJlcXVlc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7cXVlcnl9ID0gY3R4LnJlcXVlc3Q7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVxQm9keSA9IGN0eC5xdWVyeTsKICAgICAgICBpZihjdHgubWV0aG9kID09PSAnUE9TVCcpewogICAgICAgICAgICByZXFCb2R5ID0gY3R4LnJlcXVlc3QuYm9keTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5LnVuc2hpZnQoJ1x0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcXVlcnkgPSBjdHgucXVlcnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LnB1c2goJycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVkID0gJzxzcGFuPicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0ID0gY3R4LnJlcXVlc3QuYm9keS5wcm9qZWN0OwogICAgICAgIHJlcG8gPSBjdHgucmVxdWVzdC5ib2R5LnJlcG87Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
