@@ -16,11 +16,11 @@
         <mark key="." line="71" column="28" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/package-lock.json" timestamp="1541005397318" />
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1541003897259">
-        <mark key="[" line="58" column="56" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="59" column="15" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1541036649504">
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="64" column="19" />
+        <mark key="^" line="64" column="19" />
+        <mark key="." line="64" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/op-jenkins.test.js" timestamp="1540988208506" />
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateLocal.js" timestamp="1540452839993">
@@ -199,7 +199,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541003364243">
+      <file name="/Dummy.txt" timestamp="1541038394874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -216,6 +216,10 @@
         <mark key="]" line="2" column="7" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/release.sh" timestamp="1541038355797">
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/.eslintignore" timestamp="1540998789926">
         <mark key="[" line="0" column="0" />
@@ -241,11 +245,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/schedule/update-gitlab.js" timestamp="1541005455913">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="18" column="18" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/schedule/update-gitlab.js" timestamp="1541036482218">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/email.test.js" timestamp="1540308558257">
         <mark key="[" line="18" column="83" />
@@ -378,10 +381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -390,34 +393,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYocHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdkZXZlbG9wbWVudCcpewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb3ZlcmFnZTogJy9MaW5lc1xzKjogXGQrXC5cZColLycK</text>
+        <text encoding="base64">ZWNobyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAidGVzdC1jaSI6ICJjaSBlZ2ctYmluIGNvdiIsCg==</text>
+        <text encoding="base64">ZWNobwplY2hvICLlj5jmm7TliJfooag6IgplY2hvICIke2NoYW5nZWxvZ19vdXR9Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAxCg==</text>
+        <text encoding="base64">ZWNobyBkb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAidGVzdC1sb2NhbCI6ICJlZ2ctYmluIHRlc3QiLAo=</text>
+        <text encoding="base64">ZWNobwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidGVzdC1sb2NhbCI6ICJlZ2ctYmluIHRlc3QgfHwgdHJ1ZSIsCg==</text>
+        <text encoding="base64">ZWNobyAgJHZlcnNpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQodHlwZW9mIHJlc3VsdCA9PT0gJ3N0cmluZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IGVudiA9PSAnbG9jYWwnCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocHJvY2Vzcy5lbnYuRUdHX1NFUlZFUl9FTlYgPT09ICdsb2NhbCcpewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
