@@ -209,23 +209,23 @@
         <mark key="^" line="234" column="38" />
         <mark key="." line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1541138747152">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="66" column="31" />
-        <mark key="]" line="325" column="34" />
-        <mark key="." line="325" column="34" />
-        <mark key="^" line="325" column="34" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1541143563826">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="162" column="44" />
+        <mark key="]" line="162" column="44" />
+        <mark key="." line="162" column="44" />
+        <mark key="^" line="106" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/gitlab-raw.test.js" timestamp="1541063694128">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="21" column="16" />
         <mark key="." line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/notes.js" timestamp="1541138828022">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="11" column="104" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/notes.js" timestamp="1541143335227">
+        <mark key="[" line="22" column="59" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/labels.js" timestamp="1541056346790">
         <mark key="[" line="5" column="50" />
@@ -334,8 +334,6 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" timestamp="1540989174141" />
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$USER_HOME$/Codes/lab/code-bot/gerrit.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
       <jump line="54" column="29" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
       <jump line="24" column="41" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
@@ -434,13 +432,15 @@
       <jump line="88" column="34" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
       <jump line="50" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
       <jump line="36" column="57" filename="$USER_HOME$/Codes/lab/qadp-server/app/controller/ci.js" />
+      <jump line="326" column="34" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5Z+65pys6KaB5rGC77yaPGJyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>checklist</text>
+        <text>report_input_labe</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -449,34 +449,34 @@
         <text encoding="base64">PHA+IDwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5Z+65pys6KaB5rGC77yaPGJyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5Z+65pys6KaB5rGCOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ3Jlc3NfcWFfYXV0b190ZXN0X25hbWUgOiAn5omn6KGM6Ieq5Yqo5YyW5rWL6K+VJywKICAgICAgICAgICAgICAgIHJlZ3Jlc3NfcWFfYXV0b190ZXN0X3JlcG9ydF9pbnB1dF9sYWJlbCA6ICfoh6rliqjljJbmtYvor5UnLAogICAgICAgICAgICAgICAgcmVncmVzc19xYV9hdXRvX3Rlc3RfcmVwb3J0X2lucHV0X2V4cGxhaW4gOiAn5aSH5rOoJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHA+PC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXJsIDogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2lucHV0X2xhYmVsIDogJ+WKn+iDvea1i+ivleaKpeWRiicsCiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2lucHV0X2V4cGxhaW4gOiAn5Yqf6IO95rWL6K+V5oql5ZGKJywKCiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2ZhaWxfaW5wdXRfbGFiZWwgOiAn5LiN6YCa6L+HJywKICAgICAgICAgICAgICAgIGZ1bmNfdGVzdF9yZXBvcnRfZmFpbF9pbnB1dF9leHBsYWluIDogJ+S4jemAmui/hycsCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXRjaChlID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlLm1lc3NhZ2UgLCBlLnJlc3BvbnNlLmhlYWRlcnMpCiAgICAgICAgICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9lbWhoYm1kNWRUbzJNM0pNWVVGcVV6WnZkMUV4YWpjMWExST0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5jYXRjaChlID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlLm1lc3NhZ2UsIGUuc3RhY2ssZS5yZXNwb25zZS5kYXRhKQogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ1NUQVknLAogICAgICAgICAgICAgICAgICAgICAgICBleHBsYWluOiAnPHA+6aqM5pS2Q2hlY2tsaXN0PC9wPicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhaWx5X3JlcG9ydF9hY3Rpb25fbmFtZSA6ICflvZPml6XmiqXlkYonLAogICAgICAgICAgICAgICAgZGFpbHlfcmVwb3J0X2lucHV0X2xhYmVsIDogJ+W9k+aXpea1i+ivleaKpeWRiicsCiAgICAgICAgICAgICAgICBkYWlseV9yZXBvcnRfaW5wdXRfZXhwbGFpbiA6ICflvZPml6XmtYvor5XmiqXlkYonLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
