@@ -21,11 +21,11 @@
         <mark key="^" line="71" column="28" />
         <mark key="." line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/info.js" timestamp="1541063767490">
-        <mark key="[" line="66" column="68" />
-        <mark key="]" line="66" column="25" />
-        <mark key="." line="66" column="25" />
-        <mark key="^" line="66" column="25" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/info.js" timestamp="1541152244897">
+        <mark key="[" line="45" column="62" />
+        <mark key="]" line="45" column="61" />
+        <mark key="." line="45" column="61" />
+        <mark key="^" line="45" column="51" />
         <mark key="o" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/package-lock.json" timestamp="1541005397318" />
@@ -209,12 +209,12 @@
         <mark key="^" line="234" column="38" />
         <mark key="." line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1541143563826">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" timestamp="1541152015471">
         <mark key="'" line="131" column="0" />
-        <mark key="[" line="162" column="44" />
-        <mark key="]" line="162" column="44" />
-        <mark key="." line="162" column="44" />
-        <mark key="^" line="106" column="16" />
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="61" column="32" />
+        <mark key="." line="61" column="32" />
+        <mark key="^" line="61" column="32" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/gitlab-raw.test.js" timestamp="1541063694128">
         <mark key="[" line="5" column="6" />
@@ -436,11 +436,11 @@
       <jump line="131" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>report_input_labe</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -449,10 +449,10 @@
         <text encoding="base64">PHA+IDwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb25fY29uZmlybV90ZXh0OiAn56Gu6K6k6KaB6L+b6KGM6YOo572y5Yiw55Sf5Lqn546v5aKDPycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ3Jlc3NfcWFfYXV0b190ZXN0X25hbWUgOiAn5omn6KGM6Ieq5Yqo5YyW5rWL6K+VJywKICAgICAgICAgICAgICAgIHJlZ3Jlc3NfcWFfYXV0b190ZXN0X3JlcG9ydF9pbnB1dF9sYWJlbCA6ICfoh6rliqjljJbmtYvor5UnLAogICAgICAgICAgICAgICAgcmVncmVzc19xYV9hdXRvX3Rlc3RfcmVwb3J0X2lucHV0X2V4cGxhaW4gOiAn5aSH5rOoJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb25fY29uZmlybV90ZXh0IDogJ+ehruiupOimgei/m+ihjOeUn+S6p+eOr+Wig+mDqOe9suWQl++8nycKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -461,7 +461,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2lucHV0X2xhYmVsIDogJ+WKn+iDvea1i+ivleaKpeWRiicsCiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2lucHV0X2V4cGxhaW4gOiAn5Yqf6IO95rWL6K+V5oql5ZGKJywKCiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2ZhaWxfaW5wdXRfbGFiZWwgOiAn5LiN6YCa6L+HJywKICAgICAgICAgICAgICAgIGZ1bmNfdGVzdF9yZXBvcnRfZmFpbF9pbnB1dF9leHBsYWluIDogJ+S4jemAmui/hycsCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ3Jlc3NfcWFfYXV0b190ZXN0X25hbWUgOiAn5omn6KGM6Ieq5Yqo5YyW5rWL6K+VJywKICAgICAgICAgICAgICAgIHJlZ3Jlc3NfcWFfYXV0b190ZXN0X3JlcG9ydF9pbnB1dF9sYWJlbCA6ICfoh6rliqjljJbmtYvor5UnLAogICAgICAgICAgICAgICAgcmVncmVzc19xYV9hdXRvX3Rlc3RfcmVwb3J0X2lucHV0X2V4cGxhaW4gOiAn5aSH5rOoJwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -470,13 +470,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2lucHV0X2xhYmVsIDogJ+WKn+iDvea1i+ivleaKpeWRiicsCiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2lucHV0X2V4cGxhaW4gOiAn5Yqf6IO95rWL6K+V5oql5ZGKJywKCiAgICAgICAgICAgICAgICBmdW5jX3Rlc3RfcmVwb3J0X2ZhaWxfaW5wdXRfbGFiZWwgOiAn5LiN6YCa6L+HJywKICAgICAgICAgICAgICAgIGZ1bmNfdGVzdF9yZXBvcnRfZmFpbF9pbnB1dF9leHBsYWluIDogJ+S4jemAmui/hycsCgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhaWx5X3JlcG9ydF9hY3Rpb25fbmFtZSA6ICflvZPml6XmiqXlkYonLAogICAgICAgICAgICAgICAgZGFpbHlfcmVwb3J0X2lucHV0X2xhYmVsIDogJ+W9k+aXpea1i+ivleaKpeWRiicsCiAgICAgICAgICAgICAgICBkYWlseV9yZXBvcnRfaW5wdXRfZXhwbGFpbiA6ICflvZPml6XmtYvor5XmiqXlkYonLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
