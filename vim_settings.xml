@@ -259,7 +259,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541298727140">
+      <file name="/Dummy.txt" timestamp="1541310791563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -323,11 +323,11 @@
         <mark key="." line="18" column="83" />
         <mark key="^" line="954" column="27" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/updatePatterns.js" timestamp="1541200095491">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="29" column="16" />
-        <mark key="." line="29" column="16" />
-        <mark key="^" line="29" column="16" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/updatePatterns.js" timestamp="1541310380946">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/tech-review-template.html" timestamp="1541139640716">
         <mark key="[" line="6" column="108" />
@@ -453,11 +453,11 @@
       <jump line="131" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bmV4dF92ZXJzaW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -466,34 +466,34 @@
         <text encoding="base64">PHA+IDwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmV4dF92ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBmbG93Q29uZmlnID0gcGF0aC5qb2luKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmV4dF92ZXJzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZmxvd3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZmxvd3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmF3Rmxvdy53b3Jrc3BhY2UpOwogICAgICAgICAgICByZXR1cm4gcmF3Rmxvdy53b3Jrc3BhY2U7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmF3Rmxvdy53b3Jrc3BhY2UpOwogICAgICAgICAgICByZXR1cm4gcmF3Rmxvdy53b3Jrc3BhY2U7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
