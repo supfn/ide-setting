@@ -215,6 +215,12 @@
         <mark key="." line="52" column="16" />
         <mark key="^" line="52" column="16" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-publish-flow.sh" timestamp="1541298072860">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/gitlab-raw.test.js" timestamp="1541063694128">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="21" column="16" />
@@ -446,10 +452,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>./flows</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -458,25 +464,25 @@
         <text encoding="base64">PHA+IDwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZmxvd3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZmxvd3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmF3Rmxvdy53b3Jrc3BhY2UpOwogICAgICAgICAgICByZXR1cm4gcmF3Rmxvdy53b3Jrc3BhY2U7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmF3Rmxvdy53b3Jrc3BhY2UpOwogICAgICAgICAgICByZXR1cm4gcmF3Rmxvdy53b3Jrc3BhY2U7Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -485,7 +491,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm9kZSAuL3NjcmlwdHMvdXBkYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
