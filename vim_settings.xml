@@ -55,12 +55,6 @@
         <mark key="." line="69" column="8" />
         <mark key="^" line="69" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/app/controller/ci.js" timestamp="1541066233344">
-        <mark key="'" line="36" column="57" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateLocal.js" timestamp="1540452839993">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="4" column="36" />
@@ -98,6 +92,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/enable.sh" timestamp="1541664744560" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="12" column="45" />
@@ -348,6 +343,7 @@
         <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" timestamp="1541404819922" />
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1541664692149" />
     </filemarks>
     <jumps>
       <jump line="54" column="29" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
