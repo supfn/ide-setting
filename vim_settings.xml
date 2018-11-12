@@ -202,6 +202,11 @@
         <mark key="^" line="123" column="41" />
         <mark key="." line="123" column="41" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qukan_laxin.php/composer.json" timestamp="1541997660191">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" timestamp="1541000497736">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="45" column="23" />
@@ -457,10 +462,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feat</text>
+        <text>git</text>
       </register>
       <register name="-" type="4">
-        <text>feat</text>
+        <text>git</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
