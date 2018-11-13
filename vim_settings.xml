@@ -188,11 +188,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1540553666292">
-        <mark key="[" line="116" column="21" />
-        <mark key="]" line="123" column="41" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1542075000030">
+        <mark key="[" line="176" column="33" />
+        <mark key="]" line="175" column="47" />
         <mark key="^" line="123" column="41" />
-        <mark key="." line="123" column="41" />
+        <mark key="." line="175" column="47" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qukan_laxin.php/composer.json" timestamp="1541997660191">
         <mark key="[" line="13" column="19" />
@@ -273,7 +273,7 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/release.sh" timestamp="1541325392085">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/release.sh" timestamp="1542075217113">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="46" column="7" />
         <mark key="." line="46" column="7" />
@@ -432,11 +432,11 @@
       <jump line="131" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>normal</text>
       </register>
       <register name="-" type="4">
-        <text>git</text>
+        <text>normal</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
