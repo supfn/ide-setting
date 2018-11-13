@@ -60,7 +60,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1540978806544" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/common-response.js" timestamp="1542076745388">
+        <mark key="[" line="40" column="57" />
+        <mark key="]" line="40" column="57" />
+        <mark key="." line="40" column="57" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/op-jenkins.js" timestamp="1540978543191" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/a.sh" timestamp="1542036327493">
         <mark key="[" line="0" column="0" />
@@ -188,11 +192,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1542075000030">
-        <mark key="[" line="176" column="33" />
-        <mark key="]" line="175" column="47" />
-        <mark key="^" line="123" column="41" />
-        <mark key="." line="175" column="47" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1542076665951">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qukan_laxin.php/composer.json" timestamp="1541997660191">
         <mark key="[" line="13" column="19" />
@@ -279,7 +282,7 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1541065145470">
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1542076176038">
         <mark key="[" line="98" column="49" />
         <mark key="]" line="98" column="49" />
         <mark key="." line="98" column="49" />
@@ -433,34 +436,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>normal</text>
+        <text>url</text>
       </register>
       <register name="-" type="4">
-        <text>normal</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHA+IDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGpzb24uZGF0YS5sZW5ndGgsaWQsIHRhcGRJbmZvKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcGRJbmZvKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2ggLWlsZQo=</text>
+        <text encoding="base64">bGV0IHN0b3JpZXMgPSBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
