@@ -14,7 +14,6 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/op-jenkins.test.js" timestamp="1541063664966" />
       <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/controller/email.js" timestamp="1540266674253">
         <mark key="[" line="47" column="23" />
         <mark key="]" line="71" column="28" />
@@ -26,11 +25,9 @@
         <mark key="]" line="263" column="131" />
         <mark key="." line="263" column="131" />
       </file>
-      <file name="/release.sh" timestamp="1541432355737" />
       <file name="$USER_HOME$/Codes/lab/qukan_laxin.php/composer.lock" timestamp="1541996608750">
         <mark key="[" line="1902" column="69" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/package-lock.json" timestamp="1541005397318" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1541460899717">
         <mark key="[" line="57" column="29" />
         <mark key="]" line="65" column="19" />
@@ -42,7 +39,6 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/op-jenkins.test.js" timestamp="1540988208506" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/prd-checklist-template.html" timestamp="1541139772540">
         <mark key="[" line="69" column="8" />
         <mark key="]" line="69" column="8" />
@@ -60,7 +56,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/op-jenkins.js" timestamp="1540978543191" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/a.sh" timestamp="1542036327493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -87,7 +82,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/enable.sh" timestamp="1541664744560" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="12" column="45" />
@@ -148,7 +142,6 @@
       <file name="/Clipboard.txt" timestamp="1541994361482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlabV2.js" timestamp="1541399645531" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-ref.test.js" timestamp="1540973825334">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -187,7 +180,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1542076665951" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1542078773482">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qukan_laxin.php/composer.json" timestamp="1541997660191">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="19" />
@@ -232,7 +229,6 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/createFlowPattern.js" timestamp="1541667103274" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/GitParameterDefinition.js" timestamp="1540884916365">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="10" column="0" />
@@ -320,8 +316,6 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" timestamp="1541404819922" />
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/repo-list.txt" timestamp="1541664692149" />
     </filemarks>
     <jumps>
       <jump line="54" column="29" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
@@ -427,10 +421,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
