@@ -115,6 +115,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-functions" timestamp="1542214259223">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd-extend.js" timestamp="1540289210502">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="41" />
@@ -246,7 +252,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542212347234">
+      <file name="/Dummy.txt" timestamp="1542213813432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -427,11 +433,11 @@
       <jump line="131" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I3BocG1kCiMgICAgLS1zdWZmaXhlcyAncGhwJ1wKIyAgICAtLXJlcG9ydGZpbGUgJHtDSV9SRVBPUlRfUEFUSH0gXAogIyAgIC0taWdub3JlLXZpb2xhdGlvbnMtb24tZXhpdAoKY2ktcmVwb3J0Cgpkb2NrZXIgcnVuIC0tcm0gLXRpIC12ICQoUFdEKTovYXBwIGRvY2tlcml6ZWRwaHAvcGhwbWQgJChjaS1jaGFuZ2VzLWNvbW1hLWxpc3QpIHRleHQgY29kZXNpemUK</text>
+      <register name="&quot;" type="4">
+        <text>list</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
