@@ -281,11 +281,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/schedule/update-gitlab.js" timestamp="1541662713931">
-        <mark key="[" line="56" column="31" />
-        <mark key="]" line="56" column="28" />
-        <mark key="." line="56" column="28" />
-        <mark key="^" line="56" column="28" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/schedule/update-gitlab.js" timestamp="1542191604392">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/email.test.js" timestamp="1540308558257">
         <mark key="[" line="18" column="83" />
@@ -416,16 +416,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZW52ID0gcHJvY2Vzcy5lbnYuRUdHX1NFUlZFUl9FTlY7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCkK</text>
