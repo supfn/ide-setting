@@ -1,40 +1,40 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="pre-commit" type="Bash" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="repositories" type="PLAIN_TEXT" />
-      <mapping pattern=".cloudrc" type="PLAIN_TEXT" />
-      <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
-      <mapping pattern="t2" type="PLAIN_TEXT" />
-      <mapping pattern="all" type="PLAIN_TEXT" />
-      <mapping pattern="ttt" type="PLAIN_TEXT" />
-      <mapping pattern="8_1_1.js" type="PLAIN_TEXT" />
-      <mapping pattern="1js" type="PLAIN_TEXT" />
+      <mapping pattern="test_queryable2" type="JavaScript" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
-      <mapping pattern="d" type="PLAIN_TEXT" />
-      <mapping pattern="t1" type="PLAIN_TEXT" />
-      <mapping pattern="b" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern="dict" type="PLAIN_TEXT" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern="diff_1512359537185" type="PLAIN_TEXT" />
-      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="diff_1512359537185" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".cloudrc" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
+      <mapping pattern="java-text" type="PLAIN_TEXT" />
+      <mapping pattern="t2" type="PLAIN_TEXT" />
+      <mapping pattern="t1" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
+      <mapping pattern="repositories" type="PLAIN_TEXT" />
+      <mapping pattern="8_1_1.js" type="PLAIN_TEXT" />
+      <mapping pattern="ttt" type="PLAIN_TEXT" />
+      <mapping pattern="dict" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="diff_1512359188028" type="PLAIN_TEXT" />
+      <mapping pattern="23-27.md" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="php-publish-raw" type="PLAIN_TEXT" />
-      <mapping pattern="23-27.md" type="PLAIN_TEXT" />
-      <mapping pattern="output" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="diff_1512359188028" type="PLAIN_TEXT" />
-      <mapping pattern="java-text" type="PLAIN_TEXT" />
+      <mapping pattern="1js" type="PLAIN_TEXT" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="mst" type="PLAIN_TEXT" />
       <mapping pattern="extra" type="Vue.js" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="pre-commit" type="Bash" />
     </extensionMap>
   </component>
 </application>
