@@ -85,7 +85,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Downloads/preview_laxin_pre-api-laxin-qukan.aimodou.net/composer.lock" timestamp="1542333898610" />
+      <file name="$USER_HOME$/Downloads/preview_laxin_pre-api-laxin-qukan.aimodou.net/composer.lock" timestamp="1542341147814">
+        <mark key="[" line="388" column="24" />
+        <mark key="]" line="447" column="28" />
+        <mark key="." line="447" column="28" />
+        <mark key="^" line="447" column="28" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="12" column="45" />
@@ -442,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>master</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
