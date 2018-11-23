@@ -105,6 +105,11 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qukan_applets.php/composer.json" timestamp="1542956775404">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ChoiceParameterDefinition.js" timestamp="1540884910915">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="10" column="0" />
@@ -265,7 +270,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542901368100">
+      <file name="/Dummy.txt" timestamp="1542956881607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -451,10 +456,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>zip</text>
+        <text>base</text>
       </register>
       <register name="-" type="4">
-        <text>zip</text>
+        <text>base</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
