@@ -20,13 +20,11 @@
         <mark key="^" line="71" column="28" />
         <mark key="." line="71" column="28" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/tapd.js" timestamp="1543315521956" />
       <file name="$USER_HOME$/Codes/lab/qukan_laxin.php/composer.lock.bak" timestamp="1541996330625">
         <mark key="[" line="263" column="131" />
         <mark key="]" line="263" column="131" />
         <mark key="." line="263" column="131" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qukan_laxin.php/composer.lock" timestamp="1541996608750">
-        <mark key="[" line="1902" column="69" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1541460899717">
         <mark key="[" line="57" column="29" />
@@ -67,14 +65,17 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/transmit.js" timestamp="1543316566869">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="54" column="21" />
+        <mark key="^" line="54" column="21" />
+        <mark key="." line="54" column="21" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-build.sh" timestamp="1540185890689">
         <mark key="[" line="3" column="62" />
         <mark key="]" line="3" column="5" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-server/app/router.js" timestamp="1541065957142">
-        <mark key="[" line="56" column="53" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1540990581076">
         <mark key="[" line="18" column="5" />
@@ -162,6 +163,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="33" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/controller/recorder-v3.js" timestamp="1543315475799" />
       <file name="$USER_HOME$/Codes/lab/dockerfiles/scripts/ee-functions.sh" timestamp="1542212328397">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -171,12 +173,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1541994361482">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/extend/gitlabV2.js" timestamp="1542193634529">
-        <mark key="[" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ci-scripts/qukan-php/build.sh" timestamp="1543029579115">
         <mark key="[" line="0" column="19" />
@@ -249,6 +245,7 @@
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/gitlab.js" timestamp="1543315574094" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/labels.js" timestamp="1541056346790">
         <mark key="[" line="5" column="50" />
         <mark key="]" line="5" column="50" />
@@ -462,11 +459,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Codes/lab/ci-scripts/backup/run.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZG9uZTsK</text>
+      <register name="&quot;" type="4">
+        <text>ush_proxy</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ush_proxy</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
