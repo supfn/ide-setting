@@ -123,12 +123,6 @@
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ci-scripts/backup/run.sh" timestamp="1542963026654">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/qukan_applets.php/composer.json" timestamp="1542956775404">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -157,6 +151,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/repositories" timestamp="1543467893148" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd-extend.js" timestamp="1540289210502">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="41" />
@@ -266,10 +261,12 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1543370082158">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1543467799405">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/gitlab-raw.test.js" timestamp="1541063694128">
         <mark key="[" line="5" column="6" />
@@ -398,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Codes/lab/code-bot/gate.js" />
       <jump line="1" column="23" filename="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" />
       <jump line="22" column="21" filename="$USER_HOME$/Codes/lab/code-bot/index.js" />
       <jump line="187" column="7" filename="$USER_HOME$/Codes/lab/code-bot/gerrit.js" />
@@ -498,13 +494,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/Codes/lab/ci-scripts/backup/run.sh" />
       <jump line="84" column="95" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/gip.js" />
       <jump line="77" column="0" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/gip.js" />
+      <jump line="0" column="17" filename="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>L</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
