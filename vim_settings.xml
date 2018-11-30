@@ -14,6 +14,9 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-nginx/generator/rules/member_rules.conf" timestamp="1543497772750">
+        <mark key="[" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/controller/email.js" timestamp="1540266674253">
         <mark key="[" line="47" column="23" />
         <mark key="]" line="71" column="28" />
@@ -326,7 +329,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543495992988">
+      <file name="/Dummy.txt" timestamp="1543543243881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -359,6 +362,11 @@
         <mark key="[" line="29" column="30" />
         <mark key="]" line="29" column="30" />
         <mark key="." line="29" column="30" />
+      </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-nginx/server.conf" timestamp="1543497726460">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/deploy-qa.sh" timestamp="1541434528577">
         <mark key="[" line="9" column="4" />
@@ -517,8 +525,8 @@
       <jump line="0" column="17" filename="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgZWNobyAkKGRhdGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cgp1c2VyIDUKCmNvbnRlbnQgNQoKCnRlc3QxIC0+IHVzZXIyICBjb250ZW50Mw==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -529,20 +537,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIOe7n+S4gOWinuWKoOWktOmDqCAvCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgZWNobyAkKGRhdGUpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgp1c2VyIDUKCmNvbnRlbnQgNQoKCnRlc3QxIC0+IHVzZXIyICBjb250ZW50Mw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgpzZXJ2ZXIgewogICAgCn0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZmluaXNoIHsKICAgIGVjaG8gIiIKfQp0cmFwIGZpbmlzaCBFWElUCg==</text>
+        <text encoding="base64">CiAgICAgICAgZWNobyAkKGRhdGUpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZmluaXNoIHsKICAgIGVjaG8gIiIKfQp0cmFwIGZpbmlzaCBFWElUCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -551,13 +559,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29udGVudD0iaW5jbHVkZSB1c2VyX2JhY2tlbmQuY29uZjsiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIOe7n+S4gOWIoOaOieWktOmDqCAvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
