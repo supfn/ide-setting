@@ -252,6 +252,11 @@
         <mark key="." line="229" column="24" />
         <mark key="^" line="229" column="24" />
       </file>
+      <file name="$USER_HOME$/Codes/qutoutiao/qukan-nginx/vhost2/env_conf/test1.conf" timestamp="1543548419306">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/flow-actions.test.js" timestamp="1540811602728">
         <mark key="[" line="134" column="28" />
         <mark key="]" line="134" column="28" />
@@ -527,10 +532,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cgp1c2VyIDUKCmNvbnRlbnQgNQoKCnRlc3QxIC0+IHVzZXIyICBjb250ZW50Mw==</text>
+        <text encoding="base64">CjEgY2FveWFuZ21pbmc=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>www.taobao.com</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -539,25 +544,25 @@
         <text encoding="base64">ICAgICAgICAjIOe7n+S4gOWinuWKoOWktOmDqCAvCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Cgp1c2VyIDUKCmNvbnRlbnQgNQoKCnRlc3QxIC0+IHVzZXIyICBjb250ZW50Mw==</text>
+        <text encoding="base64">CjEgY2FveWFuZ21pbmc=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgpzZXJ2ZXIgewogICAgCn0=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZWNobyAkKGRhdGUpCg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">Cgp1c2VyIDUKCmNvbnRlbnQgNQoKCnRlc3QxIC0+IHVzZXIyICBjb250ZW50Mw==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CgpzZXJ2ZXIgewogICAgCn0=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZmluaXNoIHsKICAgIGVjaG8gIiIKfQp0cmFwIGZpbmlzaCBFWElUCg==</text>
+        <text encoding="base64">CiAgICAgICAgZWNobyAkKGRhdGUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZmluaXNoIHsKICAgIGVjaG8gIiIKfQp0cmFwIGZpbmlzaCBFWElUCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
