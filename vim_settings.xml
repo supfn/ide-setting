@@ -41,6 +41,7 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-raw.js" timestamp="1543828247892" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1541464005026">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -429,6 +430,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/libs/gitlab.js" timestamp="1543828323302">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="23" filename="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" />
@@ -534,10 +541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CjEgY2FveWFuZ21pbmc=</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>www.taobao.com</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -545,26 +552,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIOe7n+S4gOWinuWKoOWktOmDqCAvCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CjEgY2FveWFuZ21pbmc=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuaGVhZGVycy5jb21tb25bJ0F1dGhvcml6YXRpb24nXSA9IEFVVEhfVE9LRU47Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Cgp1c2VyIDUKCmNvbnRlbnQgNQoKCnRlc3QxIC0+IHVzZXIyICBjb250ZW50Mw==</text>
+        <text encoding="base64">CjEgY2FveWFuZ21pbmc=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgpzZXJ2ZXIgewogICAgCn0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgZWNobyAkKGRhdGUpCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cgp1c2VyIDUKCmNvbnRlbnQgNQoKCnRlc3QxIC0+IHVzZXIyICBjb250ZW50Mw==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CgpzZXJ2ZXIgewogICAgCn0=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZmluaXNoIHsKICAgIGVjaG8gIiIKfQp0cmFwIGZpbmlzaCBFWElUCg==</text>
+        <text encoding="base64">CiAgICAgICAgZWNobyAkKGRhdGUpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -573,7 +580,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZmluaXNoIHsKICAgIGVjaG8gIiIKfQp0cmFwIGZpbmlzaCBFWElUCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
