@@ -54,6 +54,12 @@
         <mark key="." line="69" column="8" />
         <mark key="^" line="69" column="8" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dotfiles/init.sh" timestamp="1543913094918">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateLocal.js" timestamp="1540452839993">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="4" column="36" />
@@ -85,6 +91,12 @@
         <mark key="[" line="835" column="116" />
         <mark key="]" line="835" column="116" />
         <mark key="." line="835" column="116" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dotfiles/variables.sh" timestamp="1543913008491">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/a.sh" timestamp="1542036327493">
         <mark key="[" line="0" column="0" />
@@ -214,6 +226,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dotfiles/aliases.sh" timestamp="1543913050833">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/form.js" timestamp="1540991358763">
         <mark key="[" line="11" column="0" />
@@ -451,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="23" filename="$USER_HOME$/Codes/lab/code-bot/job-bash/gate.sh" />
       <jump line="22" column="21" filename="$USER_HOME$/Codes/lab/code-bot/index.js" />
       <jump line="187" column="7" filename="$USER_HOME$/Codes/lab/code-bot/gerrit.js" />
       <jump line="19" column="7" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
@@ -551,49 +568,50 @@
       <jump line="84" column="95" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/gip.js" />
       <jump line="77" column="0" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/gip.js" />
       <jump line="0" column="17" filename="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" />
+      <jump line="4" column="22" filename="$USER_HOME$/Codes/lab/dotfiles/init.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cr-</text>
+        <text>aliases</text>
       </register>
       <register name="-" type="4">
-        <text>cr-</text>
+        <text>aliases</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3VybCAtLWhlYWRlciAiUFJJVkFURS1UT0tFTjogJHtST0JPVF9UT0tFTn0iICdodHRwczovL2dpdC5xdXRvdXRpYW8ubmV0L2FwaS92NC9ncm91cHM/cGVyX3BhZ2U9MTAwJnBhZ2U9MScgXAp8IGpxIC1yICcuW10uaWQnCnwgeGFyZ3MgLUkge30gYmFzaCAuL2FkZC11cGRhdGUtYmFkZ2Uuc2gge30K</text>
+        <text encoding="base64">c291cmNlICR7TVlfSU5JVF9ESVJ9L2FsaWFzZXMuc2gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2N1cmwgImh0dHBzOi8vZ2l0LnF1dG91dGlhby5uZXQvYXBpL3Y0L2dyb3Vwcz9wZXJfcGFnZT0xMDAmcGFnZT0yIiBcCiN8IGpxIC1yICdtYXAoLmlkKVtdJyBcCiN8IHhhcmdzIC1JIHt9IGJhc2ggLi9hZGQtdXBkYXRlLWJhZGdlLnNoIHt9Cg==</text>
+        <text encoding="base64">YWxpYXMgY25wbT0ibnBtIC0tcmVnaXN0cnk9aHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZyBcCgktLWNhY2hlPSRIT01FLy5ucG0vLmNhY2hlL2NucG0gXAoJLS1kaXN0dXJsPWh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvZGlzdCBcCgktLXVzZXJjb25maWc9JEhPTUUvLmNucG1yYyIKCgphbGlhcyBybT0ncm0gLWknCmFsaWFzIGNwPSdjcCAtaScKYWxpYXMgbXY9J212IC1pJwphbGlhcyBsbD0nbHMgLWFsJwoKIyBhbGlhcwphbGlhcyBmPSJhZyIKYWxpYXMgaXA9ImlwY29uZmlnIGdldGlmYWRkciBlbjAiCmFsaWFzIG1hYz0iaWZjb25maWcgZW4xIHwgYXdrICcvZXRoZXIve3ByaW50ICQyfSciCgojYWxpYXMganM9InNzaCB6aGFuZ3l1QGoucXV0b3V0aWFvLm5ldCIKYWxpYXMganMwPSJzc2ggemhhbmd5dUBqLnF1dG91dGlhby5uZXQiCmFsaWFzIGpzPSJzc2ggLW8gc3RyaWN0SG9zdEtleUNoZWNraW5nPW5vIC1wIDIyMjIgemhhbmd5dUBqMi5xdXRvdXRpYW8ubmV0IgoKYWxpYXMgcmVsb2FkPSJzb3VyY2Ugfi8uYmFzaHJjIgoKYWxpYXMgc2hvd3Byb3h5PSJlY2hvIGh0dHBfcHJveHk9JGh0dHBfcHJveHk7IGh0dHBzX3Byb3h5PSRodHRwc19wcm94eSI7CmFsaWFzIHNldHByb3h5PSJleHBvcnQgaHR0cF9wcm94eT1odHRwOi8vMTI3LjAuMC4xOjg4ODg7IGV4cG9ydCBodHRwc19wcm94eT1odHRwOi8vMTI3LjAuMC4xOjg4ODg7IgphbGlhcyB1bnNldHByb3h5PSJ1bnNldCAtdiBodHRwX3Byb3h5OyB1bnNldCAtdiBodHRwc19wcm94eSIKCmFsaWFzIGd6PSJnemlwLXNpemUiCmFsaWFzIG09InN1ZG8gZGlza3V0aWwgbW91bnQgcmVhZE9ubHkgL2Rldi9kaXNrMnMxIgoKYWxpYXMgZGV2PSJzc2ggd29ya0AxMC4wLjUxLjIxMyIKYWxpYXMgZGV2Mj0ic3NoIHJvb3RAMTAuMC41MS4yMzYiCmFsaWFzIHFhMT0ic3NoIHJvb3RAMTAuMC4yLjIyMCI7CmFsaWFzIHFhPSJzc2ggcm9vdEAxOTIuMTY4LjkwLjUiCgpjdSgpewogICBjdXJsIC13IC0taW5zZWN1cmUgLXYgJDEgMj4mMSB8IGF3ayAnQkVHSU4geyBjZXJ0PTAgfSAvXlwqIFNTTCBjb25uZWN0aW9uLyB7IGNlcnQ9MSB9IC9eXCovIHsgaWYgKGNlcnQpIHByaW50IH0nCn0KCmZyKCl7CiAgICBmZm1wZWcgLWkgJDEgMj4mMSB8IGVncmVwIC1vICdcZCpcLipcZCogZnBzJwp9CgphbGlhcyB0cT0iY3VybCAtcyBodHRwOi8vd3R0ci5pblw/bGFuZz16aCIKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3wganEgLXIgJy5bXS5pZCcK</text>
+        <text encoding="base64">YWxpYXMgdHE9ImN1cmwgLXMgaHR0cDovL3d0dHIuaW5cP2xhbmc9emgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3VybCAiaHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC9hcGkvdjQvZ3JvdXBzP3Blcl9wYWdlPTEwMCZwYWdlPTEiIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IExDX0FMTD1lbl9VUy5VVEYtOApleHBvcnQgTEFORz1lbl9VUy5VVEYtOApleHBvcnQgQ0xJQ09MT1I9MQpleHBvcnQgTFNDT0xPUlM9Z3hCeGh4RHhmeGh4aHhoeGh4Y3hjeAojIFRlbGwgZ3JlcCB0byBoaWdobGlnaHQgbWF0Y2hlcwpleHBvcnQgR1JFUF9PUFRJT05TPSctLWNvbG9yPWF1dG8nCmV4cG9ydCBQUzE9IlwkICIKZXhwb3J0IFRFUk09eHRlcm0tY29sb3IKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2N1cmwgImh0dHBzOi8vZ2l0LnF1dG91dGlhby5uZXQvYXBpL3Y0L2dyb3Vwcz9wZXJfcGFnZT0xMDAmcGFnZT0yIiBcCiN8IGpxIC1yICdtYXAoLmlkKVtdJyBcCiN8IHhhcmdzIC1JIHt9IGJhc2ggLi9hZGQtdXBkYXRlLWJhZGdlLnNoIHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWxpYXMgY3VybD0iY3VybCAtLWhlYWRlciBcIlBSSVZBVEUtVE9LRU46ICR7Uk9CT1RfVE9LRU59XCIiOwo=</text>
+        <text encoding="base64">I3wganEgLXIgJy5bXS5pZCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IC1IICd1c2VyLWFnZW50OiBNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xM181KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzAuMC4zNTM4LjExMCBTYWZhcmkvNTM3LjM2Jwo=</text>
+        <text encoding="base64">Y3VybCAiaHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC9hcGkvdjQvZ3JvdXBzP3Blcl9wYWdlPTEwMCZwYWdlPTEiIC0tdmVyYm9zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2N1cmwgaHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC9hcGkvdjQvZ3JvdXBzP3Blcl9wYWdlPTEwMCZwYWdlPTIgXAojfCBqcSAtciAnbWFwKC5pZClbXScgXAojfCB4YXJncyAtSSB7fSBiYXNoIC4vYWRkLXVwZGF0ZS1iYWRnZS5zaCB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
