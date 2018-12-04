@@ -138,6 +138,9 @@
         <mark key="." line="447" column="28" />
         <mark key="^" line="447" column="28" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/aliases.sh" timestamp="1543941458507">
+        <mark key="[" line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="12" column="45" />
@@ -325,6 +328,12 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/colors.sh" timestamp="1543941216268">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/gitlab-raw.test.js" timestamp="1541063694128">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="21" column="16" />
@@ -398,8 +407,11 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/init.sh" timestamp="1543940461480">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/init.sh" timestamp="1543941413258">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/preview_laxin_pre-api-laxin-qukan.aimodou.net/composer.json" timestamp="1542344902498">
         <mark key="[" line="29" column="30" />
@@ -581,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAKCg==</text>
+        <text encoding="base64">ZWNobyAke2Rpcn0K</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>BASH_SOURCE[0]</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -593,34 +605,34 @@
         <text encoding="base64">ICAgIHNvdXJjZSB+Ly56c2hyYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAKCg==</text>
+        <text encoding="base64">ZWNobyAke2Rpcn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkezB9CmVjaG8gJHtkaXJ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3VycmVudF9kaXI9JChwd2QpCnNjcmlwdF9kaXI9JChkaXJuYW1lICQwKQoK</text>
+        <text encoding="base64">ZWNobyAKCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGlyPWBkaXJuYW1lICIkMCJgCg==</text>
+        <text encoding="base64">Y3VycmVudF9kaXI9JChwd2QpCnNjcmlwdF9kaXI9JChkaXJuYW1lICQwKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGlyPSIkKCBjZCAiJCggZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iICkiICYmIHB3ZCApIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAkRElSOwo=</text>
+        <text encoding="base64">ZGlyPWBkaXJuYW1lICIkMCJgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyB0aGlzIGZpbGU6ICIkQkFTSF9TT1VSQ0UiCg==</text>
+        <text encoding="base64">ZGlyPSIkKCBjZCAiJCggZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iICkiICYmIHB3ZCApIgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAkY3VycmVudF9kaXIKZWNobyAkc2NyaXB0X2Rpcgo=</text>
+        <text encoding="base64">ZWNobyAkRElSOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
