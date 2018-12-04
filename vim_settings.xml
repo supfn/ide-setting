@@ -54,7 +54,7 @@
         <mark key="." line="69" column="8" />
         <mark key="^" line="69" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dotfiles/init.sh" timestamp="1543913094918">
+      <file name="$USER_HOME$/Codes/lab/dotfiles/init.sh" timestamp="1543939532849">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
@@ -398,6 +398,9 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/init.sh" timestamp="1543940461480">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/preview_laxin_pre-api-laxin-qukan.aimodou.net/composer.json" timestamp="1542344902498">
         <mark key="[" line="29" column="30" />
         <mark key="]" line="29" column="30" />
@@ -454,6 +457,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dotfiles/setup.sh" timestamp="1543940453530">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/ref.js" timestamp="1540990734656">
         <mark key="[" line="13" column="0" />
@@ -571,47 +580,47 @@
       <jump line="4" column="22" filename="$USER_HOME$/Codes/lab/dotfiles/init.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>aliases</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>aliases</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c291cmNlICR7TVlfSU5JVF9ESVJ9L2FsaWFzZXMuc2gK</text>
+        <text encoding="base64">ICAgIHNvdXJjZSB+Ly56c2hyYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWxpYXMgY25wbT0ibnBtIC0tcmVnaXN0cnk9aHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZyBcCgktLWNhY2hlPSRIT01FLy5ucG0vLmNhY2hlL2NucG0gXAoJLS1kaXN0dXJsPWh0dHBzOi8vbnBtLnRhb2Jhby5vcmcvZGlzdCBcCgktLXVzZXJjb25maWc9JEhPTUUvLmNucG1yYyIKCgphbGlhcyBybT0ncm0gLWknCmFsaWFzIGNwPSdjcCAtaScKYWxpYXMgbXY9J212IC1pJwphbGlhcyBsbD0nbHMgLWFsJwoKIyBhbGlhcwphbGlhcyBmPSJhZyIKYWxpYXMgaXA9ImlwY29uZmlnIGdldGlmYWRkciBlbjAiCmFsaWFzIG1hYz0iaWZjb25maWcgZW4xIHwgYXdrICcvZXRoZXIve3ByaW50ICQyfSciCgojYWxpYXMganM9InNzaCB6aGFuZ3l1QGoucXV0b3V0aWFvLm5ldCIKYWxpYXMganMwPSJzc2ggemhhbmd5dUBqLnF1dG91dGlhby5uZXQiCmFsaWFzIGpzPSJzc2ggLW8gc3RyaWN0SG9zdEtleUNoZWNraW5nPW5vIC1wIDIyMjIgemhhbmd5dUBqMi5xdXRvdXRpYW8ubmV0IgoKYWxpYXMgcmVsb2FkPSJzb3VyY2Ugfi8uYmFzaHJjIgoKYWxpYXMgc2hvd3Byb3h5PSJlY2hvIGh0dHBfcHJveHk9JGh0dHBfcHJveHk7IGh0dHBzX3Byb3h5PSRodHRwc19wcm94eSI7CmFsaWFzIHNldHByb3h5PSJleHBvcnQgaHR0cF9wcm94eT1odHRwOi8vMTI3LjAuMC4xOjg4ODg7IGV4cG9ydCBodHRwc19wcm94eT1odHRwOi8vMTI3LjAuMC4xOjg4ODg7IgphbGlhcyB1bnNldHByb3h5PSJ1bnNldCAtdiBodHRwX3Byb3h5OyB1bnNldCAtdiBodHRwc19wcm94eSIKCmFsaWFzIGd6PSJnemlwLXNpemUiCmFsaWFzIG09InN1ZG8gZGlza3V0aWwgbW91bnQgcmVhZE9ubHkgL2Rldi9kaXNrMnMxIgoKYWxpYXMgZGV2PSJzc2ggd29ya0AxMC4wLjUxLjIxMyIKYWxpYXMgZGV2Mj0ic3NoIHJvb3RAMTAuMC41MS4yMzYiCmFsaWFzIHFhMT0ic3NoIHJvb3RAMTAuMC4yLjIyMCI7CmFsaWFzIHFhPSJzc2ggcm9vdEAxOTIuMTY4LjkwLjUiCgpjdSgpewogICBjdXJsIC13IC0taW5zZWN1cmUgLXYgJDEgMj4mMSB8IGF3ayAnQkVHSU4geyBjZXJ0PTAgfSAvXlwqIFNTTCBjb25uZWN0aW9uLyB7IGNlcnQ9MSB9IC9eXCovIHsgaWYgKGNlcnQpIHByaW50IH0nCn0KCmZyKCl7CiAgICBmZm1wZWcgLWkgJDEgMj4mMSB8IGVncmVwIC1vICdcZCpcLipcZCogZnBzJwp9CgphbGlhcyB0cT0iY3VybCAtcyBodHRwOi8vd3R0ci5pblw/bGFuZz16aCIKCg==</text>
+        <text encoding="base64">ZWNobyAKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWxpYXMgdHE9ImN1cmwgLXMgaHR0cDovL3d0dHIuaW5cP2xhbmc9emgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3VycmVudF9kaXI9JChwd2QpCnNjcmlwdF9kaXI9JChkaXJuYW1lICQwKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IExDX0FMTD1lbl9VUy5VVEYtOApleHBvcnQgTEFORz1lbl9VUy5VVEYtOApleHBvcnQgQ0xJQ09MT1I9MQpleHBvcnQgTFNDT0xPUlM9Z3hCeGh4RHhmeGh4aHhoeGh4Y3hjeAojIFRlbGwgZ3JlcCB0byBoaWdobGlnaHQgbWF0Y2hlcwpleHBvcnQgR1JFUF9PUFRJT05TPSctLWNvbG9yPWF1dG8nCmV4cG9ydCBQUzE9IlwkICIKZXhwb3J0IFRFUk09eHRlcm0tY29sb3IKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2N1cmwgImh0dHBzOi8vZ2l0LnF1dG91dGlhby5uZXQvYXBpL3Y0L2dyb3Vwcz9wZXJfcGFnZT0xMDAmcGFnZT0yIiBcCiN8IGpxIC1yICdtYXAoLmlkKVtdJyBcCiN8IHhhcmdzIC1JIHt9IGJhc2ggLi9hZGQtdXBkYXRlLWJhZGdlLnNoIHt9Cg==</text>
+        <text encoding="base64">ZGlyPWBkaXJuYW1lICIkMCJgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3wganEgLXIgJy5bXS5pZCcK</text>
+        <text encoding="base64">ZGlyPSIkKCBjZCAiJCggZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iICkiICYmIHB3ZCApIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3VybCAiaHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC9hcGkvdjQvZ3JvdXBzP3Blcl9wYWdlPTEwMCZwYWdlPTEiIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">ZWNobyAkRElSOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyB0aGlzIGZpbGU6ICIkQkFTSF9TT1VSQ0UiCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkY3VycmVudF9kaXIKZWNobyAkc2NyaXB0X2Rpcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
