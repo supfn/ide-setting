@@ -66,10 +66,11 @@
         <mark key="." line="447" column="28" />
         <mark key="^" line="447" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/aliases.sh" timestamp="1543942936528">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/aliases.sh" timestamp="1543976603310">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/package.json" timestamp="1543331394146">
         <mark key="[" line="50" column="15" />
@@ -253,10 +254,10 @@
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/variables.sh" timestamp="1543942941670">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/variables.sh" timestamp="1543976582203">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/prd-checklist-template.html" timestamp="1541139772540">
         <mark key="[" line="69" column="8" />
@@ -414,11 +415,11 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/init.sh" timestamp="1543942927545">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/init.sh" timestamp="1543976610635">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Downloads/preview_laxin_pre-api-laxin-qukan.aimodou.net/composer.json" timestamp="1542344902498">
         <mark key="[" line="29" column="30" />
@@ -479,7 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="21" filename="$USER_HOME$/Codes/lab/code-bot/index.js" />
       <jump line="187" column="7" filename="$USER_HOME$/Codes/lab/code-bot/gerrit.js" />
       <jump line="19" column="7" filename="$USER_HOME$/Codes/lab/code-bot/jenkins.js" />
       <jump line="68" column="155" filename="$USER_HOME$/iceworks-workspace/gerrit-ui/src/pages/Project/Project.jsx" />
@@ -579,13 +579,14 @@
       <jump line="77" column="0" filename="$USER_HOME$/Codes/lab/prod-event-recorder/app/service/gip.js" />
       <jump line="0" column="17" filename="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" />
       <jump line="4" column="22" filename="$USER_HOME$/Codes/lab/dotfiles/init.sh" />
+      <jump line="8" column="27" filename="$USER_HOME$/Codes/lab/dotfiles/guns/variables.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BASH_SOURCE[0]</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -600,22 +601,22 @@
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IFBST01QVF9DT01NQU5EPW15cHJvbXB0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">c2V0b3B0IFBST01QVF9TVUJTVAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I0BJZ25vcmVJbnNwZWN0aW9uIEJhc2hBZGRTaGViYW5nCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gX2Zpc2hfY29sbGFwc2VkX3B3ZCgpIHsKICAgIGxvY2FsIHB3ZD0iJDEiCiAgICBsb2NhbCBob21lPSIkSE9NRSIKICAgIGxvY2FsIHNpemU9JHsjaG9tZX0KICAgIFtbICQjID09IDAgXV0gJiYgcHdkPSIkUFdEIgogICAgW1sgLXogIiRwd2QiIF1dICYmIHJldHVybgogICAgaWYgW1sgIiRwd2QiID09ICIvIiBdXTsgdGhlbgogICAgICAgIGVjaG8gIi8iCiAgICAgICAgcmV0dXJuCiAgICBlbGlmIFtbICIkcHdkIiA9PSAiJGhvbWUiIF1dOyB0aGVuCiAgICAgICAgZWNobyAifiIKICAgICAgICByZXR1cm4KICAgIGZpCiAgICBbWyAiJHB3ZCIgPT0gIiRob21lLyIqIF1dICYmIHB3ZD0ifiR7cHdkOiRzaXplfSIKICAgIGlmIFtbIC1uICIkQkFTSF9WRVJTSU9OIiBdXTsgdGhlbgogICAgICAgIGxvY2FsIElGUz0iLyIKICAgICAgICBsb2NhbCBlbGVtZW50cz0oJHB3ZCkKICAgICAgICBsb2NhbCBsZW5ndGg9JHsjZWxlbWVudHNbQF19CiAgICAgICAgZm9yICgoaT0wO2k8bGVuZ3RoLTE7aSsrKSk7IGRvCiAgICAgICAgICAgIGxvY2FsIGVsZW09JHtlbGVtZW50c1skaV19CiAgICAgICAgICAgIGlmIFtbICR7I2VsZW19IC1ndCAxIF1dOyB0aGVuCiAgICAgICAgICAgICAgICBlbGVtZW50c1skaV09JHtlbGVtOjA6MX0KICAgICAgICAgICAgZmkKICAgICAgICBkb25lCiAgICBlbHNlCiAgICAgICAgbG9jYWwgZWxlbWVudHM9KCIkeyhzOi86KXB3ZH0iKQogICAgICAgIGxvY2FsIGxlbmd0aD0keyNlbGVtZW50c30KICAgICAgICBmb3IgaSBpbiB7MS4uJCgobGVuZ3RoLTEpKX07IGRvCiAgICAgICAgICAgIGxvY2FsIGVsZW09JHtlbGVtZW50c1skaV19CiAgICAgICAgICAgIGlmIFtbICR7I2VsZW19ID4gMSBdXTsgdGhlbgogICAgICAgICAgICAgICAgZWxlbWVudHNbJGldPSR7ZWxlbVsxXX0KICAgICAgICAgICAgZmkKICAgICAgICBkb25lCiAgICBmaQogICAgbG9jYWwgSUZTPSIvIgogICAgZWNobyAiJHtlbGVtZW50c1sqXX0iCn0KZXhwb3J0IFBTMT0iJChfZmlzaF9jb2xsYXBzZWRfcHdkKSAkICIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAke2Rpcn0K</text>
+        <text encoding="base64">bXlwcm9tcHQoKSB7CiAgICBQUzE9IiR7REJfSE9TVH0ke0RCX0hPU1Q6KyB9XHVAXGg6XHdcJCAiCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAkezB9CmVjaG8gJHtkaXJ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAKCg==</text>
+        <text encoding="base64">c291cmNlICR7ZGlyfS96LnNoCg==</text>
       </register>
       <register name="x" type="4">
         <text />
