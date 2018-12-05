@@ -42,11 +42,10 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test.sh" timestamp="1544005778635">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="1" />
-        <mark key="." line="21" column="1" />
-        <mark key="^" line="21" column="1" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test.sh" timestamp="1544014623118">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/.gitlab-ci.yml" timestamp="1543331567037">
         <mark key="[" line="9" column="9" />
@@ -174,11 +173,12 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" timestamp="1544005648440">
-        <mark key="[" line="51" column="22" />
-        <mark key="]" line="51" column="32" />
-        <mark key="." line="51" column="32" />
-        <mark key="^" line="51" column="32" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" timestamp="1544015351636">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="75" column="55" />
+        <mark key="]" line="75" column="32" />
+        <mark key="." line="75" column="32" />
+        <mark key="^" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-publish-flow.sh" timestamp="1541298072860">
         <mark key="[" line="5" column="35" />
@@ -447,7 +447,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544005789234">
+      <file name="/Dummy.txt" timestamp="1544014086869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -524,7 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="12" filename="$USER_HOME$/Codes/lab/code-bot/report-parser/output.js" />
       <jump line="1" column="15" filename="$USER_HOME$/Codes/lab/code-bot/report-parser/java.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Codes/lab/code-bot/test.js" />
       <jump line="4" column="17" filename="$USER_HOME$/Codes/lab/dockerfiles/go/build.sh" />
@@ -624,13 +623,14 @@
       <jump line="5" column="24" filename="$USER_HOME$/Codes/lab/dotfiles/guns/zsh.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/Codes/lab/dotfiles/guns/lazy-nvm.sh" />
       <jump line="5" column="10" filename="$USER_HOME$/Codes/lab/dotfiles/guns/lazy-nvm.sh" />
+      <jump line="24" column="0" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -639,34 +639,34 @@
         <text encoding="base64">ICAgIGVjaG8gImpvYl9idWlsZF91c2VyPSR7am9iX2J1aWxkX3VzZXJ9IgogICAgZWNobyAiam9iX2J1aWxkX2xvZz0ke2pvYl9idWlsZF9sb2d9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIFsgISAiJHtKT0JfTkFNRX0iID0gInRlc3RfZmUtY2ktdGVzdCIgXTsgdGhlbgogICAgZXhpdCAwOwpmaQoKZWNobyAiLi4uLi4uLi4uLiIKZXhpdCAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c291cmNlICR7ZGlyfS9sYXp5Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImV4aXQiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I1sgLXMgIiROVk1fRElSL252bS5zaCIgXSAmJiBcLiAiJE5WTV9ESVIvbnZtLnNoIiAjIFRoaXMgbG9hZHMgbnZtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aWYgWyAtZCAiJHtOVk1fRElSfS9udm0uc2giIF07IHRoZW4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmVjaG8gLWUgIiR7Ym9keX0i</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IE5WTV9ESVI9IiRIT01FLy5udm0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
