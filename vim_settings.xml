@@ -290,10 +290,11 @@
         <mark key="]" line="835" column="116" />
         <mark key="." line="835" column="116" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/global-job-shell.sh" timestamp="1543982764660">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/global-job-shell.sh" timestamp="1543984636335">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="38" column="44" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/a.sh" timestamp="1542036327493">
         <mark key="[" line="0" column="0" />
@@ -579,41 +580,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/global-job-shell.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#!/bin/bash -ile
-
-#wget https://install.phpcomposer.com/composer.phar
-
-#composer global require hirak/prestissimo
-#composer validate --no-check-all --strict
-#rm -rf vendor/
-#rm -rf composer.lock
-#composer --version
-#composer config cache-files-ttl 0
-#composer config -g repo.packagist composer https://packagist.phpcomposer.com
-#composer validate
-#composer config -g -l
-#composer validate --no-check-all --strict
-#composer install --prefer-dist
-
-#echo $COMPOSER_HOME
-#echo $COMPOSER_CACHE_DIR
-
-#cat $COMPOSER_HOME/config.json
-
-
-#curl https://git.qutoutiao.net/ee/ci-scripts/raw/master/qukan-php/build.sh | bash -x
-
-
-echo &quot;yes&quot;
-
-
-
-
-# see http://ci.qutoutiao.net/env-vars.html/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBzZWUgaHR0cDovL2NpLnF1dG91dGlhby5uZXQvZW52LXZhcnMuaHRtbC8K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>hash</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -621,65 +592,35 @@ echo &quot;yes&quot;
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVjaG8gImpvYl9idWlsZF91c2VyPSR7am9iX2J1aWxkX3VzZXJ9IgogICAgZWNobyAiam9iX2J1aWxkX2xvZz0ke2pvYl9idWlsZF9sb2d9Igo=</text>
       </register>
-      <register name="1" type="4">
-        <text>#!/bin/bash -ile
-
-#wget https://install.phpcomposer.com/composer.phar
-
-#composer global require hirak/prestissimo
-#composer validate --no-check-all --strict
-#rm -rf vendor/
-#rm -rf composer.lock
-#composer --version
-#composer config cache-files-ttl 0
-#composer config -g repo.packagist composer https://packagist.phpcomposer.com
-#composer validate
-#composer config -g -l
-#composer validate --no-check-all --strict
-#composer install --prefer-dist
-
-#echo $COMPOSER_HOME
-#echo $COMPOSER_CACHE_DIR
-
-#cat $COMPOSER_HOME/config.json
-
-
-#curl https://git.qutoutiao.net/ee/ci-scripts/raw/master/qukan-php/build.sh | bash -x
-
-
-echo &quot;yes&quot;
-
-
-
-
-# see http://ci.qutoutiao.net/env-vars.html/</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyBzZWUgaHR0cDovL2NpLnF1dG91dGlhby5uZXQvZW52LXZhcnMuaHRtbC8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkYgo=</text>
+        <text encoding="base64">ICAgIGlmIFsgIiR7bGFzdF90YWd9IiA9ICIiIF07IHRoZW4KICAgICAgICBsYXN0X3RhZz0kezotJHtsYXN0X2NvbW1pdF9oYXNofX0KICAgIGZpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmE9IjEiCgpiPSR7YTotZnVja30=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICBlbnYucHV0KCJCVUlMRF9OVU1CRVIiLCBTdHJpbmcudmFsdWVPZihydW4uZ2V0TnVtYmVyKCkpKTsKICAgIGVudi5wdXQoIkJVSUxEX1VSTCIsIEplbmtpbnNMb2NhdGlvbkNvbmZpZ3VyYXRpb24uZ2V0KCkuZ2V0VXJsKCkgKyBydW4uZ2V0VXJsKCkpOwogICAgZW52LnB1dCgiUkVTVUxUIiwgcnVuLmdldFJlc3VsdCgpLnRvU3RyaW5nKCkpOwogICAgZW52LnB1dCgiSk9CX05BTUUiLCBydW4uZ2V0UGFyZW50KCkuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImpvYl9idWlsZF91c2VyPSR7am9iX2J1aWxkX3VzZXJ9IgogICAgZWNobyAiam9iX2J1aWxkX2xvZz0ke2pvYl9idWlsZF9sb2d9Igo=</text>
+        <text encoding="base64">ICAgIGlwX2xpc3Q9JChlY2hvICR7ZG9tYWluX25hbWV9ICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXBfbGlzdD0kKGVjaG8gJHtkb21haW5fbmFtZX0gKQpnaXRfcmVwbz0ke0dJVF9VUkx9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImxhc3RfY29tbWl0X21lc3NhZ2U9JHtsYXN0X2NvbW1pdF9tZXNzYWdlfSIKICAgIGVjaG8gImxhc3RfY29tbWl0X2F1dGhvcj09JHtsYXN0X2NvbW1pdF9hdXRob3J9IgogICAgZWNobyAiaXBfbGlzdD0ke2lwX2xpc3R9IgogICAgZWNobyAiZ2l0X3JlcG89JHtnaXRfcmVwb30iCiAgICBlY2hvICJqb2JfYnVpbGRfdXNlcj0ke2pvYl9idWlsZF91c2VyfSIKICAgIGVjaG8gImpvYl9idWlsZF9sb2c9JHtqb2JfYnVpbGRfbG9nfSIKICAgIGVjaG8gImxhc3RfdGFnPSR7bGFzdF90YWd9IgogICAgZWNobyAibGFzdF9jb21taXRfaGFzaD0ke2xhc3RfY29tbWl0X2hhc2h9Igo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlwX2xpc3Q9JChlY2hvICR7ZG9tYWluX25hbWV9ICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
