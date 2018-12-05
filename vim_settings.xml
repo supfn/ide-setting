@@ -219,9 +219,9 @@
         <mark key="^" line="72" column="53" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/test_regex.sh" timestamp="1543981554857">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/schedule/update-gitlab.js" timestamp="1542193881994">
         <mark key="[" line="8" column="24" />
@@ -290,12 +290,10 @@
         <mark key="]" line="835" column="116" />
         <mark key="." line="835" column="116" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/global-job-shell.sh" timestamp="1543981551472">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="26" column="38" />
-        <mark key="." line="13" column="30" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/global-job-shell.sh" timestamp="1543982764660">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/a.sh" timestamp="1542036327493">
         <mark key="[" line="0" column="0" />
@@ -308,6 +306,7 @@
         <mark key="]" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/message" timestamp="1543982226910" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-build.sh" timestamp="1540185890689">
         <mark key="[" line="3" column="62" />
         <mark key="]" line="3" column="5" />
@@ -580,8 +579,38 @@
       <jump line="6" column="0" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/global-job-shell.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAkYgo=</text>
+      <register name="&quot;" type="4">
+        <text>#!/bin/bash -ile
+
+#wget https://install.phpcomposer.com/composer.phar
+
+#composer global require hirak/prestissimo
+#composer validate --no-check-all --strict
+#rm -rf vendor/
+#rm -rf composer.lock
+#composer --version
+#composer config cache-files-ttl 0
+#composer config -g repo.packagist composer https://packagist.phpcomposer.com
+#composer validate
+#composer config -g -l
+#composer validate --no-check-all --strict
+#composer install --prefer-dist
+
+#echo $COMPOSER_HOME
+#echo $COMPOSER_CACHE_DIR
+
+#cat $COMPOSER_HOME/config.json
+
+
+#curl https://git.qutoutiao.net/ee/ci-scripts/raw/master/qukan-php/build.sh | bash -x
+
+
+echo &quot;yes&quot;
+
+
+
+
+# see http://ci.qutoutiao.net/env-vars.html/</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -592,26 +621,56 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVjaG8gImpvYl9idWlsZF91c2VyPSR7am9iX2J1aWxkX3VzZXJ9IgogICAgZWNobyAiam9iX2J1aWxkX2xvZz0ke2pvYl9idWlsZF9sb2d9Igo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>#!/bin/bash -ile
+
+#wget https://install.phpcomposer.com/composer.phar
+
+#composer global require hirak/prestissimo
+#composer validate --no-check-all --strict
+#rm -rf vendor/
+#rm -rf composer.lock
+#composer --version
+#composer config cache-files-ttl 0
+#composer config -g repo.packagist composer https://packagist.phpcomposer.com
+#composer validate
+#composer config -g -l
+#composer validate --no-check-all --strict
+#composer install --prefer-dist
+
+#echo $COMPOSER_HOME
+#echo $COMPOSER_CACHE_DIR
+
+#cat $COMPOSER_HOME/config.json
+
+
+#curl https://git.qutoutiao.net/ee/ci-scripts/raw/master/qukan-php/build.sh | bash -x
+
+
+echo &quot;yes&quot;
+
+
+
+
+# see http://ci.qutoutiao.net/env-vars.html/</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ZWNobyAkYgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CmE9IjEiCgpiPSR7YTotZnVja30=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGVjaG8gImpvYl9idWlsZF91c2VyPSR7am9iX2J1aWxkX3VzZXJ9IgogICAgZWNobyAiam9iX2J1aWxkX2xvZz0ke2pvYl9idWlsZF9sb2d9Igo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">aXBfbGlzdD0kKGVjaG8gJHtkb21haW5fbmFtZX0gKQpnaXRfcmVwbz0ke0dJVF9VUkx9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aXBfbGlzdD0kKGVjaG8gJHtkb21haW5fbmFtZX0gKQpnaXRfcmVwbz0ke0dJVF9VUkx9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -620,7 +679,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBzdGF0dXMKIwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
