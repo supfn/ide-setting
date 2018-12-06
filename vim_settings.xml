@@ -281,11 +281,11 @@
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/lazy-nvm.sh" timestamp="1544007474447">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/lazy-nvm.sh" timestamp="1544083562198">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/prd-checklist-template.html" timestamp="1541139772540">
         <mark key="[" line="69" column="8" />
@@ -344,10 +344,11 @@
         <mark key="." line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/message" timestamp="1543982226910" />
-      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/zsh-setup.sh" timestamp="1544007225045">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/zsh-setup.sh" timestamp="1544083690975">
+        <mark key="[" line="3" column="109" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-build.sh" timestamp="1540185890689">
         <mark key="[" line="3" column="62" />
@@ -459,11 +460,11 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/init.sh" timestamp="1544008019212">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="15" column="4" />
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/init.sh" timestamp="1544083582229">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Downloads/preview_laxin_pre-api-laxin-qukan.aimodou.net/composer.json" timestamp="1542344902498">
         <mark key="[" line="29" column="30" />
@@ -626,11 +627,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAkMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IFsgIiQwIiA9ICItenNoIiBdOw==</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -639,34 +640,37 @@
         <text encoding="base64">ICAgIGVjaG8gImpvYl9idWlsZF91c2VyPSR7am9iX2J1aWxkX3VzZXJ9IgogICAgZWNobyAiam9iX2J1aWxkX2xvZz0ke2pvYl9idWlsZF9sb2d9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmlmIFsgISAiJHtKT0JfTkFNRX0iID0gInRlc3RfZmUtY2ktdGVzdCIgXTsgdGhlbgogICAgZXhpdCAwOwpmaQoKZWNobyAiLi4uLi4uLi4uLiIKZXhpdCAwCg==</text>
+        <text encoding="base64">ZWNobyAkMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiIK</text>
+        <text encoding="base64">ICAgIGVjaG8gMTExCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImV4aXQiCg==</text>
+        <text encoding="base64">YmFzZW5hbWUgJHtCQVNIX1NPVVJDRVswXX0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>for i in *;
+do
+    echo $i
+done;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIFsgISAiJHtKT0JfTkFNRX0iID0gInRlc3RfZmUtY2ktdGVzdCIgXTsgdGhlbgogICAgZXhpdCAwOwpmaQoKZWNobyAiLi4uLi4uLi4uLiIKZXhpdCAwCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmVjaG8gLWUgIiR7Ym9keX0i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIiIK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImV4aXQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
