@@ -181,10 +181,10 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" timestamp="1544521786602" />
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test2.sh" timestamp="1544521916510">
-        <mark key="[" line="3" column="198" />
-        <mark key="]" line="3" column="198" />
-        <mark key="." line="3" column="198" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test2.sh" timestamp="1544523084231">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-publish-flow.sh" timestamp="1541298072860">
         <mark key="[" line="5" column="35" />
@@ -646,10 +646,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GIT_REPO</text>
+        <text>--max-tim</text>
       </register>
       <register name="-" type="4">
-        <text>GIT_REPO</text>
+        <text>--max-tim</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
