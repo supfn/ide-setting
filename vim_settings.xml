@@ -422,11 +422,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/notice.groovy" timestamp="1544517259650">
-        <mark key="[" line="16" column="95" />
-        <mark key="]" line="16" column="95" />
-        <mark key="^" line="10" column="71" />
-        <mark key="." line="16" column="95" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/notice.groovy" timestamp="1544519028669">
+        <mark key="[" line="34" column="74" />
+        <mark key="]" line="34" column="74" />
+        <mark key="." line="34" column="74" />
       </file>
       <file name="$USER_HOME$/Codes/qutoutiao/qukan-nginx/vhost2/env_conf/test1.conf" timestamp="1543548419306">
         <mark key="[" line="3" column="0" />
@@ -539,7 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="15" filename="$USER_HOME$/Codes/lab/code-bot/report-parser/java.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Codes/lab/code-bot/test.js" />
       <jump line="4" column="17" filename="$USER_HOME$/Codes/lab/dockerfiles/go/build.sh" />
       <jump line="25" column="3" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
@@ -639,13 +637,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/Codes/lab/dotfiles/guns/lazy-nvm.sh" />
       <jump line="5" column="10" filename="$USER_HOME$/Codes/lab/dotfiles/guns/lazy-nvm.sh" />
       <jump line="24" column="0" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" />
+      <jump line="44" column="0" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/notice.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mrId</text>
+        <text>$EVENT_REPORT_URL</text>
       </register>
       <register name="-" type="4">
-        <text>mrId</text>
+        <text>$EVENT_REPORT_URL</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -653,35 +652,35 @@
       <register name="0" type="2">
         <text encoding="base64">YWxpYXMganM9InNzaCAtbyBzdHJpY3RIb3N0S2V5Q2hlY2tpbmc9bm8gLXAgMjIyMiB6aGFuZ3l1QGoyLnF1dG91dGlhby5uZXQiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZGF0YSA9ICJ7XCJ0eXBlXCI6ICAgICAgXCIkQVBQX1BST0pFQ1RcIiwgICBcCiAgICAgICAgICAgICBcInByb2R1Y3RcIjogICBcIiRBUFBfU0VSVklDRVwiLCAgIFwKICAgICAgICAgICAgIFwiZXZlbnRcIjogICAgIFwiJEFDVElPTlwiLCAgICAgICAgXAogICAgICAgICAgICAgXCJkZXRhaWxzXCI6ICAgXCIkR0lUX0NPTU1JVF9NU0dcIixcCiAgICAgICAgICAgICBcImJ1aWxkX2lkXCI6ICAgICRCVUlMRF9OVU1CRVIsICAgIFwKICAgICAgICAgICAgIFwiYnVpbGRfdXJsXCI6IFwiJEJVSUxEX1VSTFwiLCAgICAgXAogICAgICAgICAgICAgXCJidWlsZF91c2VyXCI6XCIkQlVJTERfVVNFUlwiLCAgICBcCiAgICAgICAgICAgICBcImdpdF9yZXBvXCI6ICBcIiRHSVRfUkVQT1wiLCAgICAgIFwKICAgICAgICAgICAgIFwiZ2l0X2NvbW1pdFwiOlwiJEdJVF9DT01NSVRfSURcIiwgXAogICAgICAgICAgICAgXCJnaXRfdGFnXCI6ICAgXCIkU0NNX1JFVklTSU9OXCJ9Igo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ewoibGFzdF9jb21taXRfbWVzc2FnZSI6ICIke2xhc3RfY29tbWl0X21lc3NhZ2V9IiwKImxhc3RfY29tbWl0X2F1dGhvciI6ICIke2xhc3RfY29tbWl0X2F1dGhvcn0iLAoibGFzdF9jb21taXRfaGFzaCI6ICIke2xhc3RfY29tbWl0X2hhc2h9IiwKImxhc3RfdGFnIjogIiR7bGFzdF90YWd9IiwKImdpdF9yZXBvIjogIiR7Z2l0X3JlcG99IiwKImpvYl9idWlsZF91cmwiOiAiJHtqb2JfYnVpbGRfdXJsfSIsCiJqb2JfYnVpbGRfbG9nIjogIiR7am9iX2J1aWxkX2xvZ30iLAoibXJfcmVwbyI6ICIke21yX2xpbmt9IiwKIm1yX2lkIjogIiR7bXJfaWR9Igp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBHSVRfQ09NTUlUX01TRyA9ICdTZWUgbWVyZ2UgcmVxdWVzdCB4eHh4eDEyMzQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICB4CiAgICBwcmludGxuIG1yX2lkCiAgICBwcmludGxuIG1yX3JlcG8=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZGF0YSA9ICJ7XCJ0eXBlXCI6ICAgICAgXCIkQVBQX1BST0pFQ1RcIiwgICBcCiAgICAgICAgICAgICBcInByb2R1Y3RcIjogICBcIiRBUFBfU0VSVklDRVwiLCAgIFwKICAgICAgICAgICAgIFwiZXZlbnRcIjogICAgIFwiJEFDVElPTlwiLCAgICAgICAgXAogICAgICAgICAgICAgXCJkZXRhaWxzXCI6ICAgXCIkR0lUX0NPTU1JVF9NU0dcIixcCiAgICAgICAgICAgICBcImJ1aWxkX2lkXCI6ICAgICRCVUlMRF9OVU1CRVIsICAgIFwKICAgICAgICAgICAgIFwiYnVpbGRfdXJsXCI6IFwiJEJVSUxEX1VSTFwiLCAgICAgXAogICAgICAgICAgICAgXCJidWlsZF91c2VyXCI6XCIkQlVJTERfVVNFUlwiLCAgICBcCiAgICAgICAgICAgICBcImdpdF9yZXBvXCI6ICBcIiRHSVRfUkVQT1wiLCAgICAgIFwKICAgICAgICAgICAgIFwiZ2l0X2NvbW1pdFwiOlwiJEdJVF9DT01NSVRfSURcIiwgXAogICAgICAgICAgICAgXCJnaXRfdGFnXCI6ICAgXCIkU0NNX1JFVklTSU9OXCJ9Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhQm9keSA9IHRoaXMuY29udmVydEJvZHkoYm9keSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihib2R5LmZyb20gIT09ICdib3Bjb25mJyl7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSBhd2FpdCBodHRwKHsKICAgICAgICAgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgICAgICAgICBkYXRhOiBkYXRhQm9keQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH1jYXRjaChlKXsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUubWVzc2FnZSwgZS5yZXNwb25zZS5kYXRhKQogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihib2R5LmZyb20gIT09ICdib3Bjb25mJyl7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSBhd2FpdCBodHRwKHsKICAgICAgICAgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgICAgICAgICBkYXRhOiBkYXRhQm9keQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH1jYXRjaChlKXsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUubWVzc2FnZSwgZS5yZXNwb25zZS5kYXRhKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
