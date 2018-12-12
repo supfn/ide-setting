@@ -20,6 +20,11 @@
         <mark key="]" line="263" column="131" />
         <mark key="." line="263" column="131" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/modules" timestamp="1544596598594">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/package.json" timestamp="1541460899717">
         <mark key="[" line="57" column="29" />
         <mark key="]" line="65" column="19" />
@@ -270,10 +275,10 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="66" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/test.js" timestamp="1544595192513">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/test.js" timestamp="1544597151447">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="16" />
+        <mark key="." line="46" column="16" />
         <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/tech-review-template.html" timestamp="1541139640716">
@@ -678,10 +683,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>department</text>
+        <text encoding="base64">PG9wdGlvbiB2YWx1ZT0iYWFhYWFhIj4gLSDml6AgLSA8L29wdGlvbj4KICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9ImJiYmJiYmIiPuS7u+WKoeS4reW/gzwvb3B0aW9uPg==</text>
       </register>
       <register name="-" type="4">
-        <text>department</text>
+        <text>信息流</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -689,35 +694,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9ImFhYWFhYSI+YXNhYWFhPC9vcHRpb24+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNlbGVjdCBpZD0iZWUtbW9kdWxlIj4KICAgICAgICAgICAgICAgIDxvcHRpb24+YXNhYWFhPC9vcHRpb24+CiAgICAgICAgICAgIDwvc2VsZWN0Pgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PG9wdGlvbiB2YWx1ZT0iYWFhYWFhIj4gLSDml6AgLSA8L29wdGlvbj4KICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9ImJiYmJiYmIiPuS7u+WKoeS4reW/gzwvb3B0aW9uPg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0ICRmb3JtUm93ID0K</text>
+        <text encoding="base64">5rWB6YeP5p2l5rqQLeW6lOeUqOW4guWcugo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5rOo5YaM55m75b2VLeaWsOaJi+e6ouWMhQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAkZGF0YQo=</text>
+        <text encoding="base64">5paw5omL5byV5a+8LeWGheWkluaJv+aOpQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewoibGFzdF9jb21taXRfbWVzc2FnZSI6ICIke2xhc3RfY29tbWl0X21lc3NhZ2V9IiwKImxhc3RfY29tbWl0X2F1dGhvciI6ICIke2xhc3RfY29tbWl0X2F1dGhvcn0iLAoibGFzdF9jb21taXRfaGFzaCI6ICIke2xhc3RfY29tbWl0X2hhc2h9IiwKImxhc3RfdGFnIjogIiR7bGFzdF90YWd9IiwKImdpdF9yZXBvIjogIiR7Z2l0X3JlcG99IiwKImpvYl9idWlsZF91cmwiOiAiJHtqb2JfYnVpbGRfdXJsfSIsCiJqb2JfYnVpbGRfbG9nIjogIiR7am9iX2J1aWxkX2xvZ30iLAoibXJfcmVwbyI6ICIke21yX2xpbmt9IiwKIm1yX2lkIjogIiR7bXJfaWR9Igp9Cg==</text>
+        <text encoding="base64">6YKA6K+35ouJ5pawLeaUtuW+kua0u+WKqArpgoDor7fmi4nmlrAt5a6d566xCumCgOivt+aLieaWsC3liIbkuqsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBHSVRfQ09NTUlUX01TRyA9ICdTZWUgbWVyZ2UgcmVxdWVzdCB4eHh4eDEyMzQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CueUqOaIt+a/gOWKsS3ml7bmrrXlpZblirEK55So5oi35r+A5YqxLeaXtumVv+WlluWKsQrnlKjmiLfmv4DlirEt6K6h5pe25Zmo</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICB4CiAgICBwcmludGxuIG1yX2lkCiAgICBwcmludGxuIG1yX3JlcG8=</text>
+        <text encoding="base64">CueUqOaIt+etiee6py3or4TorrrljLrokL3lnLAK55So5oi3562J57qnLeetiee6p+adg+ebiuiuvuiuoQrnlKjmiLfnrYnnuqct562J57qn55So5oi36Kem6L6+CueUqOaIt+aIkOWwsQnli4vnq6DokL3lnLDpobU=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGF0YSA9ICJ7XCJ0eXBlXCI6ICAgICAgXCIkQVBQX1BST0pFQ1RcIiwgICBcCiAgICAgICAgICAgICBcInByb2R1Y3RcIjogICBcIiRBUFBfU0VSVklDRVwiLCAgIFwKICAgICAgICAgICAgIFwiZXZlbnRcIjogICAgIFwiJEFDVElPTlwiLCAgICAgICAgXAogICAgICAgICAgICAgXCJkZXRhaWxzXCI6ICAgXCIkR0lUX0NPTU1JVF9NU0dcIixcCiAgICAgICAgICAgICBcImJ1aWxkX2lkXCI6ICAgICRCVUlMRF9OVU1CRVIsICAgIFwKICAgICAgICAgICAgIFwiYnVpbGRfdXJsXCI6IFwiJEJVSUxEX1VSTFwiLCAgICAgXAogICAgICAgICAgICAgXCJidWlsZF91c2VyXCI6XCIkQlVJTERfVVNFUlwiLCAgICBcCiAgICAgICAgICAgICBcImdpdF9yZXBvXCI6ICBcIiRHSVRfUkVQT1wiLCAgICAgIFwKICAgICAgICAgICAgIFwiZ2l0X2NvbW1pdFwiOlwiJEdJVF9DT01NSVRfSURcIiwgXAogICAgICAgICAgICAgXCJnaXRfdGFnXCI6ICAgXCIkU0NNX1JFVklTSU9OXCJ9Igo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNlbGVjdCBpZD0iZWUtbW9kdWxlIj4KICAgICAgICAgICAgICAgIDxvcHRpb24+YXNhYWFhPC9vcHRpb24+CiAgICAgICAgICAgIDwvc2VsZWN0Pgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">bGV0ICRmb3JtUm93ID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

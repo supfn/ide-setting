@@ -8,6 +8,7 @@
       <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern=".cloudrc" type="PLAIN_TEXT" />
       <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
+      <mapping pattern="modules" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="ttt" type="PLAIN_TEXT" />
       <mapping pattern="8_1_1.js" type="PLAIN_TEXT" />
