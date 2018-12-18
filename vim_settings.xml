@@ -148,6 +148,11 @@
         <mark key="]" line="153" column="27" />
         <mark key="." line="153" column="27" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/proxy-files/index.js" timestamp="1545118881874">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/repo.js" timestamp="1540453261654">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="28" column="0" />
@@ -193,7 +198,6 @@
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" timestamp="1545051814111" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/ci-publish-flow.sh" timestamp="1541298072860">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="0" />
@@ -455,7 +459,6 @@
         <mark key="." line="134" column="28" />
         <mark key="^" line="134" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/gitlab-badge-manage/add-update-badge.sh" timestamp="1545036932068" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/tapd.js" timestamp="1542078773482">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="13" column="8" />
@@ -533,7 +536,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1545051822279" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-jobs.js" timestamp="1540988887735">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -563,7 +565,6 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" timestamp="1544706283035" />
     </filemarks>
     <jumps>
       <jump line="26" column="13" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
@@ -668,11 +669,11 @@
       <jump line="6" column="16" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/batch-labels/create-labels.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>document</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -684,31 +685,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGlkIGluICR7aWRzfTsKZG8KICAgIGVjaG8gJGlkCiAgICBjdXJsIC0tZGF0YSAibmFtZT1za2lwLXRhcGQmY29sb3I9I0YwQUQ0RSIgLS1oZWFkZXIgIlBSSVZBVEUtVE9LRU46ICR7Uk9CT1RfVE9LRU59IiAiaHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC9hcGkvdjQvcHJvamVjdHMvJHtpZH0vbGFiZWxzIgogICAgY3VybCAtLWRhdGEgIm5hbWU9Z2l0bGFiLXJvYm90JmNvbG9yPSM1Q0I4NUMiIC0taGVhZGVyICJQUklWQVRFLVRPS0VOOiAke1JPQk9UX1RPS0VOfSIgImh0dHBzOi8vZ2l0LnF1dG91dGlhby5uZXQvYXBpL3Y0L3Byb2plY3RzLyR7aWR9L2xhYmVscyIKZG9uZTsKCgo=</text>
+        <text encoding="base64">eAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyA+IGFsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICQiVXNhZ2U6ICQwIHtzdGFydHxzdG9wfHJlc3RhcnR8Y29uZHJlc3RhcnR8c3RhdHVzfSIKICAgICAgICBleGl0IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoKCQpPT57CgogICAgICAgICAgICBsZXQgbmV3UGF0aCA9ICQoJy5qcy1tci1tZXJnZWQtY29tbWl0LXNoYScpLmF0dHIoJ2hyZWYnKS5yZXBsYWNlKC9cL2NvbW1pdFwvLywnL3RhZ3MvbmV3P3JlZj0nKTsKICAgICAgICAgICAgJCgnLmpzLW1yLW1lcmdlZC1jb21taXQtc2hhJykuYWZ0ZXIoYDxhIGhyZWY9IiR7bmV3UGF0aH0iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IGJ0bi1zbSI+5omTVGFnPC9hPmApOwogICAgICAgICAgICAKICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgWyAiJHtzdGF0dXN9IiA9PSAiIiBdO3RoZW4KICAgIHN0YXR1cz0i6YOo572yIgpmaQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXhlYyBoZXJlJykK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmRyZXN0YXJ0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
