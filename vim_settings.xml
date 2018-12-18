@@ -91,10 +91,10 @@
         <mark key="." line="447" column="28" />
         <mark key="^" line="447" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/aliases.sh" timestamp="1544583032059">
+      <file name="$USER_HOME$/Codes/lab/dotfiles/guns/aliases.sh" timestamp="1545105490465">
         <mark key="[" line="21" column="63" />
-        <mark key="]" line="21" column="63" />
-        <mark key="." line="21" column="63" />
+        <mark key="]" line="21" column="64" />
+        <mark key="." line="21" column="64" />
         <mark key="^" line="21" column="63" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/package.json" timestamp="1543331394146">
@@ -668,11 +668,11 @@
       <jump line="6" column="16" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/batch-labels/create-labels.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
