@@ -1,0 +1,12 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiUrl" value="https://git.qutoutiao.net/" />
+          <option name="repositoryUrl" value="git.qutoutiao.net" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
