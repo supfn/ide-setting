@@ -52,7 +52,7 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test.sh" timestamp="1544014623118">
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test.sh" timestamp="1545102571010">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -181,12 +181,12 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" timestamp="1545101468653">
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" timestamp="1545102502334">
         <mark key="'" line="40" column="8" />
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="44" column="2" />
-        <mark key="^" line="44" column="2" />
-        <mark key="." line="44" column="2" />
+        <mark key="[" line="60" column="53" />
+        <mark key="]" line="60" column="22" />
+        <mark key="^" line="60" column="22" />
+        <mark key="." line="60" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test2.sh" timestamp="1544523084231">
         <mark key="[" line="10" column="6" />
@@ -279,11 +279,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/batch-labels/download-all-projects.sh" timestamp="1545036614279">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/batch-labels/download-all-projects.sh" timestamp="1545102724909">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/libs/gitlab.js" timestamp="1543828323302">
         <mark key="[" line="13" column="27" />
@@ -467,11 +466,10 @@
         <mark key="]" line="21" column="16" />
         <mark key="." line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/batch-labels/create-labels.sh" timestamp="1545051278343">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="9" column="143" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/batch-labels/create-labels.sh" timestamp="1545102733349">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-client/src/routes/Activity/EventInfoModal.js" timestamp="1544694718090">
         <mark key="[" line="90" column="46" />
@@ -484,7 +482,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545029677001">
+      <file name="/Dummy.txt" timestamp="1545102764899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -568,7 +566,6 @@
       <file name="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" timestamp="1544706283035" />
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
       <jump line="26" column="13" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
       <jump line="20" column="4" filename="$USER_HOME$/Codes/lab/dockerfiles/utils.sh" />
       <jump line="20" column="0" filename="$USER_HOME$/Codes/lab/dockerfiles/php/gitlab-ci.yml" />
@@ -668,10 +665,11 @@
       <jump line="121" column="94" filename="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" />
       <jump line="0" column="30" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/batch-labels/all" />
       <jump line="40" column="8" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" />
+      <jump line="6" column="16" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/batch-labels/create-labels.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -680,37 +678,37 @@
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb249IuWbnua7miIK</text>
+        <text encoding="base64">ICAgIHJlc3RhcnRfcXVlKQogICAgICAgIGFjdGlvbj0i6YeN5ZCv6Zif5YiXIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wCiAgICAgICAgc3RhcnQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXMgYW5hY3Jvbgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0KQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Zm9yIGlkIGluICR7aWRzfTsKZG8KICAgIGVjaG8gJGlkCiAgICBjdXJsIC0tZGF0YSAibmFtZT1za2lwLXRhcGQmY29sb3I9I0YwQUQ0RSIgLS1oZWFkZXIgIlBSSVZBVEUtVE9LRU46ICR7Uk9CT1RfVE9LRU59IiAiaHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC9hcGkvdjQvcHJvamVjdHMvJHtpZH0vbGFiZWxzIgogICAgY3VybCAtLWRhdGEgIm5hbWU9Z2l0bGFiLXJvYm90JmNvbG9yPSM1Q0I4NUMiIC0taGVhZGVyICJQUklWQVRFLVRPS0VOOiAke1JPQk9UX1RPS0VOfSIgImh0dHBzOi8vZ2l0LnF1dG91dGlhby5uZXQvYXBpL3Y0L3Byb2plY3RzLyR7aWR9L2xhYmVscyIKZG9uZTsKCgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZWNobyA+IGFsbAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aWRzPTIxCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICQiVXNhZ2U6ICQwIHtzdGFydHxzdG9wfHJlc3RhcnR8Y29uZHJlc3RhcnR8c3RhdHVzfSIKICAgICAgICBleGl0IDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdpdGxhYi1yb2JvdAogICAgIzVDQjg1Qwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3VybCAtLWRhdGEgIm5hbWU9c2tpcC10YXBkJmNvbG9yPSNGMEFENEUiIC0taGVhZGVyICJQUklWQVRFLVRPS0VOOiAke1JPQk9UX1RPS0VOfSIgImh0dHBzOi8vZ2l0LnF1dG91dGlhby5uZXQvYXBpL3Y0L3Byb2plY3RzLyR7aWR9L2xhYmVscyIK</text>
+        <text encoding="base64">aWYgWyAiJHtzdGF0dXN9IiA9PSAiIiBdO3RoZW4KICAgIHN0YXR1cz0i6YOo572yIgpmaQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyBhbGxqc29uCmNhdCBhbGwK</text>
+        <text encoding="base64">ICAgIGNvbmRyZXN0YXJ0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
