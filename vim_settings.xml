@@ -526,8 +526,10 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/qtt6-get-repos.sh" timestamp="1545279296986">
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/qtt6-get-repos.sh" timestamp="1545282479851">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1545219022919">
         <mark key="[" line="0" column="0" />
@@ -719,11 +721,11 @@
       <jump line="281" column="24" filename="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test_focus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHt1cmx9CiAgICBqZW5raW5zX2dldCAiJHt1cmx9Igo=</text>
       </register>
       <register name="-" type="4">
-        <text>test_focus</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -732,34 +734,34 @@
         <text encoding="base64">ICAgICAgICAgIOS4iue6v+WGheWuuToge0FjdGl2aXR5VXRpbHMucGFyc2VHaXRSZWxhdGVkSW5mbyhyZWNvcmQpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coanNvbi5kYXRhLmxlbmd0aCwgbGlzdC5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJHt1cmx9CiAgICBqZW5raW5zX2dldCAiJHt1cmx9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGplbmtpbnNfZ2V0ICIke3VybH0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmxldCBsaXN0ID0ganNvbi5kYXRhLmZpbHRlcihpdGVtPT57CiAgICBjb25zb2xlLmxvZyhpdGVtLmNyZWF0ZWQpCiAgICByZXR1cm4gKG5ldyBEYXRlKGl0ZW0uY3JlYXRlZCkgPiBuZXcgRGF0ZSgnMjAxOC8wMS8wMScpKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgIHVybD0kMQogICAgZWNobyAke3VybH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZWNobyAxMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coanNvbi5kYXRhLmxlbmd0aCwgbGlzdC5sZW5ndGgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgbmFtZSA9IGAke2l9OjAwLSR7ZX06MDBgOwo=</text>
+        <text encoding="base64">CmxldCBsaXN0ID0ganNvbi5kYXRhLmZpbHRlcihpdGVtPT57CiAgICBjb25zb2xlLmxvZyhpdGVtLmNyZWF0ZWQpCiAgICByZXR1cm4gKG5ldyBEYXRlKGl0ZW0uY3JlYXRlZCkgPiBuZXcgRGF0ZSgnMjAxOC8wMS8wMScpKTsKfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSBHb29nbGUgQW5hbHl0aWNzIC0tPgo8c2NyaXB0PgoKPC9zY3JpcHQ+CjwhLS0gRW5kIEdvb2dsZSBBbmFseXRpY3MgLS0+CmZpZycsICdVQS0xMjM1NjAyODQtNCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAocmVjb3JkLmRldGFpbExpbmspIHsKICAgIG1lc3NhZ2VzLnB1c2goCiAgICAgIGA8YSBocmVmPSIkewogICAgICAgIHJlY29yZC5kZXRhaWxMaW5rCiAgICAgICAgfSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciI+VGFwZDwvYT5gLAogICAgKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
