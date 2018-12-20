@@ -44,6 +44,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/pwc/stories" timestamp="1545274814336" />
       <file name="$USER_HOME$/Codes/lab/dotfiles/init.sh" timestamp="1543939532849">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="30" />
@@ -190,13 +191,6 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/global-job-shell.sh" timestamp="1545133153450">
-        <mark key="'" line="49" column="8" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="25" column="2" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test2.sh" timestamp="1544523084231">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
@@ -220,6 +214,12 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/pwc/read.js" timestamp="1545274976675">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/loop-groups.sh" timestamp="1543833416004">
         <mark key="[" line="6" column="0" />
@@ -312,7 +312,7 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/repo.csv" timestamp="1545272829982" />
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/repo.csv" timestamp="1545274041600" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/km.js" timestamp="1541128124942">
         <mark key="[" line="53" column="28" />
         <mark key="]" line="55" column="0" />
@@ -391,6 +391,7 @@
         <mark key="]" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/pwc/st" timestamp="1545274430979" />
       <file name="$USER_HOME$/Codes/lab/dotfiles/guns/zsh-setup.sh" timestamp="1544083690975">
         <mark key="[" line="3" column="109" />
         <mark key="]" line="3" column="35" />
@@ -719,10 +720,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgbmFtZSA9IGAke2l9OjAwLSR7ZX06MDBgOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coanNvbi5kYXRhLmxlbmd0aCwgbGlzdC5sZW5ndGgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -731,34 +732,34 @@
         <text encoding="base64">ICAgICAgICAgIOS4iue6v+WGheWuuToge0FjdGl2aXR5VXRpbHMucGFyc2VHaXRSZWxhdGVkSW5mbyhyZWNvcmQpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgbmFtZSA9IGAke2l9OjAwLSR7ZX06MDBgOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coanNvbi5kYXRhLmxlbmd0aCwgbGlzdC5sZW5ndGgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBHb29nbGUgQW5hbHl0aWNzIC0tPgo8c2NyaXB0PgoKPC9zY3JpcHQ+CjwhLS0gRW5kIEdvb2dsZSBBbmFseXRpY3MgLS0+CmZpZycsICdVQS0xMjM1NjAyODQtNCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAocmVjb3JkLmRldGFpbExpbmspIHsKICAgIG1lc3NhZ2VzLnB1c2goCiAgICAgIGA8YSBocmVmPSIkewogICAgICAgIHJlY29yZC5kZXRhaWxMaW5rCiAgICAgICAgfSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciI+VGFwZDwvYT5gLAogICAgKTsKICB9Cg==</text>
+        <text encoding="base64">CmxldCBsaXN0ID0ganNvbi5kYXRhLmZpbHRlcihpdGVtPT57CiAgICBjb25zb2xlLmxvZyhpdGVtLmNyZWF0ZWQpCiAgICByZXR1cm4gKG5ldyBEYXRlKGl0ZW0uY3JlYXRlZCkgPiBuZXcgRGF0ZSgnMjAxOC8wMS8wMScpKTsKfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyOiAobGFiZWwsIHJlY29yZCkgPT4gewogICAgICAgIAogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGl0bGU6ICfkuIrnur90YWcnLAogICAgICBrZXk6ICdsYXN0X3RhZycsCiAgICAgIGRhdGFJbmRleDogJ2V4dHJhLmxhc3RfdGFnJywKICAgICAgd2lkdGg6IDEwMCwKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgbmFtZSA9IGAke2l9OjAwLSR7ZX06MDBgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfku5PlupPnsbvliKsnLAogICAgICBrZXk6ICdyZXBvX2NhdGVnb3J5JywKICAgICAgZGF0YUluZGV4OiAncmVwb0NhdGVnb3J5JywKICAgICAgd2lkdGg6IDkwLAogICAgfSwK</text>
+        <text encoding="base64">PCEtLSBHb29nbGUgQW5hbHl0aWNzIC0tPgo8c2NyaXB0PgoKPC9zY3JpcHQ+CjwhLS0gRW5kIEdvb2dsZSBBbmFseXRpY3MgLS0+CmZpZycsICdVQS0xMjM1NjAyODQtNCcpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvcHJlPgo=</text>
+        <text encoding="base64">ICBpZiAocmVjb3JkLmRldGFpbExpbmspIHsKICAgIG1lc3NhZ2VzLnB1c2goCiAgICAgIGA8YSBocmVmPSIkewogICAgICAgIHJlY29yZC5kZXRhaWxMaW5rCiAgICAgICAgfSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciI+VGFwZDwvYT5gLAogICAgKTsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
