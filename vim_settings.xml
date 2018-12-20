@@ -215,10 +215,10 @@
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/pwc/read.js" timestamp="1545274976675">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
+      <file name="$USER_HOME$/Codes/lab/pwc/read.js" timestamp="1545275844861">
+        <mark key="[" line="12" column="102" />
+        <mark key="]" line="12" column="102" />
+        <mark key="." line="12" column="102" />
         <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/loop-groups.sh" timestamp="1543833416004">
@@ -719,11 +719,11 @@
       <jump line="281" column="24" filename="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coanNvbi5kYXRhLmxlbmd0aCwgbGlzdC5sZW5ndGgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>test_focus</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>test_focus</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
