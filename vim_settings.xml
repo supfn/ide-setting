@@ -463,6 +463,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/sub" timestamp="1545443697116">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/JenkinsControlBase.js" timestamp="1540884934667">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="20" />
@@ -720,11 +725,11 @@
       <jump line="281" column="24" filename="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>增长技术部</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>增长技术部</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
