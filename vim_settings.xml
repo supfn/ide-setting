@@ -41,6 +41,13 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" timestamp="1545725363409">
+        <mark key="'" line="4" column="18" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="4" column="18" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.prd.js" timestamp="1545616683431">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -373,11 +380,11 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545721089369">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545724830447">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
         <mark key="^" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/qtt6.sh" timestamp="1545189639711">
@@ -404,11 +411,10 @@
         <mark key="^" line="98" column="10" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-v2.js" timestamp="1545637510881" />
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" timestamp="1545715407727">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" timestamp="1545725117018">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/middleware/common-response.js" timestamp="1545454599673">
         <mark key="[" line="11" column="0" />
@@ -723,6 +729,13 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/base-controller.js" timestamp="1545455626904">
+        <mark key="'" line="3" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1545718168908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -944,10 +957,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Push</text>
+        <text>getAppPublishListForMonth</text>
       </register>
       <register name="-" type="4">
-        <text>Push</text>
+        <text>getAppPublishListForMonth</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -956,28 +969,28 @@
         <text encoding="base64">ICAgICAgY29uc3QgaXNQdXNoID0gYm9keS5sYWJlbHMuaW5jbHVkZXMoIuS6i+S7tuexu+WeizrmjqjpgIEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjxzY3JpcHQ+CiAganNvbiA9IDwlLUpTT04uc3RyaW5naWZ5KGxvY2FscyklPgo8L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICAgICAgICBfX2h0bWw6IEFjdGl2aXR5VXRpbHMuZm9ybWF0SHRtbCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICAgICAgICBfX2h0bWw6IEFjdGl2aXR5VXRpbHMuZm9ybWF0SHRtbCgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVGFnOiAke2JvZHkuZXh0cmEubGFzdF90YWd9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAg5Y+Y5pu05o+P6L+wOiAkeyBjaGFuZ2VSZWFzb24gfQo=</text>
+        <text encoding="base64">ICAgICAgVGFnOiAke2JvZHkuZXh0cmEubGFzdF90YWd9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAg5Y+Y5pu05o+P6L+wOiAkeyBjaGFuZ2VSZWFzb24gfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
