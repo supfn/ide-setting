@@ -380,12 +380,12 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545727697197">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="44" column="11" />
-        <mark key="." line="44" column="10" />
-        <mark key="^" line="44" column="12" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545730408547">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
+        <mark key="^" line="40" column="13" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/qtt6.sh" timestamp="1545189639711">
         <mark key="[" line="6" column="11" />
@@ -471,12 +471,12 @@
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/activity.js" timestamp="1545727129292">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/activity.js" timestamp="1545730432695">
         <mark key="'" line="30" column="23" />
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="52" column="12" />
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dotfiles/guns/variables.sh" timestamp="1544007215152">
         <mark key="[" line="6" column="26" />
@@ -854,9 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Codes/lab/qadp-server/scripts/updatePatterns.js" />
-      <jump line="22" column="18" filename="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" />
-      <jump line="207" column="45" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
       <jump line="130" column="39" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" />
       <jump line="3" column="17" filename="$USER_HOME$/Codes/lab/gitlab-stat/master/run.sh" />
       <jump line="26" column="3" filename="$USER_HOME$/Codes/lab/data-stat/records/publish.js" />
@@ -954,13 +951,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" />
       <jump line="60" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
       <jump line="38" column="36" filename="$USER_HOME$/Codes/lab/event-notifier/app/extend/helper.js" />
+      <jump line="38" column="21" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
+      <jump line="42" column="10" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqCiAgICAgICAqIEB0eXBlIHtrZXl3b3Jkc3x7U3RyaW5nfX0KICAgICAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -969,34 +969,34 @@
         <text encoding="base64">ICAgICAgSU9TOiAke2JvZHkuZXh0cmEuSW9zTWluVmVyc2lvbn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAg5p2h5Lu2OiAke2JvZHkuZXh0cmEuZmlsdGVyX2V4cHJlc3Npb259CiAgICAgIOa1gemHjzogJHtib2R5LmV4dHJhLnNlZ21lbnRfbnVtfQogICAgICDlvIDlp4s6ICR7Ym9keS5leHRyYS5zdGFydF90aW1lfQogICAgICDnu5PmnZ86ICR7Ym9keS5leHRyYS5lbmRfdGltZX0K</text>
+        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqCiAgICAgICAqIEB0eXBlIHtrZXl3b3Jkc3x7U3RyaW5nfX0KICAgICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICogQHR5cGUge2tleXdvcmRzfHt0eXBlfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmllci5nZXRXeFRlbXBsYXRlKGJvZHkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CjxzY3JpcHQ+CiAganNvbiA9IDwlLUpTT04uc3RyaW5naWZ5KGxvY2FscyklPgo8L3NjcmlwdD4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVnZXggPSBuZXcgUmVnRXhwKGVzY2FwZVN0cmluZ1JlZ2V4cChpdGVtLmtleXdvcmRzKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbGV0IHJlZ2V4ID0gbmV3IFJlZ0V4cChlc2NhcGVTdHJpbmdSZWdleHAoaXRlbS5rZXl3b3JkcykpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICAgICAgICBfX2h0bWw6IEFjdGl2aXR5VXRpbHMuZm9ybWF0SHRtbCgK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbS5rZXl3b3JkcykK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAg5p2h5Lu2OiAke2JvZHkuZXh0cmEuZmlsdGVyX2V4cHJlc3Npb259CiAgICAgIOa1gemHjzogJHtib2R5LmV4dHJhLnNlZ21lbnRfbnVtfQogICAgICDlvIDlp4s6ICR7Ym9keS5leHRyYS5zdGFydF90aW1lfQogICAgICDnu5PmnZ86ICR7Ym9keS5leHRyYS5lbmRfdGltZX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
