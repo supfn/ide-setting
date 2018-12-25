@@ -380,12 +380,12 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545724830447">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="30" column="8" />
-        <mark key="^" line="16" column="20" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545727697197">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="44" column="46" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="10" />
+        <mark key="^" line="44" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/qtt6.sh" timestamp="1545189639711">
         <mark key="[" line="6" column="11" />
@@ -471,12 +471,12 @@
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/activity.js" timestamp="1545710625391">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/activity.js" timestamp="1545727129292">
         <mark key="'" line="30" column="23" />
-        <mark key="[" line="53" column="29" />
-        <mark key="]" line="53" column="30" />
-        <mark key="." line="53" column="30" />
-        <mark key="^" line="53" column="30" />
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="52" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dotfiles/guns/variables.sh" timestamp="1544007215152">
         <mark key="[" line="6" column="26" />
@@ -957,46 +957,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getAppPublishListForMonth</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>getAppPublishListForMonth</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXNQdXNoID0gYm9keS5sYWJlbHMuaW5jbHVkZXMoIuS6i+S7tuexu+WeizrmjqjpgIEiKTsK</text>
+        <text encoding="base64">ICAgICAgSU9TOiAke2JvZHkuZXh0cmEuSW9zTWluVmVyc2lvbn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CjxzY3JpcHQ+CiAganNvbiA9IDwlLUpTT04uc3RyaW5naWZ5KGxvY2FscyklPgo8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAg5p2h5Lu2OiAke2JvZHkuZXh0cmEuZmlsdGVyX2V4cHJlc3Npb259CiAgICAgIOa1gemHjzogJHtib2R5LmV4dHJhLnNlZ21lbnRfbnVtfQogICAgICDlvIDlp4s6ICR7Ym9keS5leHRyYS5zdGFydF90aW1lfQogICAgICDnu5PmnZ86ICR7Ym9keS5leHRyYS5lbmRfdGltZX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRlbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmllci5nZXRXeFRlbXBsYXRlKGJvZHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICAgICAgICBfX2h0bWw6IEFjdGl2aXR5VXRpbHMuZm9ybWF0SHRtbCgK</text>
+        <text encoding="base64">CjxzY3JpcHQ+CiAganNvbiA9IDwlLUpTT04uc3RyaW5naWZ5KGxvY2FscyklPgo8L3NjcmlwdD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVGFnOiAke2JvZHkuZXh0cmEubGFzdF90YWd9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICAgICAgICBfX2h0bWw6IEFjdGl2aXR5VXRpbHMuZm9ybWF0SHRtbCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAg5Y+Y5pu05o+P6L+wOiAkeyBjaGFuZ2VSZWFzb24gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
