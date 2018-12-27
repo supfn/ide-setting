@@ -122,7 +122,6 @@
         <mark key="^" line="13" column="79" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" timestamp="1545450379711" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1540990581076">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="21" column="0" />
@@ -157,11 +156,11 @@
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1545734489285">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="23" column="40" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1545877879468">
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="76" />
+        <mark key="." line="25" column="93" />
+        <mark key="^" line="24" column="76" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/add-update-badge.sh" timestamp="1543833498305">
         <mark key="[" line="3" column="4" />
@@ -221,7 +220,6 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/node_modules/@qtt/node-ewx-sdk/index.js" timestamp="1545621419944" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-ref.test.js" timestamp="1540973825334">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -240,7 +238,6 @@
         <mark key="]" line="153" column="27" />
         <mark key="." line="153" column="27" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/gitlab-v2.js" timestamp="1545637234386" />
       <file name="$USER_HOME$/Codes/lab/proxy-files/index.js" timestamp="1545118881874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -380,12 +377,18 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545740926147">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545877581979">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="53" />
-        <mark key="." line="149" column="64" />
-        <mark key="^" line="149" column="64" />
+        <mark key="[" line="154" column="25" />
+        <mark key="]" line="155" column="20" />
+        <mark key="." line="155" column="20" />
+        <mark key="^" line="155" column="20" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/admin.js" timestamp="1545877962611">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/qtt6.sh" timestamp="1545189639711">
         <mark key="[" line="6" column="11" />
@@ -410,7 +413,6 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="98" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab-v2.js" timestamp="1545637510881" />
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" timestamp="1545725117018">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="0" column="0" />
@@ -593,7 +595,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.default.js" timestamp="1545455732435" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="12" column="45" />
@@ -737,7 +738,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545790105086">
+      <file name="/Dummy.txt" timestamp="1545877605578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -799,11 +800,11 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/event-settings.js" timestamp="1545616473784">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="56" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/event-settings.js" timestamp="1545877693961">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="5" />
+        <mark key="." line="35" column="5" />
+        <mark key="^" line="35" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1540452967123">
         <mark key="[" line="6" column="0" />
@@ -811,7 +812,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1545637601066" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-jobs.js" timestamp="1540988887735">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -841,7 +841,6 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/prod-event-recorder/app/model/record.js" timestamp="1545462677079" />
       <file name="$USER_HOME$/Codes/lab/qadp-client/src/routes/ActivitySubscription/index.js" timestamp="1545791612811">
         <mark key="[" line="321" column="32" />
         <mark key="]" line="374" column="0" />
@@ -956,41 +955,41 @@
       <jump line="37" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QWxlcnQgdHlwZT0iaW5mbyIgZGVzY3JpcHRpb249IuWFs+mUruWtl+iuvue9ruS4uiBnaXQucXV0b3V0aWFvLm5ldDpHUk9VUC9SRVBPLmdpdCDlj6/ku6XorqLpmIXljZXkuKrku5PlupPnmoTpg6jnvbLorrDlvZUs6K6+572u5Li6IGdpdC5xdXRvdXRpYW8ubmV0OkdST1VQLyDlj6/ku6XorqLpmIVnaXRsYWLmlbTnu4Tku5PlupPnmoTpg6jnvbLorrDlvZUiPgogICAgICAgICAgICAgIDwvQWxlcnQ+CgogICAgICAgICAgICAgIHsvKjxkaXYgc3R5bGU9e3tmb250U2l6ZTonMTFweCd9fT4qL30KICAgICAgICAgICAgICB7Lyo8L2Rpdj4qL30K</text>
+      <register name="&quot;" type="4">
+        <text>Keywords</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Keywords</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybS5JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuW/q+mAn+Whq+WGmSI+Cg==</text>
+        <text encoding="base64">ICByb3V0ZXIuZ2V0KCcvYXBpL3YxL2FkbWluL2V2ZW50L2tleXdvcmRzJywgYXV0aCgpLCBjb250cm9sbGVyLmV2ZW50S2V5d29yZHMuYWRtaW5MaXN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QWxlcnQgdHlwZT0iaW5mbyIgZGVzY3JpcHRpb249IuWFs+mUruWtl+iuvue9ruS4uiBnaXQucXV0b3V0aWFvLm5ldDpHUk9VUC9SRVBPLmdpdCDlj6/ku6XorqLpmIXljZXkuKrku5PlupPnmoTpg6jnvbLorrDlvZUs6K6+572u5Li6IGdpdC5xdXRvdXRpYW8ubmV0OkdST1VQLyDlj6/ku6XorqLpmIVnaXRsYWLmlbTnu4Tku5PlupPnmoTpg6jnvbLorrDlvZUiPgogICAgICAgICAgICAgIDwvQWxlcnQ+CgogICAgICAgICAgICAgIHsvKjxkaXYgc3R5bGU9e3tmb250U2l6ZTonMTFweCd9fT4qL30KICAgICAgICAgICAgICB7Lyo8L2Rpdj4qL30K</text>
+        <text encoding="base64">ICAgICAgdXNlcklkIDogdGhpcy5jdHguY3VycmVudFVzZXIudXNlcl9pZAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOWFs+mUruWtlwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiciAvPgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3VjY2VzcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOWFs+mUruWtl+iuvue9ruS4uiBnaXQucXV0b3V0aWFvLm5ldDpHUk9VUC9SRVBPLmdpdCDlj6/ku6XorqLpmIXljZXkuKrku5PlupPnmoTpg6jnvbLorrDlvZUKICAgICAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICAgICAg5YWz6ZSu5a2X6K6+572u5Li6IGdpdC5xdXRvdXRpYW8ubmV0OkdST1VQLyDlj6/ku6XorqLpmIVnaXRsYWLmlbTnu4Tku5PlupPnmoTpg6jnvbLorrDlvZUK</text>
+        <text encoding="base64">ICAgICAganNvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0Zvcm0uSXRlbT4K</text>
+        <text encoding="base64">ICAgIGxldCBqc29uID0gYXdhaXQgdGhpcy5jdHgubW9kZWwuRXZlbnRTZXR0aW5ncy5maW5kT25lKHsKICAgICAgdXNlcklkIDogdGhpcy5jdHguY3VycmVudFVzZXIudXNlcl9pZAogICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybS5JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IlRpcHMiIHN0eWxlPXt7Zm9udFNpemU6JzExcHgnfX0+Cg==</text>
+        <text encoding="base64">ICBhc3luYyBzYXZlKCkgewoKICAgIGNvbnN0IHtjdHh9ID0gdGhpczsKICAgIGNvbnN0IHtFdmVudFNldHRpbmdzfSA9IGN0eC5tb2RlbDsKCiAgICBsZXQganNvbiA9IGF3YWl0IEV2ZW50U2V0dGluZ3MudXBkYXRlKHsKICAgICAgdXNlcklkIDogY3R4LmN1cnJlbnRVc2VyLnVzZXJfaWQsCiAgICB9LHsKICAgICAgdXNlcklkIDogY3R4LmN1cnJlbnRVc2VyLnVzZXJfaWQsCiAgICAgIG5hbWU6IGN0eC5jdXJyZW50VXNlci5uYW1lLAogICAgICBlbWFpbCA6IGN0eC5jdXJyZW50VXNlci5lbWFpbCwKICAgICAgLi4udGhpcy5jdHgucmVxdWVzdC5ib2R5CiAgICB9LCB7dXBzZXJ0OiB0cnVlfSk7CgoKICAgIHRoaXMuc3VjY2Vzcyhqc29uKTsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAn5o6o6YCBJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8QWxlcnQgdHlwZT0iaW5mbyIgZGVzY3JpcHRpb249IuWFs+mUruWtl+iuvue9ruS4uiBnaXQucXV0b3V0aWFvLm5ldDpHUk9VUC9SRVBPLmdpdCDlj6/ku6XorqLpmIXljZXkuKrku5PlupPnmoTpg6jnvbLorrDlvZUs6K6+572u5Li6IGdpdC5xdXRvdXRpYW8ubmV0OkdST1VQLyDlj6/ku6XorqLpmIVnaXRsYWLmlbTnu4Tku5PlupPnmoTpg6jnvbLorrDlvZUiPgogICAgICAgICAgICAgIDwvQWxlcnQ+CgogICAgICAgICAgICAgIHsvKjxkaXYgc3R5bGU9e3tmb250U2l6ZTonMTFweCd9fT4qL30KICAgICAgICAgICAgICB7Lyo8L2Rpdj4qL30K</text>
       </register>
       <register name="x" type="4">
         <text />
