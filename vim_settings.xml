@@ -122,11 +122,11 @@
         <mark key="^" line="13" column="79" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/wx-accident.html" timestamp="1545899287808">
-        <mark key="[" line="6" column="96" />
-        <mark key="]" line="6" column="97" />
-        <mark key="^" line="6" column="86" />
-        <mark key="." line="6" column="97" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/wx-accident.html" timestamp="1545907618840">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1540990581076">
         <mark key="[" line="18" column="5" />
@@ -383,12 +383,12 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545899178485">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545907796932">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="140" column="12" />
-        <mark key="]" line="140" column="71" />
-        <mark key="^" line="138" column="30" />
-        <mark key="." line="140" column="0" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="154" column="13" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/admin.js" timestamp="1545877962611">
         <mark key="[" line="3" column="23" />
@@ -961,11 +961,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mplate</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -980,22 +980,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgZW1haWxzOiBlbWFpbHMsCiAgICAgICAgICBib2R5OiB3eFRleHQKICAgICAgICB9OwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCUgaWYoaXRlbS5jdXN0b21fZmllbGRfOTcpewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHRhYmxlIGJvcmRlcj0iMSIgc3R5bGU9ImJvcmRlci1jb2xsYXBzZTogY29sbGFwc2UiPgogIDx0cj4KICAgIDx0ZD7kuovmlYU8L3RkPgogICAgPHRkPuetiee6pzwvdGQ+CiAgICA8dGQ+5Y+R55Sf5pe26Ze0PC90ZD4KICAgIDx0ZD7op6PlhrPml7bpl7Q8L3RkPgogIDwvdHI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC90YWJsZT4KPHA+CiAg54K55q2kPGEgaHJlZj0iaHR0cDovL2FnaWxlLnF1dG91dGlhby5uZXQvYWN0aXZpdHkvc3Vic2NyaXB0aW9uIj7pgIDorqI8L2E+6K+l6YKu5Lu2CjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgeWVzdGVyZGF5ID0gY3R4LmhlbHBlci5nZXRZZXN0ZXJkYXlEYXRlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvdGQ+CiAgICA8dGQ+CiAgICAgIAogICAgPC90ZD4KICAgIDx0ZD4KICAgIDwvdGQ+CiAgPC90cj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvdGQ+CiAgICA8dGQ+CiAgICAgIAogICAgPC90ZD4KICAgIDx0ZD4KICAgIDwvdGQ+CiAgPC90cj4KCiAgPCUgfSkgJT4KPC90YWJsZT4KPHA+CiAg54K55q2kPGEgaHJlZj0iaHR0cDovL2FnaWxlLnF1dG91dGlhby5uZXQvYWN0aXZpdHkvc3Vic2NyaXB0aW9uIj7pgIDorqI8L2E+6K+l6YKu5Lu2CjwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
