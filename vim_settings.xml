@@ -99,10 +99,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/schedule/app-release-notify.js" timestamp="1545749262840">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/schedule/app-release-notify.js" timestamp="1546427703916">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
         <mark key="^" line="17" column="64" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/message" timestamp="1544586592611">
@@ -146,11 +146,11 @@
         <mark key="^" line="101" column="9" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/subscriber.js" timestamp="1545709910844">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-        <mark key="^" line="6" column="46" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/subscriber.js" timestamp="1546427995519">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/middleware/auth.js" timestamp="1545623914627">
         <mark key="[" line="2" column="0" />
@@ -162,7 +162,7 @@
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1545898176354">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1546424990837">
         <mark key="[" line="24" column="69" />
         <mark key="]" line="24" column="76" />
         <mark key="." line="25" column="93" />
@@ -383,12 +383,12 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1545907796932">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="^" line="154" column="13" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1546428062062">
+        <mark key="'" line="223" column="17" />
+        <mark key="[" line="237" column="62" />
+        <mark key="]" line="237" column="62" />
+        <mark key="." line="237" column="62" />
+        <mark key="^" line="236" column="67" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/admin.js" timestamp="1545877962611">
         <mark key="[" line="3" column="23" />
@@ -419,10 +419,11 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="98" column="10" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" timestamp="1545725117018">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" timestamp="1546427298250">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/middleware/common-response.js" timestamp="1545454599673">
         <mark key="[" line="11" column="0" />
@@ -462,10 +463,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/debug.js" timestamp="1545748823216">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="49" column="33" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/debug.js" timestamp="1546428213084">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+        <mark key="^" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/km.js" timestamp="1541128124942">
         <mark key="[" line="53" column="28" />
@@ -489,6 +491,13 @@
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/wx-app-release.html" timestamp="1546427865292">
+        <mark key="'" line="2" column="12" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/prd-checklist-template.html" timestamp="1541139772540">
         <mark key="[" line="69" column="8" />
@@ -859,8 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="39" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/branch-flow-trigger.js" />
-      <jump line="3" column="17" filename="$USER_HOME$/Codes/lab/gitlab-stat/master/run.sh" />
       <jump line="26" column="3" filename="$USER_HOME$/Codes/lab/data-stat/records/publish.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Codes/lab/data-stat/records/repos.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Codes/lab/data-stat/records/index8.js" />
@@ -959,40 +966,42 @@
       <jump line="38" column="21" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
       <jump line="42" column="10" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
+      <jump line="290" column="17" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
+      <jump line="2" column="12" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/wx-app-release.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mplate</text>
+        <text>事故记录</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGVtcGxhdGUgPSBjdHguc2VydmljZS5ub3RpZmllci5nZXRFbWFpbEFjY2lkZW50VGVtcGxhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgeWVzdGVyZGF5ID0gY3R4LmhlbHBlci5nZXRZZXN0ZXJkYXlEYXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGlmKHByb2Nlc3MuZW52LikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgZW1haWxzOiBlbWFpbHMsCiAgICAgICAgICBib2R5OiB3eFRleHQKICAgICAgICB9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCUgaWYoaXRlbS5jdXN0b21fZmllbGRfOTcpewo=</text>
+        <text encoding="base64">ICAgIGFzeW5jIGVtYWlsQXBwUmVsZWFzZUNvbnRlbnQoKSB7CiAgICAgIGNvbnN0IHsgY3R4IH0gPSB0aGlzOwoKICAgICAgY29uc3QgZGF0ZSA9IG5ldyBEYXRlKCk7CiAgICAgIGNvbnN0IHN0YXJ0ID0gY3R4LmhlbHBlci5nZXRGaXJzdERheU9mTW9udGgoZGF0ZSk7CiAgICAgIGNvbnN0IGVuZCA9IGN0eC5oZWxwZXIuZ2V0TGFzdERheU9mTW9udGgoZGF0ZSk7CgogICAgICBsZXQgYXJyYXkgPSBbXTsKCiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgMzU7IGkrKykgewogICAgICAgIGFycmF5LnB1c2goIiIpOwogICAgICB9CgogICAgICBsZXQgeWVzdGVyZGF5Q2hhbmdlZCA9IGF3YWl0IGN0eC5zZXJ2aWNlLmdtYS5nZXRBcHBSZWxlYXNlRm9yWWVzdGVyZGF5KCk7CgogICAgICBpZiAoeWVzdGVyZGF5Q2hhbmdlZC5sZW5ndGggPT09IDApIHsKICAgICAgICBjdHgubG9nZ2VyLmluZm8oIuaYqOaXpeaXoOabtOaWsOiusOW9lSIpOwogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgbGV0IHVzZXJzID0gYXdhaXQgY3R4LnNlcnZpY2Uuc3Vic2NyaWJlci5nZXRTdWJzY3JpYmVBcHBSZWxlYXNlVXNlcigpOwogICAgICBsZXQgZW1haWxzID0gdXNlcnMubWFwKGl0ZW0gPT4gaXRlbS5lbWFpbCk7CiAgICAgIGlmIChlbWFpbHMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgY3R4LmxvZ2dlci5pbmZvKCLmsqHmnInorqLpmIXkuroiKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KCiAgICAgIGN0eC5sb2dnZXIuaW5mbygi6K6i6ZiF5Lq65YiX6KGoIiwgZW1haWxzLmpvaW4oIiwiKSk7CgogICAgICBsZXQgcmVjb3JkcyA9IGF3YWl0IGN0eC5zZXJ2aWNlLmdtYS5nZXRBcHBSZWxlYXNlTGlzdEZvck1vbnRoKCk7CgogICAgICBsZXQgcmVjb3JkTWFwID0gbmV3IE1hcCgpOwogICAgICByZWNvcmRzLm1hcChpdGVtID0+IHsKICAgICAgICBpZiAocmVjb3JkTWFwLmhhcyhpdGVtLnB1Ymxpc2hEYXRlKSkgewogICAgICAgICAgcmVjb3JkTWFwLmdldChpdGVtLnB1Ymxpc2hEYXRlKS5wdXNoKGl0ZW0udmVyc2lvbik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJlY29yZE1hcC5zZXQoaXRlbS5wdWJsaXNoRGF0ZSwgW2l0ZW0udmVyc2lvbl0pOwogICAgICAgIH0KICAgICAgfSk7CgogICAgICBsZXQgZGF5ID0gc3RhcnQuZ2V0RGF5KCkgLSAxOwoKICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBlbmQuZ2V0RGF0ZSgpOykgewogICAgICAgIGxldCBkYXRlID0gZmVjaGEuZm9ybWF0KHN0YXJ0LCAiWVlZWS1NTS1ERCIpOwoKICAgICAgICBsZXQgZGF0YXMgPSByZWNvcmRNYXAuZ2V0KGRhdGUpOwogICAgICAgIGFycmF5W2kgKyBkYXldID0gYDxzcGFuIHN0eWxlPSJmb250LXNpemU6MTRweCI+JHtkYXRlfTwvc3Bhbj5gOwoKICAgICAgICBpZiAoZGF0YXMpIHsKICAgICAgICAgIGFycmF5W2kgKyBkYXldICs9IGRhdGFzLm1hcChpdGVtID0+IGA8ZGl2IHN0eWxlPSJmb250LXNpemU6MTRweDtiYWNrZ3JvdW5kLWNvbG9yOiNlZWUiPiR7aXRlbX08L2Rpdj5gKS5qb2luKCIiKTsKICAgICAgICB9CgogICAgICAgIHN0YXJ0LnNldERhdGUoc3RhcnQuZ2V0RGF0ZSgpICsgMSk7CiAgICAgICAgaSA9IHN0YXJ0LmdldERhdGUoKSAtIDE7CiAgICAgIH0KCiAgICAgIGxldCBkYXRlcyA9IFtdOwogICAgICBjb25zdCBjaHVuayA9IDc7CiAgICAgIGZvciAobGV0IGkgPSAwLCBqID0gYXJyYXkubGVuZ3RoOyBpIDwgajsgaSArPSBjaHVuaykgewogICAgICAgIGxldCB0ZW1wID0gYXJyYXkuc2xpY2UoaSwgaSArIGNodW5rKTsKICAgICAgICBkYXRlcy5wdXNoKHRlbXApOwogICAgICB9CgogICAgICBjb25zdCB0ZXh0ID0gdGhpcy5nZXRFbWFpbEFwcFJlbGVhc2VUZW1wbGF0ZSgpKHsgcmVjb3JkcywgZGF0ZXMsIHN0YXJ0LCBlbmQgfSk7CgogICAgICByZXR1cm4gewogICAgICAgIGVtYWlscywKICAgICAgICBib2R5OnRleHQKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeWVzdGVyZGF5ID0gY3R4LmhlbHBlci5nZXRZZXN0ZXJkYXlEYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBjdHggfSA9IHRoaXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBhc3luYyBnZXRXeEFwcFJlbGVhc2VMaXN0KCkgewogICAgICBjb25zdCB7IGN0eCB9ID0gdGhpczsKICAgICAgY29uc3QgbGlzdCA9IGF3YWl0IGN0eC5zZXJ2aWNlLmdtYS5nZXRBcHBSZWxlYXNlRm9yWWVzdGVyZGF5KCk7CgogICAgICBsZXQgbWFwID0gbmV3IE1hcCgpOwogICAgICBsaXN0Lm1hcChpdGVtID0+IHsKICAgICAgICBtYXAuc2V0KGl0ZW0udGl0bGUgKyBpdGVtLmV4dHJhLnJlbWFyaywgaXRlbS5leHRyYSk7CiAgICAgIH0pOwogICAgICBsZXQgZGF0YSA9IHsgZGF0YTogQXJyYXkuZnJvbShtYXApLm1hcChpdGVtID0+IGl0ZW1bMV0pIH07CgogICAgICBsZXQgdXNlcnMgPSBhd2FpdCBjdHguc2VydmljZS5zdWJzY3JpYmVyLmdldFN1YnNjcmliZUFwcFJlbGVhc2VVc2VyKCk7CiAgICAgIGxldCBlbWFpbHMgPSB1c2Vycy5tYXAoaXRlbSA9PiBpdGVtLmVtYWlsKTsKICAgICAgaWYgKGVtYWlscy5sZW5ndGggPT09IDApIHsKICAgICAgICBjdHgubG9nZ2VyLmluZm8oIuayoeacieiuoumYheS6uiIpOwogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgbGV0IGJvZHkgPSB0aGlzLmdldFd4QXBwUmVsZWFzZVRlbXBsYXRlKCd3JykoZGF0YSk7CiAgICAgIHJldHVybiB7CiAgICAgICAgZW1haWxzOiB1c2Vycy5tYXAoaXRlbSA9PiBpdGVtLmVtYWlsKSwKICAgICAgICBib2R5CiAgICAgIH07CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
