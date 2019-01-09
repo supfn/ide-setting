@@ -121,11 +121,11 @@
         <mark key="^" line="13" column="79" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/wx-accident.html" timestamp="1545908426083">
-        <mark key="[" line="9" column="202" />
-        <mark key="]" line="9" column="203" />
-        <mark key="^" line="9" column="203" />
-        <mark key="." line="9" column="203" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/wx-accident.html" timestamp="1547001771147">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="35" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/middleware/flow-params.js" timestamp="1540990581076">
         <mark key="[" line="18" column="5" />
@@ -382,7 +382,7 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1546566035903">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" timestamp="1547002048648">
         <mark key="'" line="229" column="17" />
         <mark key="[" line="205" column="25" />
         <mark key="]" line="205" column="26" />
@@ -462,7 +462,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/debug.js" timestamp="1546565974028">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/debug.js" timestamp="1547002070867">
         <mark key="[" line="7" column="53" />
         <mark key="]" line="33" column="45" />
         <mark key="." line="33" column="45" />
@@ -752,7 +752,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546566044372">
+      <file name="/Dummy.txt" timestamp="1547001865792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -970,10 +970,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>订阅人</text>
+        <text>),'YYYY/MM/dd HH:mm:ss')</text>
       </register>
       <register name="-" type="4">
-        <text>订阅人</text>
+        <text>),'YYYY/MM/dd HH:mm:ss')</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
