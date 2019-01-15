@@ -98,6 +98,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/home.js" timestamp="1547542311363">
+        <mark key="'" line="15" column="47" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="16" column="52" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/schedule/app-release-notify.js" timestamp="1546427703916">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="33" />
@@ -208,7 +215,7 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/package.json" timestamp="1545630384144">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/package.json" timestamp="1547541997763">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
@@ -302,6 +309,11 @@
         <mark key="]" line="14" column="16" />
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/img-services/app/router.js" timestamp="1547540861148">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/notes.js" timestamp="1541143335227">
         <mark key="[" line="22" column="59" />
@@ -440,6 +452,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/img-services/config/config.prd.js" timestamp="1547542059657">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/test/app/service/gma.test.js" timestamp="1545456991794">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -478,6 +496,12 @@
         <mark key="]" line="13" column="49" />
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="47" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/img-services/package.json" timestamp="1547542319469">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/activity.js" timestamp="1545897940319">
         <mark key="'" line="30" column="23" />
@@ -752,7 +776,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547001865792">
+      <file name="/Dummy.txt" timestamp="1547541006891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -820,6 +844,11 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="5" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/img-services/.gitignore" timestamp="1547540394513">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/updateProduction.js" timestamp="1540452967123">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -867,7 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="3" filename="$USER_HOME$/Codes/lab/data-stat/records/publish.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Codes/lab/data-stat/records/repos.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Codes/lab/data-stat/records/index8.js" />
       <jump line="11" column="42" filename="$USER_HOME$/Codes/lab/gitlab-services/test/service/op-jenkins.test.js" />
@@ -967,40 +995,41 @@
       <jump line="37" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
       <jump line="290" column="17" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/notifier.js" />
       <jump line="2" column="12" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/wx-app-release.html" />
+      <jump line="15" column="47" filename="$USER_HOME$/Codes/lab/img-services/app/controller/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>),'YYYY/MM/dd HH:mm:ss')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ0ZXh0LXRvLXN2ZyI6ICJeMy4xLjMiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>),'YYYY/MM/dd HH:mm:ss')</text>
+        <text>parse</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgubG9nZ2VyLmluZm8oIuayoeacieiuoumYheS6uiIpOwogICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihwYXJhbXMubWFyZ2luKXsKICAgICAgICAgICAgcGFyc2UubWFyZ2luID0gcGFyc2VJbnQocGFyc2UubWFyZ2luLDEwKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0ZXh0LXRvLXN2ZyI6ICJeMy4xLjMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0Cg==</text>
+        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4yMS4yIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cG9ydHMubW9uZ29vc2UgPSB7CiAgICAgICAgdXJsOgogICAgICAgICAgICAnbW9uZ29kYjovL3Jvb3Q6aDN1UVRHdG93SVdwWGNwOEBkZHMtMnplYTQ2ZWZlM2NhYTBiNDEubW9uZ29kYi5yZHMuYWxpeXVuY3MuY29tOjM3MTcvZXZlbnQtc3Vic2NyaXB0aW9uP2F1dGhTb3VyY2U9YWRtaW4mcmVwbGljYVNldD1tZ3NldC03ODYyMTE1JywKICAgICAgICBvcHRpb25zOiB7IHVzZU5ld1VybFBhcnNlcjogdHJ1ZSB9CiAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy9xcmNhcmQnLCBjb250cm9sbGVyLmhvbWUucXJDYXJkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhcnQsIGVuZCkKCiAgICAgIGNvbnNvbGUubG9nKHN0YXJ0LCBlbmQpCgo=</text>
+        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2hhcnAgPSByZXF1aXJlKCdzaGFycCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGlmKHByb2Nlc3MuZW52LikK</text>
+        <text encoding="base64">Y29uc3QgVGV4dFRvU1ZHID0gcmVxdWlyZSgndGV4dC10by1zdmcnKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1009,7 +1038,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGVtYWlsQXBwUmVsZWFzZUNvbnRlbnQoKSB7CiAgICAgIGNvbnN0IHsgY3R4IH0gPSB0aGlzOwoKICAgICAgY29uc3QgZGF0ZSA9IG5ldyBEYXRlKCk7CiAgICAgIGNvbnN0IHN0YXJ0ID0gY3R4LmhlbHBlci5nZXRGaXJzdERheU9mTW9udGgoZGF0ZSk7CiAgICAgIGNvbnN0IGVuZCA9IGN0eC5oZWxwZXIuZ2V0TGFzdERheU9mTW9udGgoZGF0ZSk7CgogICAgICBsZXQgYXJyYXkgPSBbXTsKCiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgMzU7IGkrKykgewogICAgICAgIGFycmF5LnB1c2goIiIpOwogICAgICB9CgogICAgICBsZXQgeWVzdGVyZGF5Q2hhbmdlZCA9IGF3YWl0IGN0eC5zZXJ2aWNlLmdtYS5nZXRBcHBSZWxlYXNlRm9yWWVzdGVyZGF5KCk7CgogICAgICBpZiAoeWVzdGVyZGF5Q2hhbmdlZC5sZW5ndGggPT09IDApIHsKICAgICAgICBjdHgubG9nZ2VyLmluZm8oIuaYqOaXpeaXoOabtOaWsOiusOW9lSIpOwogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgbGV0IHVzZXJzID0gYXdhaXQgY3R4LnNlcnZpY2Uuc3Vic2NyaWJlci5nZXRTdWJzY3JpYmVBcHBSZWxlYXNlVXNlcigpOwogICAgICBsZXQgZW1haWxzID0gdXNlcnMubWFwKGl0ZW0gPT4gaXRlbS5lbWFpbCk7CiAgICAgIGlmIChlbWFpbHMubGVuZ3RoID09PSAwKSB7CiAgICAgICAgY3R4LmxvZ2dlci5pbmZvKCLmsqHmnInorqLpmIXkuroiKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KCiAgICAgIGN0eC5sb2dnZXIuaW5mbygi6K6i6ZiF5Lq65YiX6KGoIiwgZW1haWxzLmpvaW4oIiwiKSk7CgogICAgICBsZXQgcmVjb3JkcyA9IGF3YWl0IGN0eC5zZXJ2aWNlLmdtYS5nZXRBcHBSZWxlYXNlTGlzdEZvck1vbnRoKCk7CgogICAgICBsZXQgcmVjb3JkTWFwID0gbmV3IE1hcCgpOwogICAgICByZWNvcmRzLm1hcChpdGVtID0+IHsKICAgICAgICBpZiAocmVjb3JkTWFwLmhhcyhpdGVtLnB1Ymxpc2hEYXRlKSkgewogICAgICAgICAgcmVjb3JkTWFwLmdldChpdGVtLnB1Ymxpc2hEYXRlKS5wdXNoKGl0ZW0udmVyc2lvbik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJlY29yZE1hcC5zZXQoaXRlbS5wdWJsaXNoRGF0ZSwgW2l0ZW0udmVyc2lvbl0pOwogICAgICAgIH0KICAgICAgfSk7CgogICAgICBsZXQgZGF5ID0gc3RhcnQuZ2V0RGF5KCkgLSAxOwoKICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBlbmQuZ2V0RGF0ZSgpOykgewogICAgICAgIGxldCBkYXRlID0gZmVjaGEuZm9ybWF0KHN0YXJ0LCAiWVlZWS1NTS1ERCIpOwoKICAgICAgICBsZXQgZGF0YXMgPSByZWNvcmRNYXAuZ2V0KGRhdGUpOwogICAgICAgIGFycmF5W2kgKyBkYXldID0gYDxzcGFuIHN0eWxlPSJmb250LXNpemU6MTRweCI+JHtkYXRlfTwvc3Bhbj5gOwoKICAgICAgICBpZiAoZGF0YXMpIHsKICAgICAgICAgIGFycmF5W2kgKyBkYXldICs9IGRhdGFzLm1hcChpdGVtID0+IGA8ZGl2IHN0eWxlPSJmb250LXNpemU6MTRweDtiYWNrZ3JvdW5kLWNvbG9yOiNlZWUiPiR7aXRlbX08L2Rpdj5gKS5qb2luKCIiKTsKICAgICAgICB9CgogICAgICAgIHN0YXJ0LnNldERhdGUoc3RhcnQuZ2V0RGF0ZSgpICsgMSk7CiAgICAgICAgaSA9IHN0YXJ0LmdldERhdGUoKSAtIDE7CiAgICAgIH0KCiAgICAgIGxldCBkYXRlcyA9IFtdOwogICAgICBjb25zdCBjaHVuayA9IDc7CiAgICAgIGZvciAobGV0IGkgPSAwLCBqID0gYXJyYXkubGVuZ3RoOyBpIDwgajsgaSArPSBjaHVuaykgewogICAgICAgIGxldCB0ZW1wID0gYXJyYXkuc2xpY2UoaSwgaSArIGNodW5rKTsKICAgICAgICBkYXRlcy5wdXNoKHRlbXApOwogICAgICB9CgogICAgICBjb25zdCB0ZXh0ID0gdGhpcy5nZXRFbWFpbEFwcFJlbGVhc2VUZW1wbGF0ZSgpKHsgcmVjb3JkcywgZGF0ZXMsIHN0YXJ0LCBlbmQgfSk7CgogICAgICByZXR1cm4gewogICAgICAgIGVtYWlscywKICAgICAgICBib2R5OnRleHQKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGFzeW5jIHFyQ2FyZCgpIHsKICAgICAgICBmdW5jdGlvbiBzdHJlYW1Ub0J1ZmZlcihzdHJlYW0pIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgIGxldCBidWZmZXJzID0gW107CiAgICAgICAgICAgICAgICBzdHJlYW0ub24oJ2Vycm9yJywgcmVqZWN0KTsKICAgICAgICAgICAgICAgIHN0cmVhbS5vbignZGF0YScsIChkYXRhKSA9PiBidWZmZXJzLnB1c2goZGF0YSkpOwogICAgICAgICAgICAgICAgc3RyZWFtLm9uKCdlbmQnLCAoKSA9PiByZXNvbHZlKEJ1ZmZlci5jb25jYXQoYnVmZmVycykpKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICBjb25zdCB7IHJlcyB9ID0gdGhpcy5jdHg7CiAgICAgICAgY29uc3QgcGFyYW1zID0gdGhpcy5jdHgucXVlcnk7CiAgICAgICAgY29uc3QgY29kZSA9IHFyLmltYWdlKHBhcmFtcy50ZXh0IHx8ICc/Pz8nLCB7CiAgICAgICAgICAgIHR5cGU6IHBhcmFtcy50eXBlIHx8ICdwbmcnLAogICAgICAgICAgICBtYXJnaW46IHBhcmFtcy5tYXJnaW4gfHwgMSwKICAgICAgICAgICAgc2l6ZTogcGFyYW1zLnNpemUgfHwgNQogICAgICAgIH0pOwogICAgICAgIHJlcy5zZXRIZWFkZXIoJ0NvbnRlbnQtdHlwZScsICdpbWFnZS9wbmcnKTsgIC8vc2VudCBxciBpbWFnZSB0byBjbGllbnQgc2lkZQogICAgICAgIGxldCBjID0gYXdhaXQgc3RyZWFtVG9CdWZmZXIoY29kZSk7CgoKICAgICAgICBjb25zdCBhdHRyaWJ1dGVzID0geyBmaWxsOiAnIzAwMDAwMCcgfTsKICAgICAgICBjb25zdCBvcHRpb25zID0geyB4OiAwLCB5OiAwLCB3aWR0aDogJzIwMCcsZm9udFNpemU6IDE0LCBhbmNob3I6ICd0b3AnLCBhdHRyaWJ1dGVzOiBhdHRyaWJ1dGVzIH07CgogICAgICAgIGNvbnN0IHRleHRUb1NWRyA9IFRleHRUb1NWRy5sb2FkU3luYyhwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi4vcmVzL3BpbmdmYW5nLnR0ZicpKTsKICAgICAgICBjb25zdCBzdmcgPSB0ZXh0VG9TVkcuZ2V0U1ZHKCfotqPlpLTmnaHkuIrmtbfotrPnkIPkv7HkuZAnLCBvcHRpb25zKTsKICAgICAgICBjb25zdCBidWZmID0gQnVmZmVyLmZyb20oc3ZnKTsKCgogICAgICAgIGxldCBzID0gYXdhaXQgc2hhcnAoewogICAgICAgICAgICBjcmVhdGU6IHsKICAgICAgICAgICAgICAgIHdpZHRoOiAyMDAsCiAgICAgICAgICAgICAgICBoZWlnaHQ6IDMwMCwKICAgICAgICAgICAgICAgIGNoYW5uZWxzOiA0LAogICAgICAgICAgICAgICAgYmFja2dyb3VuZDogeyByOiAyNTUsIGc6IDI1NSwgYjogMjU1LCBhbHBoYTogMSB9CiAgICAgICAgICAgIH0KICAgICAgICB9KS5vdmVybGF5V2l0aChidWZmLCB7CiAgICAgICAgICAgIGxlZnQ6IDUsCiAgICAgICAgICAgIHRvcDogMAogICAgICAgIH0pCiAgICAgICAgICAgIC5wbmcoKQogICAgICAgICAgICAudG9CdWZmZXIoKTsKCiAgICAgICAgbGV0IG0gPSBzaGFycChzLHsKICAgICAgICB9KQogICAgICAgICAgICAub3ZlcmxheVdpdGgoYywgewogICAgICAgICAgICAgICAgLy9ncmF2aXR5OiBzaGFycC5ncmF2aXR5LnNvdXRoCiAgICAgICAgICAgICAgICBsZWZ0OiA0NCwKICAgICAgICAgICAgICAgIHRvcDogMTUwCiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC5wbmcoKQogICAgICAgIHRoaXMuY3R4LmJvZHkgPSBtOwoKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
