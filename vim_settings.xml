@@ -65,10 +65,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/gma.js" timestamp="1546481465727">
-        <mark key="[" line="19" column="67" />
-        <mark key="]" line="19" column="67" />
-        <mark key="." line="19" column="67" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/gma.js" timestamp="1548817792381">
+        <mark key="[" line="85" column="25" />
+        <mark key="]" line="85" column="25" />
+        <mark key="." line="85" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dotfiles/init.sh" timestamp="1543939532849">
         <mark key="[" line="4" column="22" />
@@ -168,8 +168,8 @@
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1546424990837">
-        <mark key="[" line="24" column="69" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1548817718676">
+        <mark key="[" line="10" column="42" />
         <mark key="]" line="24" column="76" />
         <mark key="." line="25" column="93" />
         <mark key="^" line="24" column="76" />
@@ -1005,10 +1005,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>arraignment_date</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>arraignment_date</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
