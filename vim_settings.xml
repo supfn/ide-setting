@@ -650,10 +650,11 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/test/app/service/sdk.test.js" timestamp="1550489091503">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/test/app/service/sdk.test.js" timestamp="1550491046499">
+        <mark key="[" line="98" column="38" />
+        <mark key="]" line="98" column="34" />
+        <mark key="." line="98" column="34" />
+        <mark key="^" line="98" column="34" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/env.js" timestamp="1540990757062">
         <mark key="[" line="6" column="0" />
@@ -725,10 +726,11 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/sdk.js" timestamp="1550486077813">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/sdk.js" timestamp="1550491015502">
+        <mark key="[" line="111" column="24" />
+        <mark key="]" line="111" column="24" />
+        <mark key="." line="111" column="24" />
+        <mark key="^" line="110" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app.js" timestamp="1550313706724">
         <mark key="[" line="11" column="0" />
@@ -816,7 +818,7 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/read-field.js" timestamp="1550484923790">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/read-field.js" timestamp="1550490991598">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="29" />
         <mark key="^" line="13" column="33" />
@@ -1022,11 +1024,11 @@
       <jump line="14" column="13" filename="$USER_HOME$/Codes/lab/ehr-db/app/migrations/ehr-gen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGl0KCdtZXRhJywgYXN5bmMgKCk9PnsKICAgICAgICBsZXQgcyA9IGF3YWl0IGN0eC5zZXJ2aWNlLnNkay5nZXRNZXRhKGVuY29kZVVSSUNvbXBvbmVudCgnVGVuYW50QmFzZS5FbXBsb3ltZW50UmVjb3JkJykpOwoKICAgICAgICBjb25zb2xlLmxvZyhzKQogICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>J</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
