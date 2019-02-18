@@ -503,11 +503,11 @@
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/get-enum.js" timestamp="1550486494540">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="17" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/get-enum.js" timestamp="1550488981332">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/templates/prd-checklist-template.html" timestamp="1541139772540">
         <mark key="[" line="69" column="8" />
@@ -650,11 +650,10 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/test/app/service/sdk.test.js" timestamp="1550486093174">
-        <mark key="[" line="104" column="96" />
-        <mark key="]" line="104" column="64" />
-        <mark key="^" line="104" column="64" />
-        <mark key="." line="104" column="64" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/test/app/service/sdk.test.js" timestamp="1550489091503">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/env.js" timestamp="1540990757062">
         <mark key="[" line="6" column="0" />
@@ -746,6 +745,9 @@
         <mark key="]" line="24" column="10" />
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="10" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/helper/place.js" timestamp="1550489052950">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/notify-template.js" timestamp="1545632583892">
         <mark key="[" line="18" column="74" />
@@ -1020,11 +1022,11 @@
       <jump line="14" column="13" filename="$USER_HOME$/Codes/lab/ehr-db/app/migrations/ehr-gen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGl0KCdtZXRhJywgYXN5bmMgKCk9PnsKICAgICAgICBsZXQgcyA9IGF3YWl0IGN0eC5zZXJ2aWNlLnNkay5nZXRNZXRhKGVuY29kZVVSSUNvbXBvbmVudCgnVGVuYW50QmFzZS5FbXBsb3ltZW50UmVjb3JkJykpOwoKICAgICAgICBjb25zb2xlLmxvZyhzKQogICAgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -1033,34 +1035,34 @@
         <text encoding="base64">ICAgIGl0KCfnlKjmiLfmlbDmja5iYXNpYycsIGFzeW5jICgpPT57CgogICAgICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGN0eC5zZXJ2aWNlLnNkay5nZXRFbXBsb3llZUJhc2ljSW5mbyh7CiAgICAgICAgICAgIGlkcyA6IFsKICAgICAgICAgICAgICAgICcxMjI3NTk5MzcnCiAgICAgICAgICAgIF0KICAgICAgICB9KTsKCiAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVzdWx0KSk7CiAgICAgICAgYXNzZXJ0KHJlc3VsdCk7CiAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdtZXRhJywgYXN5bmMgKCk9PnsKICAgICAgICBsZXQgcyA9IGF3YWl0IGN0eC5zZXJ2aWNlLnNkay5nZXRNZXRhKGVuY29kZVVSSUNvbXBvbmVudCgnVGVuYW50QmFzZS5FbXBsb3ltZW50UmVjb3JkJykpOwoKICAgICAgICBjb25zb2xlLmxvZyhzKQogICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGEubGVuZ3RoKQogICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9jb3JlaHJhcGkuYmVpc2VuLmNvbS9Eb2N1bWVudC9EYXRhU291cmNlTGlzdD9kc05hbWU9TmF0aXZlUGxhY2UmZmllbGROYW1lPVBsYWNlJm1ldGFPYmplY3ROYW1lPVRlbmFudEJhc2UuRW1wbG95bWVudFJlY29yZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICAgICAgaHR0cC5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vblsnQXV0aG9yaXphdGlvbiddCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBlOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGEubGVuZ3RoKQogICAgcmV0dXJuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcyA9IGF3YWl0IFByb21pc2UuYWxsKGFycmF5KQo=</text>
+        <text encoding="base64">aHR0cHM6Ly9jb3JlaHJhcGkuYmVpc2VuLmNvbS9Eb2N1bWVudC9EYXRhU291cmNlTGlzdD9kc05hbWU9TmF0aXZlUGxhY2UmZmllbGROYW1lPVBsYWNlJm1ldGFPYmplY3ROYW1lPVRlbmFudEJhc2UuRW1wbG95bWVudFJlY29yZAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICAgICAgaHR0cC5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vblsnQXV0aG9yaXphdGlvbiddCiAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
