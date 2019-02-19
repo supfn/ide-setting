@@ -159,6 +159,12 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="12" column="47" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncJobLevel.js" timestamp="1550565568375">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/home.js" timestamp="1545463480464">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="7" column="0" />
@@ -213,6 +219,12 @@
         <mark key="[" line="27" column="57" />
         <mark key="]" line="29" column="40" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/test-sdk.js" timestamp="1550563475917">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/test.js" timestamp="1544614376078">
         <mark key="[" line="106" column="0" />
@@ -272,11 +284,11 @@
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/joblevel.js" timestamp="1550499417783">
         <mark key="[" line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" timestamp="1550559252863">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="31" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" timestamp="1550564375318">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="49" />
+        <mark key="." line="30" column="49" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/lab/img-services/package.json" timestamp="1547542319469">
         <mark key="[" line="9" column="23" />
@@ -651,7 +663,7 @@
         <mark key="." line="25" column="93" />
         <mark key="^" line="24" column="76" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/worker.js" timestamp="1550559898484">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/worker.js" timestamp="1550564217835">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -971,9 +983,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1550559283918">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="28" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1550565444775">
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-client/src/components/WithModal/index.js" timestamp="1544695497039">
         <mark key="[" line="8" column="16" />
@@ -1028,7 +1042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-jobs.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" />
       <jump line="121" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/test/service/ops.test.js" />
@@ -1128,49 +1141,50 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/ehr-db/app/service/sdk.js" />
       <jump line="8" column="1" filename="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/worker.js" />
+      <jump line="13" column="42" filename="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgQmVpc2VuU0RLID0gcmVxdWlyZSgnLi4vdmVuZG9yL2JlaXNlbi9zZGsnKTsKY29uc3Qgc2RrID0gbmV3IEJlaXNlblNESygpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBFbXBsb3llZUluZm9ybWF0aW9uID0gcmVxdWlyZSgnLi4vLi4vbW9kZWwvZW1wbG95ZWUtaW5mb3JtYXRpb24nKShhcHApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyBnZXRUaW1lV2luZG93Sm9iU2VxdWVuY2UoYXJncykgewoKICAgICAgICAgICAgbGV0IHsgcGFnZUluZGV4ID0gMSwgcGFnZVNpemUgPSAzMDAsIHN0YXJ0VGltZSwgZW5kVGltZSB9ID0gYXJnczsKCgogICAgICAgICAgICByZXR1cm4gdGhpcy5odHRwQ2xpZW50KHsKICAgICAgICAgICAgICAgIHVybDogYC9qb2JzZXF1ZW5jZS90aW1ld2luZG93L3NlYXJjaGAsCiAgICAgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgICAgICAiV2l0aERpc2FibGVkIjogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAiV2l0aERlbGV0ZWQiOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICJTb3J0Ijoge30sCiAgICAgICAgICAgICAgICAgICAgIkV4dFBhcmFtcyI6IHt9LAogICAgICAgICAgICAgICAgICAgICJTdGFydFRpbWUiOiBzdGFydFRpbWUsCiAgICAgICAgICAgICAgICAgICAgIlN0b3BUaW1lIjogZW5kVGltZSwKICAgICAgICAgICAgICAgICAgICAiUGFnZUluZGV4IjogcGFnZUluZGV4LAogICAgICAgICAgICAgICAgICAgICJQYWdlU2l6ZSI6IHBhZ2VTaXplLAogICAgICAgICAgICAgICAgICAgICJDb2x1bW5zIjogWwogICAgICAgICAgICAgICAgICAgICAgICAnQnVzaW5lc3NNb2RpZmllZFRpbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnU3RkSXNEZWxldGVkJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0J1c2luZXNzTW9kaWZpZWRCeScsCiAgICAgICAgICAgICAgICAgICAgICAgICdOYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgJ09yZGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0lzRGVsZXRlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdDcmVhdGVkQnknLAogICAgICAgICAgICAgICAgICAgICAgICAnTW9kaWZpZWRCeScsCiAgICAgICAgICAgICAgICAgICAgICAgICdDcmVhdGVkVGltZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdNb2RpZmllZFRpbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnSm9iTGV2ZWxUeXBlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1N0YXR1cycsCiAgICAgICAgICAgICAgICAgICAgICAgICdPSWQnLAogICAgICAgICAgICAgICAgICAgICAgICAnT0lkUmVzb3VyY2VTZXQnLAogICAgICAgICAgICAgICAgICAgICAgICAnU3RhcnREYXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1N0b3BEYXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ1BPSWQnLAogICAgICAgICAgICAgICAgICAgICAgICAnYXNzb2NpYXRlJ10KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICBhc3luYyBnZXRKb2JTZXF1ZW5jZShhcmdzKSB7CiAgICAgICAgICAgIC8vIC9qb2JzZXF1ZW5jZS9pZHMvc2VhcmNoCiAgICAgICAgICAgIC8vIOmAmui/h+iBjOWKoeW6j+WIl0lE6I635Y+W6IGM5Yqh5bqP5YiX5pWw5o2uCgogICAgICAgICAgICBsZXQgeyBpZHMgfSA9IGFyZ3M7CiAgICAgICAgICAgIHJldHVybiB0aGlzLmh0dHBDbGllbnQoewogICAgICAgICAgICAgICAgdXJsOiBgL2pvYnNlcXVlbmNlL2lkcy9zZWFyY2hgLAogICAgICAgICAgICAgICAgbWV0aG9kOiAncG9zdCcsCiAgICAgICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICAgICAgIklkcyI6IGlkcywKICAgICAgICAgICAgICAgICAgICBjb2x1bW5zOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICdCdXNpbmVzc01vZGlmaWVkVGltZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdTdGRJc0RlbGV0ZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAnQnVzaW5lc3NNb2RpZmllZEJ5JywKICAgICAgICAgICAgICAgICAgICAgICAgJ05hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnT3JkZXInLAogICAgICAgICAgICAgICAgICAgICAgICAnSXNEZWxldGVkJywKICAgICAgICAgICAgICAgICAgICAgICAgJ0NyZWF0ZWRCeScsCiAgICAgICAgICAgICAgICAgICAgICAgICdNb2RpZmllZEJ5JywKICAgICAgICAgICAgICAgICAgICAgICAgJ0NyZWF0ZWRUaW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgJ01vZGlmaWVkVGltZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdKb2JMZXZlbFR5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAnU3RhdHVzJywKICAgICAgICAgICAgICAgICAgICAgICAgJ09JZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdPSWRSZXNvdXJjZVNldCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdTdGFydERhdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAnU3RvcERhdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAnUE9JZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICdhc3NvY2lhdGUnCiAgICAgICAgICAgICAgICAgICAgXQoKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChhY3Rpb25zKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYWN0aW9ucyA9IHNldHRpbmdzLkRhdGEubWFwKGl0ZW0gPT4gewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc2V0dGluZ3MgPSBhd2FpdCBzZGsuZ2V0U2V0dGluZ0pvYkxldmVsKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtc2cpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiTWVzc2FnZSBpZCA6ICIgKyBpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGlkc2hpb2ZoZG9pc2Fpb2Zkc29hJyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCByc21xLnNlbmRNZXNzYWdlKHsKICAgICAgICAgICAgcW5hbWU6ICdzZXR0aW5nLXN5bmMnLAogICAgICAgICAgICBtZXNzYWdlIDogJ2hpJwogICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
