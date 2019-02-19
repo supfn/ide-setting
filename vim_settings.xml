@@ -96,6 +96,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/model/organization.js" timestamp="1550572771889">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/test/test.sh" timestamp="1545467403197">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -220,10 +225,10 @@
         <mark key="]" line="29" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/test-sdk.js" timestamp="1550570439138">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/test-sdk.js" timestamp="1550572350767">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
-        <mark key="^" line="20" column="3" />
+        <mark key="^" line="21" column="3" />
         <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/test.js" timestamp="1544614376078">
@@ -284,11 +289,12 @@
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/joblevel.js" timestamp="1550499417783">
         <mark key="[" line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" timestamp="1550566834066">
-        <mark key="[" line="44" column="49" />
-        <mark key="]" line="44" column="49" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="47" column="31" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" timestamp="1550573705317">
+        <mark key="'" line="55" column="40" />
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="46" column="49" />
+        <mark key="." line="46" column="49" />
+        <mark key="^" line="51" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/lab/img-services/package.json" timestamp="1547542319469">
         <mark key="[" line="9" column="23" />
@@ -441,6 +447,11 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/migrations/20190218123432-create-organization.js" timestamp="1550572789760">
+        <mark key="[" line="243" column="8" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/repos-desc.sh" timestamp="1545200074161">
         <mark key="[" line="36" column="55" />
         <mark key="]" line="35" column="0" />
@@ -471,11 +482,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/enums.js" timestamp="1550568530784">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/enums.js" timestamp="1550573123624">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/service/km.test.js" timestamp="1543370175254">
@@ -574,6 +585,11 @@
         <mark key="]" line="266" column="0" />
         <mark key="." line="266" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/.env" timestamp="1550571601182">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="3" column="60" />
+        <mark key="." line="3" column="60" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qadp-common-service/app/controller/email.js" timestamp="1540266674253">
         <mark key="[" line="47" column="23" />
         <mark key="]" line="71" column="28" />
@@ -596,10 +612,14 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/beisen/sdk.js" timestamp="1550560088529">
-        <mark key="[" line="566" column="0" />
-        <mark key="]" line="566" column="0" />
-        <mark key="." line="566" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/beisen/sdk.js" timestamp="1550572347676">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/organization.js" timestamp="1550572797354">
+        <mark key="[" line="81" column="6" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/jenkins-global/test.sh" timestamp="1545131586222">
         <mark key="[" line="26" column="0" />
@@ -792,7 +812,7 @@
         <mark key="^" line="72" column="53" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/package.json" timestamp="1550301675856" />
-      <file name="$USER_HOME$/Codes/lab/ehr-db/.env" timestamp="1550486009825">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/.env" timestamp="1550571879898">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="3" column="60" />
         <mark key="." line="3" column="60" />
@@ -926,6 +946,12 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="40" column="4" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncOrganization.js" timestamp="1550574101955">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.ut.js" timestamp="1540988808727">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -990,11 +1016,12 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1550570464700">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1550574054349">
+        <mark key="e" line="32" column="47" />
         <mark key="'" line="20" column="42" />
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="62" column="39" />
-        <mark key="." line="62" column="39" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-client/src/components/WithModal/index.js" timestamp="1544695497039">
         <mark key="[" line="8" column="16" />
@@ -1049,7 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" />
       <jump line="121" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/test/service/ops.test.js" />
       <jump line="13" column="38" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" />
@@ -1149,13 +1175,14 @@
       <jump line="8" column="1" filename="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/worker.js" />
       <jump line="13" column="42" filename="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" />
+      <jump line="53" column="40" filename="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getSettingJobLevel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbS5PSWQpCiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="-" type="4">
-        <text>getSettingJobLevel</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -1164,45 +1191,34 @@
         <text encoding="base64">ICAgIGxldCBFbXBsb3llZUluZm9ybWF0aW9uID0gcmVxdWlyZSgnLi4vLi4vbW9kZWwvZW1wbG95ZWUtaW5mb3JtYXRpb24nKShhcHApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbS5PSWQpCiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkay5nZXRUaW1lV2luZG93RW1wbG95ZWUoewogICAgICAgICAgICAgICAgICAgIHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICAgICBlbmRUaW1lLAogICAgICAgICAgICAgICAgICAgIHBhZ2VJbmRleDogaSwKICAgICAgICAgICAgICAgICAgICBwYWdlU2l6ZQogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtc2cpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkay5nZXRUaW1lV2luZG93RW1wbG95ZWUoewogICAgICAgICAgICAgICAgICAgIHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICAgICBlbmRUaW1lLAogICAgICAgICAgICAgICAgICAgIHBhZ2VJbmRleDogaSwKICAgICAgICAgICAgICAgICAgICBwYWdlU2l6ZQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAudGhlbihkYXRhID0+IGRhdGEuRGF0YSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZW51bXMub3JnYW5pemF0aW9uQ2hhbmdlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTEsIGNoYW5uZWxzLm9yZ2FuaXphdGlvbkNoYW5nZSkK</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-
-    // 员工信息变更时，会触发 info 和 record 变更
-    employeeInformationChange : 'EMPLOYEE_INFORMATION_CHANGE',
-    employmentRecordChange : 'EMPLOYMENT_RECORD_CHANGE',
-
-    // 每次定时脚本都触发一次setting变更
-    settingSync : 'SETTING_SYNC',
-
-    // 组织结构变更
-    organizationChange : 'ORGANIZATION_CHANGE'
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHF1ZXVlcyA9IGF3YWl0IHJzbXEubGlzdFF1ZXVlcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjaGFubmVscy5lbXBsb3llZUluZm9ybWF0aW9uQ2hhbmdlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChhY3Rpb25zKTsK</text>
+        <text encoding="base64">fWNhdGNoKGUpewogICAgICAgIGNvbnNvbGUubG9nKGUpCiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYWN0aW9ucyA9IHNldHRpbmdzLkRhdGEubWFwKGl0ZW0gPT4gewo=</text>
+        <text encoding="base64">ICAgIHRyeXsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
