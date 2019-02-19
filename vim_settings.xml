@@ -692,12 +692,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/test/app/service/sdk.test.js" timestamp="1550502009236">
-        <mark key="'" line="175" column="56" />
-        <mark key="[" line="151" column="6" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="154" column="44" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/test/app/service/sdk.test.js" timestamp="1550541666646">
+        <mark key="'" line="202" column="56" />
+        <mark key="[" line="77" column="7" />
+        <mark key="]" line="77" column="7" />
+        <mark key="." line="77" column="7" />
+        <mark key="^" line="181" column="44" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/controller/ci/env.js" timestamp="1540990757062">
         <mark key="[" line="6" column="0" />
@@ -769,7 +769,7 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/sdk.js" timestamp="1550502089664">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/sdk.js" timestamp="1550541542864">
         <mark key="[" line="582" column="30" />
         <mark key="]" line="582" column="31" />
         <mark key="." line="582" column="31" />
@@ -1082,10 +1082,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bsequence</text>
+        <text>skip</text>
       </register>
       <register name="-" type="4">
-        <text>bsequence</text>
+        <text>skip</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
