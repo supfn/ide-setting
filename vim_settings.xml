@@ -220,11 +220,11 @@
         <mark key="]" line="29" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/test-sdk.js" timestamp="1550563475917">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/test-sdk.js" timestamp="1550570439138">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/test.js" timestamp="1544614376078">
         <mark key="[" line="106" column="0" />
@@ -990,12 +990,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1550568976914">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1550570464700">
         <mark key="'" line="20" column="42" />
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="9" column="13" />
+        <mark key="[" line="62" column="39" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="39" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-client/src/components/WithModal/index.js" timestamp="1544695497039">
         <mark key="[" line="8" column="16" />
@@ -1153,10 +1152,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>employeeInformationChange</text>
+        <text>getSettingJobLevel</text>
       </register>
       <register name="-" type="4">
-        <text>employeeInformationChange</text>
+        <text>getSettingJobLevel</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -1165,9 +1164,18 @@
         <text encoding="base64">ICAgIGxldCBFbXBsb3llZUluZm9ybWF0aW9uID0gcmVxdWlyZSgnLi4vLi4vbW9kZWwvZW1wbG95ZWUtaW5mb3JtYXRpb24nKShhcHApOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkay5nZXRUaW1lV2luZG93RW1wbG95ZWUoewogICAgICAgICAgICAgICAgICAgIHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICAgICBlbmRUaW1lLAogICAgICAgICAgICAgICAgICAgIHBhZ2VJbmRleDogaSwKICAgICAgICAgICAgICAgICAgICBwYWdlU2l6ZQogICAgICAgICAgICAgICAgfSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkay5nZXRUaW1lV2luZG93RW1wbG95ZWUoewogICAgICAgICAgICAgICAgICAgIHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICAgICBlbmRUaW1lLAogICAgICAgICAgICAgICAgICAgIHBhZ2VJbmRleDogaSwKICAgICAgICAgICAgICAgICAgICBwYWdlU2l6ZQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAudGhlbihkYXRhID0+IGRhdGEuRGF0YSkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>{
 
     // 员工信息变更时，会触发 info 和 record 变更
@@ -1181,29 +1189,20 @@
     organizationChange : 'ORGANIZATION_CHANGE'
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChhY3Rpb25zKTsK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYWN0aW9ucyA9IHNldHRpbmdzLkRhdGEubWFwKGl0ZW0gPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc2V0dGluZ3MgPSBhd2FpdCBzZGsuZ2V0U2V0dGluZ0pvYkxldmVsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBQcm9taXNlLmFsbChhY3Rpb25zKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYWN0aW9ucyA9IHNldHRpbmdzLkRhdGEubWFwKGl0ZW0gPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
