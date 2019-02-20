@@ -164,7 +164,7 @@
         <mark key="^" line="54" column="45" />
         <mark key="." line="58" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/employmentrecord.js" timestamp="1550644787761">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/employmentrecord.js" timestamp="1550646605044">
         <mark key="[" line="88" column="6" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/get-enum.js" timestamp="1550488981332">
@@ -287,11 +287,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/migrations/20190220045232-create-employeeinformation.js" timestamp="1550639084749">
-        <mark key="[" line="358" column="8" />
-        <mark key="]" line="212" column="31" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/migrations/20190220045232-create-employeeinformation.js" timestamp="1550646183857">
+        <mark key="[" line="300" column="32" />
+        <mark key="]" line="300" column="32" />
         <mark key="^" line="212" column="31" />
-        <mark key="." line="212" column="31" />
+        <mark key="." line="300" column="32" />
       </file>
       <file name="$USER_HOME$/Downloads/preview_laxin_pre-api-laxin-qukan.aimodou.net/composer.json" timestamp="1542344902498">
         <mark key="[" line="29" column="30" />
@@ -703,10 +703,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>employeeinformation</text>
+        <text>STRING</text>
       </register>
       <register name="-" type="4">
-        <text>employeeinformation</text>
+        <text>STRING</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
