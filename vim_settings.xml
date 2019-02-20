@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmploymentRecord.js" timestamp="1550651223430">
-        <mark key="[" line="25" column="10" />
-        <mark key="]" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="27" column="11" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmploymentRecord.js" timestamp="1550666874270">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dotfiles/init.sh" timestamp="1543939532849">
         <mark key="[" line="4" column="22" />
@@ -111,11 +111,11 @@
         <mark key="." line="30" column="34" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncJobLevel.js" timestamp="1550579102212">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncJobLevel.js" timestamp="1550666916382">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="23" column="41" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/schedule/accident-notify.js" timestamp="1545749338365">
         <mark key="[" line="17" column="24" />
@@ -202,12 +202,12 @@
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/joblevel.js" timestamp="1550638683315">
         <mark key="[" line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" timestamp="1550581144956">
-        <mark key="'" line="57" column="40" />
-        <mark key="[" line="58" column="30" />
-        <mark key="]" line="58" column="30" />
-        <mark key="^" line="54" column="45" />
-        <mark key="." line="58" column="30" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" timestamp="1550667097381">
+        <mark key="'" line="88" column="40" />
+        <mark key="[" line="5" column="85" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Codes/lab/img-services/package.json" timestamp="1547542319469">
         <mark key="[" line="9" column="23" />
@@ -631,10 +631,11 @@
         <mark key="]" line="43" column="25" />
         <mark key="." line="43" column="25" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmployeeInformation.js" timestamp="1550629492474">
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="47" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmployeeInformation.js" timestamp="1550666871741">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="32" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/schedule/sync-accident.js" timestamp="1545749304140">
         <mark key="[" line="19" column="5" />
@@ -672,11 +673,16 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/config/config.default.js" timestamp="1550493836145">
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="4" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="40" column="4" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/config/config.default.js" timestamp="1550666996824">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="43" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncOrganization.js" timestamp="1550666884308">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/config/config.ut.js" timestamp="1540988808727">
         <mark key="[" line="2" column="17" />
@@ -690,10 +696,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncJobPostion.js" timestamp="1550581303112">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="43" />
-        <mark key="." line="23" column="43" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncJobPostion.js" timestamp="1550666878818">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/extend/helper.js" timestamp="1545742537873">
         <mark key="[" line="36" column="14" />
@@ -889,47 +895,47 @@
       <jump line="19" column="71" filename="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JvdXRlci5nZXQoJy9zdWItZGVwYXJ0bWVudCcsIGNvbnRyb2xsZXIuZGVwYXJ0bWVudC4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>readFileSync</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>readFileSync</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvc3ViLWRlcGFydG1lbnQnLCBjb250cm9sbGVyLmRlcGFydG1lbnQuZ2V0U3ViRGVwYXJ0bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHAubG9nZ2VyLmVycm9yKGVyciwgbXNnLmlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JvdXRlci5nZXQoJy9zdWItZGVwYXJ0bWVudCcsIGNvbnRyb2xsZXIuZGVwYXJ0bWVudC4pCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsb2dnaW5nOiBjb25zb2xlLmxvZywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dCgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdWNjZXNzKGlkVHJlZVBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50czp7CiAgICAgICAgICAgICAgICAgICAgaWRUcmVlUGF0aCA6IGlkVHJlZVBhdGggKyAnLyUnCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50czp7CiAgICAgICAgICAgICAgICAgICAgaWRUcmVlUGF0aCA6IGlkVHJlZVBhdGggKyAnLyUnCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50czp7CiAgICAgICAgICAgICAgICAgICAgaWRUcmVlUGF0aCA6IGlkVHJlZVBhdGggKyAnLyUnCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50czp7CiAgICAgICAgICAgICAgICAgICAgaWRUcmVlUGF0aCA6IGlkVHJlZVBhdGggKyAnLyUnCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGxhY2VtZW50czp7CiAgICAgICAgICAgICAgICAgICAgaWRUcmVlUGF0aCA6IGlkVHJlZVBhdGggKyAnLyUnCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3luY0VtcGxveW1lbnRSZWNvcmQnLCBVc2VySUQsIGRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
