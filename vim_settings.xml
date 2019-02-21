@@ -618,10 +618,10 @@
         <mark key="]" line="266" column="0" />
         <mark key="." line="266" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/config/config.prd.js" timestamp="1550732153752">
-        <mark key="[" line="42" column="18" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/config/config.prd.js" timestamp="1550734316487">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/.env" timestamp="1550571601182">
         <mark key="[" line="3" column="60" />
@@ -1272,10 +1272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>default</text>
+        <text encoding="base64">MyA=</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text encoding="base64">MyA=</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
