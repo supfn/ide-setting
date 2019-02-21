@@ -533,7 +533,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550739050862">
+      <file name="/Dummy.txt" timestamp="1550745331890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -792,11 +792,11 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1550738509823">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="112" column="38" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1550745295739">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="70" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/.editorconfig" timestamp="1545455337529">
         <mark key="[" line="6" column="12" />
@@ -1127,10 +1127,11 @@
         <mark key="." line="19" column="101" />
         <mark key="^" line="19" column="101" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1550738993722">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1550745302589">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/home.js" timestamp="1550661939922">
         <mark key="[" line="6" column="25" />
@@ -1317,47 +1318,47 @@
       <jump line="41" column="28" filename="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7ZW1haWwsIG5hbWUsIGZha2VFbWFpbCwgZmFrZU5hbWV9ID0gY3R4LmN1cnJlbnRVc2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBgIFBPSWRPcmdBZG1pbk5hbWVUcmVlUGF0aCBsaWtlICcke2l0ZW19LyUnIGAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGlBcnJheSA9IFtdOwogICAgICAgICAgICBsZXQgbUFycmF5ID0gW107CiAgICAgICAgICAgIGxldCB0b3RhbCA9IDA7CgogICAgICAgICAgICByZXN1bHQubWFwKGl0ZW0gPT4gewogICAgICAgICAgICAgICAgdG90YWwgPSB0b3RhbCArIGl0ZW0udmFsdWU7CiAgICAgICAgICAgICAgICBpZiggL15JLy50ZXN0KGl0ZW0ubmFtZSkpewogICAgICAgICAgICAgICAgICAgIGlBcnJheS5wdXNoKGl0ZW0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZXsKICAgICAgICAgICAgICAgICAgICBtQXJyYXkucHVzaChpdGVtKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICByZXN1bHQubWFwKGl0ZW09PnsKICAgICAgICAgICAgICAgIGl0ZW0ucmF0ZSA9IGl0ZW0udmFsdWUgLyB0b3RhbDsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBpQXJyYXkuc29ydCgoYSxiKSA9PiB7CiAgICAgICAgICAgICAgIHJldHVybiAgcGFyc2VJbnQoYS5uYW1lLnJlcGxhY2UoL15cdy8sJycpKSAtIHBhcnNlSW50KGIubmFtZS5yZXBsYWNlKC9eXHcvLCcnKSk7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhpZFRyZWVQYXRoLCBkZXBhcnRtZW50SW5mbykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0ucmF0ZSA9IGl0ZW0udmFsdWUgLyB0b3RhbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiBgIFBPSWRPcmdBZG1pbk5hbWVUcmVlUGF0aCBsaWtlICcke2l0ZW19LyUnIGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGdyb3VwID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGlBcnJheSA9IFtdOwogICAgICAgICAgICBsZXQgbUFycmF5ID0gW107CiAgICAgICAgICAgIGxldCB0b3RhbCA9IDA7CgogICAgICAgICAgICByZXN1bHQubWFwKGl0ZW0gPT4gewogICAgICAgICAgICAgICAgdG90YWwgPSB0b3RhbCArIGl0ZW0udmFsdWU7CiAgICAgICAgICAgICAgICBpZiggL15JLy50ZXN0KGl0ZW0ubmFtZSkpewogICAgICAgICAgICAgICAgICAgIGlBcnJheS5wdXNoKGl0ZW0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZXsKICAgICAgICAgICAgICAgICAgICBtQXJyYXkucHVzaChpdGVtKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICByZXN1bHQubWFwKGl0ZW09PnsKICAgICAgICAgICAgICAgIGl0ZW0ucmF0ZSA9IGl0ZW0udmFsdWUgLyB0b3RhbDsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBpQXJyYXkuc29ydCgoYSxiKSA9PiB7CiAgICAgICAgICAgICAgIHJldHVybiAgcGFyc2VJbnQoYS5uYW1lLnJlcGxhY2UoL15cdy8sJycpKSAtIHBhcnNlSW50KGIubmFtZS5yZXBsYWNlKC9eXHcvLCcnKSk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0ucmF0ZSA9IGl0ZW0udmFsdWUgLyB0b3RhbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyb3VwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Lm1hcChpdGVtID0+ewogICAgICAgICAgICAgICAgbGV0IGFycmF5ID0gaXRlbS5tYXRjaCgvXlx3XGQrLyk7CiAgICAgICAgICAgICAgICBsZXQgcHJlZml4ID0gYXJyYXlbMF07CiAgICAgICAgICAgICAgICBsZXQgdmFsdWUgPSBhcnJheVsxXTsKCiAgICAgICAgICAgICAgICBncm91cFtwcmVmaXhdID0gZ3JvdXBbcHJlZml4XSB8fCBbXTsKICAgICAgICAgICAgICAgIGdyb3VwW3ByZWZpeF0ucHVzaChwYXJzZUludCh2YWx1ZSkpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIE9iamVjdC5rZXlzKGdyb3VwKS5tYXAoa2V5ID0+IHsKICAgICAgICAgICAgICAgIGdyb3VwW2tleV0uc29ydCgpOwogICAgICAgICAgICAgICAgZ3JvdXBba2V5XSA9IGdyb3VwW2tleV0ubWFwKGl0ZW0gPT4gYCR7a2V5fSR7aXRlbX1gKTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
