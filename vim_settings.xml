@@ -1127,11 +1127,11 @@
         <mark key="." line="19" column="101" />
         <mark key="^" line="19" column="101" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1550745302589">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="25" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1550747222167">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="14" column="44" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/home.js" timestamp="1550661939922">
         <mark key="[" line="6" column="25" />
@@ -1318,17 +1318,17 @@
       <jump line="41" column="28" filename="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>姜杰</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>姜杰</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBgIFBPSWRPcmdBZG1pbk5hbWVUcmVlUGF0aCBsaWtlICcke2l0ZW19LyUnIGAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmN1cnJlbnRVc2VyLmZha2VFbWFpbCA9ICdqaWFuZ2ppZUBxdXRvdXRpYW8ubmV0JzsKICAgICAgICAgICAgY3R4LmN1cnJlbnRVc2VyLmZha2VOYW1lID0gJ+WnnOadsCc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
