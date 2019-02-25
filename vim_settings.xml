@@ -1127,16 +1127,16 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1551085298756">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1551097219773">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="23" />
         <mark key="^" line="15" column="33" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1550835212914">
-        <mark key="[" line="45" column="40" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="45" column="40" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1551097032709">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
         <mark key="^" line="43" column="11" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/home.js" timestamp="1550661939922">
@@ -1317,11 +1317,11 @@
       <jump line="94" column="0" filename="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJlc3VsdC5tYXAoaXRlbT0+ewogICAgICAgICAgICAgICAgaWYoIWl0ZW0ubmFtZSl7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5uYW1lID0gJ+acquefpSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>dubin</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>dubin</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
