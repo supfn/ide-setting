@@ -296,6 +296,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/human-fe/src/setupProxy.js" timestamp="1551096055796">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/qadp-client/src/routes/ActivityCalendar/index.js" timestamp="1545618295845">
         <mark key="[" line="89" column="19" />
         <mark key="]" line="89" column="19" />
@@ -395,12 +400,12 @@
         <mark key="^" line="39" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/user.js" timestamp="1550301355017" />
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1551085119073">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1551095683194">
         <mark key="'" line="187" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="82" column="69" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="^" line="228" column="14" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
@@ -414,6 +419,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/human-fe/src/components/LeftTree/index.tsx" timestamp="1551095081961" />
       <file name="$USER_HOME$/Codes/lab/qukan_applets.php/composer.json" timestamp="1542956775404">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -798,11 +804,10 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1551084928733">
-        <mark key="[" line="183" column="19" />
-        <mark key="]" line="183" column="19" />
-        <mark key="." line="183" column="19" />
-        <mark key="^" line="183" column="18" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1551095555778">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/.editorconfig" timestamp="1545455337529">
         <mark key="[" line="6" column="12" />
@@ -1313,10 +1318,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbXMpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJlc3VsdC5tYXAoaXRlbT0+ewogICAgICAgICAgICAgICAgaWYoIWl0ZW0ubmFtZSl7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5uYW1lID0gJ+acquefpSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.childs = collections;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -1325,34 +1330,34 @@
         <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvdS9kZXBhcnRtZW50JywgY29udHJvbGxlci5kZXBhcnRtZW50LmdldENoYXJnZURlcGFydG1lbnRCeVVzZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbXMpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJlc3VsdC5tYXAoaXRlbT0+ewogICAgICAgICAgICAgICAgaWYoIWl0ZW0ubmFtZSl7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5uYW1lID0gJ+acquefpSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3FsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5uZXIgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZD10Lk9JZEpvYkxldmVsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbXMpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgIGxldCBhbGwgPSByZXN1bHQubWFwKGl0ZW0gPT4gewogICAgICAgICAgICAgICAgIHJldHVybiBjdHguc2VydmljZS5kZXBhcnRtZW50LmdldFN1YkRlcGFydG1lbnQoeyBpZFRyZWVQYXRoOiBpdGVtLlBPSWRPcmdBZG1pbk5hbWVUcmVlUGF0aCB9KQogICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgbGV0IHMgPSBhd2FpdCBQcm9taXNlLmFsbChhbGwpOyovCgogICAgICAgICAgICAvKgogICAgICAgICAgICBhd2FpdCBjdHguc2VydmljZS5kZXBhcnRtZW50LmdldFN1YkRlcGFydG1lbnRUb3RhbHMoeyBpZFRyZWVQYXRoIH0pOwogICAgICAgICAgICByZXN1bHQgPSByZXN1bHQuZmlsdGVyKGl0ZW0gPT4gewogICAgICAgICAgICAgICAgcmV0dXJuIGl0ZW0udG90YWwgPiAwOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgdGhpcy5zdWNjZXNzKHJlc3VsdCk7CiAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHIgPSBhd2FpdCBsb29wKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgIGxldCBhbGwgPSByZXN1bHQubWFwKGl0ZW0gPT4gewogICAgICAgICAgICAgICAgIHJldHVybiBjdHguc2VydmljZS5kZXBhcnRtZW50LmdldFN1YkRlcGFydG1lbnQoeyBpZFRyZWVQYXRoOiBpdGVtLlBPSWRPcmdBZG1pbk5hbWVUcmVlUGF0aCB9KQogICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgbGV0IHMgPSBhd2FpdCBQcm9taXNlLmFsbChhbGwpOyovCgogICAgICAgICAgICAvKgogICAgICAgICAgICBhd2FpdCBjdHguc2VydmljZS5kZXBhcnRtZW50LmdldFN1YkRlcGFydG1lbnRUb3RhbHMoeyBpZFRyZWVQYXRoIH0pOwogICAgICAgICAgICByZXN1bHQgPSByZXN1bHQuZmlsdGVyKGl0ZW0gPT4gewogICAgICAgICAgICAgICAgcmV0dXJuIGl0ZW0udG90YWwgPiAwOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgdGhpcy5zdWNjZXNzKHJlc3VsdCk7CiAgICAgICAgICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
