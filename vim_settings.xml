@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/job-post.js" timestamp="1551258126451">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/accident.html" timestamp="1545709173984">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="7" />
@@ -360,6 +366,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/department.js" timestamp="1551258939149" />
       <file name="$USER_HOME$/Codes/lab/dotfiles/guns/prompt.sh" timestamp="1544007221698">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -407,7 +414,7 @@
         <mark key="^" line="39" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/user.js" timestamp="1550301355017" />
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1551095683194">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1551258907424">
         <mark key="'" line="187" column="0" />
         <mark key="[" line="223" column="0" />
         <mark key="]" line="223" column="0" />
@@ -552,7 +559,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551253370926">
+      <file name="/Dummy.txt" timestamp="1551258635175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -814,10 +821,11 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1551253667510">
-        <mark key="[" line="275" column="38" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1551258944118">
+        <mark key="[" line="183" column="43" />
+        <mark key="]" line="183" column="43" />
+        <mark key="." line="183" column="43" />
+        <mark key="^" line="183" column="43" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/.editorconfig" timestamp="1545455337529">
         <mark key="[" line="6" column="12" />
@@ -1353,10 +1361,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtLmpvYlRhZyA9IGl0ZW0ubmFtZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>. return result</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -1365,34 +1373,34 @@
         <text encoding="base64">ICAgICJzdGFydDpwcmQiOiAiRUdHX1NFUlZFUl9FTlY9cHJkIGVnZy1zY3JpcHRzIHN0YXJ0IC0tZGFlbW9uIC0tdGl0bGU9ZWhyLXNlcnZpY2VzIC0td29ya2Vycz0yIC0tcG9ydD04ODAxIiwKICAgICJzdG9wOnByZCI6ICJlZ2ctc2NyaXB0cyBzdG9wIC0tdGl0bGU9ZWhyLXNlcnZpY2VzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtLmpvYlRhZyA9IGl0ZW0ubmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzLmVudi5FR0dfU0VSVkVSX0VOViA9PT0gJ3FhJyl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBzdGFydFRpbWUgPSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHRzLm1hcChpdGVtPT57CiAgICAgICAgICAgICAgICAgICAgaWYoIWl0ZW0ubmFtZSl7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0ubmFtZSA9ICfmnKrnn6UnOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXRlbTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbFRpbWUgPSBsb2NhbFRpbWUuc3Vic3RyKDAsIGxvY2FsVGltZS5sYXN0SW5kZXhPZignLicpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbG9jYWxUaW1lID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihwcm9jZXNzLmVudi5FR0dfU0VSVkVSX0VOViA9PT0gJ3FhJyl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgIOS9nOiAhe+8mmNvbnN0YW50RQogICAgICAgIOadpea6kO+8mkNTRE4KICAgICAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvbGlhbmZlbmd6aGlkaWUvYXJ0aWNsZS9kZXRhaWxzLzgwODkwNzE1IAogICAgICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBzdGFydFRpbWUgPSA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmFtZXRlcnMgewogICAgICAgIGdpdFBhcmFtZXRlciBuYW1lOiAnYnJhbmNoX25hbWUnLAogICAgICAgICAgICAgICAgICB0eXBlOiAnUFRfQlJOQUNIX1RBRycsCiAgICAgICAgICAgICAgICAgIHF1aWNrRmlsdGVyRW5hYmxlZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlOiAnJwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbFRpbWUgPSBsb2NhbFRpbWUuc3Vic3RyKDAsIGxvY2FsVGltZS5sYXN0SW5kZXhPZignLicpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAicHJvZHVjdGlvbiI6IHsKICAgICJ1c2VybmFtZSI6ICJxdHRlaHJfdyIsCiAgICAicGFzc3dvcmQiOiAiOWRHaGYzSXlZakhYNjkyWiIsCiAgICAiZGF0YWJhc2UiOiAicXR0ZWhyIiwKICAgICJob3N0IjogInJtLTJ6ZXB5ZTM2MmV0bzlpem44Lm15c3FsLnJkcy5hbGl5dW5jcy5jb20iLAogICAgImRpYWxlY3QiOiAibXlzcWwiCiAgfVZbXQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbG9jYWxUaW1lID0gJyc7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgIOS9nOiAhe+8mmNvbnN0YW50RQogICAgICAgIOadpea6kO+8mkNTRE4KICAgICAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvbGlhbmZlbmd6aGlkaWUvYXJ0aWNsZS9kZXRhaWxzLzgwODkwNzE1IAogICAgICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
