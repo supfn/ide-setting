@@ -320,11 +320,10 @@
         <mark key="." line="33" column="45" />
         <mark key="^" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/config/config.json" timestamp="1550726947906">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/config/config.json" timestamp="1551251664222">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/joblevel.js" timestamp="1550638683315">
         <mark key="[" line="22" column="6" />
@@ -553,7 +552,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551249936590">
+      <file name="/Dummy.txt" timestamp="1551251854026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -912,15 +911,21 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/package.json" timestamp="1550730984129">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/package.json" timestamp="1551251881667">
+        <mark key="[" line="45" column="10" />
+        <mark key="]" line="45" column="10" />
+        <mark key="." line="45" column="10" />
+        <mark key="^" line="44" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/.env" timestamp="1551238878444">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="3" column="60" />
         <mark key="." line="3" column="60" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/config/config.qa.js" timestamp="1551251626928">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/qtt6.sh" timestamp="1545189639711">
         <mark key="[" line="6" column="11" />
@@ -960,11 +965,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/Jenkinsfile" timestamp="1551250463940">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/Jenkinsfile" timestamp="1551251204728">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/migrations/20190220045230-create-jobpost.js" timestamp="1550638593467">
         <mark key="[" line="94" column="8" />
@@ -1182,7 +1186,7 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1551183376490">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1551252333642">
         <mark key="e" line="41" column="47" />
         <mark key="'" line="20" column="42" />
         <mark key="[" line="36" column="29" />
@@ -1349,46 +1353,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>prd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>prd</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICJzdGFydDpwcmQiOiAiRUdHX1NFUlZFUl9FTlY9cHJkIGVnZy1zY3JpcHRzIHN0YXJ0IC0tZGFlbW9uIC0tdGl0bGU9ZWhyLXNlcnZpY2VzIC0td29ya2Vycz0yIC0tcG9ydD04ODAxIiwKICAgICJzdG9wOnByZCI6ICJlZ2ctc2NyaXB0cyBzdG9wIC0tdGl0bGU9ZWhyLXNlcnZpY2VzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAicHJvZHVjdGlvbiI6IHsKICAgICJ1c2VybmFtZSI6ICJxdHRlaHJfdyIsCiAgICAicGFzc3dvcmQiOiAiOWRHaGYzSXlZakhYNjkyWiIsCiAgICAiZGF0YWJhc2UiOiAicXR0ZWhyIiwKICAgICJob3N0IjogInJtLTJ6ZXB5ZTM2MmV0bzlpem44Lm15c3FsLnJkcy5hbGl5dW5jcy5jb20iLAogICAgImRpYWxlY3QiOiAibXlzcWwiCiAgfVZbXQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhVc2VySUQpCg==</text>
+        <text encoding="base64">ICAgIGRhdGFiYXNlOiAncXR0ZWhyJywKICAgIGhvc3Q6ICcxMC4wLjUxLjIxMycsCiAgICBwb3J0OiAzMzA2LAogICAgdXNlcm5hbWU6ICdyb290JywKICAgIHBhc3N3b3JkOiAnYWRtaW4xMjM0NTYnLAogIH0sCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBsZXQgc3RhcnRUaW1lID0g</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJlc3VsdC5tYXAoaXRlbT0+ewogICAgICAgICAgICAgICAgaWYoIWl0ZW0ubmFtZSl7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5uYW1lID0gJ+acquefpSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">c2VydmVyX2Vudj0iJHNlcnZlcl9lbnYiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3FsKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5uZXIgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZD10Lk9JZEpvYkxldmVsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhVc2VySUQpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBsZXQgc3RhcnRUaW1lID0g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
