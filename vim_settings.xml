@@ -545,7 +545,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551264721743">
+      <file name="/Dummy.txt" timestamp="1551341354648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -1161,10 +1161,10 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1551323130762">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1551341341118">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
         <mark key="^" line="26" column="10" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/home.js" timestamp="1550661939922">
@@ -1354,10 +1354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
