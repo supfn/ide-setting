@@ -6,11 +6,11 @@
       <mapping ext="tpl" type="HTML" />
       <mapping pattern="test_queryable2" type="JavaScript" />
       <mapping pattern="ResetPasswordForm" type="JavaScript" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern="sub" type="PLAIN_TEXT" />
       <mapping pattern=".cloudrc" type="PLAIN_TEXT" />
       <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
-      <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="modules" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="dict" type="PLAIN_TEXT" />
@@ -18,7 +18,7 @@
       <mapping pattern="8_1_1.js" type="PLAIN_TEXT" />
       <mapping pattern="1js" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
-      <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
@@ -41,6 +41,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="txtt" type="PLAIN_TEXT" />
       <mapping ext="mst" type="PLAIN_TEXT" />
       <mapping pattern="extra" type="Vue.js" />
       <mapping ext="fnc" type="DBN-PSQL" />
