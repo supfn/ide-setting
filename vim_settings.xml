@@ -370,6 +370,11 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/release.sh" timestamp="1552487044440">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/test-sdk.js" timestamp="1550720481030">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="2" column="28" />
@@ -686,7 +691,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552367364350">
+      <file name="/Dummy.txt" timestamp="1552486546585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -910,10 +915,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0+IGEubmFtZS5sb2NhbGVDb21wYXJlKGIubmFtZSk=</text>
+        <text>feat: 增加权限</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -922,16 +927,16 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcXVlbGl6ZS5xdWVyeShzcWwpLnNwcmVhZCgocmVzdWx0cywgbWV0YWRhdGEpID0+IHsKICAgICAgICAgICAgICAgIC8vIFJhdyBxdWVyeSAtIHVzZSBzcHJlYWQKICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHRzLnNvcnQoKGEsIGIpID0+IGEubmFtZS5sb2NhbGVDb21wYXJlKGIubmFtZSkpCiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZCA9IHRlbXAuT0lkSm9iTGV2ZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZCA9IHRlbXAuT0lkSm9iTGV2ZWwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -940,16 +945,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gYXdhaXQgY3R4LnNlcnZpY2UuZGVwYXJ0bWVudC5nZXREZXBhcnRtZW50RW1wbG95ZWUoeyBpZFRyZWVQYXRoIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgICAgIGFzeW5jIGdldEVtcGxveWVlc0J5RW50cnlEYXRlKCl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gYXdhaXQgY3R4LnNlcnZpY2UuZGVwYXJ0bWVudC5nZXREZXBhcnRtZW50RW1wbG95ZWUoeyBpZFRyZWVQYXRoIH0pOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmQgRW50cnlEYXRlID4nMjAxOS0wMy0wMScgYW5kIEVudHJ5RGF0ZSA8PScyMDE5LTAzLTA1IDIzOjU5OjU5Jwo=</text>
+        <text encoding="base64">CgogICAgICAgIGFzeW5jIGdldEVtcGxveWVlc0J5RW50cnlEYXRlKCl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
