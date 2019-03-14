@@ -200,12 +200,11 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1552486023587">
-        <mark key="'" line="79" column="67" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="87" column="36" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1552571955515">
+        <mark key="'" line="82" column="67" />
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-ref.test.js" timestamp="1540973825334">
         <mark key="[" line="27" column="0" />
@@ -667,11 +666,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1552484725660">
-        <mark key="[" line="24" column="55" />
-        <mark key="]" line="24" column="55" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1552571931177">
         <mark key="^" line="15" column="33" />
-        <mark key="." line="24" column="55" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1551507372328">
         <mark key="[" line="26" column="71" />
@@ -915,7 +911,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvZW1wbG95ZWVzJywgY29udHJvbGxlci5kZXBhcnRtZW50LmdldEVtcGxveWVlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>feat: 增加权限</text>
@@ -924,22 +920,22 @@
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcXVlbGl6ZS5xdWVyeShzcWwpLnNwcmVhZCgocmVzdWx0cywgbWV0YWRhdGEpID0+IHsKICAgICAgICAgICAgICAgIC8vIFJhdyBxdWVyeSAtIHVzZSBzcHJlYWQKICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHRzLnNvcnQoKGEsIGIpID0+IGEubmFtZS5sb2NhbGVDb21wYXJlKGIubmFtZSkpCiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvZW1wbG95ZWVzJywgY29udHJvbGxlci5kZXBhcnRtZW50LmdldEVtcGxveWVlcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZCA9IHRlbXAuT0lkSm9iTGV2ZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZCA9IHRlbXAuT0lkSm9iTGV2ZWwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -948,13 +944,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gYXdhaXQgY3R4LnNlcnZpY2UuZGVwYXJ0bWVudC5nZXREZXBhcnRtZW50RW1wbG95ZWUoeyBpZFRyZWVQYXRoIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogICAgICAgIGFzeW5jIGdldEVtcGxveWVlc0J5RW50cnlEYXRlKCl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gYXdhaXQgY3R4LnNlcnZpY2UuZGVwYXJ0bWVudC5nZXREZXBhcnRtZW50RW1wbG95ZWUoeyBpZFRyZWVQYXRoIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
