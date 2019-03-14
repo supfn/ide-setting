@@ -669,11 +669,11 @@
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1552571931177">
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1551507372328">
-        <mark key="[" line="26" column="71" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="26" column="10" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1552572806973">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="72" column="55" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/home.js" timestamp="1550661939922">
         <mark key="[" line="6" column="25" />
@@ -911,7 +911,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvZW1wbG95ZWVzJywgY29udHJvbGxlci5kZXBhcnRtZW50LmdldEVtcGxveWVlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>feat: 增加权限</text>
@@ -923,25 +923,25 @@
         <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvZW1wbG95ZWVzJywgY29udHJvbGxlci5kZXBhcnRtZW50LmdldEVtcGxveWVlcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZCA9IHRlbXAuT0lkSm9iTGV2ZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZCA9IHRlbXAuT0lkSm9iTGV2ZWwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -950,7 +950,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gYXdhaXQgY3R4LnNlcnZpY2UuZGVwYXJ0bWVudC5nZXREZXBhcnRtZW50RW1wbG95ZWUoeyBpZFRyZWVQYXRoIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
