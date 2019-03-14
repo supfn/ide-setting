@@ -200,11 +200,12 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1552571955515">
-        <mark key="'" line="82" column="67" />
-        <mark key="[" line="64" column="9" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1552576734792">
+        <mark key="'" line="119" column="67" />
+        <mark key="[" line="124" column="64" />
+        <mark key="]" line="99" column="13" />
+        <mark key="." line="99" column="13" />
+        <mark key="^" line="99" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-ref.test.js" timestamp="1540973825334">
         <mark key="[" line="27" column="0" />
@@ -452,6 +453,7 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/employmentrecord.js" timestamp="1552577476424" />
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/get-enum.js" timestamp="1550488981332">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="14" />
@@ -542,10 +544,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1552485715003">
-        <mark key="[" line="357" column="88" />
-        <mark key="]" line="357" column="0" />
-        <mark key="." line="357" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1552577078693">
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="377" column="0" />
+        <mark key="." line="377" column="0" />
+        <mark key="^" line="377" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
@@ -666,14 +669,17 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1552571931177">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1552577387580">
+        <mark key="[" line="25" column="65" />
+        <mark key="]" line="25" column="65" />
         <mark key="^" line="15" column="33" />
+        <mark key="." line="25" column="65" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1552572806973">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="72" column="55" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1552576244847">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/home.js" timestamp="1550661939922">
         <mark key="[" line="6" column="25" />
@@ -687,7 +693,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552486546585">
+      <file name="/Dummy.txt" timestamp="1552577112606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -758,6 +764,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/employeeinformation.js" timestamp="1552574968678" />
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/model/employee.js" timestamp="1550495974060">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="2" column="50" />
@@ -914,7 +921,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>feat: 增加权限</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -926,22 +933,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LklETnVtYmVyID0gJyoqKionOwogICAgICAgICAgICByZXN1bHQuTW9iaWxlUGhvbmUgPSAnKioqKic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE9JZE9yZ0FkbWluTmFtZVRyZWVQYXRoIFJFR0VYUCAnXiR7aWR0cmVlfScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQgam9pbiBqb2JsZXZlbHMgb24gam9ibGV2ZWxzLk9JZCA9IHRlbXAuT0lkSm9iTGV2ZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -950,7 +957,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
