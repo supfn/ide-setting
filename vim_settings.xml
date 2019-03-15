@@ -140,7 +140,7 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1552367774645">
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1552622191647">
         <mark key="[" line="13" column="70" />
         <mark key="]" line="13" column="70" />
         <mark key="." line="13" column="70" />
@@ -586,10 +586,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/km.js" timestamp="1551424776855">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/km.js" timestamp="1552623275324">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qadp-server/scripts/flows/app.js" timestamp="1540517455381">
         <mark key="[" line="52" column="16" />
@@ -918,46 +919,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gcmVzdWx0LmZpbHRlcihpdGVtID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiBpdGVtLnRvdGFsID4gMDsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBib2R5LnJlc3VsdHNbMF0uYm9keS52aWV3LnZhbHVlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>stringify</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gcmVzdWx0LmZpbHRlcihpdGVtID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiBpdGVtLnRvdGFsID4gMDsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBib2R5LnJlc3VsdHNbMF0uYm9keS52aWV3LnZhbHVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBib2R5LnJlc3VsdHNbMF0uYm9keS52aWV3LnZhbHVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LklETnVtYmVyID0gJyoqKionOwogICAgICAgICAgICByZXN1bHQuTW9iaWxlUGhvbmUgPSAnKioqKic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCgKYm9keS5yZXN1bHRzCiAgKSApCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGJvZHkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qga2V5ID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UE9JZE9yZ0FkbWluTmFtZVRyZWVQYXRoIFJFR0VYUCAnXiR7aWR0cmVlfScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGVjcnlwdCgnOWRmOTgyZDgyOGE1NDUxODMyODU1MTEyYmM2MzcwZTNjMDMwMzg1N2E2NmE5NjJiNzA1MGRlZWI0MDE3MzU0YzQxMTI0Yzk4MDc0NDM4OTlhYzc0YTMwYWRhZWZlOGZjJyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LklETnVtYmVyID0gJyoqKionOwogICAgICAgICAgICByZXN1bHQuTW9iaWxlUGhvbmUgPSAnKioqKic7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
