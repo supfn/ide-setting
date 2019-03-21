@@ -741,11 +741,11 @@
         <mark key="." line="67" column="5" />
         <mark key="^" line="67" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/sdk.js" timestamp="1552483859242">
-        <mark key="[" line="171" column="37" />
-        <mark key="]" line="171" column="41" />
-        <mark key="." line="171" column="41" />
-        <mark key="^" line="171" column="41" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/sdk.js" timestamp="1553133472679">
+        <mark key="[" line="173" column="32" />
+        <mark key="]" line="173" column="32" />
+        <mark key="." line="173" column="32" />
+        <mark key="^" line="172" column="41" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/deploy-qa.sh" timestamp="1541434528577">
         <mark key="[" line="9" column="4" />
@@ -924,11 +924,11 @@
       <jump line="79" column="67" filename="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5zdWNjZXNzKGN0eC5wYXJhbXNbMF0gKyBjdHgucXVlcnlzdHJpbmcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
