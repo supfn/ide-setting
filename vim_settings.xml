@@ -549,11 +549,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1553251129350">
-        <mark key="[" line="409" column="38" />
-        <mark key="]" line="413" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1553253648187">
+        <mark key="[" line="409" column="25" />
+        <mark key="]" line="409" column="25" />
         <mark key="^" line="413" column="0" />
-        <mark key="." line="413" column="0" />
+        <mark key="." line="409" column="25" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
@@ -930,10 +930,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getDepartmentTree</text>
+        <text encoding="base64">ZmFrZUVtYWlsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>getDepartmentTree</text>
+        <text encoding="base64">ZmFrZUVtYWlsIA==</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
@@ -942,34 +942,34 @@
         <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvdS90cmVlJywgY29udHJvbGxlci5kZXBhcnRtZW50LmdldERlcGFydG1lbnRUcmVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsOiBmYWtlRW1haWwgfHwgZW1haWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3R4LnVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdCA9IGF3YWl0IGN0eC5zZXJ2aWNlLmRlcGFydG1lbnQuZ2V0Q3VycmVudEVtcGxveWVlKCkKICAgICAgICAgICAgY29uc3QgeyBlbWFpbCwgZmFrZUVtYWlsIH0gPSBjdHguY3VycmVudFVzZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LnVzZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6IGZha2VOYW1lIHx8IG5hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdCA9IGF3YWl0IGN0eC5zZXJ2aWNlLmRlcGFydG1lbnQuZ2V0Q3VycmVudEVtcGxveWVlKCkKICAgICAgICAgICAgY29uc3QgeyBlbWFpbCwgZmFrZUVtYWlsIH0gPSBjdHguY3VycmVudFVzZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6IGZha2VOYW1lIHx8IG5hbWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdWNjZXNzKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
