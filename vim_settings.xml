@@ -201,12 +201,12 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1553245394033">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1553251037407">
         <mark key="'" line="120" column="67" />
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="28" />
-        <mark key="^" line="25" column="33" />
+        <mark key="[" line="90" column="38" />
+        <mark key="]" line="88" column="1" />
+        <mark key="." line="88" column="1" />
+        <mark key="^" line="88" column="1" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/hr.js" timestamp="1553240793240">
         <mark key="[" line="21" column="30" />
@@ -549,10 +549,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1553240402355">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1553251129350">
+        <mark key="[" line="409" column="38" />
+        <mark key="]" line="413" column="0" />
+        <mark key="^" line="413" column="0" />
+        <mark key="." line="413" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
         <mark key="[" line="5" column="26" />
@@ -680,10 +681,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1553241199341">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="46" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1553251147136">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="21" column="59" />
+        <mark key="." line="21" column="59" />
         <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1553247959819">
@@ -704,7 +705,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553241219084">
+      <file name="/Dummy.txt" timestamp="1553251229680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -739,11 +740,6 @@
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1553246130724">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/event-keywords.js" timestamp="1545734425468">
         <mark key="[" line="67" column="5" />
@@ -934,46 +930,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>caihongbin</text>
+        <text>getDepartmentTree</text>
       </register>
       <register name="-" type="4">
-        <text>caihongbin</text>
+        <text>getDepartmentTree</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5ncm91cCh7bmFtZTonZXh0ZW5kJywgcHJlZml4OicvYXBpL2lubmVyJ30sIHJvdXRlciA9PnsKICAgICAgICByb3V0ZXIuZ2V0KCcvaG90am9iLyoqJywgY29udHJvbGxlci5yZWZlcnJhbHMuaW5kZXgpOwogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvdS90cmVlJywgY29udHJvbGxlci5kZXBhcnRtZW50LmdldERlcGFydG1lbnRUcmVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdWNjZXNzKGRhdGEpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RhcnQsZW5kKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LnVzZXIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdCA9IGF3YWl0IGN0eC5zZXJ2aWNlLmRlcGFydG1lbnQuZ2V0Q3VycmVudEVtcGxveWVlKCkKICAgICAgICAgICAgY29uc3QgeyBlbWFpbCwgZmFrZUVtYWlsIH0gPSBjdHguY3VycmVudFVzZXI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6IGZha2VOYW1lIHx8IG5hbWUsCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcGxhY2UgPSByZXF1aXJlKCcuL3BsYWNlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoKCgogKi8KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGBzZWxlY3QgTmFtZSxPSWQsUE9JZE9yZ0FkbWluTmFtZVRyZWVQYXRoIAogICAgICAgICAgICAgICAgICAgIGZyb20gb3JnYW5pemF0aW9ucyB3aGVyZSBQZXJzb25JbkNoYXJnZSBpbiAoCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCBVc2VySUQgZnJvbSBlbXBsb3llZWluZm9ybWF0aW9ucyB3aGVyZSBOYW1lPTpuYW1lIGFuZCBFbWFpbD06ZW1haWwKICAgICAgICAgICAgICAgICAgICApYCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IEVtYWlsIGZyb20gZW1wbG95ZWVpbmZvcm1hdGlvbnMgd2hlcmUgICAgVXNlcklkIGluICgKc2VsZWN0IFVzZXJJZCBmcm9tIGVtcGxveW1lbnRyZWNvcmRzIHdoZXJlICBFbXBsb3llZVN0YXR1cz04IGFuZCBMYXN0V29ya0RhdGUgPiAnMjAxOS0wMy0wMScKKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyBnZXREZXBhcnRtZW50QnlVc2VyKHVzZXIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdWNjZXNzKGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
