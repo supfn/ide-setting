@@ -200,12 +200,18 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1553179283517">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1553240159837">
         <mark key="'" line="119" column="67" />
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="340" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="40" />
         <mark key="." line="340" column="24" />
         <mark key="^" line="340" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/hr.js" timestamp="1553240793240">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-ref.test.js" timestamp="1540973825334">
         <mark key="[" line="27" column="0" />
@@ -542,9 +548,9 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1553162294364">
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="172" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1553240402355">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="42" />
         <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/BooleanParameterDefinition.js" timestamp="1540884908062">
@@ -637,6 +643,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/hr.js" timestamp="1553240930817">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/flow-actions.test.js" timestamp="1540811602728">
         <mark key="[" line="134" column="28" />
         <mark key="]" line="134" column="28" />
@@ -667,11 +679,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1553145899250">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="13" column="49" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="13" column="49" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1553241199341">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1553150118789">
         <mark key="[" line="63" column="41" />
@@ -691,7 +703,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553219541809">
+      <file name="/Dummy.txt" timestamp="1553241219084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -818,7 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/test/service/op-jenkins.test.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/test/service/op-jenkins.test.js" />
       <jump line="229" column="15" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/auth.js" />
@@ -918,49 +929,50 @@
       <jump line="94" column="0" filename="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/get-emails.js" />
       <jump line="79" column="67" filename="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/Codes/lab/ehr-db/app/controller/hr.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>hr</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>hr</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZGlzLmdldCgnYmVpc2VuX2FjY2Vzc190b2tlbicpLnRoZW4odG9rZW4gPT4gewogICAgICAgIGh0dHAuZGVmYXVsdHMuaGVhZGVycy5jb21tb25bJ0F1dGhvcml6YXRpb24nXSA9IGBCZWFyZXIgJHt0b2tlbn1gOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJvdXRlci5ncm91cCh7bmFtZTonZXh0ZW5kJywgcHJlZml4OicvYXBpL2lubmVyJ30sIHJvdXRlciA9PnsKICAgICAgICByb3V0ZXIuZ2V0KCcvaG90am9iLyoqJywgY29udHJvbGxlci5yZWZlcnJhbHMuaW5kZXgpOwogICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdWNjZXNzKGRhdGEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcmVkaXMgPSByZXF1aXJlKCcuL3JlZGlzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RhcnQsZW5kKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cC5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vblsnQXV0aG9yaXphdGlvbiddID0gYEJlYXJlciAke3Rva2VufWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cC5kZWZhdWx0cy5oZWFkZXJzLmNvbW1vblsnQXV0aG9yaXphdGlvbiddID0gYEJlYXJlciAke3Rva2VufWA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcGxhY2UgPSByZXF1aXJlKCcuL3BsYWNlJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoKCgogKi8KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydEpvYkxldmVscyA9IHNvcnRKb2JMZXZlbHMuZmlsdGVyKGl0ZW0gPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGBzZWxlY3QgTmFtZSxPSWQsUE9JZE9yZ0FkbWluTmFtZVRyZWVQYXRoIAogICAgICAgICAgICAgICAgICAgIGZyb20gb3JnYW5pemF0aW9ucyB3aGVyZSBQZXJzb25JbkNoYXJnZSBpbiAoCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCBVc2VySUQgZnJvbSBlbXBsb3llZWluZm9ybWF0aW9ucyB3aGVyZSBOYW1lPTpuYW1lIGFuZCBFbWFpbD06ZW1haWwKICAgICAgICAgICAgICAgICAgICApYCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAvSS9pdGVtLm5hbWUKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">c2VsZWN0IEVtYWlsIGZyb20gZW1wbG95ZWVpbmZvcm1hdGlvbnMgd2hlcmUgICAgVXNlcklkIGluICgKc2VsZWN0IFVzZXJJZCBmcm9tIGVtcGxveW1lbnRyZWNvcmRzIHdoZXJlICBFbXBsb3llZVN0YXR1cz04IGFuZCBMYXN0V29ya0RhdGUgPiAnMjAxOS0wMy0wMScKKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdWNjZXNzKHRoaXMuc29ydEpvYkxldmVscyhyZXN1bHQpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyBnZXREZXBhcnRtZW50QnlVc2VyKHVzZXIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
