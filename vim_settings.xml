@@ -200,12 +200,12 @@
         <mark key="." line="394" column="0" />
         <mark key="^" line="394" column="39" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1553240159837">
-        <mark key="'" line="119" column="67" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="340" column="24" />
-        <mark key="^" line="340" column="24" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1553245394033">
+        <mark key="'" line="120" column="67" />
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="33" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/hr.js" timestamp="1553240793240">
         <mark key="[" line="21" column="30" />
@@ -685,10 +685,10 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1553150118789">
-        <mark key="[" line="63" column="41" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1553245403547">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
         <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/home.js" timestamp="1550661939922">
@@ -933,10 +933,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hr</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>hr</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>*</text>
