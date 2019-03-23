@@ -209,10 +209,10 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/hr.js" timestamp="1553320285108">
-        <mark key="[" line="86" column="23" />
-        <mark key="]" line="83" column="33" />
-        <mark key="." line="83" column="33" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/hr.js" timestamp="1553330803764">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
         <mark key="^" line="83" column="33" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/test/controller/ci-ref.test.js" timestamp="1540973825334">
@@ -699,7 +699,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553320389112">
+      <file name="/Dummy.txt" timestamp="1553330807578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -924,11 +924,11 @@
       <jump line="7" column="4" filename="$USER_HOME$/Codes/lab/ehr-db/app/controller/hr.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YW5kICA=</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text encoding="base64">YW5kICA=</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
