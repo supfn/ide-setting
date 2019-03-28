@@ -794,8 +794,12 @@
         <mark key="]" line="44" column="47" />
         <mark key="." line="44" column="47" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" timestamp="1553771426737">
-        <mark key="[" line="5" column="9" />
+      <file name="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" timestamp="1553775118958">
+        <mark key="'" line="72" column="8" />
+        <mark key="[" line="52" column="238" />
+        <mark key="]" line="72" column="8" />
+        <mark key="^" line="72" column="8" />
+        <mark key="." line="72" column="8" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/event-keywords.js" timestamp="1545734425468">
         <mark key="[" line="67" column="5" />
@@ -889,7 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="15" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/auth.js" />
       <jump line="1" column="16" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/base-service.js" />
       <jump line="44" column="26" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/email.js" />
@@ -989,61 +992,62 @@
       <jump line="79" column="67" filename="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" />
       <jump line="7" column="4" filename="$USER_HOME$/Codes/lab/ehr-db/app/controller/hr.js" />
       <jump line="4" column="4" filename="$USER_HOME$/Codes/lab/ehr-db/app/controller/user.js" />
+      <jump line="72" column="8" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkcmVtb3RlX2xpc3QK</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text encoding="base64">XDxkaWZmXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY3JlYXRlX2F0OiBEYXRhVHlwZXMuREFURSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkcmVtb3RlX2xpc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QklUQlVDS0VUX1RPS0VOPU9UUXpNamMwTXpZMU56SXpPaUdDQmNtcFZ5VnMxejVVTWdtQUcyOWt2N1VGCgpST0JPVF9UT0tFTj1qUUdBaXQ1UHNIVHlILVNkNzhfUQoKUk9CT1RfTkFNRT1yb2JvdAoKUk9CT1RfRU1BSUw9cm9ib3RAcXV0b3V0aWFvLm5ldHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBgUk9CT1RfVE9LRU5gIGdpdGxhYiDmnYPpmZDnmoRwcml2YXRlIHRva2VuCg==</text>
+        <text encoding="base64">Y3VybCAnaHR0cDovL2dpdC5pbm5vdGVjaHguY29tL3Jlc3QvYXBpL2xhdGVzdC9wcm9qZWN0cy9jb3IvcmVwb3Mvc3RhZmYvYnJhbmNoZXM/YmFzZT1yZWZzJTJGaGVhZHMlMkZtYXN0ZXImZGV0YWlscz10cnVlJnN0YXJ0PTAmbGltaXQ9MTAwMCZvcmRlckJ5PU1PRElGSUNBVElPTiZjb250ZXh0PSU3QiUyMndpdGhNZXNzYWdlcyUyMiUzQWZhbHNlJTdEJyAtSCAnQ29ubmVjdGlvbjoga2VlcC1hbGl2ZScgLUggJ0NhY2hlLUNvbnRyb2w6IG1heC1hZ2U9MCcgLUggJ1VwZ3JhZGUtSW5zZWN1cmUtUmVxdWVzdHM6IDEnIC1IICdVc2VyLUFnZW50OiBNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNF8yKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzIuMC4zNjI2LjEyMSBTYWZhcmkvNTM3LjM2JyAtSCAnRE5UOiAxJyAtSCAnQWNjZXB0OiB0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44JyAtSCAnQWNjZXB0LUVuY29kaW5nOiBnemlwLCBkZWZsYXRlJyAtSCAnQWNjZXB0LUxhbmd1YWdlOiB6aC1DTix6aDtxPTAuOSxlbjtxPTAuOCcgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YCBCSVRCVUNLRVQg5Y+q6K+75p2D6ZmQ55qEIGh0dHAgYmFzaWMgdG9rZW4K</text>
+        <text encoding="base64">ICAgICAtSCAnQ29va2llOiAgQklUQlVDS0VUU0VTU0lPTklEPTVFNEY5QzVBMDE5QkVFMEQyNzRBOTc5RkI3MjYxRTI5JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy9hcGkvdjEvdXNlcnMvc3RhdCcsIGNvbnRyb2xsZXIudXNlci5nZXRTdGF0KTsK</text>
+        <text encoding="base64">LUggJ0Nvb2tpZTogX2dhPUdBMS4yLjQ5MDA5OTQ3NC4xNTUwMDQ5OTIxOyBfZ2lkPUdBMS4yLjIxMDA2ODAzOTMuMTU1Mzc2Mjc5MjsgX2F0bF9iaXRidWNrZXRfcmVtZW1iZXJfbWU9TkRJMVpHSTRORGN4WVRNME5UZ3lZMkV5Tm1WaFl6WXhZek13WXpVMll6Qm1aV1U1TnpnNVpEcGlZemMyTldSaVpXSXdZemhqTldNME1HTTFOakk1TXpNMFlXWmxORGxrTVdZMVpUZzFPV000OyBCSVRCVUNLRVRTRVNTSU9OSUQ9NUU0RjlDNUEwMTlCRUUwRDI3NEE5NzlGQjcyNjFFMjknIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy9hcGkvdjEvdXNlcnMvc3RhdCcsIGNvbnRyb2xsZXIudXNlci5nZXRTdGF0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJHJlbW90ZV9saXN0Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZighY3R4LmN1cnJlbnRVc2VyKXsKICAgICAgICAgICAgcmV0dXJuIG5leHQoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search encoding="base64">XDxkaWZmXD4=</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern encoding="base64">XDxkaWZmXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>*</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1055,10 +1059,11 @@
         <entry encoding="base64">XDxleGl0XD4=</entry>
         <entry encoding="base64">XDxmZXRjaFw+</entry>
         <entry>*</entry>
+        <entry encoding="base64">XDxkaWZmXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
