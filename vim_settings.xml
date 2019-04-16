@@ -51,11 +51,11 @@
         <mark key="." line="425" column="38" />
         <mark key="^" line="425" column="38" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/ops.js" timestamp="1555409725682">
+      <file name="$USER_HOME$/Codes/qcd/app/service/ops.js" timestamp="1555411489173">
         <mark key="'" line="260" column="34" />
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/ops.js" timestamp="1555379911418" />
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/gma.js" timestamp="1551431507873">
@@ -429,11 +429,11 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1555409084172">
+      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1555411383800">
         <mark key="[" line="62" column="36" />
-        <mark key="]" line="62" column="36" />
-        <mark key="." line="62" column="36" />
-        <mark key="^" line="43" column="53" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+        <mark key="^" line="60" column="37" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1555330672011">
         <mark key="[" line="26" column="22" />
@@ -762,17 +762,17 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1553497638466">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1555411352359">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="21" />
         <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1553589353618">
-        <mark key="[" line="28" column="71" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="39" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1555411252896">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/all.js" timestamp="1555396966791">
         <mark key="[" line="7" column="75" />
@@ -1022,7 +1022,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>姜杰</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -1034,22 +1034,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyBnZXRFbnZEZXRhaWxzKCl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgYXN5bmMgZ2V0RW52Rm9ybSgpewogICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgYXN5bmMgZ2V0RW52Rm9ybSgpewogICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICBsZXQgW29wc0pvYnMsIGplbmtpbnNKb2JzXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgICAgICAgICAgICAgICAgICB0aGlzLnJlZGlzSHZhbHMoJyNlZS1kZXBsb3ktT3BzSm9icycpLAogICAgICAgICAgICAgICAgICAgIHRoaXMucmVkaXNIdmFscygnI2VlLWRlcGxveS1KZW5raW5zSm9icycpCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1058,7 +1058,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICBsZXQgW29wc0pvYnMsIGplbmtpbnNKb2JzXSA9IGF3YWl0IFByb21pc2UuYWxsKFsKICAgICAgICAgICAgICAgICAgICB0aGlzLnJlZGlzSHZhbHMoJyNlZS1kZXBsb3ktT3BzSm9icycpLAogICAgICAgICAgICAgICAgICAgIHRoaXMucmVkaXNIdmFscygnI2VlLWRlcGxveS1KZW5raW5zSm9icycpCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
