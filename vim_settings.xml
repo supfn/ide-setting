@@ -118,11 +118,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/router.js" timestamp="1555667459514">
-        <mark key="[" line="11" column="60" />
-        <mark key="]" line="11" column="60" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="11" column="60" />
+      <file name="$USER_HOME$/Codes/qcd/app/router.js" timestamp="1555766913548">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="11" column="62" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="62" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/test/app/services/gip.test.js" timestamp="1544104771790">
         <mark key="[" line="66" column="0" />
@@ -437,11 +437,11 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1555766127991">
-        <mark key="[" line="41" column="52" />
-        <mark key="]" line="41" column="53" />
-        <mark key="." line="41" column="53" />
-        <mark key="^" line="41" column="52" />
+      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1555767492268">
+        <mark key="[" line="95" column="43" />
+        <mark key="]" line="95" column="34" />
+        <mark key="." line="95" column="34" />
+        <mark key="^" line="95" column="33" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/all/ci.json" timestamp="1555465955901" />
       <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1555765694119">
@@ -1033,16 +1033,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keyword</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>keyword</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN1Y2Nlc3MocmV0KTsK</text>
+        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy9hcGkvdjEvb25lLWNkL2J1aWxkLWxvZycsIGNvbnRyb2xsZXIub25lQ2QuYnVpbGRMb2cpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaG9zdCkK</text>
