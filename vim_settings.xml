@@ -21,12 +21,12 @@
         <mark key="^" line="25" column="53" />
         <mark key="." line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/ops.js" timestamp="1555929808317">
+      <file name="$USER_HOME$/Codes/qcd/app/service/ops.js" timestamp="1555930368543">
         <mark key="'" line="185" column="34" />
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="112" column="30" />
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/ops.js" timestamp="1555379911418" />
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/auth.js" timestamp="1555863378548" />
@@ -219,11 +219,11 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1555900379579">
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="54" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1555930874052">
+        <mark key="[" line="111" column="21" />
+        <mark key="]" line="111" column="21" />
+        <mark key="^" line="111" column="84" />
+        <mark key="." line="111" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/test.js" timestamp="1544614376078">
         <mark key="[" line="106" column="0" />
@@ -344,7 +344,8 @@
         <mark key="^" line="413" column="0" />
         <mark key="." line="409" column="25" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1555925502287">
+      <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1555930658296">
+        <mark key="[" line="178" column="0" />
         <mark key="]" line="127" column="12" />
         <mark key="^" line="127" column="12" />
         <mark key="." line="127" column="12" />
@@ -369,11 +370,6 @@
         <mark key="." line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/ci/job.js" timestamp="1555297389046" />
-      <file name="$USER_HOME$/Codes/qcd/app/service/gitlab-v2.js" timestamp="1555417753808">
-        <mark key="[" line="94" column="45" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/ci/ci.sh" timestamp="1545136129542">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -392,10 +388,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1555922035682">
-        <mark key="[" line="174" column="18" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1555930883426">
+        <mark key="[" line="496" column="65" />
+        <mark key="]" line="496" column="15" />
+        <mark key="." line="496" column="15" />
+        <mark key="^" line="496" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/scripts/crontab.js" timestamp="1550558226383">
         <mark key="[" line="5" column="0" />
@@ -1109,11 +1106,11 @@
       <jump line="424" column="0" filename="$USER_HOME$/Codes/qcd/app/controller/base-controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>headers</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>headers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -1122,34 +1119,34 @@
         <text encoding="base64">ICAgIGFzeW5jIGZvcm0oKSB7CiAgICAgICAgY29uc3QgeyBjdHggfSA9IHRoaXM7CiAgICAgICAgY29uc3QgeyBrZXksIHR5cGUgfSA9IGN0eC5xdWVyeTsKICAgICAgICBsZXQgcmV0ID0gYXdhaXQgY3R4LnNlcnZpY2Uub25lQ2QuZ2V0Sm9iRGV0YWlscyhrZXksIHR5cGUpOwogICAgICAgIHRoaXMuc3VjY2VzcyhyZXQpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coVikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBhc3luYyBidWlsZFgoKSB7CiAgICAgICAgY29uc3QgeyBjdHggfSA9IHRoaXM7CiAgICAgICAgY29uc3QgYm9keSA9IGN0eC5yZXF1ZXN0LmJvZHk7CiAgICAgICAgbGV0IHJldCA9IGF3YWl0IGN0eC5zZXJ2aWNlLm9uZUNkLmJ1aWxkKGJvZHkpOwogICAgICAgIHRoaXMuc3VjY2VzcyhyZXQpOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYCR7YnVpbGRVcmx9L2xvZ1RleHQvcHJvZ3Jlc3NpdmVIdG1sP3N0YXJ0PSR7aW5kZXggfHwgMH1gKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goZSA9PiB7CiAgICAgICAgICAvLyBjb25zb2xlLmxvZyhlLnJlc3BvbnNlKTsKICAgICAgICB9KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coVikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBhc3luYyBidWlsZFgoKSB7CiAgICAgICAgY29uc3QgeyBjdHggfSA9IHRoaXM7CiAgICAgICAgY29uc3QgYm9keSA9IGN0eC5yZXF1ZXN0LmJvZHk7CiAgICAgICAgbGV0IHJldCA9IGF3YWl0IGN0eC5zZXJ2aWNlLm9uZUNkLmJ1aWxkKGJvZHkpOwogICAgICAgIHRoaXMuc3VjY2VzcyhyZXQpOwogICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coam9iS2V5KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXQpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIGNpUmVzdWx0ID0gYXdhaXQgY3R4LnNlcnZpY2Uub3BKZW5raW5zLmJ1aWxkKGpvYktleSwgZm9ybUZpZWxkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
