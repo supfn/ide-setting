@@ -11,6 +11,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="level2" type="HTML" />
       <mapping pattern="ping" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping pattern="test_queryable2" type="JavaScript" />
