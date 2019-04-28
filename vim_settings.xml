@@ -505,10 +505,11 @@
         <mark key="." line="33" column="45" />
         <mark key="^" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/nlp-meetting.js" timestamp="1556426266189">
-        <mark key="[" line="152" column="35" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/Codes/lab/hubot/nlp-meetting.js" timestamp="1556430915561">
+        <mark key="[" line="154" column="3" />
+        <mark key="]" line="154" column="1" />
+        <mark key="." line="154" column="1" />
+        <mark key="^" line="154" column="1" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/worker-start.js" timestamp="1551236213141">
         <mark key="[" line="27" column="9" />
@@ -938,8 +939,8 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/scripts/test.js" timestamp="1556426042069">
-        <mark key="[" line="25" column="35" />
+      <file name="$USER_HOME$/Codes/lab/hubot/scripts/test.js" timestamp="1556431043148">
+        <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="35" />
         <mark key="." line="25" column="35" />
         <mark key="^" line="26" column="36" />
@@ -1054,11 +1055,11 @@
       <jump line="28" column="64" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>室</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
