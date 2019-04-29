@@ -385,6 +385,7 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/hubot/node_modules/kitx/lib/index.js" timestamp="1556535215435" />
       <file name="$USER_HOME$/Codes/lab/gitlab-services/scripts/updatePreview.js" timestamp="1541199782021">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="22" />
@@ -559,12 +560,12 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556530489233">
-        <mark key="'" line="120" column="64" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556535552786">
+        <mark key="'" line="24" column="1" />
+        <mark key="[" line="132" column="14" />
+        <mark key="]" line="132" column="14" />
+        <mark key="." line="132" column="14" />
+        <mark key="^" line="133" column="24" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmployeeInformation.js" timestamp="1550721053243">
         <mark key="[" line="8" column="18" />
@@ -765,6 +766,7 @@
         <mark key="." line="134" column="28" />
         <mark key="^" line="134" column="23" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/hubot/node_modules/@alicloud/pop-core/lib/roa.js" timestamp="1556535247588" />
       <file name="$USER_HOME$/Codes/lab/ga-services/google-api-nodejs-client/samples/sampleclient.js" timestamp="1551504475221">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="83" column="8" />
@@ -953,8 +955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="3" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/output.js" />
-      <jump line="90" column="32" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-deploy.js" />
       <jump line="77" column="12" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/qa-deploy.js" />
       <jump line="147" column="16" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/ops.js" />
       <jump line="11" column="24" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" />
@@ -1053,13 +1053,15 @@
       <jump line="24" column="5" filename="$USER_HOME$/Codes/qcd/app/router.js" />
       <jump line="42" column="23" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
       <jump line="28" column="64" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
+      <jump line="24" column="1" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
