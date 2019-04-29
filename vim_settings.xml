@@ -559,12 +559,12 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556529327850">
-        <mark key="'" line="111" column="64" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="5" column="47" />
+      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556530489233">
+        <mark key="'" line="120" column="64" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmployeeInformation.js" timestamp="1550721053243">
         <mark key="[" line="8" column="18" />
@@ -1056,10 +1056,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>regions</text>
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text>regions</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
