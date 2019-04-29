@@ -51,7 +51,7 @@
         <mark key="^" line="25" column="53" />
         <mark key="." line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/ops.js" timestamp="1556539178789" />
+      <file name="$USER_HOME$/Codes/qcd/app/service/ops.js" timestamp="1556540154993" />
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/beisen/sdk.js" timestamp="1550649296325">
         <mark key="[" line="37" column="28" />
         <mark key="]" line="425" column="38" />
@@ -560,12 +560,12 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556539111748">
-        <mark key="'" line="127" column="17" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="99" column="32" />
+      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556540676579">
+        <mark key="'" line="129" column="17" />
+        <mark key="[" line="140" column="10" />
+        <mark key="]" line="140" column="10" />
+        <mark key="." line="140" column="10" />
+        <mark key="^" line="130" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmployeeInformation.js" timestamp="1550721053243">
         <mark key="[" line="8" column="18" />
@@ -1057,11 +1057,11 @@
       <jump line="128" column="17" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBEYXRlOiBkYXlqcygpLmZvcm1hdCgnWVlZWS1NTS1ERFRoaDptbTpzcycpICsgJ1onLAo=</text>
+      <register name="&quot;" type="4">
+        <text>dayjs().format('YYYY-MM-DDTHH:mm:ss') + 'Z'</text>
       </register>
       <register name="-" type="4">
-        <text>qs.stringify(</text>
+        <text>dayjs().format('YYYY-MM-DDTHH:mm:ss') + 'Z'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
