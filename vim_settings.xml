@@ -559,12 +559,12 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556424079887">
-        <mark key="'" line="96" column="64" />
-        <mark key="[" line="72" column="31" />
-        <mark key="]" line="74" column="9" />
-        <mark key="." line="74" column="9" />
-        <mark key="^" line="74" column="9" />
+      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556529327850">
+        <mark key="'" line="111" column="64" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmployeeInformation.js" timestamp="1550721053243">
         <mark key="[" line="8" column="18" />
@@ -1056,10 +1056,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>regions</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>regions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -1068,34 +1068,34 @@
         <text encoding="base64">ICBzdHIgPSBzdHIucmVwbGFjZSgvXihcZCsp5pyIKFxkKylb5pel5Y+3XT8kL2csIGAke25vdy5nZXRGdWxsWWVhcigpfS8kMS8kMmApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWNjZXNzS2V5IElEIExUQUlrTWpQV1lqbkl6WUYKQWNjZXNzS2V5U2VjcmV0IG5JaVNyVEFZaXZlbW5obzZBNmtURTJudGJ6TEhNdQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL1RPRE8g5b2T5rKh5pyJ5LiK5LiL5Y2I55qE5pe25YCZ77yM6buY6K6k5LiK5LiL5Y2I5Y+C6ICD546w5Zyo5pe26Ze057u05bqmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL1RPRE8g5b2T5rKh5pyJ5LiK5LiL5Y2I55qE5pe25YCZ77yM6buY6K6k5LiK5LiL5Y2I5Y+C6ICD546w5Zyo5pe26Ze057u05bqmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdHIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZihub3cuKQo=</text>
+        <text encoding="base64">ICBzdHIgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbXNnLnJlcGx5KG1zZy5tZXNzYWdlLnRleHQpOwo=</text>
+        <text encoding="base64">ICBpZihub3cuKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHMgPSBPYmplY3Qua2V5cyhtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgbXNnLnJlcGx5KG1zZy5tZXNzYWdlLnRleHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
