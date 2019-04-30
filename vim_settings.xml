@@ -560,12 +560,12 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556540676579">
-        <mark key="'" line="129" column="17" />
-        <mark key="[" line="140" column="10" />
-        <mark key="]" line="140" column="10" />
-        <mark key="." line="140" column="10" />
-        <mark key="^" line="130" column="23" />
+      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556588484095">
+        <mark key="'" line="165" column="1" />
+        <mark key="[" line="158" column="38" />
+        <mark key="]" line="158" column="28" />
+        <mark key="." line="158" column="28" />
+        <mark key="^" line="158" column="28" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmployeeInformation.js" timestamp="1550721053243">
         <mark key="[" line="8" column="18" />
@@ -955,7 +955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/op-jenkins.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/job-master.js" />
       <jump line="16" column="36" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ExtendedChoiceParameterDefinition.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
@@ -1051,17 +1050,18 @@
       <jump line="28" column="64" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
       <jump line="106" column="0" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
       <jump line="24" column="1" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
-      <jump line="136" column="1" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
       <jump line="143" column="11" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
       <jump line="78" column="16" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
       <jump line="128" column="17" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
+      <jump line="136" column="1" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
+      <jump line="165" column="1" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dayjs().format('YYYY-MM-DDTHH:mm:ss') + 'Z'</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>dayjs().format('YYYY-MM-DDTHH:mm:ss') + 'Z'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -1070,34 +1070,34 @@
         <text encoding="base64">ICBUaW1lc3RhbXA6IGRheWpzKCkuZm9ybWF0KCdZWVlZLU1NLUREVGhoOm1tOnNzJykgKyAnWicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBEYXRlOiBkYXlqcygpLmZvcm1hdCgnWVlZWS1NTS1ERFRoaDptbTpzcycpICsgJ1onLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ki8K</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y29uc29sZS5sb2coCiAgYGh0dHA6Ly9jaGF0Ym90LmNuLXNoYW5naGFpLmFsaXl1bmNzLmNvbS8/JHtxcy5zdHJpbmdpZnkocXVlcnkpfWAKKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiovCmNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTaWduYXR1cmU6IAo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gJ0dFVCcsCmZ1bmN0aW9uIGJ1aWxkU3RyaW5nVG9TaWduKG1ldGhvZCwgdXJpUGF0dGVybiwgaGVhZGVycywgcXVlcnkpIHsKICBjb25zdCBhY2NlcHQgPSBoZWFkZXJzWydhY2NlcHQnXTsKICBjb25zdCBjb250ZW50TUQ1ID0gaGVhZGVyc1snY29udGVudC1tZDUnXSB8fCAnJzsKICBjb25zdCBjb250ZW50VHlwZSA9IGhlYWRlcnNbJ2NvbnRlbnQtdHlwZSddIHx8ICcnOwogIGNvbnN0IGRhdGUgPSBoZWFkZXJzWydkYXRlJ10gfHwgJyc7CgogIGNvbnN0IGhlYWRlciA9IGAke21ldGhvZH1cbiR7YWNjZXB0fVxuJHtjb250ZW50TUQ1fVxuJHtjb250ZW50VHlwZX1cbiR7ZGF0ZX1cbmA7CgogIGNvbnN0IGNhbm9uaWNhbGl6ZWRIZWFkZXJzID0gZ2V0Q2Fub25pY2FsaXplZEhlYWRlcnMoaGVhZGVycyk7CiAgY29uc3QgY2Fub25pY2FsaXplZFJlc291cmNlID0gZ2V0Q2Fub25pY2FsaXplZFJlc291cmNlKHVyaVBhdHRlcm4sIHF1ZXJ5KTsKCiAgcmV0dXJuIGAke2hlYWRlcn0ke2Nhbm9uaWNhbGl6ZWRIZWFkZXJzfSR7Y2Fub25pY2FsaXplZFJlc291cmNlfWA7CgoKICByZXR1cm4KCn0KCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZGF0ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBEYXRlOiBkYXlqcygpLmZvcm1hdCgnWVlZWS1NTS1ERFRoaDptbTpzcycpICsgJ1onLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0Q2Fub25pY2FsaXplZEhlYWRlcnMoaGVhZGVycykgewogIGNvbnN0IHByZWZpeCA9ICd4LWFjcy0nOwogIGNvbnN0IGtleXMgPSBPYmplY3Qua2V5cyhoZWFkZXJzKTsKCiAgY29uc3QgY2Fub25pY2FsaXplZEtleXMgPSBbXTsKICBmb3IgKGxldCBpID0gMDsgaSA8IGtleXMubGVuZ3RoOyBpKyspIHsKICAgIGNvbnN0IGtleSA9IGtleXNbaV07CiAgICBpZiAoa2V5LnN0YXJ0c1dpdGgocHJlZml4KSkgewogICAgICBjYW5vbmljYWxpemVkS2V5cy5wdXNoKGtleSk7CiAgICB9CiAgfQoKICBjYW5vbmljYWxpemVkS2V5cy5zb3J0KCk7CgogIHZhciByZXN1bHQgPSAnJzsKICBmb3IgKGxldCBpID0gMDsgaSA8IGNhbm9uaWNhbGl6ZWRLZXlzLmxlbmd0aDsgaSsrKSB7CiAgICBjb25zdCBrZXkgPSBjYW5vbmljYWxpemVkS2V5c1tpXTsKICAgIHJlc3VsdCArPSBgJHtrZXl9OiR7ZmlsdGVyKGhlYWRlcnNba2V5XSkudHJpbSgpfVxuYDsKICB9CgogIHJldHVybiByZXN1bHQ7Cn0KCmZ1bmN0aW9uIGdldENhbm9uaWNhbGl6ZWRSZXNvdXJjZSh1cmlQYXR0ZXJuLCBxdWVyeSkgewogIGNvbnN0IGtleXMgPSBPYmplY3Qua2V5cyhxdWVyeSkuc29ydCgpOwoKICBpZiAoa2V5cy5sZW5ndGggPT09IDApIHsKICAgIHJldHVybiB1cmlQYXR0ZXJuOwogIH0KCiAgdmFyIHJlc3VsdCA9IFtdOwogIGZvciAodmFyIGkgPSAwOyBpIDwga2V5cy5sZW5ndGg7IGkrKykgewogICAgY29uc3Qga2V5ID0ga2V5c1tpXTsKICAgIHJlc3VsdC5wdXNoKGAke2tleX09JHtxdWVyeVtrZXldfWApOwogIH0KCiAgcmV0dXJuIGAke3VyaVBhdHRlcm59PyR7cmVzdWx0LmpvaW4oJyYnKX1gOwp9Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
