@@ -81,11 +81,11 @@
         <mark key="." line="264" column="32" />
         <mark key="^" line="474" column="35" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/user.js" timestamp="1553491731485">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="13" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/user.js" timestamp="1557021468691">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="40" column="23" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.local.js" timestamp="1545469540553">
         <mark key="[" line="6" column="0" />
@@ -141,6 +141,9 @@
         <mark key="]" line="66" column="0" />
         <mark key="^" line="13" column="79" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/user.js" timestamp="1557021601201">
+        <mark key="[" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/template/email/wx-accident.html" timestamp="1547001771147">
         <mark key="[" line="9" column="35" />
@@ -250,6 +253,7 @@
         <mark key="." line="92" column="22" />
         <mark key="^" line="92" column="22" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1557021219036" />
       <file name="$USER_HOME$/Codes/qcd/app/controller/base-controller.js" timestamp="1555936561966">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -815,11 +819,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1555411352359">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="17" column="45" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1557021500647">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1555411252896">
         <mark key="[" line="14" column="40" />
@@ -851,7 +855,7 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556001967866">
+      <file name="/Dummy.txt" timestamp="1557021718326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -886,6 +890,9 @@
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1557020921623">
+        <mark key="[" line="43" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/event-keywords.js" timestamp="1545734425468">
         <mark key="[" line="67" column="5" />
@@ -1082,16 +1089,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>今天3点到4点的会议室</text>
+        <text>Stat</text>
       </register>
       <register name="-" type="4">
-        <text>今天3点到4点的会议室</text>
+        <text>Stat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByb3V0ZXIuZ2V0KCcvYXBpL3YxL29uZS1jZC9fY2hlY2stcXVldWUnLCBjb250cm9sbGVyLm9uZUNkLmNoZWNrUmVsZWFzZVJlY29yZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvc3RhdCcsIGNvbnRyb2xsZXIudXNlci5nZXRTdGF0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
