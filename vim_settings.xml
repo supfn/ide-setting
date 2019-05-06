@@ -189,12 +189,6 @@
         <mark key="." line="13" column="70" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/ci-deploy.sh" timestamp="1557058449731">
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="27" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/add-update-badge.sh" timestamp="1543833498305">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="13" column="8" />
@@ -468,15 +462,15 @@
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1556590570211">
         <mark key="[" line="23" column="35" />
-        <mark key="]" line="206" column="70" />
-        <mark key="^" line="206" column="70" />
-        <mark key="." line="206" column="70" />
+        <mark key="]" line="214" column="70" />
+        <mark key="^" line="214" column="70" />
+        <mark key="." line="214" column="70" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1556591136964">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="44" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1557132550535">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/test.js" timestamp="1544614376078">
         <mark key="[" line="106" column="0" />
@@ -573,6 +567,12 @@
         <mark key="]" line="69" column="8" />
         <mark key="." line="69" column="8" />
         <mark key="^" line="69" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1557131987087">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dotfiles/guns/prompt.sh" timestamp="1544007221698">
         <mark key="[" line="1" column="0" />
@@ -856,12 +856,6 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/middleware/auth.js" timestamp="1557126139554">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="23" column="5" />
-        <mark key="^" line="23" column="5" />
-      </file>
       <file name="/Dummy.txt" timestamp="1557021718326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1096,10 +1090,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZW9mIGN0eC5yZXF1ZXN0LmhlYWRlcnMub3JpZ2luLDExMTEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>vcs_path</text>
+        <text>net</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -1108,38 +1102,34 @@
         <text encoding="base64">ICAgICAgICBlY2hvICJkZXBsb3lpbmcgdG8gJHgiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZW9mIGN0eC5yZXF1ZXN0LmhlYWRlcnMub3JpZ2luLDExMTEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJkZXBsb3lpbmcgdG8gJHgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CkU=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>echo 11111
-  echo 2222
-  echo 333</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>echo 11111
-  echo 2222
-  echo 333</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2V4cG9ydCBIT1NUPTE3Mi4xNi41NS4xMjMKI2V4cG9ydCBBUFBfTkFNRT1ob29rLXNlcnZlcgojZXhwb3J0IEFQUF9ESVI9L2RhdGEvd2ViCg==</text>
+        <text encoding="base64">ICAvLyBodHRwLmRlZmF1bHRzLmhlYWRlcnMuY29tbW9uWydBdXRob3JpemF0aW9uJ10gPSBhcHAuY29uZmlnLm9wSmVua2lucy50b2tlbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYCR7YnVpbGRVcmx9L2xvZ1RleHQvcHJvZ3Jlc3NpdmVIdG1sP3N0YXJ0PSR7aW5kZXggfHwgMH1gKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzc2ggd29ya0AkeCAiJHtidWlsZF9jbWR9Igo=</text>
+        <text encoding="base64">CiAgICBnZXRSb2xlcygpIHsKICAgICAgcmV0dXJuIGh0dHAKICAgICAgICAuZ2V0KCcvcm9sZS1zdHJhdGVneS9tYW5hZ2Utcm9sZXMnLCB7CiAgICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAgICdBY2NlcHQtZW5jb2RpbmcnOiAnZ3ppcCcsCiAgICAgICAgICB9LAogICAgICAgIH0pCiAgICAgICAgLnRoZW4ocmVzID0+IHsKICAgICAgICAgIHJldHVybiB0aGlzLnBhcnNlUm9sZXMocmVzLmRhdGEpOwogICAgICAgIH0pOwogICAgfQoKICAgIGdldEFzc2lnblJvbGVzKCkgewogICAgICByZXR1cm4gaHR0cAogICAgICAgIC5nZXQoJy9yb2xlLXN0cmF0ZWd5L2Fzc2lnbi1yb2xlcycsIHsKICAgICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICAgJ0FjY2VwdC1lbmNvZGluZyc6ICdnemlwJywKICAgICAgICAgIH0sCiAgICAgICAgfSkKICAgICAgICAudGhlbihyZXMgPT4gewogICAgICAgICAgcmV0dXJuIHRoaXMucGFyc2VBc3NpZ25Sb2xlcyhyZXMuZGF0YSk7CiAgICAgICAgfSk7CiAgICB9CgogICAgZ2V0TGRhcEFjY291bnRBc3NpZ25Sb2xlcyh7IGFjY291bnQsIHJvbGVzLCBhc3NpZ24gfSkgewogICAgICBpZiAoYXNzaWduLmdsb2JhbCAmJiBhc3NpZ24uZ2xvYmFsW2FjY291bnRdKSB7CiAgICAgICAgbGV0IHRlbXBBcnJheSA9IGFzc2lnbi5nbG9iYWxbYWNjb3VudF07CgogICAgICAgIGlmICh0ZW1wQXJyYXkuaW5jbHVkZXMoJ2FkbWluJykgfHwgdGVtcEFycmF5LmluY2x1ZGVzKCdhcGknKSkgewogICAgICAgICAgcmV0dXJuIFsnKiddOwogICAgICAgIH0KICAgICAgfQoKICAgICAgbGV0IGFycmF5ID0gW107CiAgICAgIC8vIGlmIChhc3NpZ24ucm9sZXMgJiYgYXNzaWduLnJvbGVzLmF1dGhlbnRpY2F0ZWQpIHsKICAgICAgLy8gICAvL2F1dGhlbnRpY2F0ZWQKICAgICAgLy8gICBhc3NpZ24ucm9sZXMuYXV0aGVudGljYXRlZC5tYXAoaXRlbSA9PiB7CiAgICAgIC8vICAgICBpZiAocm9sZXNbaXRlbV0pIHsKICAgICAgLy8gICAgICAgYXJyYXkucHVzaChyb2xlc1tpdGVtXSk7CiAgICAgIC8vICAgICB9CiAgICAgIC8vICAgfSk7CiAgICAgIC8vIH0KCiAgICAgIGlmIChhc3NpZ24ucm9sZXMgJiYgYXNzaWduLnJvbGVzW2FjY291bnRdKSB7CiAgICAgICAgYXNzaWduLnJvbGVzW2FjY291bnRdLm1hcChpdGVtID0+IHsKICAgICAgICAgIGlmIChyb2xlc1tpdGVtXSkgewogICAgICAgICAgICBhcnJheS5wdXNoKHJvbGVzW2l0ZW1dKTsKICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgfQoKICAgICAgcmV0dXJuIGFycmF5OwogICAgfQoKICAgIHJvbGVzTWF0Y2goeyB1c2VyUGF0dGVybnMsIGpvYnMgfSkgewogICAgICBjb25zdCByb2xlc1JlZyA9IHVzZXJQYXR0ZXJucy5tYXAoaXRlbSA9PiB7CiAgICAgICAgLy8gY29uc3QgZXNjYXBlZFN0cmluZyA9IGVzY2FwZVN0cmluZ1JlZ2V4cChpdGVtKTsKICAgICAgICBpZiAoaXRlbSA9PT0gJyonKSB7CiAgICAgICAgICByZXR1cm4gLy4qLzsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG5ldyBSZWdFeHAoaXRlbSk7CiAgICAgIH0pOwogICAgICByZXR1cm4gam9icy5maWx0ZXIoaXRlbSA9PiB7CiAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCByb2xlc1JlZy5sZW5ndGg7IGkrKykgewogICAgICAgICAgaWYgKHJvbGVzUmVnW2ldLnRlc3QoaXRlbS5uYW1lKSkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICB9KTsKICAgIH0KCiAgICBwYXJzZVJvbGVzKGh0bWwpIHsKICAgICAgY29uc3QgJCA9IGNoZWVyaW8ubG9hZChodG1sKTsKICAgICAgbGV0IG9iaiA9IHt9OwogICAgICAkKCcjcHJvamVjdFJvbGVzIHRyJykuZWFjaCgoaW5kZXgsIHJvdykgPT4gewogICAgICAgIGNvbnN0IGtleSA9ICQocm93KQogICAgICAgICAgLmZpbmQoJy5sZWZ0LW1vc3QnKQogICAgICAgICAgLnRleHQoKTsKICAgICAgICBjb25zdCB2YWx1ZSA9ICQocm93KQogICAgICAgICAgLmZpbmQoJ1tuYW1lPSJbcGF0dGVybl0iXScpCiAgICAgICAgICAudmFsKCk7CiAgICAgICAgaWYgKGtleSAmJiB2YWx1ZSkgewogICAgICAgICAgb2JqW2tleV0gPSB2YWx1ZS50cmltKCkucmVwbGFjZSgvXlx8fFx8JC8sICcnKTsgLy8gLnNwbGl0KCd8JykuZmlsdGVyKGl0ZW0gPT4gISFpdGVtKTsKICAgICAgICB9CiAgICAgIH0pOwogICAgICByZXR1cm4gb2JqOwogICAgfQoKICAgIHBhcnNlQXNzaWduUm9sZXMoaHRtbCkgewogICAgICBjb25zdCAkID0gY2hlZXJpby5sb2FkKGh0bWwpOwoKICAgICAgY29uc3QgcGVybWlzc2lvblJvdyA9ICQoJyNwcm9qZWN0Um9sZXMgdHIucGVybWlzc2lvbi1yb3cnKTsKCiAgICAgIGNvbnN0IGdsb2JhbFJvbGVzID0gJCgnI2dsb2JhbFJvbGVzIHRyLnBlcm1pc3Npb24tcm93Jyk7CiAgICAgIGxldCBnbG9iYWxPYmogPSB7fTsKICAgICAgZ2xvYmFsUm9sZXMuZWFjaCgoaW5kZXgsIHJvdykgPT4gewogICAgICAgIGNvbnN0IG5hbWUgPSAkKHJvdykKICAgICAgICAgIC5maW5kKCcubGVmdC1tb3N0JykKICAgICAgICAgIC50ZXh0KCk7CiAgICAgICAgY29uc3Qgcm9sZXMgPSAkKHJvdykKICAgICAgICAgIC5maW5kKCc6Y2hlY2tib3hbY2hlY2tlZD10cnVlXScpCiAgICAgICAgICAubWFwKChpbmRleCwgaXRlbSkgPT4gewogICAgICAgICAgICByZXR1cm4gJChpdGVtKQogICAgICAgICAgICAgIC5hdHRyKCduYW1lJykKICAgICAgICAgICAgICAucmVwbGFjZSgvXlxbfFxdJC9nLCAnJyk7CiAgICAgICAgICB9KQogICAgICAgICAgLmdldCgpOwogICAgICAgIGdsb2JhbE9ialtuYW1lXSA9IHJvbGVzOwogICAgICB9KTsKCiAgICAgIGxldCBvYmogPSB7fTsKICAgICAgcGVybWlzc2lvblJvdy5lYWNoKChpbmRleCwgcm93KSA9PiB7CiAgICAgICAgY29uc3QgbmFtZSA9ICQocm93KQogICAgICAgICAgLmZpbmQoJy5sZWZ0LW1vc3QnKQogICAgICAgICAgLnRleHQoKTsKICAgICAgICBjb25zdCByb2xlcyA9ICQocm93KQogICAgICAgICAgLmZpbmQoJzpjaGVja2JveFtjaGVja2VkPXRydWVdJykKICAgICAgICAgIC5tYXAoKGluZGV4LCBpdGVtKSA9PiB7CiAgICAgICAgICAgIHJldHVybiAkKGl0ZW0pCiAgICAgICAgICAgICAgLmF0dHIoJ25hbWUnKQogICAgICAgICAgICAgIC5yZXBsYWNlKC9eXFt8XF0kL2csICcnKTsKICAgICAgICAgIH0pCiAgICAgICAgICAuZ2V0KCkKICAgICAgICAgIC5maWx0ZXIoaXRlbSA9PiAhIWl0ZW0udHJpbSgpKTsKICAgICAgICBvYmpbbmFtZV0gPSByb2xlczsKICAgICAgfSk7CgogICAgICByZXR1cm4gewogICAgICAgIGdsb2JhbDogZ2xvYmFsT2JqLAogICAgICAgIHJvbGVzOiBvYmosCiAgICAgIH07CiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBucG0gcnVuIHN0b3A6JHtzZXJ2ZXJfZW52fSAmJiBucG0gcnVuIHN0YXJ0OiR7c2VydmVyX2Vudn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
