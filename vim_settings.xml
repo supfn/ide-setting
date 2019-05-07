@@ -333,7 +333,7 @@
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1556600899128">
+      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1557222137911">
         <mark key="[" line="93" column="29" />
         <mark key="]" line="93" column="29" />
         <mark key="." line="93" column="29" />
@@ -387,7 +387,7 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1556590545049">
+      <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1557222233723">
         <mark key="[" line="302" column="0" />
         <mark key="]" line="302" column="0" />
         <mark key="." line="302" column="0" />
@@ -459,11 +459,16 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1557144533875">
+      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1557222203816">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="8" />
         <mark key="^" line="26" column="65" />
         <mark key="." line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1557222364630">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ee-utils-scripts/inject-gitlab/test.js" timestamp="1544614376078">
         <mark key="[" line="106" column="0" />
@@ -578,13 +583,6 @@
         <mark key="]" line="4" column="36" />
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/test.js" timestamp="1556591722580">
-        <mark key="'" line="155" column="1" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="148" column="28" />
-        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/workers/syncEmployeeInformation.js" timestamp="1550721053243">
         <mark key="[" line="8" column="18" />
@@ -966,6 +964,12 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="26" column="36" />
       </file>
+      <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot-c.js" timestamp="1557222402262">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/referrals.js" timestamp="1553151806077">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="3" column="0" />
@@ -1077,10 +1081,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY3R4LmJvZHkgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>yu</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -1089,34 +1093,34 @@
         <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmN0eC5zZXJ2aWNlLm9wSmVua2lucy5nZXRCdWlsZExvZyhidWlsZFVybCwgaW5kZXgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY3R4LmJvZHkgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBnZXRTcGVjaWFsSm9iKCkgewogICAgICByZXR1cm4gc3BlY2lhbEpvYnM7CiAgICB9Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ2hhdGJvdCBleHRlbmRzIENvbnRyb2xsZXIgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCByZXQgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBnZXRTcGVjaWFsSm9iKCkgewogICAgICByZXR1cm4gc3BlY2lhbEpvYnM7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYW5FeGVjLCBqb2JLZXksdXNlcikK</text>
+        <text encoding="base64">ICAgIGxldCByZXQgPSBbXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgZXJyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYW5FeGVjLCBqb2JLZXksdXNlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYodGhpcy51c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgZXJyOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNwZWNpYWxKb2JzLmZpbmQoaXRlbSA9PiB7CiAgICAgICAgaXRlbS5rZXkgPT09IGpvYktleQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
