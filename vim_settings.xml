@@ -658,10 +658,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/temp/t.js" timestamp="1557321528785">
-        <mark key="[" line="37" column="2" />
-        <mark key="]" line="37" column="2" />
-        <mark key="." line="37" column="2" />
+      <file name="$USER_HOME$/Codes/qcd/temp/t.js" timestamp="1557379675621">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dotfiles/guns/zsh-setup.sh" timestamp="1544083690975">
         <mark key="[" line="3" column="109" />
@@ -1096,8 +1097,8 @@
       <jump line="165" column="1" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LmNhdGNoKGU9PmNvbnNvbGUubG9nKGUpKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvL2NvbnNvbGUubG9nKGFycmF5KQogIC8vIGNvbnNvbGUubG9nKGtleXMsIGl0ZW0pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LmNhdGNoKGU9PmNvbnNvbGUubG9nKGUpKQ==</text>
@@ -1109,28 +1110,28 @@
         <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmN0eC5zZXJ2aWNlLm9wSmVua2lucy5nZXRCdWlsZExvZyhidWlsZFVybCwgaW5kZXgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyggbmV3IERhdGUoJzIwMTkvMDUvMDcgMDA6MDAnKSkK</text>
+        <text encoding="base64">ICAvL2NvbnNvbGUubG9nKGFycmF5KQogIC8vIGNvbnNvbGUubG9nKGtleXMsIGl0ZW0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0b2RheS5tYXAoaXRlbT0+Y29uc29sZS5sb2coaXRlbSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFycmF5LnB1c2goaXRlbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpdGVtLmpvYl9rZXkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGhhcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICBhcnJheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheS5wdXNoKCkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKGRhdGEuZGF0YSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzLmRhdGEuZGF0YS5sZW5ndGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyggbmV3IERhdGUoJzIwMTkvMDUvMDcgMDA6MDAnKSkK</text>
       </register>
       <register name="x" type="4">
         <text />
