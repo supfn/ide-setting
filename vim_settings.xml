@@ -131,7 +131,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/router.js" timestamp="1557314879324">
+      <file name="$USER_HOME$/Codes/qcd/app/router.js" timestamp="1557383967946">
         <mark key="[" line="23" column="81" />
       </file>
       <file name="$USER_HOME$/Codes/lab/prod-event-recorder/test/app/services/gip.test.js" timestamp="1544104771790">
@@ -658,11 +658,12 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/temp/t.js" timestamp="1557379675621">
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="29" column="47" />
-        <mark key="." line="29" column="47" />
-        <mark key="^" line="29" column="47" />
+      <file name="$USER_HOME$/Codes/qcd/temp/t.js" timestamp="1557384170289">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="83" column="1" />
+        <mark key="]" line="83" column="1" />
+        <mark key="." line="83" column="1" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dotfiles/guns/zsh-setup.sh" timestamp="1544083690975">
         <mark key="[" line="3" column="109" />
@@ -995,8 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/job-master.js" />
-      <jump line="16" column="36" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/jenkins-control/ExtendedChoiceParameterDefinition.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/service/gitlab.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
       <jump line="71" column="16" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
@@ -1095,13 +1094,15 @@
       <jump line="128" column="17" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
       <jump line="136" column="1" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
       <jump line="165" column="1" filename="$USER_HOME$/Codes/lab/hubot/test.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Codes/qcd/temp/t.js" />
+      <jump line="24" column="21" filename="$USER_HOME$/Codes/qcd/temp/t.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvL2NvbnNvbGUubG9nKGFycmF5KQogIC8vIGNvbnNvbGUubG9nKGtleXMsIGl0ZW0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmNhdGNoKGU9PmNvbnNvbGUubG9nKGUpKQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -1110,34 +1111,34 @@
         <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmN0eC5zZXJ2aWNlLm9wSmVua2lucy5nZXRCdWlsZExvZyhidWlsZFVybCwgaW5kZXgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvL2NvbnNvbGUubG9nKGFycmF5KQogIC8vIGNvbnNvbGUubG9nKGtleXMsIGl0ZW0pCg==</text>
+        <text encoding="base64">fSkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0b2RheS5tYXAoaXRlbT0+Y29uc29sZS5sb2coaXRlbSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoYXMgPSB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpdGVtLmpvYl9rZXkK</text>
+        <text encoding="base64">CmxldCBiZWdpblRpbWUgPSBNYXRoLmZsb29yKG5ldyBEYXRlKCcyMDE5LTA1LTA4IDAwOjAwOjAwJykuZ2V0VGltZSgpLzEwMDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcnJheQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYmVnaW5UaW1lLGVuZFRpbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzLmRhdGEuZGF0YS5sZW5ndGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyggbmV3IERhdGUoJzIwMTkvMDUvMDcgMDA6MDAnKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXJyYXkucHVzaChnZXRKb2JOYW1lKGl0ZW0pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
