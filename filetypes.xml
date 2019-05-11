@@ -14,8 +14,8 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="ping" type="HTML" />
       <mapping pattern="level2" type="HTML" />
-      <mapping pattern=".ux" type="HTML" />
       <mapping ext="tpl" type="HTML" />
+      <mapping ext="ux" type="HTML" />
       <mapping pattern="DDKJSBridge" type="JavaScript" />
       <mapping pattern="test_queryable2" type="JavaScript" />
       <mapping pattern="www" type="JavaScript" />
