@@ -15,6 +15,7 @@
       <mapping pattern="ping" type="HTML" />
       <mapping pattern="level2" type="HTML" />
       <mapping ext="tpl" type="HTML" />
+      <mapping ext="ux" type="HTML" />
       <mapping pattern="DDKJSBridge" type="JavaScript" />
       <mapping pattern="test_queryable2" type="JavaScript" />
       <mapping pattern="www" type="JavaScript" />
@@ -36,8 +37,8 @@
       <mapping pattern=".cloudrc" type="PLAIN_TEXT" />
       <mapping pattern="java-text" type="PLAIN_TEXT" />
       <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
-      <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
+      <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="1js" type="PLAIN_TEXT" />
       <mapping pattern="23-27.md" type="PLAIN_TEXT" />
