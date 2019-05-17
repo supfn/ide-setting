@@ -12,6 +12,10 @@
       <file name="$USER_HOME$/Codes/qcd/app/controller/stat.js" timestamp="1557314552857">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/jenkins-control/index.js" timestamp="1558071945027">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/temp/t.js" timestamp="1557585182564">
         <mark key="]" line="195" column="3" />
         <mark key="." line="195" column="3" />
@@ -23,19 +27,31 @@
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/user.js" timestamp="1557021601201">
         <mark key="[" line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6-stat.js" timestamp="1558073065383">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
         <mark key="[" line="191" column="57" />
         <mark key="]" line="191" column="57" />
         <mark key="^" line="191" column="57" />
         <mark key="." line="191" column="57" />
       </file>
+      <file name="$USER_HOME$/Codes/qcd/jos-stat/dirs/online_content_detail-h5" timestamp="1558071077973" />
       <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-stat.js" timestamp="1557314568589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/test.sh" timestamp="1557914321506">
         <mark key="[" line="0" column="3260" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1557474762878">
+      <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558073384530">
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1558071215875">
         <mark key="[" line="51" column="67" />
         <mark key="]" line="51" column="67" />
         <mark key="." line="51" column="67" />
@@ -46,10 +62,15 @@
         <mark key="]" line="303" column="26" />
         <mark key="." line="303" column="26" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1558065670771">
+      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1558072886371">
         <mark key="[" line="34" column="45" />
         <mark key="]" line="34" column="45" />
         <mark key="." line="34" column="45" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6.js" timestamp="1558073038233">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1557222137911">
         <mark key="[" line="93" column="29" />
@@ -57,13 +78,14 @@
         <mark key="." line="93" column="29" />
         <mark key="^" line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/jos-stat/test.js" timestamp="1558068849386">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="9" />
+      <file name="$USER_HOME$/Codes/qcd/jos-stat/test.js" timestamp="1558073219794">
+        <mark key="'" line="0" column="24" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1558065632113">
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1558071877017">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="22" column="185" />
         <mark key="." line="22" column="185" />
@@ -80,8 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="16" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
-      <jump line="189" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
       <jump line="67" column="47" filename="$USER_HOME$/Codes/lab/gitlab-services/app/controller/flow/actions.js" />
       <jump line="88" column="34" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
       <jump line="50" column="0" filename="$USER_HOME$/Codes/lab/gitlab-services/scripts/flows/new-branch.js" />
@@ -180,49 +200,51 @@
       <jump line="24" column="21" filename="$USER_HOME$/Codes/qcd/temp/t.js" />
       <jump line="70" column="0" filename="$USER_HOME$/Codes/qcd/temp/t.js" />
       <jump line="132" column="28" filename="$USER_HOME$/Codes/qcd/temp/t.js" />
+      <jump line="39" column="7" filename="$USER_HOME$/Codes/qcd/jos-stat/test.js" />
+      <jump line="2" column="24" filename="$USER_HOME$/Codes/qcd/jos-stat/test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>dirs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWFpbignMjAxOS0wNS0wMSAwMDowMDowMCcsICcyMDE5LTA1LTExIDIzOjU5OjU5JywgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpdGVtLmpvYnMpIHsKICAgICAgam9icy5wdXNoKC4uLml0ZW0uam9icyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpdGVtLmpvYnMpIHsKICAgICAgam9icy5wdXNoKC4uLml0ZW0uam9icyk7CiAgICB9IGVsc2UgewoKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtLnVybCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coam9icy5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpvYnMubGVuZ3RoKQogICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXlzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IHVybCA9ICdodHRwczovL2NpLnF1dG91dGlhby5uZXQvYXBpL2pzb24/cHJldHR5PXRydWUmdHJlZT1qb2JzW3VybCxuYW1lLGRlc2NyaXB0aW9uLGJ1aWxkYWJsZSxqb2JzW3VybCxuYW1lLGRlc2NyaXB0aW9uLGJ1aWxkYWJsZV1dJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBhcHAgPT4gewo=</text>
+        <text encoding="base64">ICBpZighcHJqKXsKICAgIHRocm93IG5ldyBFcnJvcihpdGVtKQogIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgU2VydmljZSA9IHJlcXVpcmUoJy4vYmFzZS1zZXJ2aWNlJyk7Cg==</text>
+        <text encoding="base64">ICBsZXQgcGFyYW1zPSAocy5wcm9qZWN0IHx8IHNbJ2Zsb3ctZGVmaW5pdGlvbiddKS5wcm9wZXJ0aWVzWydodWRzb24ubW9kZWwuUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eSddLnBhcmFtZXRlckRlZmluaXRpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
