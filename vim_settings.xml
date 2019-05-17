@@ -3,24 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1557474762878">
-        <mark key="[" line="51" column="67" />
-        <mark key="]" line="51" column="67" />
-        <mark key="." line="51" column="67" />
-        <mark key="^" line="51" column="66" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1557222137911">
-        <mark key="[" line="93" column="29" />
-        <mark key="]" line="93" column="29" />
-        <mark key="." line="93" column="29" />
-        <mark key="^" line="94" column="28" />
-      </file>
-      <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1557222233723">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="." line="302" column="0" />
-        <mark key="^" line="302" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/qcd/app/router.js" timestamp="1557584510912">
         <mark key="[" line="23" column="81" />
       </file>
@@ -53,18 +35,35 @@
       <file name="$USER_HOME$/Codes/qcd/test.sh" timestamp="1557914321506">
         <mark key="[" line="0" column="3260" />
       </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1557474762878">
+        <mark key="[" line="51" column="67" />
+        <mark key="]" line="51" column="67" />
+        <mark key="." line="51" column="67" />
+        <mark key="^" line="51" column="66" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1557542266091">
         <mark key="[" line="284" column="4" />
         <mark key="]" line="303" column="26" />
         <mark key="." line="303" column="26" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1557474982164">
+      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1558065670771">
         <mark key="[" line="34" column="45" />
         <mark key="]" line="34" column="45" />
         <mark key="." line="34" column="45" />
       </file>
-      <file name="/new-branch.js" timestamp="1557923845506" />
-      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1557474920647">
+      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1557222137911">
+        <mark key="[" line="93" column="29" />
+        <mark key="]" line="93" column="29" />
+        <mark key="." line="93" column="29" />
+        <mark key="^" line="94" column="28" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/jos-stat/test.js" timestamp="1558065755237">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1558065632113">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="22" column="185" />
         <mark key="." line="22" column="185" />
@@ -72,6 +71,12 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1557389615223">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1557222233723">
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+        <mark key="^" line="302" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -177,11 +182,11 @@
       <jump line="132" column="28" filename="$USER_HOME$/Codes/qcd/temp/t.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGV0IHVybCA9ICdodHRwczovL2NpLnF1dG91dGlhby5uZXQvYXBpL2pzb24/cHJldHR5PXRydWUmdHJlZT1qb2JzW3VybCxuYW1lLGRlc2NyaXB0aW9uLGJ1aWxkYWJsZSxqb2JzW3VybCxuYW1lLGRlc2NyaXB0aW9uLGJ1aWxkYWJsZV1dJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -190,34 +195,34 @@
         <text encoding="base64">bWFpbignMjAxOS0wNS0wMSAwMDowMDowMCcsICcyMDE5LTA1LTExIDIzOjU5OjU5JywgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">bGV0IHVybCA9ICdodHRwczovL2NpLnF1dG91dGlhby5uZXQvYXBpL2pzb24/cHJldHR5PXRydWUmdHJlZT1qb2JzW3VybCxuYW1lLGRlc2NyaXB0aW9uLGJ1aWxkYWJsZSxqb2JzW3VybCxuYW1lLGRlc2NyaXB0aW9uLGJ1aWxkYWJsZV1dJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBhcHAgPT4gewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Y29uc3QgU2VydmljZSA9IHJlcXVpcmUoJy4vYmFzZS1zZXJ2aWNlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Y29uc3QgcXMgPSByZXF1aXJlKCdxdWVyeXN0cmluZycpOwpjb25zdCBKZW5raW5zQ29udHJvbCA9IHJlcXVpcmUoJy4vamVua2lucy1jb250cm9sJyk7CmNvbnN0IGNoZWVyaW8gPSByZXF1aXJlKCdjaGVlcmlvJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcGVybWlzc2lvbiA9IHJlcXVpcmUoJy4vamVua2luc1Blcm1pc3Npb24nKS5kYXRhOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwpjb25zdCBwYXJzZXIgPSByZXF1aXJlKCd4bWwyanNvbicpOwpjb25zdCBxcyA9IHJlcXVpcmUoJ3F1ZXJ5c3RyaW5nJyk7CmNvbnN0IEplbmtpbnNDb250cm9sID0gcmVxdWlyZSgnLi9qZW5raW5zLWNvbnRyb2wnKTsKY29uc3QgY2hlZXJpbyA9IHJlcXVpcmUoJ2NoZWVyaW8nKTsKY29uc3QgcGVybWlzc2lvbiA9IHJlcXVpcmUoJy4vamVua2luc1Blcm1pc3Npb24nKS5kYXRhOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChmaWx0ZXJQcmQpIHsKICAgICAgICAgICAgICBpZiAocy5pc1ByZCkgewogICAgICAgICAgICAgICAgYXJyYXkucHVzaChnZXRKb2JOYW1lKGl0ZW0pKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
