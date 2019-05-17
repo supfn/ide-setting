@@ -45,11 +45,11 @@
       <file name="$USER_HOME$/Codes/qcd/test.sh" timestamp="1557914321506">
         <mark key="[" line="0" column="3260" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558073384530">
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="3" />
+      <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+        <mark key="^" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1558071215875">
         <mark key="[" line="51" column="67" />
@@ -205,7 +205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHRocm93IEpTT04uc3RyaW5naWZ5KHMpCg==</text>
       </register>
       <register name="-" type="4">
         <text>dirs</text>
@@ -217,34 +217,34 @@
         <text encoding="base64">ICAgIGlmIChpdGVtLmpvYnMpIHsKICAgICAgam9icy5wdXNoKC4uLml0ZW0uam9icyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHRocm93IEpTT04uc3RyaW5naWZ5KHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpdGVtLmpvYnMpIHsKICAgICAgam9icy5wdXNoKC4uLml0ZW0uam9icyk7CiAgICB9IGVsc2UgewoKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpdGVtLmpvYnMpIHsKICAgICAgam9icy5wdXNoKC4uLml0ZW0uam9icyk7CiAgICB9IGVsc2UgewoKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpvYnMubGVuZ3RoKQogICAgcmV0dXJuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXlzKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpvYnMubGVuZ3RoKQogICAgcmV0dXJuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXlzKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZighcHJqKXsKICAgIHRocm93IG5ldyBFcnJvcihpdGVtKQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgcGFyYW1zPSAocy5wcm9qZWN0IHx8IHNbJ2Zsb3ctZGVmaW5pdGlvbiddKS5wcm9wZXJ0aWVzWydodWRzb24ubW9kZWwuUGFyYW1ldGVyc0RlZmluaXRpb25Qcm9wZXJ0eSddLnBhcmFtZXRlckRlZmluaXRpb25zCg==</text>
+        <text encoding="base64">ICBpZighcHJqKXsKICAgIHRocm93IG5ldyBFcnJvcihpdGVtKQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
