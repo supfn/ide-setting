@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/tapd-methods.js" timestamp="1558263588563">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="2" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/tapd-methods.js" timestamp="1558264689595">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/jenkins-control/index.js" timestamp="1558071945027">
         <mark key="[" line="2" column="0" />
@@ -108,16 +108,16 @@
       <file name="/Clipboard.txt" timestamp="1557389615223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1558262649899">
-        <mark key="[" line="45" column="49" />
-        <mark key="]" line="45" column="38" />
-        <mark key="." line="45" column="38" />
-        <mark key="^" line="45" column="38" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1558264785883">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="29" column="99" />
+        <mark key="." line="29" column="99" />
+        <mark key="^" line="29" column="99" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1558262587759">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1558264703395">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
         <mark key="^" line="19" column="16" />
       </file>
     </filemarks>
@@ -225,10 +225,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>customFieldName</text>
+        <text>cn</text>
       </register>
       <register name="-" type="4">
-        <text>customFieldName</text>
+        <text>cn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmXD4=</text>
@@ -237,34 +237,34 @@
         <text encoding="base64">ICAgIGlmIChpdGVtLmpvYnMpIHsKICAgICAgam9icy5wdXNoKC4uLml0ZW0uam9icyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm1GaWVsZHMpCiAgICByZXR1cm47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAuY2F0Y2goZSA9PiB7fSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhodG1sU3RyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcnJheSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm1GaWVsZHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBtZXRob2RzOwo=</text>
+        <text encoding="base64">ICAgIGZvcm1GaWVsZHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgCn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAuY2F0Y2goZSA9PiB7fSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
