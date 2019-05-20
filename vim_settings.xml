@@ -62,10 +62,10 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558322339475">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558323566933">
+        <mark key="[" line="158" column="8" />
+        <mark key="]" line="158" column="8" />
+        <mark key="." line="158" column="8" />
         <mark key="^" line="133" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
@@ -211,11 +211,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createField</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text>createField</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
