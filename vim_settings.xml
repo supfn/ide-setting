@@ -115,6 +115,9 @@
       <file name="$USER_HOME$/Codes/lab/tapd-automation/.gitignore" timestamp="1558413181934">
         <mark key="[" line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/tool-automation/readme.md" timestamp="1558422422540">
+        <mark key="'" line="8" column="2" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/.npmignore" timestamp="1558418107437">
         <mark key="[" line="76" column="0" />
       </file>
@@ -201,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="27" filename="$USER_HOME$/Codes/lab/dotfiles/guns/variables.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/global-job-shell.sh" />
       <jump line="38" column="0" filename="$USER_HOME$/Codes/lab/dotfiles/guns/prompt.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/Codes/lab/dotfiles/guns/prompt.sh" />
@@ -301,6 +303,7 @@
       <jump line="10" column="2" filename="$USER_HOME$/Codes/lab/tapd-websdk/info.js" />
       <jump line="129" column="0" filename="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" />
       <jump line="19" column="35" filename="$USER_HOME$/Codes/lab/tapd-websdk/import-members.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/Codes/lab/tool-automation/readme.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -310,7 +313,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
+        <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcnVuRGlyID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJ3J1bicpOwoKaWYgKCFmcy5leGlzdHNTeW5jKHJ1bkRpcikpIHsKICBmcy5ta2RpclN5bmMocnVuRGlyKTsKfQpjb25zdCBjb29raWVKYXJQYXRoID0gcGF0aC5qb2luKHJ1bkRpciwnY29va2llLmpzb24nKTsK</text>
@@ -350,12 +353,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZW1wbGF0ZXNcPg==</last-search>
+      <last-search encoding="base64">XDxrbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZW1wbGF0ZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxrbVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>*</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -369,6 +372,7 @@
         <entry>*</entry>
         <entry encoding="base64">XDxkaWZmXD4=</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
+        <entry encoding="base64">XDxrbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
