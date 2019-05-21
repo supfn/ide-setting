@@ -35,6 +35,9 @@
         <mark key="." line="28" column="9" />
         <mark key="^" line="28" column="9" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/km-websdk/.npmignore" timestamp="1558418107437">
+        <mark key="[" line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1558071215875">
         <mark key="[" line="51" column="67" />
         <mark key="]" line="51" column="67" />
@@ -109,6 +112,12 @@
         <mark key="." line="191" column="57" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/dirs/online_content_detail-h5" timestamp="1558071077973" />
+      <file name="$USER_HOME$/Codes/lab/km-websdk/package.json" timestamp="1558418125053">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-stat.js" timestamp="1557314568589">
         <mark key="[" line="0" column="0" />
       </file>
@@ -280,10 +289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toString</text>
+        <text>km</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>km</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
