@@ -114,12 +114,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/cubot/scripts/test.js" timestamp="1558442935104">
+      <file name="$USER_HOME$/Codes/lab/cubot/scripts/test.js" timestamp="1558448110354">
         <mark key="'" line="133" column="1" />
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="43" />
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="49" column="16" />
         <mark key="^" line="110" column="46" />
-        <mark key="." line="10" column="43" />
+        <mark key="." line="49" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-automation/.gitignore" timestamp="1558413181934">
         <mark key="[" line="76" column="0" />
@@ -340,10 +340,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
