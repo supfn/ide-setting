@@ -3,17 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/lab/km-websdk/websdk.js" timestamp="1558419819779">
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="86" column="20" />
-        <mark key="." line="86" column="20" />
-        <mark key="^" line="86" column="20" />
+      <file name="$USER_HOME$/Codes/lab/km-websdk/websdk.js" timestamp="1558421236589">
+        <mark key="[" line="53" column="3" />
+        <mark key="]" line="57" column="3" />
+        <mark key="." line="57" column="3" />
+        <mark key="^" line="57" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-automation/import-members.js" timestamp="1558413163077">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="27" column="54" />
         <mark key="." line="27" column="54" />
         <mark key="^" line="27" column="54" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tool-automation/package.json" timestamp="1558420489219">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
         <mark key="[" line="26" column="11" />
@@ -33,10 +38,10 @@
         <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.go" timestamp="1558278570008" />
-      <file name="$USER_HOME$/Codes/lab/km-websdk/test.js" timestamp="1558419274007">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Codes/lab/km-websdk/test.js" timestamp="1558421078543">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/router.js" timestamp="1557584510912">
         <mark key="[" line="23" column="81" />
@@ -60,11 +65,6 @@
       <file name="$USER_HOME$/Codes/qcd/test.sh" timestamp="1557914321506">
         <mark key="[" line="0" column="3260" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/CryptoJS.js" timestamp="1558327256782">
-        <mark key="[" line="708" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1558071877017">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="22" column="185" />
@@ -80,20 +80,26 @@
       <file name="/Clipboard.txt" timestamp="1557389615223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1558420027166">
-        <mark key="e" line="447" column="22" />
-        <mark key="x" line="447" column="22" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1558421270528">
+        <mark key="e" line="456" column="22" />
+        <mark key="x" line="456" column="22" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/current-space-fields.txt" timestamp="1558319600501" />
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1558409026984">
-        <mark key="[" line="168" column="19" />
-        <mark key="]" line="168" column="17" />
-        <mark key="." line="168" column="17" />
-        <mark key="^" line="168" column="17" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1558421254816">
+        <mark key="[" line="166" column="24" />
+        <mark key="]" line="166" column="13" />
+        <mark key="." line="166" column="13" />
+        <mark key="^" line="166" column="13" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tool-automation/km/ad-sync.js" timestamp="1558420312051">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/tapd-methods.js" timestamp="1558264689595">
         <mark key="[" line="12" column="34" />
@@ -113,11 +119,6 @@
         <mark key="." line="93" column="29" />
         <mark key="^" line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/.gitignore" timestamp="1558400415300">
-        <mark key="[" line="106" column="3" />
-        <mark key="]" line="106" column="3" />
-        <mark key="." line="106" column="3" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/index.js" timestamp="1558419933670">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
@@ -130,18 +131,13 @@
         <mark key="." line="302" column="0" />
         <mark key="^" line="302" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/stat-list.js" timestamp="1558417710866">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/stat-list.js" timestamp="1558417710866" />
       <file name="$USER_HOME$/Codes/lab/tapd-automation/package.json" timestamp="1558414358616">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558419966429">
+      <file name="/Dummy.txt" timestamp="1558421314988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/.gitignore" timestamp="1558419794988">
@@ -153,11 +149,6 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1557020921623">
         <mark key="[" line="43" column="29" />
-      </file>
-      <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6-stat.js" timestamp="1558073065383">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558400079123">
         <mark key="[" line="172" column="28" />
@@ -180,16 +171,6 @@
         <mark key="." line="303" column="26" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1558320763056" />
-      <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1558072886371">
-        <mark key="[" line="34" column="45" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-      </file>
-      <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6.js" timestamp="1558073038233">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/.npmignore" timestamp="1558412098466">
         <mark key="[" line="5" column="21" />
       </file>
@@ -297,47 +278,47 @@
       <jump line="19" column="35" filename="$USER_HOME$/Codes/lab/tapd-websdk/import-members.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>websdk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgbGV0IGxpc3QgPSBhd2FpdCBzZGsuZ2V0UHJvamVjdHMoMjAxODQ1NTEpOwogIGNvbnNvbGUubG9nKGxpc3QpOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>websdk</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZygnZGV0ZWN0IGxvZ2luIHN0YXR1cycpOwo=</text>
+        <text encoding="base64">Y29uc3QgcnVuRGlyID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJ3J1bicpOwoKaWYgKCFmcy5leGlzdHNTeW5jKHJ1bkRpcikpIHsKICBmcy5ta2RpclN5bmMocnVuRGlyKTsKfQpjb25zdCBjb29raWVKYXJQYXRoID0gcGF0aC5qb2luKHJ1bkRpciwnY29va2llLmpzb24nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgbGV0IGxpc3QgPSBhd2FpdCBzZGsuZ2V0UHJvamVjdHMoMjAxODQ1NTEpOwogIGNvbnNvbGUubG9nKGxpc3QpOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyA/ZGlyZWN0b3J5SWQ9NzE5NTg1MjkmYXRsX3Rva2VuPWVjYWFiM2IxMDVlYzUyNjRmMmVkMjNlN2VhNzEzZWYzZTQ4OWZlYWFgKQogICAgICAgIHJldHVybiB7CiAgICAgICAgICB0b2tlbgogICAgICAgIH07Cg==</text>
+        <text encoding="base64">Ki8KCmNvbnNvbGUubG9nKHNkay5tZXRhKCkpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1heFJlZGlyZWN0czowCg==</text>
+        <text encoding="base64">CmlmICghZnMuZXhpc3RzU3luYygnLi9ydW4nKSkgewogIGZzLm1rZGlyU3luYygnLi9ydW4nKTsKfQpjb25zdCBjb29raWVKYXJQYXRoID0gJy4vcnVuL2Nvb2tpZS5qc29uJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aWYgKCFmcy5leGlzdHNTeW5jKCcvcnVuJykpIHsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2RrLmRldGVjdEFkbWluTG9naW5TdGF0dXMoKS50aGVuKHMgPT4gewogIGNvbnNvbGUubG9nKHMpCn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
