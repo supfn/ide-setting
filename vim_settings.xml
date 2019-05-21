@@ -46,8 +46,10 @@
         <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.go" timestamp="1558278570008" />
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/.gitignore" timestamp="1558349078224">
-        <mark key="[" line="102" column="0" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/.gitignore" timestamp="1558400415300">
+        <mark key="[" line="106" column="3" />
+        <mark key="]" line="106" column="3" />
+        <mark key="." line="106" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1557222233723">
         <mark key="[" line="302" column="0" />
@@ -64,7 +66,7 @@
       <file name="$USER_HOME$/Codes/qcd/app/router.js" timestamp="1557584510912">
         <mark key="[" line="23" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558361309545">
+      <file name="/Dummy.txt" timestamp="1558409655926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/stat.js" timestamp="1557314552857">
@@ -81,11 +83,11 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558361949995">
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558400079123">
         <mark key="[" line="172" column="28" />
-        <mark key="]" line="170" column="0" />
-        <mark key="^" line="170" column="0" />
-        <mark key="." line="170" column="0" />
+        <mark key="]" line="174" column="18" />
+        <mark key="^" line="174" column="18" />
+        <mark key="." line="174" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
         <mark key="[" line="191" column="57" />
@@ -100,6 +102,16 @@
       <file name="$USER_HOME$/Codes/qcd/jos-stat/dirs/1_masonglin_test" timestamp="1558088060993" />
       <file name="$USER_HOME$/Codes/qcd/test.sh" timestamp="1557914321506">
         <mark key="[" line="0" column="3260" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/import-members.js" timestamp="1558408401007">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1557542266091">
+        <mark key="[" line="284" column="4" />
+        <mark key="]" line="303" column="26" />
+        <mark key="." line="303" column="26" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-services/app/router.js" timestamp="1558320763056" />
       <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1558072886371">
@@ -132,16 +144,23 @@
       <file name="/Clipboard.txt" timestamp="1557389615223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1558362139865">
-        <mark key="[" line="55" column="27" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="^" line="55" column="11" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1558409650656">
+        <mark key="e" line="446" column="22" />
+        <mark key="x" line="446" column="22" />
+        <mark key="[" line="446" column="15" />
+        <mark key="]" line="446" column="21" />
+        <mark key="." line="446" column="21" />
+        <mark key="^" line="446" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/current-space-fields.txt" timestamp="1558319600501" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1558409026984">
+        <mark key="[" line="168" column="19" />
+        <mark key="]" line="168" column="17" />
+        <mark key="." line="168" column="17" />
+        <mark key="^" line="168" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="22" filename="$USER_HOME$/Codes/lab/dotfiles/init.sh" />
       <jump line="8" column="27" filename="$USER_HOME$/Codes/lab/dotfiles/guns/variables.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/Codes/lab/ee-utils-scripts/global-job-shell.sh" />
       <jump line="38" column="0" filename="$USER_HOME$/Codes/lab/dotfiles/guns/prompt.sh" />
@@ -241,49 +260,50 @@
       <jump line="17" column="0" filename="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" />
       <jump line="10" column="2" filename="$USER_HOME$/Codes/lab/tapd-websdk/info.js" />
       <jump line="129" column="0" filename="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" />
+      <jump line="19" column="35" filename="$USER_HOME$/Codes/lab/tapd-websdk/import-members.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>projects</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>projects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gYXJncy5vcmdhbml6YXRpb25JZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b25lQnlPbmUoKS5jYXRjaChlID0+IHsKICBjb25zb2xlLmxvZyhlLm1lc3NhZ2UsIGUuc3RhY2spOwp9KTsK</text>
+        <text encoding="base64">ICBsZXQgbWVtYmVycyA9IGF3YWl0IHNkay5nZXRDYWNoZU1lbWJlcnMoKTsKICBsZXQgYXJyYXkgPSBzcGxpdEFycmF5KG1lbWJlcnMsIDUwKTsKICBsZXQgY291bnRlciA9IDA7CiAgbGV0IGxlbmd0aCA9IG1lbWJlcnMubGVuZ3RoOwogIGxldCBzdGVwID0gYXN5bmMgZnVuY3Rpb24oKXsKICAgIGxldCBpdGVtID0gYXJyYXkuc2hpZnQoKTsKICAgIGlmKCFpdGVtKXsKICAgICAgY29uc29sZS5sb2coJ2ltcG9ydCBkb25lIDEwMCUnKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvdW50ZXIgPSBpdGVtLmxlbmd0aCArIGNvdW50ZXI7CgogICAgbGV0IGFkZFVzZXIgPSBhd2FpdCBzZGsuaW1wb3J0TWVtYmVycygnMzI3MjEwNTcnLGl0ZW0ubWFwKGl0ZW0gPT4gaXRlbS5uaWNrKSk7CiAgICBjb25zb2xlLmxvZyhhZGRVc2VyLCAoY291bnRlci9sZW5ndGgqMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsKICAgIHN0ZXAoKTsKICB9CiAgc3RlcCgpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbXBhbnlJZCwKICAgICAgICAgIG9yZ2FuaXphdGlvbklkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGlzdCA9IHsKICAnNTg3OTI2MTcnIDogJ+a1i+ivleeUqOmhueebricKfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55SWQsCiAgICAgICAgb3JnYW5pemF0aW9uSWQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuY2F0Y2goZT0+ewogICAgICAgIGNvbnNvbGUubG9nKCdjaGVja2luZyBsb2dpbiBzdGF0dXM6IGZhbHNlJyk7CiAgICAgICAgdGhyb3cgZTsKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgbGV0IGZpcnN0UGFnZSA9IGF3YWl0IHRoaXMuZ2V0UHJvamVjdHNQYWdlKHsKICAgICAgICBjb21wYW55SWQsCiAgICAgICAgb3JnYW5pemF0aW9uSWQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cmxpc3QgPSB7CiAgJzQ5MDQ1ODE1Jzon5p625p6EIFJldmlldycsCiAgICc1MjA1Mjc0Mic6J+WtmOmSsee9kF/ph5Hono3liJvmlrDpobnnm64nLAp9Owo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGNvbXBhbnlJZCA9IGF3YWl0IHRoaXMuZ2V0Q29tcGFueUlkKCk7CiAgICAgIGxldCBvcmdhbml6YXRpb25JZCA9IGF3YWl0IHRoaXMuZ2V0T3JnYW5pemF0aW9uSWQoY29tcGFueUlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyBhd2FpdCBzZGsuY3JlYXRlU3RvcnlGaWVsZChPYmplY3QuYXNzaWduKGhpZ2hWYWx1ZUZpZWxkc1s1XSx7CiAgICAvLyAgICAgc3BhY2VJZCwKICAgIC8vICAgICB0ZW1wbGF0ZXMKICAgIC8vIH0pKTsKICAgIC8vCiAgICAvLyBjb25zb2xlLmxvZyhgJHtoaWdoVmFsdWVGaWVsZHNbNV0ubmFtZX0gY3JlYXRlZGApOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxldCBzdHIgPSAkKHRoaXMpLmF0dHIoJ2RhdGEtZWRpdGFibGUtcGFyYW1zJyk7CiAgICAgICAgICBsZXQgZGF0YSA9IEpTT04ucGFyc2Uoc3RyKTsKICAgICAgICAgIGxpc3QucHVzaCh7CiAgICAgICAgICAgIG5pY2s6IGRhdGFbJ2RhdGFbdGFyZ2V0X25pY2tdJ10sCiAgICAgICAgICAgIGVtYWlsOiBkYXRhWydkYXRhW3RhcmdldF9lbWFpbF0nXSwKICAgICAgICAgICAgdXNlcklkOiBkYXRhWydkYXRhW3RhcmdldF91c2VyX2lkXSddCiAgICAgICAgICB9KTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke2hpZ2hWYWx1ZUZpZWxkc1s0XS5uYW1lfSBjcmVhdGVkYCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB0aW1lID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIHNkay5nZXRMb2dpblNlc3Npb24oKS50aGVuKHM9PnsKLy8gY29uc29sZS5sb2cocykKLy8gfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
