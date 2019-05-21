@@ -17,6 +17,15 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-automation/import-members.js" timestamp="1558413163077">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-automation/.gitignore" timestamp="1558413181934">
+        <mark key="[" line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/login.js" timestamp="1558344259218">
         <mark key="[" line="1" column="0" />
       </file>
@@ -38,12 +47,10 @@
         <mark key="." line="93" column="29" />
         <mark key="^" line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/jos-stat/test.js" timestamp="1558073219794">
-        <mark key="'" line="0" column="24" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="22" column="21" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/index.js" timestamp="1558412825687">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.go" timestamp="1558278570008" />
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/.gitignore" timestamp="1558400415300">
@@ -57,18 +64,24 @@
         <mark key="." line="302" column="0" />
         <mark key="^" line="302" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/stat-list.js" timestamp="1558357911480">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="1" column="14" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/stat-list.js" timestamp="1558415469676">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-automation/package.json" timestamp="1558414358616">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/router.js" timestamp="1557584510912">
         <mark key="[" line="23" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558409655926">
+      <file name="/Dummy.txt" timestamp="1558413192181">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/package.json" timestamp="1558412595096" />
       <file name="$USER_HOME$/Codes/qcd/app/controller/stat.js" timestamp="1557314552857">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,6 +137,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/.npmignore" timestamp="1558412098466">
+        <mark key="[" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/CryptoJS.js" timestamp="1558327256782">
         <mark key="[" line="708" column="0" />
         <mark key="]" line="0" column="15" />
@@ -144,13 +160,13 @@
       <file name="/Clipboard.txt" timestamp="1557389615223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1558409650656">
-        <mark key="e" line="446" column="22" />
-        <mark key="x" line="446" column="22" />
-        <mark key="[" line="446" column="15" />
-        <mark key="]" line="446" column="21" />
-        <mark key="." line="446" column="21" />
-        <mark key="^" line="446" column="21" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1558413796649">
+        <mark key="e" line="447" column="22" />
+        <mark key="x" line="447" column="22" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/current-space-fields.txt" timestamp="1558319600501" />
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1558409026984">
@@ -264,10 +280,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>projects</text>
+        <text>toString</text>
       </register>
       <register name="-" type="4">
-        <text>projects</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
@@ -276,34 +292,34 @@
         <text encoding="base64">ICAgKiBAcGFyYW0gYXJncy5vcmdhbml6YXRpb25JZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgbWVtYmVycyA9IGF3YWl0IHNkay5nZXRDYWNoZU1lbWJlcnMoKTsKICBsZXQgYXJyYXkgPSBzcGxpdEFycmF5KG1lbWJlcnMsIDUwKTsKICBsZXQgY291bnRlciA9IDA7CiAgbGV0IGxlbmd0aCA9IG1lbWJlcnMubGVuZ3RoOwogIGxldCBzdGVwID0gYXN5bmMgZnVuY3Rpb24oKXsKICAgIGxldCBpdGVtID0gYXJyYXkuc2hpZnQoKTsKICAgIGlmKCFpdGVtKXsKICAgICAgY29uc29sZS5sb2coJ2ltcG9ydCBkb25lIDEwMCUnKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvdW50ZXIgPSBpdGVtLmxlbmd0aCArIGNvdW50ZXI7CgogICAgbGV0IGFkZFVzZXIgPSBhd2FpdCBzZGsuaW1wb3J0TWVtYmVycygnMzI3MjEwNTcnLGl0ZW0ubWFwKGl0ZW0gPT4gaXRlbS5uaWNrKSk7CiAgICBjb25zb2xlLmxvZyhhZGRVc2VyLCAoY291bnRlci9sZW5ndGgqMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsKICAgIHN0ZXAoKTsKICB9CiAgc3RlcCgpCgo=</text>
+        <text encoding="base64">ICBsZXQgbWVtYmVycyA9IGF3YWl0IHNkay5nZXRDYWNoZU1lbWJlcnMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbXBhbnlJZCwKICAgICAgICAgIG9yZ2FuaXphdGlvbklkLAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW55SWQsCiAgICAgICAgb3JnYW5pemF0aW9uSWQsCg==</text>
+        <text encoding="base64">ICBpZighbWVtYmVycyl7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZpcnN0UGFnZSA9IGF3YWl0IHRoaXMuZ2V0UHJvamVjdHNQYWdlKHsKICAgICAgICBjb21wYW55SWQsCiAgICAgICAgb3JnYW5pemF0aW9uSWQsCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNvbXBhbnlJZCA9IGF3YWl0IHRoaXMuZ2V0Q29tcGFueUlkKCk7CiAgICAgIGxldCBvcmdhbml6YXRpb25JZCA9IGF3YWl0IHRoaXMuZ2V0T3JnYW5pemF0aW9uSWQoY29tcGFueUlkKTsK</text>
+        <text encoding="base64">ICBpZih1c2VyICYmIHBhc3MpewogICAgcHJvY2Vzcy5lbnYuVEFQRF9VU0VSID0gdXNlcjsKICAgIHByb2Nlc3MuZW52LlRBUERfUEFTUyA9IHBhc3M7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBzdHIgPSAkKHRoaXMpLmF0dHIoJ2RhdGEtZWRpdGFibGUtcGFyYW1zJyk7CiAgICAgICAgICBsZXQgZGF0YSA9IEpTT04ucGFyc2Uoc3RyKTsKICAgICAgICAgIGxpc3QucHVzaCh7CiAgICAgICAgICAgIG5pY2s6IGRhdGFbJ2RhdGFbdGFyZ2V0X25pY2tdJ10sCiAgICAgICAgICAgIGVtYWlsOiBkYXRhWydkYXRhW3RhcmdldF9lbWFpbF0nXSwKICAgICAgICAgICAgdXNlcklkOiBkYXRhWydkYXRhW3RhcmdldF91c2VyX2lkXSddCiAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICBwcm9jZXNzLmVudi5UQVBEX1VTRVIgPSB1c2VyOwogIHByb2Nlc3MuZW52LlRBUERfUEFTUyA9IHBhc3M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB0aW1lID0gbmV3IERhdGUoKS5nZXRUaW1lKCk7Cg==</text>
+        <text encoding="base64">ICBsZXQgbWVtYmVycyA9IGF3YWl0IHNkay5nZXRDYWNoZU1lbWJlcnMoKTsKICBsZXQgYXJyYXkgPSBzcGxpdEFycmF5KG1lbWJlcnMsIDUwKTsKICBsZXQgY291bnRlciA9IDA7CiAgbGV0IGxlbmd0aCA9IG1lbWJlcnMubGVuZ3RoOwogIGxldCBzdGVwID0gYXN5bmMgZnVuY3Rpb24oKXsKICAgIGxldCBpdGVtID0gYXJyYXkuc2hpZnQoKTsKICAgIGlmKCFpdGVtKXsKICAgICAgY29uc29sZS5sb2coJ2ltcG9ydCBkb25lIDEwMCUnKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvdW50ZXIgPSBpdGVtLmxlbmd0aCArIGNvdW50ZXI7CgogICAgbGV0IGFkZFVzZXIgPSBhd2FpdCBzZGsuaW1wb3J0TWVtYmVycygnMzI3MjEwNTcnLGl0ZW0ubWFwKGl0ZW0gPT4gaXRlbS5uaWNrKSk7CiAgICBjb25zb2xlLmxvZyhhZGRVc2VyLCAoY291bnRlci9sZW5ndGgqMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsKICAgIHN0ZXAoKTsKICB9CiAgc3RlcCgpCgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIHNkay5nZXRMb2dpblNlc3Npb24oKS50aGVuKHM9PnsKLy8gY29uc29sZS5sb2cocykKLy8gfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbXBhbnlJZCwKICAgICAgICAgIG9yZ2FuaXphdGlvbklkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
