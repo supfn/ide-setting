@@ -60,11 +60,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jenkins-inject/injec.qtt6.js" timestamp="1558520222686">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
+      <file name="$USER_HOME$/Codes/lab/jenkins-inject/injec.qtt6.js" timestamp="1558521509225">
+        <mark key="[" line="77" column="70" />
+        <mark key="]" line="77" column="70" />
         <mark key="^" line="77" column="72" />
-        <mark key="." line="88" column="0" />
+        <mark key="." line="77" column="70" />
       </file>
       <file name="$USER_HOME$/Codes/lab/cubot/scripts/test.js" timestamp="1558448110354">
         <mark key="'" line="133" column="1" />
@@ -124,7 +124,7 @@
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1557020921623">
         <mark key="[" line="43" column="29" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.js" timestamp="1558515934808">
+      <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.js" timestamp="1558521505376">
         <mark key="[" line="54" column="36" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -283,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>robot</text>
+        <text>ops</text>
       </register>
       <register name="-" type="4">
-        <text>robot</text>
+        <text>ops</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
