@@ -133,6 +133,9 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/jenkins-inject/publish.sh" timestamp="1558492516962">
+        <mark key="[" line="1" column="66" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/.npmignore" timestamp="1558418107437">
         <mark key="[" line="76" column="0" />
       </file>
@@ -169,7 +172,7 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558421314988">
+      <file name="/Dummy.txt" timestamp="1558492456803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/.gitignore" timestamp="1558419794988">
@@ -181,11 +184,11 @@
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1557020921623">
         <mark key="[" line="43" column="29" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.js" timestamp="1558453074331">
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="20" />
-        <mark key="." line="50" column="20" />
-        <mark key="^" line="50" column="20" />
+      <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.js" timestamp="1558493063357">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6-stat.js" timestamp="1558073065383">
         <mark key="[" line="21" column="31" />
@@ -346,10 +349,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
