@@ -126,10 +126,11 @@
         <mark key="^" line="110" column="46" />
         <mark key="." line="49" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/sel-ui/tests/test.js" timestamp="1558679690438">
-        <mark key="[" line="54" column="46" />
-        <mark key="]" line="46" column="6" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Codes/lab/sel-ui/tests/test.js" timestamp="1558686368291">
+        <mark key="[" line="60" column="48" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="48" />
+        <mark key="^" line="34" column="1" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-automation/.gitignore" timestamp="1558413181934">
         <mark key="[" line="76" column="0" />
@@ -376,11 +377,11 @@
       <jump line="5" column="10" filename="$USER_HOME$/Codes/qcd/app/controller/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>, {type : 'Quarter'}</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>, {type : 'Quarter'}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -389,34 +390,34 @@
         <text encoding="base64">CWF3YWl0IGJyb3dzZXIudXJsKCdodHRwOi8vb2tyLnF1dG91dGlhby5uZXQvcmVwb3J0L2FwaS8nKTsKCWF3YWl0IGJyb3dzZXIuc2V0Q29va2llcyh7CiAgICAgICAgbmFtZTogJ2V3eC1wZXJtLXRva2VuJywKICAgICAgICB2YWx1ZTogJzc3YTVKMEw1WEJjZWxqNGhSTFV1RzAxaTA3d0MxUEZRZEcyc3B2T05XQ3VqOXVFSkxNNVU1WUNjSUhVeFBVRExqUjNraGFJNmNmamNaTko2Um91UycKCX0pOwoKICAgIGF3YWl0IGJyb3dzZXIudXJsKCdodHRwOi8vb2tyLnF1dG91dGlhby5uZXQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG15Q29tcG9uZW50LmlzRGlzcGxheWVkKCkpLnRvQmUodHJ1ZSk7Ly8gcGFzcwo=</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBicm93c2VyLnVybCgnaHR0cHM6Ly93d3cuYmFpZHUuY29tJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KG15Q29tcG9uZW50LmlzRGlzcGxheWVkKCkpLnRvQmUodHJ1ZSk7Ly8gcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRlID0gbmV3IERhdGUoKS50b0lTT1N0cmluZygpLnJlcGxhY2UoL1QvLCAnICcpLi8vIHJlcGxhY2UgVCB3aXRoIGEgc3BhY2UKICByZXBsYWNlKC9cLi4rLywgJ1onKTsK</text>
+        <text encoding="base64">ICAgICAgICBicm93c2VyLnVybCgnaHR0cHM6Ly93d3cuYmFpZHUuY29tJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
+        <text encoding="base64">ICBjb25zdCBkYXRlID0gbmV3IERhdGUoKS50b0lTT1N0cmluZygpLnJlcGxhY2UoL1QvLCAnICcpLi8vIHJlcGxhY2UgVCB3aXRoIGEgc3BhY2UKICByZXBsYWNlKC9cLi4rLywgJ1onKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlclBhdHRlcm5zKQo=</text>
+        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlclBhdHRlcm5zKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
