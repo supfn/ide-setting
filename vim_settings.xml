@@ -65,6 +65,7 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="16" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/chatbot/.babelrc" timestamp="1558688457778" />
       <file name="$USER_HOME$/Codes/lab/km-websdk/package.json" timestamp="1558419916112">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -72,6 +73,12 @@
         <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/package.json" timestamp="1558584662201" />
+      <file name="$USER_HOME$/Codes/lab/chatbot/.umirc.js" timestamp="1558688821842">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/test.sh" timestamp="1557914321506">
         <mark key="[" line="0" column="3260" />
       </file>
@@ -151,17 +158,13 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jenkins-inject/publish.sh" timestamp="1558492516962">
-        <mark key="[" line="1" column="66" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/.npmignore" timestamp="1558418107437">
         <mark key="[" line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1558582765021">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="94" column="28" />
+      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1558688497404">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/.gitignore" timestamp="1558400415300">
         <mark key="[" line="106" column="3" />
@@ -377,8 +380,8 @@
       <jump line="5" column="10" filename="$USER_HOME$/Codes/qcd/app/controller/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, {type : 'Quarter'}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, {type : 'Quarter'}</text>
@@ -390,34 +393,34 @@
         <text encoding="base64">CWF3YWl0IGJyb3dzZXIudXJsKCdodHRwOi8vb2tyLnF1dG91dGlhby5uZXQvcmVwb3J0L2FwaS8nKTsKCWF3YWl0IGJyb3dzZXIuc2V0Q29va2llcyh7CiAgICAgICAgbmFtZTogJ2V3eC1wZXJtLXRva2VuJywKICAgICAgICB2YWx1ZTogJzc3YTVKMEw1WEJjZWxqNGhSTFV1RzAxaTA3d0MxUEZRZEcyc3B2T05XQ3VqOXVFSkxNNVU1WUNjSUhVeFBVRExqUjNraGFJNmNmamNaTko2Um91UycKCX0pOwoKICAgIGF3YWl0IGJyb3dzZXIudXJsKCdodHRwOi8vb2tyLnF1dG91dGlhby5uZXQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">QXBwLmRpc3BsYXlOYW1lID0gJ0FwcDExMTEnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG15Q29tcG9uZW50LmlzRGlzcGxheWVkKCkpLnRvQmUodHJ1ZSk7Ly8gcGFzcwo=</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicm93c2VyLnVybCgnaHR0cHM6Ly93d3cuYmFpZHUuY29tJyk7Cg==</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRlID0gbmV3IERhdGUoKS50b0lTT1N0cmluZygpLnJlcGxhY2UoL1QvLCAnICcpLi8vIHJlcGxhY2UgVCB3aXRoIGEgc3BhY2UKICByZXBsYWNlKC9cLi4rLywgJ1onKTsK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KG15Q29tcG9uZW50LmlzRGlzcGxheWVkKCkpLnRvQmUodHJ1ZSk7Ly8gcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICBicm93c2VyLnVybCgnaHR0cHM6Ly93d3cuYmFpZHUuY29tJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlclBhdHRlcm5zKQo=</text>
+        <text encoding="base64">ICBjb25zdCBkYXRlID0gbmV3IERhdGUoKS50b0lTT1N0cmluZygpLnJlcGxhY2UoL1QvLCAnICcpLi8vIHJlcGxhY2UgVCB3aXRoIGEgc3BhY2UKICByZXBsYWNlKC9cLi4rLywgJ1onKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
