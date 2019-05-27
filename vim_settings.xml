@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/status.js" timestamp="1558936865608">
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="36" />
+      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/status.js" timestamp="1558956300273">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="13" />
         <mark key="^" line="32" column="36" />
-        <mark key="." line="32" column="36" />
+        <mark key="." line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/websdk.js" timestamp="1558421236589">
         <mark key="[" line="53" column="3" />
@@ -384,17 +384,17 @@
       <jump line="31" column="0" filename="$USER_HOME$/Codes/lab/img-services/app/controller/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
+      <register name="&quot;" type="4">
+        <text>control</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>control</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5nZXQoJy9xcmNvZGUnLCBjb250cm9sbGVyLmhvbWUucXJjb2RlKTsK</text>
+        <text encoding="base64">ICAgIGN0eC5zZXQoJ2NhdGNoLWNvbnRyb2wnLCduby1jYWNoZTsgbm8tc3RvcmUnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
