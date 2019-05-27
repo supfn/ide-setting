@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/status.js" timestamp="1558956300273">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="49" column="13" />
-        <mark key="^" line="32" column="36" />
-        <mark key="." line="49" column="13" />
+      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/status.js" timestamp="1558958405251">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/websdk.js" timestamp="1558421236589">
         <mark key="[" line="53" column="3" />
@@ -384,11 +384,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/Codes/lab/img-services/app/controller/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>control</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5tZXNzYWdlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>control</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -397,16 +397,16 @@
         <text encoding="base64">ICAgIGN0eC5zZXQoJ2NhdGNoLWNvbnRyb2wnLCduby1jYWNoZTsgbm8tc3RvcmUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5tZXNzYWdlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHNlcnZpY2VzID0ge307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHNlcnZpY2VzID0ge307Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,16 +415,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5zdHJpbmdpZnkoc2VydmljZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt0ZXh0YSA9ICduL2EnLCB0ZXh0YiA9ICduL2EnLCBjb2xvcnNjaGVtZSA9ICdncmVlbicsIHRlbXBsYXRlID0gJ2ZsYXQnfSA9IDsK</text>
+        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5zdHJpbmdpZnkoc2VydmljZXMpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJmID0gbmV3IEJhZGdlRmFjdG9yeSgpOwoKICAgIGNvbnN0IHt0ZXh0YSA9ICduL2EnLCB0ZXh0YiA9ICduL2EnLCBjb2xvcnNjaGVtZSA9ICdncmVlbicsIHRlbXBsYXRlID0gJ2ZsYXQnfSA9IGN0eC5xdWVyeTsKCiAgICBjb25zdCBmb3JtYXQgPSB7CiAgICAgIHRleHQ6IFt0ZXh0YSwgdGV4dGJdLAogICAgICBjb2xvcnNjaGVtZSwKICAgICAgdGVtcGxhdGUsCiAgICB9OwoKICAgIGNvbnN0IHN2ZyA9IGJmLmNyZWF0ZShmb3JtYXQpOwogICAgY3R4LnNldCgnY2F0Y2gtY29udHJvbCcsJ25vLWNhY2hlOyBuby1zdG9yZScpOwogICAgY3R4LmJvZHkgPSBzdmc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHt0ZXh0YSA9ICduL2EnLCB0ZXh0YiA9ICduL2EnLCBjb2xvcnNjaGVtZSA9ICdncmVlbicsIHRlbXBsYXRlID0gJ2ZsYXQnfSA9IDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
