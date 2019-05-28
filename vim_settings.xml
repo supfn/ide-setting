@@ -72,14 +72,12 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/chatbot/.babelrc" timestamp="1558688457778" />
       <file name="$USER_HOME$/Codes/lab/km-websdk/package.json" timestamp="1558419916112">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/package.json" timestamp="1558584662201" />
       <file name="$USER_HOME$/Codes/lab/chatbot/.umirc.js" timestamp="1558688821842">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="6" column="3" />
@@ -92,12 +90,16 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" timestamp="1559017915487">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/CryptoJS.js" timestamp="1558327256782">
         <mark key="[" line="708" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-services/.gitlab-ci.yml" timestamp="1558923739081" />
       <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1558518795016">
         <mark key="[" line="145" column="33" />
         <mark key="]" line="148" column="0" />
@@ -120,6 +122,9 @@
         <mark key="]" line="166" column="13" />
         <mark key="." line="166" column="13" />
         <mark key="^" line="166" column="13" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/okr-client/gitlab-ci.yml" timestamp="1559017048236">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/km/ad-sync.js" timestamp="1558420312051">
         <mark key="[" line="4" column="2" />
@@ -221,7 +226,6 @@
         <mark key="^" line="174" column="18" />
         <mark key="." line="174" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/base-service.js" timestamp="1558428310677" />
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/import-members.js" timestamp="1558408401007">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -384,11 +388,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/Codes/lab/img-services/app/controller/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5tZXNzYWdlKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -397,19 +401,19 @@
         <text encoding="base64">ICAgIGN0eC5zZXQoJ2NhdGNoLWNvbnRyb2wnLCduby1jYWNoZTsgbm8tc3RvcmUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5tZXNzYWdlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5tZXNzYWdlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHNlcnZpY2VzID0ge307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHNlcnZpY2VzID0ge307Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -418,13 +422,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5zdHJpbmdpZnkoc2VydmljZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt0ZXh0YSA9ICduL2EnLCB0ZXh0YiA9ICduL2EnLCBjb2xvcnNjaGVtZSA9ICdncmVlbicsIHRlbXBsYXRlID0gJ2ZsYXQnfSA9IDsK</text>
+        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5zdHJpbmdpZnkoc2VydmljZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
