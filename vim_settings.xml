@@ -117,11 +117,16 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1558421254816">
-        <mark key="[" line="166" column="24" />
-        <mark key="]" line="166" column="13" />
-        <mark key="." line="166" column="13" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1559101924761">
+        <mark key="[" line="502" column="0" />
+        <mark key="]" line="502" column="0" />
+        <mark key="." line="502" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1559101681716">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="170" column="0" />
         <mark key="^" line="166" column="13" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/okr-client/gitlab-ci.yml" timestamp="1559017048236">
         <mark key="[" line="0" column="0" />
@@ -208,6 +213,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559101954910">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.js" timestamp="1558521505376">
         <mark key="[" line="54" column="36" />
@@ -388,11 +396,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/Codes/lab/img-services/app/controller/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY2hpbGRzID0gJChpdGVtKS5jaGlsZHJlbigpOwogICAgICAgIGxldCBkZXB0TmFtZSA9IGVudGl0aWVzLmRlY29kZSgkKGNoaWxkc1swXSkuaHRtbCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -401,34 +409,34 @@
         <text encoding="base64">ICAgIGN0eC5zZXQoJ2NhdGNoLWNvbnRyb2wnLCduby1jYWNoZTsgbm8tc3RvcmUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY2hpbGRzID0gJChpdGVtKS5jaGlsZHJlbigpOwogICAgICAgIGxldCBkZXB0TmFtZSA9IGVudGl0aWVzLmRlY29kZSgkKGNoaWxkc1swXSkuaHRtbCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5tZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAxMTEKZWNobyAyMjIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHNlcnZpY2VzID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaHRtbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKgogIHJldHVybiBzZGsuZ2V0U3RvcnlGaWVsZHNTZXR0aW5nKCczMTQwMDQwMycpLnRoZW4ocyA9PiB7CiAgICBjb25zb2xlLmxvZyhzKQogIH0pCiAgKi8K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgbGlzdCA9IGF3YWl0IHNkay5nZXRQcm9qZWN0cygyMDE4NDU1MSk7CiAgY29uc29sZS5sb2cobGlzdCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5zdHJpbmdpZnkoc2VydmljZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
