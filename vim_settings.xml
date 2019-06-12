@@ -47,11 +47,17 @@
         <mark key="." line="28" column="9" />
         <mark key="^" line="28" column="9" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/install.sh" timestamp="1560328286977">
+        <mark key="[" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1558071215875">
         <mark key="[" line="51" column="67" />
         <mark key="]" line="51" column="67" />
         <mark key="." line="51" column="67" />
         <mark key="^" line="51" column="66" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560328450356">
+        <mark key="[" line="29" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/index.js" timestamp="1558412825687">
         <mark key="[" line="1" column="17" />
@@ -63,17 +69,16 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/home.js" timestamp="1558935746897">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="39" column="24" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/test.js" timestamp="1558421078543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/client.js" timestamp="1560328371761">
+        <mark key="[" line="12" column="72" />
+        <mark key="]" line="12" column="74" />
+        <mark key="." line="12" column="74" />
+        <mark key="^" line="12" column="74" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
         <mark key="[" line="191" column="57" />
@@ -438,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>zhangyu</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>zhangyu</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
