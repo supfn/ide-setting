@@ -89,7 +89,12 @@
         <mark key="." line="12" column="74" />
         <mark key="^" line="12" column="74" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qukan-php/composer.json" timestamp="1560402666820" />
+      <file name="$USER_HOME$/Codes/lab/qukan-php/composer.json" timestamp="1560405840170">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="129" column="31" />
+        <mark key="." line="129" column="31" />
+        <mark key="^" line="129" column="31" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
         <mark key="[" line="191" column="57" />
         <mark key="]" line="191" column="57" />
@@ -449,10 +454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>php</text>
+        <text>net</text>
       </register>
       <register name="-" type="4">
-        <text>php</text>
+        <text>net</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
