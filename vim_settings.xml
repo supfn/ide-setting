@@ -9,6 +9,11 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/vendors/server/utils/db.js" timestamp="1560426679187">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/websdk.js" timestamp="1558421236589">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="57" column="3" />
@@ -60,7 +65,7 @@
         <mark key="." line="51" column="67" />
         <mark key="^" line="51" column="66" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560424555471">
+      <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560427190237">
         <mark key="[" line="29" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/server.js" timestamp="1560421137615" />
@@ -69,11 +74,11 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/controller.js" timestamp="1560424670639">
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="40" column="5" />
-        <mark key="." line="40" column="5" />
-        <mark key="^" line="40" column="5" />
+      <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/controller.js" timestamp="1560427203229">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/Codes/lab/cubot/config/plugin.js" timestamp="1558428393726">
         <mark key="[" line="9" column="0" />
@@ -96,11 +101,12 @@
         <mark key="." line="12" column="74" />
         <mark key="^" line="12" column="74" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/yapi/vendors/server/utils/commons.js" timestamp="1560424595058">
-        <mark key="[" line="636" column="50" />
-        <mark key="]" line="636" column="48" />
+      <file name="$USER_HOME$/Codes/lab/yapi/vendors/server/controllers/project.js" timestamp="1560427102224" />
+      <file name="$USER_HOME$/Codes/lab/yapi/vendors/server/utils/commons.js" timestamp="1560427241221">
+        <mark key="[" line="636" column="29" />
+        <mark key="]" line="636" column="29" />
         <mark key="^" line="636" column="48" />
-        <mark key="." line="636" column="48" />
+        <mark key="." line="636" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qukan-php/composer.json" timestamp="1560409705097">
         <mark key="[" line="37" column="24" />
@@ -198,6 +204,12 @@
         <mark key="]" line="12" column="34" />
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/package.json" timestamp="1560426254753">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Codes/lab/sel-ui/tests/test.js" timestamp="1558701420737">
         <mark key="[" line="105" column="4" />
@@ -473,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>hostscheme</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>hostscheme</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -485,34 +497,34 @@
         <text encoding="base64">ICAgICAgYXdhaXQgaW1wb3J0U3BhY2VzKG9yZ01lbWJlckFycmF5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZXJyLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZihjb25maWcuZGIuY29ubmVjdFN0cmluZyl7CiAgICBjb25uZWN0U3RyaW5nID0gY29uZmlnLmRiLmNvbm5lY3RTdHJpbmc7CiAgfWVsc2V7CiAgICBjb25uZWN0U3RyaW5nID0gYG1vbmdvZGI6Ly8ke2NvbmZpZy5kYi5zZXJ2ZXJuYW1lfToke2NvbmZpZy5kYi5wb3J0fS8ke2NvbmZpZy5kYi5EQVRBQkFTRX1gOwogICAgaWYgKGNvbmZpZy5kYi5hdXRoU291cmNlKSB7CiAgICAgIGNvbm5lY3RTdHJpbmcgPSBjb25uZWN0U3RyaW5nICsgYD9hdXRoU291cmNlPSR7Y29uZmlnLmRiLmF1dGhTb3VyY2V9YDsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICB2YXIgY29ubmVjdFN0cmluZyA9ICcnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICJzZXR1cCIgOiAicXR0LyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZXJyLm1lc3NhZ2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3BhY2UgPSAzNzEzMzQzNzsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgY291bnRlciA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ltcG9ydCBwYXJ0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
