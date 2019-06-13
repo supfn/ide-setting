@@ -65,10 +65,11 @@
         <mark key="." line="51" column="67" />
         <mark key="^" line="51" column="66" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560428637753">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560429794407">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/server.js" timestamp="1560421137615" />
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/index.js" timestamp="1558412825687">
@@ -487,10 +488,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hostscheme</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>hostscheme</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
