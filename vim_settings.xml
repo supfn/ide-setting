@@ -66,10 +66,10 @@
         <mark key="." line="51" column="67" />
         <mark key="^" line="51" column="66" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560429794407">
+      <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560489786111">
         <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/server.js" timestamp="1560421137615" />
@@ -204,11 +204,11 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/yapi/package.json" timestamp="1560426254753">
+      <file name="$USER_HOME$/Codes/lab/yapi/package.json" timestamp="1560489406075">
         <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="14" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/Codes/lab/sel-ui/tests/test.js" timestamp="1558701420737">
         <mark key="[" line="105" column="4" />
@@ -233,6 +233,7 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/vendors/CHANGELOG.md" timestamp="1560489484197" />
       <file name="$USER_HOME$/Codes/lab/yapi/.gitignore" timestamp="1560329228047">
         <mark key="[" line="2" column="0" />
       </file>
@@ -473,10 +474,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
