@@ -294,14 +294,22 @@
       <file name="/Dummy.txt" timestamp="1560481923795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ssri/config.sh" timestamp="1560841734876">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ssri/config.sh" timestamp="1560843814861">
+        <mark key="'" line="8" column="37" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/npm-cache-install/install.sh" timestamp="1560514604396">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ssri/t.sh" timestamp="1560843447175">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.js" timestamp="1558521505376">
         <mark key="[" line="54" column="36" />
@@ -392,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="59" filename="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" />
       <jump line="122" column="0" filename="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" />
       <jump line="281" column="24" filename="$USER_HOME$/Codes/lab/qadp-client/src/utils/activity.js" />
       <jump line="38" column="26" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/gma.js" />
@@ -492,13 +499,14 @@
       <jump line="43" column="19" filename="$USER_HOME$/Codes/lab/tool-automation/tapd/fetch-members.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Codes/lab/tool-automation/tapd/fetch-members.js" />
       <jump line="159" column="0" filename="$USER_HOME$/Codes/lab/yapi/vendors/CHANGELOG.md" />
+      <jump line="9" column="37" filename="$USER_HOME$/Codes/lab/ssri/config.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bnBtIC12Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -507,34 +515,34 @@
         <text encoding="base64">ICAgICAgYXdhaXQgaW1wb3J0U3BhY2VzKG9yZ01lbWJlckFycmF5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnBtIC12Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gInMvXiRmbGFnPS4qLyRmbGFnPSR2YWx1ZS8iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGkK</text>
+        <text encoding="base64">bGVha2NhbmFyeT10cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gMTExCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYgo=</text>
+        <text encoding="base64">I3NlZCAicy9eJGZsYWc9LiovJGZsYWc9JHZhbHVlLyIgdC5zaAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsaWFzIG1kNXN1bT0ibWQ1Igo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsaWFzIG1kNXN1bT0ibWQ1Igo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgphPXRydWU=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gMTExCiAgICB0eXBlIG1kNQogICAgdHlwZSBtZDVzdW0K</text>
+        <text encoding="base64">bnBtIC12Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
