@@ -9,6 +9,11 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ssri/scan.sh" timestamp="1560926599349">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/yapi/vendors/server/utils/db.js" timestamp="1560481887002">
         <mark key="[" line="21" column="60" />
         <mark key="]" line="51" column="0" />
@@ -502,47 +507,47 @@
       <jump line="9" column="37" filename="$USER_HOME$/Codes/lab/ssri/config.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cXVfcmQvbW9kdWxlX3ZpZGVvX2RldGFpbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgaW1wb3J0U3BhY2VzKG9yZ01lbWJlckFycmF5KTsK</text>
+        <text encoding="base64">YWxsX2NvdW50PSQoZWNobyAkeyNsaXN0W0BdfSkKZXJyb3JfY291bnQ9JChjYXQgLi9zdGF0IHwgd2MgLWwpCgplY2hvICIke2Vycm9yX2NvdW50fS8ke2FsbF9jb3VudH0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gInMvXiRmbGFnPS4qLyRmbGFnPSR2YWx1ZS8iCg==</text>
+        <text encoding="base64">cXVfcmQvbW9kdWxlX3ZpZGVvX2RldGFpbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVha2NhbmFyeT10cnVlCg==</text>
+        <text encoding="base64">cGFhcy1rOHMvbWlkdS1mYXVsdGRyaWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gMTExCg==</text>
+        <text encoding="base64">ZmUtbm9kZS9zb3VyY2UtbmF2YmFyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3NlZCAicy9eJGZsYWc9LiovJGZsYWc9JHZhbHVlLyIgdC5zaAo=</text>
+        <text encoding="base64">ZmUvY2xpL211bHRpLXByb2plY3QtdGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmUvY2xpL3FmZS1jbGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">ZmUvY2xpL3Rlc3QxCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgphPXRydWU=</text>
+      <register name="7" type="2">
+        <text encoding="base64">cGFhcy1rOHMvbWlkdS1mYXVsdGRyaWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bnBtIC12Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICB1cmw9Imh0dHBzOi8vZ2l0LnF1dG91dGlhby5uZXQvJHtpfS9yYXcvbWFzdGVyL3BhY2thZ2UtbG9jay5qc29uIjsKICAgIGNvbnRlbnQ9JChjdXJsIC1zIC1IICJwcml2YXRlLXRva2VuOiAkVE9LRU4iIC1zICR1cmwpCiAgICBmb3IgaiBpbiAiJHtlcnJvcnNbQF19IjsgZG8KICAgICAgICBpZiBlY2hvICRjb250ZW50IHwgZ3JlcCAtcSAiJGoiOyB0aGVuCiAgICAgICAgICAgIGVjaG8gIiRpIGhhcyBlcnJvciBzcmkiID4+IHN0YXQ7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGZpCiAgICBkb25lCiAgICBlcnJvcl9jb3VudD0kKGNhdCAuL3N0YXQgfCB3YyAtbCkKCiAgICBlY2hvICIke2Vycm9yX2NvdW50fS8ke2FsbF9jb3VudH0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
