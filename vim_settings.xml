@@ -9,10 +9,10 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ssri/scan.sh" timestamp="1560926599349">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Codes/lab/ssri/scan.sh" timestamp="1560945925542">
+        <mark key="[" line="74" column="5" />
+        <mark key="]" line="74" column="5" />
+        <mark key="." line="74" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/lab/yapi/vendors/server/utils/db.js" timestamp="1560481887002">
         <mark key="[" line="21" column="60" />
@@ -507,11 +507,11 @@
       <jump line="9" column="37" filename="$USER_HOME$/Codes/lab/ssri/config.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cXVfcmQvbW9kdWxlX3ZpZGVvX2RldGFpbAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
