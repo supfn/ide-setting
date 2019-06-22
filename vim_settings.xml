@@ -145,10 +145,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" timestamp="1561174014699">
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
+      <file name="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" timestamp="1561180548638">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/lab/hubot/scripts/test2.js" timestamp="1559310680760">
         <mark key="[" line="15" column="35" />
@@ -516,10 +517,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>babel-plugin-dva-hmr</text>
+        <text>CI_PROJECT_DIR</text>
       </register>
       <register name="-" type="4">
-        <text>babel-plugin-dva-hmr</text>
+        <text>CI_PROJECT_DIR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
