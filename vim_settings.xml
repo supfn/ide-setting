@@ -42,12 +42,11 @@
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561182413610">
-        <mark key="'" line="41" column="3" />
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="40" column="8" />
-        <mark key="^" line="40" column="7" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561185670441">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="6" />
+        <mark key="." line="59" column="6" />
+        <mark key="^" line="59" column="7" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1559103104797">
         <mark key="[" line="25" column="22" />
@@ -528,46 +527,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LSA=</text>
+        <text>production</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LSA=</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWxsX2NvdW50PSQoZWNobyAkeyNsaXN0W0BdfSkKZXJyb3JfY291bnQ9JChjYXQgLi9zdGF0IHwgd2MgLWwpCgplY2hvICIke2Vycm9yX2NvdW50fS8ke2FsbF9jb3VudH0iCg==</text>
+        <text encoding="base64">ICAgIC0gfAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgplY2hvOgogIHNjcmlwdDoKICAgIC0gZWNobyAiMTExMSRDSV9DT01NSVRfUkVGX1NMVUctJENJX1BST0pFQ1RfRElSIgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">dGVzdDoKICAgc3RhZ2U6IHRlc3QKICAgc2NyaXB0OgogICAgIC0gbnBtIHJ1biB0ZXN0Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyaWFibGVzOgo=</text>
+        <text encoding="base64">ICAgLSB0ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIENJX0NPTU1JVF9SRUZfU0xVRyA9ICRDSV9DT01NSVRfUkVGX1NMVUcgIAo=</text>
+        <text encoding="base64">ICBLRVk6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cXVfcmQvbW9kdWxlX3ZpZGVvX2RldGFpbAo=</text>
+        <text encoding="base64">ICAgICAgIHdob2FtaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFhcy1rOHMvbWlkdS1mYXVsdGRyaWxsCg==</text>
+        <text encoding="base64">ICAgIC0gZWNobyAnZGVwbG95Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmUtbm9kZS9zb3VyY2UtbmF2YmFyCg==</text>
+        <text encoding="base64">ICAgICAtIGVjaG8gMjIyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmUvY2xpL211bHRpLXByb2plY3QtdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICMgICAgIC0gI2V2YWwgJChzc2gtYWdlbnQgLXMpCiAgICAgICAjLSAjc3NoLWFkZCA8KGVjaG8gIiRLRVkiKQogICAgICAgIy0gI21rZGlyIC1wIH4vLnNzaAogICAgICAgIy0gI2VjaG8gLWUgIkhvc3QgKlxuXHRTdHJpY3RIb3N0S2V5Q2hlY2tpbmcgbm9cblxuIiA+IH4vLnNzaC9jb25maWcKICAgICAjLSB3aG9hbWkKICAgICAjLSBzc2ggLW8gTG9nTGV2ZWw9RVJST1Igd29ya0AxMC4wLjUxLjIxMyAnd2hvYW1pJwoK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmUvY2xpL3FmZS1jbGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
