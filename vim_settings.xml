@@ -257,6 +257,12 @@
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/controller/one-cd.js" timestamp="1561209886117">
+        <mark key="[" line="419" column="4" />
+        <mark key="]" line="420" column="23" />
+        <mark key="^" line="420" column="23" />
+        <mark key="." line="420" column="23" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/yapi/.gitignore" timestamp="1560329228047">
         <mark key="[" line="2" column="0" />
       </file>
@@ -416,6 +422,13 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/router.js" timestamp="1561210042306">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="36" column="56" />
+        <mark key="]" line="36" column="56" />
+        <mark key="." line="36" column="56" />
+        <mark key="^" line="36" column="35" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/okr-client/package.json" timestamp="1561173995333">
         <mark key="[" line="68" column="27" />
         <mark key="]" line="68" column="27" />
@@ -430,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="26" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/gma.js" />
       <jump line="5" column="56" filename="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/middleware/common-response.js" />
       <jump line="1" column="20" filename="$USER_HOME$/Codes/lab/event-notifier/app/controller/base-controller.js" />
@@ -530,49 +542,50 @@
       <jump line="9" column="37" filename="$USER_HOME$/Codes/lab/ssri/config.sh" />
       <jump line="2" column="3" filename="$USER_HOME$/Codes/lab/ssri/check.js" />
       <jump line="32" column="3" filename="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" />
+      <jump line="14" column="0" filename="$USER_HOME$/Codes/lab/one-cd/app/router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtLWRhdGEtdXJsZW5jb2RlICJDSV9KT0JfVE9LRU49JENJX0pPQl9UT0tFTiIgXAo=</text>
+        <text encoding="base64">ICByb3V0ZXIucG9zdCgnL2FwaS92MS9vbmUtY2QvYnVpbGQnLCBhdXRoKCksIGNvbnRyb2xsZXIub25lQ2QuYnVpbGQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJsIGh0dHBzOi8vY2kucXR0Ni5jbi8K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3VybCBodHRwczovL2NpLnF0dDYuY24vCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLWQgQ0lfSk9CX1RPS0VOPSIkQ0lfSk9CX1RPS0VOIiBcCiAgICAgIC1kIENJX0pPQl9UT0tFTj0iJENJX0pPQl9UT0tFTiIgXAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJsIGh0dHBzOi8vY2kucXR0Ni5jbi8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY3VybCBodHRwczovL2NpLnF0dDYuY24vCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLWQgQ0lfSk9CX1RPS0VOPSIkQ0lfSk9CX1RPS0VOIiBcCiAgICAgIC1kIENJX0pPQl9UT0tFTj0iJENJX0pPQl9UT0tFTiIgXAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2F0IG91dHB1dHMvdmFyaWFibGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogJENJX0NPTU1JVF9SRUZfU0xVRy0kQ0lfUFJPSkVDVF9ESVIKICAgIHBhdGhzOgogICAgICAtIHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">ICAgICAgY2F0IG91dHB1dHMvdmFyaWFibGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogJENJX0NPTU1JVF9SRUZfU0xVRy0kQ0lfUFJPSkVDVF9ESVIKICAgIHBhdGhzOgogICAgICAtIHZhcmlhYmxlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFydGlmYWN0VnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHZhcmlhYmxlcwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFydGlmYWN0VnM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
