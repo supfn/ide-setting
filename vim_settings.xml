@@ -170,10 +170,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561387913540">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561389787635">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="60" column="33" />
+        <mark key="." line="60" column="33" />
+        <mark key="^" line="60" column="70" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
         <mark key="[" line="191" column="57" />
@@ -303,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/middleware/common-response.js" />
-      <jump line="1" column="20" filename="$USER_HOME$/Codes/lab/event-notifier/app/controller/base-controller.js" />
       <jump line="4" column="18" filename="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/config/config.prd.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/auth.js" />
@@ -403,13 +403,15 @@
       <jump line="32" column="3" filename="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" />
       <jump line="14" column="0" filename="$USER_HOME$/Codes/lab/one-cd/app/router.js" />
       <jump line="65" column="0" filename="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" />
+      <jump line="48" column="99" filename="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" />
+      <jump line="47" column="0" filename="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${projKey}</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;private-token: a8FYkgx-XNg3GYvjzwsG&quot;</text>
+        <text>${projKey}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -418,7 +420,7 @@
         <text encoding="base64">ICBjYWNoZToKICAgICAga2V5OiAkQ0lfQ09NTUlUX1JFRl9TTFVHLSRDSV9QUk9KRUNUX0RJUgogICAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcHJvaktleSA9IHByb2Nlc3MuZW52LkNJX1BST0pFQ1RfUEFUSC5yZXBsYWNlKC9cLy9nLCIlMmYiKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -427,28 +429,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SE9TVFM9KHFkYy1xdHQtZWUtZGV2LTAxOjEwLjAuNTEuMjEzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGNkIHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">SE9TVFM9KHFkYy1xdHQtZWUtZGV2LTAxOjEwLjAuNTEuMjEzKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgZWNobyAkQ0lfQ09NTUlUX1JFRl9TTFVHLSRDSV9QUk9KRUNUX0RJUg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAjIGNkIHZhcmlhYmxlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
