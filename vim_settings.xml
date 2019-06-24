@@ -24,11 +24,11 @@
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561362145398">
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561366226917">
         <mark key="[" line="10" column="43" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="78" column="17" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1559103104797">
         <mark key="[" line="25" column="22" />
@@ -61,10 +61,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ssri/package-lock.json" timestamp="1560832502651" />
-      <file name="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" timestamp="1561364273055">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" timestamp="1561366258728">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/yapi/a.js" timestamp="1560587707108">
         <mark key="[" line="0" column="0" />
@@ -92,6 +92,9 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/one-cd/app/service/op-jenkins-qtt6.js" timestamp="1561265542337" />
       <file name="$USER_HOME$/.fe/git/.gitignore_global" timestamp="1561181344185" />
+      <file name="$USER_HOME$/Codes/lab/okr-client/src/entry.ejs" timestamp="1561366757855">
+        <mark key="[" line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.qtt6.js" timestamp="1558526917222">
         <mark key="[" line="89" column="5" />
         <mark key="]" line="89" column="5" />
@@ -211,7 +214,7 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/one-cd/app/service/gitlab-raw.js" timestamp="1561365083678" />
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/service/gitlab-raw.js" timestamp="1561366219871" />
       <file name="$USER_HOME$/Codes/lab/okr-client/tests/okr.js" timestamp="1558701840186">
         <mark key="[" line="105" column="4" />
         <mark key="]" line="105" column="4" />
@@ -345,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgICAga2V5OiAkQ0lfQ09NTUlUX1JFRl9TTFVHLSRDSV9QUk9KRUNUX0RJUgogICAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -357,37 +360,37 @@
         <text encoding="base64">ICB0YWdzOgogICAgICAtIGVlLWs4cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgICAga2V5OiAkQ0lfQ09NTUlUX1JFRl9TTFVHLSRDSV9QUk9KRUNUX0RJUgogICAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgLSBpbnN0YWxsX2RlcGVuZGVuY2llcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5zdGFsbDoKICB0YWdzOgogICAgICAtIGVlLWs4cwogIGNhY2hlOgogICAgICBrZXk6ICRDSV9DT01NSVRfUkVGX1NMVUctJENJX1BST0pFQ1RfRElSCiAgICAgIHBhdGhzOgogICAgICAtIG5vZGVfbW9kdWxlcy8KICBzY3JpcHQ6CiAgICAgIC0gbnBtIGNpCiAgb25seToKICAgIGNoYW5nZXM6CiAgICAtIHBhY2thZ2UtbG9jay5qc29uCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGFnZTogaW5zdGFsbF9kZXBlbmRlbmNpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjZF9idWlsZF9kaXI6ICIiCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9naXQucXV0b3V0aWFvLm5ldC9hcGkvdjQvcHJvamVjdHMvMjcwNy9qb2JzLzIwOTE0OC9naXRsYWItY2kvYXJ0aWZhY3RzP2pvYl90b2tlbj1NbUVVdGQ0dUZad1dVeHhNSHhyTgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjZF9idWlsZF9jb21tYW5kOiAiZWNobyAxMTEiCg==</text>
+        <text encoding="base64">ICBjYWNoZToKICAgICAga2V5OiAkQ0lfQ09NTUlUX1JFRl9TTFVHLSRDSV9QUk9KRUNUX0RJUgogICAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAiZGVwbG95IGxvZzoiCg==</text>
+        <text encoding="base64">ICAgLSBpbnN0YWxsX2RlcGVuZGVuY2llcwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBHSVRMQUJfSE9TVD0kKGVjaG8gJENJX1BST0pFQ1RfVVJMIHwgYXdrIC1GJENJX1BST0pFQ1RfUEFUSCAne3ByaW50ICQxfScpCiAgICAgICAgZWNobyAkR0lUTEFCX0hPU1QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
