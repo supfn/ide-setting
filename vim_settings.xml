@@ -170,12 +170,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561389787635">
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561390771985">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="48" column="34" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="70" />
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="62" column="70" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
         <mark key="[" line="191" column="57" />
@@ -408,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${projKey}</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>${projKey}</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
