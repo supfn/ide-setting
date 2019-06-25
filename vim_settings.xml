@@ -9,10 +9,10 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="74" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561387398335">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561428771079">
+        <mark key="[" line="65" column="2" />
+        <mark key="]" line="65" column="2" />
+        <mark key="." line="65" column="2" />
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
@@ -133,7 +133,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/one-cd/app/router.js" timestamp="1561213036212">
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/router.js" timestamp="1561429273037">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="36" column="56" />
         <mark key="]" line="36" column="56" />
@@ -170,7 +170,7 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561427020294">
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561428766820">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="57" column="17" />
         <mark key="]" line="57" column="17" />
@@ -252,7 +252,7 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/read.js" timestamp="1561378682273">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/one-cd/app/controller/one-cd.js" timestamp="1561351028948">
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/controller/one-cd.js" timestamp="1561429257130">
         <mark key="[" line="422" column="37" />
         <mark key="]" line="422" column="37" />
         <mark key="." line="422" column="37" />
@@ -290,7 +290,7 @@
         <mark key="^" line="27" column="76" />
         <mark key="." line="27" column="76" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/one-cd/app/service/gitlab-raw.js" timestamp="1561366219871" />
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/service/gitlab-raw.js" timestamp="1561429235639" />
       <file name="$USER_HOME$/Codes/lab/okr-client/package.json" timestamp="1561173995333">
         <mark key="[" line="68" column="27" />
         <mark key="]" line="68" column="27" />
@@ -408,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
