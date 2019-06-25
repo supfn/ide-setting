@@ -9,11 +9,11 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="74" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561428771079">
-        <mark key="[" line="65" column="2" />
-        <mark key="]" line="65" column="2" />
-        <mark key="." line="65" column="2" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561432658861">
+        <mark key="[" line="67" column="2" />
+        <mark key="]" line="61" column="21" />
+        <mark key="." line="61" column="21" />
+        <mark key="^" line="61" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
         <mark key="[" line="26" column="11" />
@@ -407,8 +407,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -420,10 +420,10 @@
         <text encoding="base64">ICBjYWNoZToKICAgICAga2V5OiAkQ0lfQ09NTUlUX1JFRl9TTFVHLSRDSV9QUk9KRUNUX0RJUgogICAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcHJvaktleSA9IHByb2Nlc3MuZW52LkNJX1BST0pFQ1RfUEFUSC5yZXBsYWNlKC9cLy9nLCIlMmYiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcHJvaktleSA9IHByb2Nlc3MuZW52LkNJX1BST0pFQ1RfUEFUSC5yZXBsYWNlKC9cLy9nLCIlMmYiKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,22 +435,22 @@
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SE9TVFM9KHFkYy1xdHQtZWUtZGV2LTAxOjEwLjAuNTEuMjEzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGNkIHZhcmlhYmxlcwo=</text>
+        <text encoding="base64">SE9TVFM9KHFkYy1xdHQtZWUtZGV2LTAxOjEwLjAuNTEuMjEzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
