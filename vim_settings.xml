@@ -32,11 +32,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/data.json" timestamp="1561521546791">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560493663619">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="13" />
@@ -169,11 +164,10 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/.gitlab-ci.yml" timestamp="1561529411828">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="32" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/.gitlab-ci.yml" timestamp="1561533431406">
+        <mark key="[" line="84" column="23" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558400079123">
         <mark key="[" line="172" column="28" />
@@ -437,11 +431,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1561530714395">
-        <mark key="[" line="123" column="14" />
-        <mark key="]" line="128" column="87" />
-        <mark key="." line="128" column="87" />
-        <mark key="^" line="128" column="87" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1561534964738">
+        <mark key="[" line="132" column="20" />
+        <mark key="]" line="132" column="20" />
+        <mark key="." line="132" column="20" />
+        <mark key="^" line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6-stat.js" timestamp="1558073065383">
         <mark key="[" line="21" column="31" />
@@ -597,40 +591,40 @@
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1zZy5wdXNoKCcnKTsK</text>
+        <text encoding="base64">ICAgIG1zZy5wdXNoKCc+Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGApCg==</text>
+        <text encoding="base64">ICAgICAgIyDlkK/liqjlkb3ku6QKICAgICAgY2RfcnVuX2NvbW1hbmQ6ICJzdWRvIHN1cGVydmlzb3JjdGwgcmVzdGFydCBnaXRsYWItd2ViaG9vayIKICAgICAgIyDlgaXlurfmo4Dmn6Xlkb3ku6QKICAgICAgY2RfaGVhbHRoX2NoZWNrX2NvbW1hbmQ6ICJzbGVlcCAyOyBjdXJsIC1mIGh0dHA6Ly8xMjcuMC4wLjE6Nzc3Ny9oZWFsdGgiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgbHMgb3V0cHV0cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgID4gJHtwYXlsb2FkLmNvbW1pdC5hdXRob3IubmFtZX0oJHtwYXlsb2FkLmNvbW1pdC5hdXRob3IuZW1haWx9KWApCg==</text>
+        <text encoding="base64">ICAgICAgLSB+Ly5ucG0vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1zZy5wdXNoKCcgICcpCg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbXNnLnB1c2goYOe7k+adn+S6jjogJHtuZXcgRGF0ZShmaW5pc2hlZF9hdCkudG9Mb2NhbGVTdHJpbmcoKX1gKTsK</text>
+        <text encoding="base64">ICAgIGxldCBwaXBlbGluZVJlc3VsdCA9ICcnOwogICAgaWYgKHN0YXR1cyAhPT0gJ3BlbmRpbmcnKSB7CiAgICAgIGlmICgvd2Fybi8udGVzdChkZXRhaWxlZF9zdGF0dXMpKSB7CiAgICAgICAgcGlwZWxpbmVSZXN1bHQgPSBg57uT5p6cOiBcYCR7ZGV0YWlsZWRfc3RhdHVzfVxgYDsKICAgICAgfSBlbHNlIGlmIChzdGF0dXMgPT09ICdzdWNjZXNzJykgewogICAgICAgIHBpcGVsaW5lUmVzdWx0ID0gYOe7k+aenDogPGZvbnQgY29sb3I9ImluZm8iPiR7ZGV0YWlsZWRfc3RhdHVzfTwvZm9udD5gOwogICAgICB9IGVsc2UgewogICAgICAgIHBpcGVsaW5lUmVzdWx0ID0gYOe7k+aenDogXGAke2RldGFpbGVkX3N0YXR1c31cYGAKICAgICAgfQogICAgfSBlbHNlIHsKICAgICAgcGlwZWxpbmVSZXN1bHQgPSAn5bey5Yib5bu6JzsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbXNnLnB1c2goYOe7k+adn+S6jjogJHtuZXcgRGF0ZShmaW5pc2hlZF9hdCkudG9Mb2NhbGVTdHJpbmcoKX1gKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbXNnLnB1c2goYOWIm+W7uuS6jjogJHtuZXcgRGF0ZShjcmVhdGVkX2F0KS50b0xvY2FsZVN0cmluZygpfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1zZy5wdXNoKGDml7bpl7Q6ICR7bmV3IERhdGUoZmluaXNoZWRfYXQpLnRvTG9jYWxlU3RyaW5nKCl9YCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbXNnLnB1c2goJ1xu5bey5Yib5bu6Jyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzLmVuZCgneHh4eCcpOwo=</text>
+        <text encoding="base64">ICAgIG1zZy5wdXNoKCcgJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
