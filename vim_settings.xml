@@ -14,10 +14,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561460451733">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561519376942">
+        <mark key="[" line="97" column="25" />
+        <mark key="]" line="97" column="25" />
+        <mark key="." line="97" column="25" />
+        <mark key="^" line="95" column="68" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
         <mark key="[" line="26" column="11" />
@@ -31,7 +32,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/data.json" timestamp="1561515154164" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/data.json" timestamp="1561516296123">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560493663619">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="13" />
@@ -163,11 +168,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/.gitlab-ci.yml" timestamp="1561465514664">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="59" />
-        <mark key="." line="10" column="59" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/.gitlab-ci.yml" timestamp="1561517671878">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="^" line="10" column="59" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558400079123">
         <mark key="[" line="172" column="28" />
@@ -431,11 +436,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1561515135991">
-        <mark key="[" line="64" column="90" />
-        <mark key="]" line="64" column="90" />
-        <mark key="^" line="64" column="90" />
-        <mark key="." line="64" column="90" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1561517197445">
+        <mark key="'" line="64" column="2" />
+        <mark key="[" line="102" column="37" />
+        <mark key="]" line="105" column="6" />
+        <mark key="." line="105" column="6" />
+        <mark key="^" line="105" column="6" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6-stat.js" timestamp="1558073065383">
         <mark key="[" line="21" column="31" />
@@ -465,7 +471,7 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/okr-client/package.json" timestamp="1561173995333">
+      <file name="$USER_HOME$/Codes/lab/okr-client/package.json" timestamp="1561518865424">
         <mark key="[" line="68" column="27" />
         <mark key="]" line="68" column="27" />
         <mark key="." line="68" column="27" />
@@ -479,9 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/auth.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/auth.js" />
-      <jump line="16" column="13" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/auth.js" />
       <jump line="2" column="1" filename="$USER_HOME$/Codes/lab/event-notifier/app/middleware/auth.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/middleware/auth.js" />
       <jump line="12" column="4" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/accident.js" />
@@ -579,52 +582,55 @@
       <jump line="47" column="0" filename="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" />
       <jump line="467" column="12" filename="$USER_HOME$/Codes/lab/one-cd/app/controller/one-cd.js" />
       <jump line="3" column="26" filename="$USER_HOME$/Codes/lab/one-cd/app/controller/one-cd.js" />
+      <jump line="66" column="11" filename="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" />
+      <jump line="68" column="56" filename="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" />
+      <jump line="64" column="2" filename="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>success</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1zZy5wdXNoKGDliIbmlK86IDxhIGhyZWY9Imh0dHA6Ly9naXQucXV0b3V0aWFvLm5ldC8ke3BheWxvYWQucHJvamVjdC5wYXRoX3dpdGhfbmFtZXNwYWNlfS90cmVlLyR7cmVmfSI+JHtyZWZ9PC9hPmApOwo=</text>
+        <text encoding="base64">ICAgIGlmKHN0YXR1cyAhPT0gJ3BlbmRpbmcnKXsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coCiAgICAgICAgYCR7YnVpbGRVcmx9L2xvZ1RleHQvcHJvZ3Jlc3NpdmVIdG1sYAogICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gZGF0YS5yZXN1bHQgfHwgJyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gcmV0LnJldDsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJodHRwOi8vY2ljZC5xdXRvdXRpYW8ubmV0L2NkLWFwaS9hcGkvdjEvb25lLWNkL2RlcGxheS1zdGF0dXM/dXJsPSR7YnVpbGRfdXJsfSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3R4LmJvZHkgPSBgaHR0cHM6Ly9jaS5xdHQ2LmNuJHtjaVJlc3VsdH1gOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICIkcmVzdWx0Igo=</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNpUmVzdWx0LmRhdGEpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmJ1aWxkIDI6CiAgc3RhZ2U6IGJ1aWxkCiAgc2NyaXB0OgogICAgLSBlY2hvIDIy</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gJ2Z1Y2tzZmxrc2RqYWxqZnNqYSc7CiAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vY2ljZC5xdXRvdXRpYW8ubmV0L2NkLWFwaS9hcGkvdjEvb25lLWNkL2RlcGxveT9mb3JtYXQ9dGV4dAogICAgICBlY2hvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhYWEnKQo=</text>
+        <text encoding="base64">ICAgICAgZWNobyAiY2hlY2sgZGVwbG95IGxvZzoiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgbXNnLnB1c2goYFxu57uT5p6cOiAke2RldGFpbGVkX3N0YXR1c31gKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
