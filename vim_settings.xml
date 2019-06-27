@@ -297,10 +297,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1561613467796">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="134" column="17" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1561617675393">
+        <mark key="[" line="81" column="125" />
+        <mark key="]" line="81" column="125" />
+        <mark key="." line="81" column="125" />
         <mark key="^" line="79" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ssri/old/all_sri.sh" timestamp="1560846622592">
@@ -432,11 +432,11 @@
       <jump line="81" column="0" filename="$USER_HOME$/Codes/lab/gitlab-ci-webhook/.gitlab-ci.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGF0dXMgIT09ICdwZW5kaW5nJykgewogICAgICBpZihmaW5pc2hlZF9hdCl7CiAgICAgICAgbXNnLnB1c2goYOe7k+adn+S6jjogJHtuZXcgRGF0ZShmaW5pc2hlZF9hdCkudG9Mb2NhbGVTdHJpbmcoKX1gKTsKICAgICAgfQogICAgICBtc2cucHVzaChg6ICX5pe2OiAke2R1cmF0aW9ufXNgKTsKICAgIH1lbHNlewogICAgICBtc2cucHVzaChg5Yib5bu65LqOOiAke25ldyBEYXRlKGNyZWF0ZWRfYXQpLnRvTG9jYWxlU3RyaW5nKCl9YCk7CiAgICB9CiAgICBtc2cucHVzaCgnJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[[查看](http://git.qutoutiao.net/${payload.project.path_with_namespace}/pipelines/${id})]</text>
       </register>
       <register name="-" type="4">
-        <text>----------------</text>
+        <text>[[查看](http://git.qutoutiao.net/${payload.project.path_with_namespace}/pipelines/${id})]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
