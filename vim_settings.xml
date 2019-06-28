@@ -179,10 +179,11 @@
         <mark key="^" line="6" column="44" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/.gitlab-ci.yml" timestamp="1561709196700">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Codes/lab/common-service/.gitlab-ci.yml" timestamp="1561710767039">
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="59" column="3" />
+        <mark key="." line="59" column="3" />
+        <mark key="^" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ssri/t.sh" timestamp="1560843447175">
         <mark key="[" line="2" column="0" />
@@ -325,7 +326,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.prd.js" timestamp="1561706851040" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.prd.js" timestamp="1561710580305" />
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
         <mark key="[" line="191" column="57" />
         <mark key="]" line="191" column="57" />
@@ -411,8 +412,8 @@
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/config/config.prd.js" timestamp="1561709149644">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/Codes/lab/common-service/config/config.prd.js" timestamp="1561710584744">
+        <mark key="[" line="20" column="8" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="18" />
@@ -448,11 +449,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1561617675393">
-        <mark key="[" line="81" column="125" />
-        <mark key="]" line="81" column="125" />
-        <mark key="." line="81" column="125" />
-        <mark key="^" line="79" column="4" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1561711279499">
+        <mark key="[" line="73" column="40" />
+        <mark key="]" line="75" column="13" />
+        <mark key="." line="75" column="13" />
+        <mark key="^" line="75" column="13" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6-stat.js" timestamp="1558073065383">
         <mark key="[" line="21" column="31" />
@@ -598,11 +599,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcG9saWN5OiBwdQo=</text>
+      <register name="&quot;" type="4">
+        <text>试</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>试</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
