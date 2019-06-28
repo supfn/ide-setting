@@ -17,10 +17,10 @@
       <file name="$USER_HOME$/Codes/lab/common-service/config/config.default.js" timestamp="1561705565253">
         <mark key="[" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561627952622">
-        <mark key="[" line="65" column="5" />
-        <mark key="]" line="65" column="5" />
-        <mark key="." line="65" column="5" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561712109719">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" timestamp="1561698726246" />
       <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
@@ -276,11 +276,11 @@
         <mark key="." line="27" column="54" />
         <mark key="^" line="27" column="54" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1561705530075">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="36" />
+      <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1561711760577">
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="37" column="16" />
+        <mark key="^" line="37" column="16" />
+        <mark key="." line="37" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/package.json" timestamp="1559103714428">
         <mark key="[" line="13" column="31" />
@@ -599,11 +599,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>试</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcG9saWN5OiBwdWxsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>试</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -612,37 +612,37 @@
         <text encoding="base64">ICAgICJzdGFydCI6ICJlZ2ctc2NyaXB0cyBzdGFydCAtLWRhZW1vbiAtLXRpdGxlPWVnZy1zZXJ2ZXItY29tbW9uLXNlcnZpY2UiLAogICAgInN0b3AiOiAiZWdnLXNjcmlwdHMgc3RvcCAtLXRpdGxlPWVnZy1zZXJ2ZXItY29tbW9uLXNlcnZpY2UiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcG9saWN5OiBwdQo=</text>
+        <text encoding="base64">ICAgICAgcG9saWN5OiBwdWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldmVsOiAnREVCVUcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjcCAtUiAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5vdzogRGF0ZS5ub3coKSwK</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBta2RpciBvdXRwdXRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhlbGxvOiAnd29ybGQnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAuY2FjaGUK</text>
+        <text encoding="base64">ICAgIGN0eC5jdXJsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAuY2FjaGUK</text>
+        <text encoding="base64">ICAgICAgcG9saWN5OiBwdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBucG0gcnVuIGJ1aWxkCg==</text>
+        <text encoding="base64">ICAgIGxldmVsOiAnREVCVUcnLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcCAtUiAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
