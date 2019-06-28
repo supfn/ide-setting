@@ -173,6 +173,18 @@
         <mark key="." line="302" column="0" />
         <mark key="^" line="302" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.sh" timestamp="1561707174512">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/common-service/.gitlab-ci.yml" timestamp="1561707593141">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/ssri/t.sh" timestamp="1560843447175">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -201,6 +213,13 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" timestamp="1561707625720">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/import-members.js" timestamp="1558408401007">
         <mark key="[" line="34" column="0" />
@@ -231,6 +250,13 @@
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/router.js" timestamp="1561513810213">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/index.js" timestamp="1561452274188">
         <mark key="[" line="0" column="0" />
@@ -279,11 +305,11 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/package.json" timestamp="1561705943275">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="28" column="12" />
-        <mark key="." line="28" column="12" />
-        <mark key="^" line="28" column="12" />
+      <file name="$USER_HOME$/Codes/lab/common-service/package.json" timestamp="1561706866670">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1558071215875">
         <mark key="[" line="51" column="67" />
@@ -308,6 +334,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561463513091">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="62" column="70" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.prd.js" timestamp="1561706851040" />
       <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
         <mark key="[" line="191" column="57" />
         <mark key="]" line="191" column="57" />
@@ -393,6 +427,11 @@
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/common-service/config/config.prd.js" timestamp="1561706011699">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/package.json" timestamp="1561193177816">
         <mark key="[" line="6" column="63" />
       </file>
@@ -472,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="23" filename="$USER_HOME$/Codes/lab/event-notifier/app/controller/activity.js" />
       <jump line="46" column="13" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/tapd-accident.js" />
       <jump line="0" column="14" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/accident.html" />
       <jump line="24" column="1" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" />
@@ -572,13 +610,14 @@
       <jump line="96" column="37" filename="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" />
       <jump line="78" column="23" filename="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" />
       <jump line="81" column="0" filename="$USER_HOME$/Codes/lab/gitlab-ci-webhook/.gitlab-ci.yml" />
+      <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJlZ2ctc2NyaXB0cyBzdGFydCAtLWRhZW1vbiAtLXRpdGxlPWVnZy1zZXJ2ZXItY29tbW9uLXNlcnZpY2UiLAogICAgInN0b3AiOiAiZWdnLXNjcmlwdHMgc3RvcCAtLXRpdGxlPWVnZy1zZXJ2ZXItY29tbW9uLXNlcnZpY2UiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>file</text>
       </register>
       <register name="-" type="4">
-        <text>';</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -590,10 +629,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -602,16 +641,16 @@
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHJzLmh0bWwoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKHNob3dFbXB0eSA9PT0gdHJ1ZSl7Cg==</text>
+        <text encoding="base64">ICAvLyB1c2UgZm9yIGNvb2tpZSBzaWduIGtleSwgc2hvdWxkIGNoYW5nZSB0byB5b3VyIG93biBhbmQga2VlcCBzZWN1cml0eQogIGNvbmZpZy5rZXlzID0gYXBwSW5mby5uYW1lICsgJ18xNTYxNzA0NjM3ODYyXzg2MDYnOwoKICAvLyBhZGQgeW91ciBtaWRkbGV3YXJlIGNvbmZpZyBoZXJlCiAgY29uZmlnLm1pZGRsZXdhcmUgPSBbXTsKCiAgLy8gYWRkIHlvdXIgdXNlciBjb25maWcgaGVyZQogIGNvbnN0IHVzZXJDb25maWcgPSB7CiAgICAvLyBteUFwcE5hbWU6ICdlZ2cnLAogIH07CgogIHJldHVybiB7CiAgICAuLi5jb25maWcsCiAgICAuLi51c2VyQ29uZmlnLAogIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWcuc2VjdXJpdHkgPSB7CiAgICBjc3JmOiB7IGlnbm9yZTogKCkgPT4gdHJ1ZSB9CiAgICAvL2RvbWFpbldoaXRlTGlzdDogWyAnKicgXSwKICB9Owo=</text>
       </register>
       <register name="x" type="4">
         <text />
