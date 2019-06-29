@@ -17,11 +17,11 @@
       <file name="$USER_HOME$/Codes/lab/common-service/config/config.default.js" timestamp="1561705565253">
         <mark key="[" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561774187242">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="34" column="16" />
-        <mark key="." line="34" column="16" />
-        <mark key="^" line="34" column="16" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561791733419">
+        <mark key="[" line="66" column="79" />
+        <mark key="]" line="85" column="8" />
+        <mark key="." line="85" column="8" />
+        <mark key="^" line="85" column="8" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" timestamp="1561698726246" />
       <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
@@ -286,10 +286,11 @@
         <mark key="." line="27" column="54" />
         <mark key="^" line="27" column="54" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1561789015477">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1561791926568">
+        <mark key="[" line="18" column="136" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/package.json" timestamp="1559103714428">
         <mark key="[" line="13" column="31" />
@@ -628,49 +629,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuL2VlLW9zcyAtLWNtZCAidXBsb2FkIiAtLWFwcGlkICJlZS5naXRsYWItY2ktZXhhbXBsZSIgLS1wYXRoICJvdXRwdXRzIgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJlZ2ctc2NyaXB0cyBzdGFydCAtLWRhZW1vbiAtLXRpdGxlPWVnZy1zZXJ2ZXItY29tbW9uLXNlcnZpY2UiLAogICAgInN0b3AiOiAiZWdnLXNjcmlwdHMgc3RvcCAtLXRpdGxlPWVnZy1zZXJ2ZXItY29tbW9uLXNlcnZpY2UiLAo=</text>
+        <text encoding="base64">ICAgICAgICAuL2VlLW9zcyAtLWNtZCAidXBsb2FkIiAtLWFwcGlkICJlZS5naXRsYWItY2ktZXhhbXBsZSIgLS1wYXRoICJvdXRwdXRzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJ4aWV4aWUiID4gb3V0cHV0cy9yZWFkbWUubWRWRAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgID4K</text>
+      <register name="2" type="4">
+        <text>test:
+   stage: test
+   script:
+      - echo 1222
+   artifacts:
+      reports:
+        junit: report.xml</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHBsKQogICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgeyBuYW1lOiAn5p2o55Cb55CmJywKICAgICAgY29udGVudDogJ+i2o0RvIOaIkeadpeW8oOWbvueJhyDlm77niYflnLDlnYDvvJpodHRwczovL3BpZWUtc3RhdGljLnF1dG91dGlhby5uZXQvcXVkby9hcHAvaW1hZ2UvMjAxOTA2MjkvMktIdndES3hZc3lMZUU4el82NDB4MTEzNi5wbmcgLCBodHRwczovL3BpZWUtc3RhdGljLnF1dG91dGlhby5uZXQvcXVkby9hcHAvaW1hZ2UvMjAxOTA2MjkvcnVGN2JjRFk5SHo0M3JZal82NDB4MTEzNi5wbmcnIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN0eC5sb2dnZXIuZGVidWcoY3R4LnJlcXVlc3QuYm9keSkK</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCB0cGwgPQogICAgICBg5pS25Yiw5LiA5p2h6Laj5b+D5aOwCiAgICAgICA+CiAgICAgICA+ICR7dXNlcm5hbWV9OgogICAgICAgPiAke2NvbnRlbnR9CiAgICAgICA+CiAgICAgICBb5p+l55yLL+WbnuWkjV0oaHR0cDovL2RvLnF1dG91dGlhby5uZXQvIy9ob21lL2luZGV4KWA7CgogICAgbGV0IHJlc3VsdCA9IGF3YWl0IGN0eC5jdXJsKAogICAgICAnaHR0cHM6Ly9xeWFwaS53ZWl4aW4ucXEuY29tL2NnaS1iaW4vd2ViaG9vay9zZW5kP2tleT01NjgwYWJlMS02NTdhLTRhOTEtODVjMC0xOWMwYTBkMDFmMjQnLAogICAgICB7CiAgICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgICAgZGF0YVR5cGU6ICdqc29uJywKICAgICAgICBjb250ZW50VHlwZTogJ2pzb24nLAogICAgICAgIGRhdGE6IHsKICAgICAgICAgICJtc2d0eXBlIjogIm1hcmtkb3duIiwKICAgICAgICAgICJtYXJrZG93biI6IHsKICAgICAgICAgICAgImNvbnRlbnQiOiB0cGwKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgLSBpbnN0YWxsX2RlcGVuZGVuY2llcwogICAtIGJ1aWxkCiAgIC0gZGVwbG95Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHBsKQogICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYFvlm77niYddKCR7bWF0Y2h9KWAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnQK</text>
+        <text encoding="base64">ICAgICAgcC5wYXRobmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
