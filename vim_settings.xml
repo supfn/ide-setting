@@ -340,6 +340,16 @@
       </file>
       <file name="/.gitlab-ci.yml" timestamp="1561535256434" />
       <file name="$USER_HOME$/Codes/lab/okr-client/deploy-qa.sh" timestamp="1561362871424" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1561982257642">
+        <mark key="[" line="70" column="35" />
+        <mark key="]" line="70" column="35" />
+        <mark key="." line="70" column="35" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1561982237365">
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="68" />
+        <mark key="." line="29" column="68" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/build.sh" timestamp="1561194452565">
         <mark key="[" line="1" column="0" />
       </file>
@@ -494,17 +504,17 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuL2VlLW9zcyAtLWNtZCAidXBsb2FkIiAtLWFwcGlkICJlZS5naXRsYWItY2ktZXhhbXBsZSIgLS1wYXRoICJvdXRwdXRzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmN1cnJlbnRVc2VyLmZha2VFbWFpbCA9ICdlcmljQHF1dG91dGlhby5uZXQnOwogICAgICAgICAgICBjdHguY3VycmVudFVzZXIuZmFrZU5hbWUgPSAnZXJpYyc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
