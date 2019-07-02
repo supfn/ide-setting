@@ -20,11 +20,10 @@
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node-centos/push.sh" timestamp="1561802550222">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1561791733419">
-        <mark key="[" line="66" column="79" />
-        <mark key="]" line="88" column="8" />
-        <mark key="." line="88" column="8" />
-        <mark key="^" line="88" column="8" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1562065843896">
+        <mark key="[" line="69" column="33" />
+        <mark key="]" line="69" column="33" />
+        <mark key="." line="69" column="33" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" timestamp="1561698726246" />
       <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
@@ -673,11 +672,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
+      <register name="&quot;" type="4">
+        <text>ee.gitlab-ci-example</text>
       </register>
       <register name="-" type="4">
-        <text>user.let departmentInfo = await ctx.service</text>
+        <text>ee.gitlab-ci-example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -686,37 +685,37 @@
         <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvaW50ZXJucycsIGNvbnRyb2xsZXIudXNlci5nZXRJbnRlcm5zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZyA6IHRydWUsCg==</text>
+        <text encoding="base64">CiAgICAgICAgZWNobyAiZG93bmxvYWQuLi4iCiAgICAgICAgLi9lZS1vc3MgZG93bmxvYWQgLS1idWlsZE51bSAiJENJX1BJUEVMSU5FX0lEIiAtLWFwcElEICJlZS5naXRsYWItY2ktZXhhbXBsZSIgLS1wYXRoICJoZXJlIgoKICAgICAgICBlY2hvICI9PT09PT09PT09IGxzIC4vaGVyZSA9PT09PT09PT09IgoKICAgICAgICBscyAuL2hlcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgY3R4LmN1cnJlbnRVc2VyID0ge30KCiAgICAgIGN0eC5jdXJyZW50VXNlci5mYWtlRW1haWwgPSAnY2FpaG9uZ2JpbkBxdXRvdXRpYW8ubmV0JzsKICAgICAgY3R4LmN1cnJlbnRVc2VyLmZha2VOYW1lID0gJ+iUoem4v+aWjCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBscwo=</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZW1haWwsbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZyA6IHRydWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
+        <text encoding="base64">CiAgICAgICAgY3R4LmN1cnJlbnRVc2VyID0ge30KCiAgICAgIGN0eC5jdXJyZW50VXNlci5mYWtlRW1haWwgPSAnY2FpaG9uZ2JpbkBxdXRvdXRpYW8ubmV0JzsKICAgICAgY3R4LmN1cnJlbnRVc2VyLmZha2VOYW1lID0gJ+iUoem4v+aWjCc7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvcXVlcnktdXNlcicsIGNvbnRyb2xsZXIudXNlci5xdWVyeVVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZW1haWwsbmFtZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
