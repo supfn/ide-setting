@@ -20,10 +20,10 @@
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node-centos/push.sh" timestamp="1561802550222">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1562078371289">
-        <mark key="[" line="69" column="33" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="33" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1562122939001">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" timestamp="1561698726246" />
       <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
@@ -312,11 +312,11 @@
         <mark key="." line="27" column="54" />
         <mark key="^" line="27" column="54" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1561980708584">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1562122488822">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
         <mark key="^" line="22" column="32" />
-        <mark key="." line="35" column="0" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/package.json" timestamp="1559103714428">
         <mark key="[" line="13" column="31" />
@@ -673,10 +673,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ee.gitlab-ci-example</text>
+        <text encoding="base64">CiAgIC0gYnVpbGQKICAgLSBkZXBsb3k=</text>
       </register>
       <register name="-" type="4">
-        <text>ee.gitlab-ci-example</text>
+        <text>encodeURI</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -684,38 +684,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCcvaW50ZXJucycsIGNvbnRyb2xsZXIudXNlci5nZXRJbnRlcm5zKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgIC0gYnVpbGQKICAgLSBkZXBsb3k=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZWNobyAiZG93bmxvYWQuLi4iCiAgICAgICAgLi9lZS1vc3MgZG93bmxvYWQgLS1idWlsZE51bSAiJENJX1BJUEVMSU5FX0lEIiAtLWFwcElEICJlZS5naXRsYWItY2ktZXhhbXBsZSIgLS1wYXRoICJoZXJlIgoKICAgICAgICBlY2hvICI9PT09PT09PT09IGxzIC4vaGVyZSA9PT09PT09PT09IgoKICAgICAgICBscyAuL2hlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBscwo=</text>
+        <text encoding="base64">CiAgICAgICAgZWNobyAiZG93bmxvYWQuLi4iCiAgICAgICAgLi9lZS1vc3MgZG93bmxvYWQgLS1idWlsZE51bSAiJENJX1BJUEVMSU5FX0lEIiAtLWFwcElEICJlZS5naXRsYWItY2ktZXhhbXBsZSIgLS1wYXRoICJoZXJlIgoKICAgICAgICBlY2hvICI9PT09PT09PT09IGxzIC4vaGVyZSA9PT09PT09PT09IgoKICAgICAgICBscyAuL2hlcmUK</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBscwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZyA6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgY3R4LmN1cnJlbnRVc2VyID0ge30KCiAgICAgIGN0eC5jdXJyZW50VXNlci5mYWtlRW1haWwgPSAnY2FpaG9uZ2JpbkBxdXRvdXRpYW8ubmV0JzsKICAgICAgY3R4LmN1cnJlbnRVc2VyLmZha2VOYW1lID0gJ+iUoem4v+aWjCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZyA6IHRydWUsCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZW1haWwsbmFtZSkK</text>
+        <text encoding="base64">CiAgICAgICAgY3R4LmN1cnJlbnRVc2VyID0ge30KCiAgICAgIGN0eC5jdXJyZW50VXNlci5mYWtlRW1haWwgPSAnY2FpaG9uZ2JpbkBxdXRvdXRpYW8ubmV0JzsKICAgICAgY3R4LmN1cnJlbnRVc2VyLmZha2VOYW1lID0gJ+iUoem4v+aWjCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
