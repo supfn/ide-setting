@@ -198,10 +198,11 @@
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1559103104797">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="14" />
-        <mark key="." line="25" column="14" />
+      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1562241232077">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/qtt-bu.js" timestamp="1559640461360">
         <mark key="[" line="2" column="19" />
@@ -465,8 +466,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFkZFVzZXIsIChjb3VudGVyIC8gbGVuZ3RoICogMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -475,7 +476,7 @@
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdWNjZXNzKHIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFkZFVzZXIsIChjb3VudGVyIC8gbGVuZ3RoICogMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
