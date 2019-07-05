@@ -198,11 +198,11 @@
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1562301606123">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="68" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="15" />
+      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1562327348583">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+        <mark key="^" line="34" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/qtt-bu.js" timestamp="1559640461360">
         <mark key="[" line="2" column="19" />
@@ -467,7 +467,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFkZFVzZXIsIChjb3VudGVyIC8gbGVuZ3RoICogMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsK</text>
+        <text encoding="base64">ICAgIGxldCBhZGRVc2VyMiA9IGF3YWl0IHNkay5pbXBvcnRNZW1iZXJzKHNlY3VyaXR5LCBpdGVtLm1hcChpdGVtID0+IGl0ZW0ubmljaykpOwogICAgY29uc29sZS5sb2coJ3NlY3VyaXR5JywgYWRkVXNlcjIsIChjb3VudGVyIC8gbGVuZ3RoICogMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -476,7 +476,7 @@
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFkZFVzZXIsIChjb3VudGVyIC8gbGVuZ3RoICogMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsK</text>
+        <text encoding="base64">ICAgIGxldCBhZGRVc2VyMiA9IGF3YWl0IHNkay5pbXBvcnRNZW1iZXJzKHNlY3VyaXR5LCBpdGVtLm1hcChpdGVtID0+IGl0ZW0ubmljaykpOwogICAgY29uc29sZS5sb2coJ3NlY3VyaXR5JywgYWRkVXNlcjIsIChjb3VudGVyIC8gbGVuZ3RoICogMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
