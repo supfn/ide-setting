@@ -54,6 +54,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="txtt" type="PLAIN_TEXT" />
+      <mapping ext="heapsnapshot" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="mst" type="PLAIN_TEXT" />
       <mapping pattern="extra" type="Vue.js" />
