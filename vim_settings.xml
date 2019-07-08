@@ -17,10 +17,10 @@
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node-centos/push.sh" timestamp="1561802550222">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/Dockerfile" timestamp="1562584299676">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/Dockerfile" timestamp="1562587051637">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1562153377669">
         <mark key="[" line="19" column="9" />
@@ -460,11 +460,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JiYgeXVtIGNsZWFuIGFsbCBcCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="-" type="4">
-        <text>aliyuncs</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
