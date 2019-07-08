@@ -14,17 +14,13 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/config/config.default.js" timestamp="1561705565253">
-        <mark key="[" line="12" column="30" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node-centos/push.sh" timestamp="1561802550222">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/Dockerfile" timestamp="1562576408039">
-        <mark key="[" line="2" column="81" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/Dockerfile" timestamp="1562584299676">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1562153377669">
         <mark key="[" line="19" column="9" />
@@ -104,9 +100,6 @@
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/build.sh" timestamp="1561802137682">
-        <mark key="[" line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node-centos/Dockerfile" timestamp="1561804290936">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
@@ -122,6 +115,7 @@
         <mark key="]" line="96" column="25" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/legacy/go/build.sh" timestamp="1562582887796" />
       <file name="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.sh" timestamp="1561707174512">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
@@ -184,9 +178,6 @@
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/index.js" timestamp="1561452274188">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/hubot/external-scripts.json" timestamp="1559236388744">
         <mark key="[" line="3" column="0" />
@@ -285,9 +276,6 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/yapi/.gitignore" timestamp="1560329228047">
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/package.json" timestamp="1561193177816">
-        <mark key="[" line="6" column="63" />
       </file>
       <file name="/.gitlab-ci.yml" timestamp="1561535256434" />
       <file name="$USER_HOME$/Codes/lab/okr-client/deploy-qa.sh" timestamp="1561362871424" />
@@ -473,49 +461,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBhZGRVc2VyMiA9IGF3YWl0IHNkay5pbXBvcnRNZW1iZXJzKHNlY3VyaXR5LCBpdGVtLm1hcChpdGVtID0+IGl0ZW0ubmljaykpOwogICAgY29uc29sZS5sb2coJ3NlY3VyaXR5JywgYWRkVXNlcjIsIChjb3VudGVyIC8gbGVuZ3RoICogMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsK</text>
+        <text encoding="base64">JiYgeXVtIGNsZWFuIGFsbCBcCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>aliyuncs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBhZGRVc2VyMiA9IGF3YWl0IHNkay5pbXBvcnRNZW1iZXJzKHNlY3VyaXR5LCBpdGVtLm1hcChpdGVtID0+IGl0ZW0ubmljaykpOwogICAgY29uc29sZS5sb2coJ3NlY3VyaXR5JywgYWRkVXNlcjIsIChjb3VudGVyIC8gbGVuZ3RoICogMTAwKS50b0ZpeGVkKDIpICsgJyUnKTsK</text>
+        <text encoding="base64">JiYgc2VkIC1pICJzL21pcnJvcnMuY2xvdWQuYWxpeXVuY3MuY29tL21pcnJvcnMuYWxpeXVuLmNvbS9nIiAgL2V0Yy95dW0ucmVwb3MuZC9DZW50T1MtQmFzZS5yZXBvIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JiYgeXVtIGNsZWFuIGFsbCBcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JiYgbXYgL2V0Yy95dW0ucmVwb3MuZC9DZW50T1MtQmFzZS5yZXBvIC9ldGMveXVtLnJlcG9zLmQvQ2VudE9TLUJhc2UucmVwby5iYWNrdXAgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLnN1Y2Nlc3MocmVzdWx0KTsK</text>
+        <text encoding="base64">JiYgc2VkIC1pIC9ldGMveXVtLnJlcG9zLmQvQ2VudE9TLUJhc2UucmVwbyBzI2h0dHA6Ly9taXJyb3JzLmNsb3VkLmFsaXl1bmNzLmNvbSNodHRwOi8vbWlycm9ycy5hbGl5dW4uY29tI2cgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgcmV0dXJuIHRoaXMuc3VjY2VzcyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">JiYgY3VybCAtbyAvZXRjL3l1bS5yZXBvcy5kL0NlbnRPUy1CYXNlLnJlcG8gaHR0cDovL21pcnJvcnMuYWxpeXVuLmNvbS9yZXBvL0NlbnRvcy03LnJlcG8gXAo=</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgIC0gYnVpbGQKICAgLSBkZXBsb3k=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2dldCAtTyAvZXRjL3l1bS5yZXBvcy5kL0NlbnRPUy1CYXNlLnJlcG8K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgZWNobyAiZG93bmxvYWQuLi4iCiAgICAgICAgLi9lZS1vc3MgZG93bmxvYWQgLS1idWlsZE51bSAiJENJX1BJUEVMSU5FX0lEIiAtLWFwcElEICJlZS5naXRsYWItY2ktZXhhbXBsZSIgLS1wYXRoICJoZXJlIgoKICAgICAgICBlY2hvICI9PT09PT09PT09IGxzIC4vaGVyZSA9PT09PT09PT09IgoKICAgICAgICBscyAuL2hlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBscwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLnN1Y2Nlc3MocmVzdWx0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
