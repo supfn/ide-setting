@@ -336,6 +336,12 @@
         <mark key="." line="35" column="16" />
         <mark key="^" line="34" column="3" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/build.sh" timestamp="1562655772244">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/qtt-bu.js" timestamp="1559640461360">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
@@ -703,7 +709,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VVNFUiB3b3JrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>999</text>
@@ -715,37 +721,37 @@
         <text encoding="base64">ICAgICAgICAgICAgY3R4LmN1cnJlbnRVc2VyLmZha2VFbWFpbCA9ICdjYWlob25nYmluQHF1dG91dGlhby5uZXQnOwogICAgICAgICAgICBjdHguY3VycmVudFVzZXIuZmFrZU5hbWUgPSAn6JSh6bi/5paMJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VVNFUiB3b3JrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGFkZHVzZXIgIC1TIGluZnJhCg==</text>
+        <text encoding="base64">Z2l0IGNsb25lIGdpdEBnaXQucXV0b3V0aWFvLm5ldDphY20vaW5pdC5naXQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">VVNFUiB3b3JrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGFkZHVzZXIgIC1TIGluZnJhCg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVNFUiB3b3JrCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGN1cmwgLW8gL2V0Yy95dW0ucmVwb3MuZC9DZW50T1MtQmFzZS5yZXBvIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcmVwby9DZW50b3MtNy5yZXBvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClJVTiBjdXJsIC1vIC9ldGMveXVtLnJlcG9zLmQvQ2VudE9TLUJhc2UucmVwbyBodHRwOi8vbWlycm9ycy5hbGl5dW4uY29tL3JlcG8vQ2VudG9zLTcucmVwbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUREIC4vZmlsZXMveXVtLnJlcG9zLmQgL2V0Yy95dW0ucmVwb3MuZC8K</text>
+        <text encoding="base64">UlVOIGN1cmwgLW8gL2V0Yy95dW0ucmVwb3MuZC9DZW50T1MtQmFzZS5yZXBvIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcmVwby9DZW50b3MtNy5yZXBvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
