@@ -65,7 +65,7 @@
         <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/package.json" timestamp="1561705930368" />
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1562225212639">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1562639771097">
         <mark key="[" line="31" column="35" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -131,6 +131,7 @@
         <mark key="." line="59" column="3" />
         <mark key="^" line="8" column="44" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/.env" timestamp="1562638773512" />
       <file name="$USER_HOME$/Codes/lab/ssri/t.sh" timestamp="1560843447175">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -190,6 +191,7 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="20" column="14" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/employmentrecord.js" timestamp="1562639843823" />
       <file name="$USER_HOME$/Codes/lab/tool-automation/package.json" timestamp="1559103714428">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="32" />
@@ -224,11 +226,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.prd.js" timestamp="1561710580305" />
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1562225595604">
-        <mark key="[" line="74" column="23" />
-        <mark key="]" line="74" column="23" />
-        <mark key="^" line="74" column="25" />
-        <mark key="." line="74" column="23" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1562637743782">
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="58" column="23" />
+        <mark key="^" line="58" column="25" />
+        <mark key="." line="58" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/config/config.default.js" timestamp="1561983540036">
         <mark key="[" line="57" column="31" />
@@ -279,13 +281,13 @@
       </file>
       <file name="/.gitlab-ci.yml" timestamp="1561535256434" />
       <file name="$USER_HOME$/Codes/lab/okr-client/deploy-qa.sh" timestamp="1561362871424" />
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1562225106352">
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="67" column="54" />
-        <mark key="." line="67" column="54" />
-        <mark key="^" line="67" column="54" />
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1562637165459">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1562225019398">
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/router.js" timestamp="1562637768884">
         <mark key="[" line="30" column="68" />
         <mark key="]" line="30" column="68" />
         <mark key="." line="30" column="68" />
@@ -325,6 +327,12 @@
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/sdk.js" timestamp="1562638867465">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ssri/old/all_sri.sh" timestamp="1560846622592">
         <mark key="[" line="18" column="22" />
@@ -460,17 +468,17 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0b2tlbicsdG9rZW4pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JiYgc2VkIC1pICJzL21pcnJvcnMuY2xvdWQuYWxpeXVuY3MuY29tL21pcnJvcnMuYWxpeXVuLmNvbS9nIiAgL2V0Yy95dW0ucmVwb3MuZC9DZW50T1MtQmFzZS5yZXBvIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0b2tlbicsdG9rZW4pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JiYgeXVtIGNsZWFuIGFsbCBcCg==</text>
