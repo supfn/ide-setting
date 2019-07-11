@@ -419,11 +419,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/gitlab-raw.js" timestamp="1562857528110">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/gitlab-raw.js" timestamp="1562858640862">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/CryptoJS.js" timestamp="1558327256782">
         <mark key="[" line="708" column="0" />
@@ -554,10 +554,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1562857851408">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1562858834254">
+        <mark key="[" line="159" column="23" />
+        <mark key="]" line="122" column="38" />
+        <mark key="." line="122" column="38" />
+        <mark key="^" line="122" column="38" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1562224827657">
         <mark key="[" line="43" column="29" />
@@ -728,7 +729,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>payload.user</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -740,34 +741,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vY29uc29sZS5sb2cobXNnLmpvaW4oJ1xuJykpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVtYWlsKQoKICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKQo=</text>
+        <text encoding="base64">ICAgIC8vY29uc29sZS5sb2cobXNnLmpvaW4oJ1xuJykpCg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAoKICAgIGAvYXBpL3Y0L3Byb2plY3RzLyR7cmVwb30vcmVwb3NpdG9yeS9jb21taXRzLyR7aGFzaH0vbWVyZ2VfcmVxdWVzdHNgCiAgICApCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZmVjaGEgPSByZXF1aXJlKCdmZWNoYScpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGhlYWRlcnMKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAoKICAgIGAvYXBpL3Y0L3Byb2plY3RzLyR7cmVwb30vcmVwb3NpdG9yeS9jb21taXRzLyR7aGFzaH0vbWVyZ2VfcmVxdWVzdHNgCiAgICApCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgR2l0bGFiUmF3U2VydmljZSBleHRlbmRzIFNlcnZpY2Ugewo=</text>
+        <text encoding="base64">Y29uc3QgZmVjaGEgPSByZXF1aXJlKCdmZWNoYScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
