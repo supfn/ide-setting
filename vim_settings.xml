@@ -280,11 +280,11 @@
         <mark key="]" line="38" column="4" />
         <mark key="." line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/node/Dockerfile" timestamp="1562897162482">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/node/Dockerfile" timestamp="1562898493717">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="5" />
         <mark key="^" line="10" column="20" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/Dockerfile" timestamp="1561802388034" />
       <file name="$USER_HOME$/Codes/qcd/all2.js" timestamp="1558427764604">
@@ -736,11 +736,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>work</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlIA==</text>
+        <text>work</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
