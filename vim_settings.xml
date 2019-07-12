@@ -93,12 +93,6 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/chatbot/.umirc.js" timestamp="1558688821842">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/ssri/package-lock.json" timestamp="1560832502651" />
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1561698746221">
         <mark key="[" line="12" column="32" />
@@ -171,10 +165,10 @@
         <mark key="." line="10" column="52" />
         <mark key="^" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1558688497404">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1562920554142">
+        <mark key="[" line="91" column="26" />
+        <mark key="]" line="91" column="26" />
+        <mark key="." line="91" column="26" />
       </file>
       <file name="$USER_HOME$/Codes/lab/common-service/app/router.js" timestamp="1561705184698">
         <mark key="[" line="7" column="9" />
@@ -488,6 +482,9 @@
       <file name="$USER_HOME$/Codes/lab/okr-client/src/entry.ejs" timestamp="1561366757855">
         <mark key="[" line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.css" timestamp="1562920909760">
+        <mark key="[" line="22" column="1" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/cubot/app/router.js" timestamp="1558538480868">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="36" />
@@ -737,10 +734,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>work</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>work</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
