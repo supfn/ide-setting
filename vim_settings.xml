@@ -340,11 +340,11 @@
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1563158225427">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
-        <mark key="^" line="28" column="23" />
+      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1563168137710">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="43" column="16" />
+        <mark key="^" line="45" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/build.sh" timestamp="1562897157304">
         <mark key="[" line="7" column="2" />
@@ -565,7 +565,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562675004637">
+      <file name="/Dummy.txt" timestamp="1563168144075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/npm-cache-install/install.sh" timestamp="1560514604396">
@@ -745,8 +745,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBhZGRVc2VyNCA9IGF3YWl0IHNkay5pbXBvcnRNZW1iZXJzKHNlY3VyaXR5LCBpdGVtLm1hcChpdGVtID0+IGl0ZW0ubmljaykpOwogICAgY29uc29sZS5sb2coJ1BJRUUnLCBhZGRVc2VyNCwgKGNvdW50ZXIgLyBsZW5ndGggKiAxMDApLnRvRml4ZWQoMikgKyAnJScpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -755,7 +755,7 @@
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JiYgZWNobyAnZXhwb3J0IE5WTV9ESVI9IiRIT01FLy5udm0iJyA+PiB+Ly5iYXNocmMK</text>
+        <text encoding="base64">ICAgIGxldCBhZGRVc2VyNCA9IGF3YWl0IHNkay5pbXBvcnRNZW1iZXJzKHNlY3VyaXR5LCBpdGVtLm1hcChpdGVtID0+IGl0ZW0ubmljaykpOwogICAgY29uc29sZS5sb2coJ1BJRUUnLCBhZGRVc2VyNCwgKGNvdW50ZXIgLyBsZW5ndGggKiAxMDApLnRvRml4ZWQoMikgKyAnJScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
