@@ -543,6 +543,12 @@
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/package.json" timestamp="1561193177816">
         <mark key="[" line="6" column="63" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-q12/read.js" timestamp="1563207508208">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="9" column="171" />
+        <mark key="^" line="8" column="26" />
+      </file>
       <file name="/.gitlab-ci.yml" timestamp="1561535256434" />
       <file name="$USER_HOME$/Codes/lab/dockerfiles/legacy/php/Dockerfile" timestamp="1562842739570">
         <mark key="[" line="23" column="0" />
@@ -658,9 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="13" filename="$USER_HOME$/Codes/lab/event-notifier/app/service/tapd-accident.js" />
-      <jump line="0" column="14" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/accident.html" />
-      <jump line="24" column="1" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" />
       <jump line="26" column="25" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" />
       <jump line="33" column="5" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/event-notifier/app/template/email/app-release.html" />
@@ -758,28 +761,31 @@
       <jump line="78" column="23" filename="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" />
       <jump line="81" column="0" filename="$USER_HOME$/Codes/lab/gitlab-ci-webhook/.gitlab-ci.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.js" />
+      <jump line="37" column="93" filename="$USER_HOME$/Codes/lab/tapd-q12/read.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Codes/lab/tapd-q12/read.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Codes/lab/tapd-q12/read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBhZGRVc2VyNCA9IGF3YWl0IHNkay5pbXBvcnRNZW1iZXJzKHNlY3VyaXR5LCBpdGVtLm1hcChpdGVtID0+IGl0ZW0ubmljaykpOwogICAgY29uc29sZS5sb2coJ1BJRUUnLCBhZGRVc2VyNCwgKGNvdW50ZXIgLyBsZW5ndGggKiAxMDApLnRvRml4ZWQoMikgKyAnJScpOwo=</text>
+        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnMjE2MzMyNDEnOiAn5YaF5a655Lit5b+DJywKICAnMjM3MzI0ODEnOiAnUVRU5Li75Lqn5ZOBJywKICAnNjU2MjMyNDEnOiAn562+5Yiw5pe25q615pe26ZW/6K6h5pe25Zmo5LiT5LqrJywKICAnMzMwMzUyNDgnOiAn57q/5LiK6Zeu6aKY5Y+N6aaIJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBBbHRlcm5hdGl2ZWx5LCB5b3UgY291bGQgYWxzbyBkbzoKICBhd2FpdCBhZ2VuZGEuZXZlcnkoJyovMyAqICogKiAqJywgJ2RlbGV0ZSBvbGQgdXNlcnMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBVc2VyLnJlbW92ZSh7bGFzdExvZ0luOiB7JGx0OiB0d29EYXlzQWdvfX0sIGRvbmUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -788,22 +794,22 @@
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIGdpdCAteQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JiYgZWNobyAnZXhwb3J0IE5WTV9ESVI9IiRIT01FLy5udm0iJyA+PiB+Ly5iYXNocmMgXAomJiBlY2hvICdbIC1zICIkTlZNX0RJUi9udm0uc2giIF0gJiYgXC4gIiROVk1fRElSL252bS5zaCInID4+IH4vLmJhc2hyYyBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JiYgbnZtIGluc3RhbGwgdjguMTIuMCBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JiYgbnZtIGluc3RhbGwgdjguMTIuMCBcCiYmIG52bSBpbnN0YWxsIGx0cyBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WyAtcyAiJE5WTV9ESVIvYmFzaF9jb21wbGV0aW9uIiBdICYmIFwuICIkTlZNX0RJUi9iYXNoX2NvbXBsZXRpb24iICAjIFRoaXMgbG9hZHMgbnZtIGJhc2hfY29tcGxldGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
