@@ -31,10 +31,10 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1562153377669">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1563265633981">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="30" column="9" />
+        <mark key="." line="30" column="9" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" timestamp="1561698726246" />
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab-job.sh" timestamp="1562224930115" />
@@ -192,6 +192,9 @@
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/node/.gitlab-ci.yml" timestamp="1563265291945">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node/build.sh" timestamp="1561802137682">
         <mark key="[" line="4" column="21" />
       </file>
@@ -303,11 +306,11 @@
         <mark key="]" line="38" column="4" />
         <mark key="." line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/node/Dockerfile" timestamp="1562898493717">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="5" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/node/Dockerfile" timestamp="1563265295774">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="10" column="20" />
-        <mark key="." line="2" column="5" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/Dockerfile" timestamp="1561802388034" />
       <file name="$USER_HOME$/Codes/qcd/all2.js" timestamp="1558427764604">
@@ -786,7 +789,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaEZpbHRlciA9IGAoc0FNQWNjb3VudE5hbWU9JHt1c2VybmFtZX0pYAo=</text>
+        <text encoding="base64">aydrCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -798,10 +801,10 @@
         <text encoding="base64">ICAgIGRvbmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaEZpbHRlciA9IGAoc0FNQWNjb3VudE5hbWU9JHt1c2VybmFtZX0pYAo=</text>
+        <text encoding="base64">aydrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaEZpbHRlciA9IGAoc0FNQWNjb3VudE5hbWU9JHt1c2VybmFtZX0pYAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
