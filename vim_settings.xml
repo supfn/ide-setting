@@ -26,6 +26,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/yicon/package.json" timestamp="1563248459532">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1562153377669">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="19" column="9" />
@@ -284,6 +289,12 @@
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/yicon/code/src/src/controller/modules/ldapauth.js" timestamp="1563248890612">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="67" column="27" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1558428404744">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="38" column="4" />
@@ -310,6 +321,11 @@
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yicon/code/config.json" timestamp="1563248807762">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/index.js" timestamp="1561452274188">
         <mark key="[" line="0" column="0" />
@@ -767,10 +783,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaEZpbHRlciA9IGAoc0FNQWNjb3VudE5hbWU9JHt1c2VybmFtZX0pYAo=</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -779,7 +795,7 @@
         <text encoding="base64">ICAgIGRvbmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaEZpbHRlciA9IGAoc0FNQWNjb3VudE5hbWU9JHt1c2VybmFtZX0pYAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
