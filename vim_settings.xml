@@ -72,6 +72,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/client_build/online_build.sh" timestamp="1563376612637">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/node_modules/node-gitlab-webhook/index.js" timestamp="1561523258303" />
       <file name="$USER_HOME$/Codes/lab/agenda/index.js" timestamp="1563186454923">
         <mark key="[" line="26" column="21" />
@@ -784,8 +790,8 @@
       <jump line="45" column="0" filename="$USER_HOME$/Codes/lab/tapd-q12/read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2lmIFsgISAtbiAiJHZlcnNpb25Db2RlIiBdCiN0aGVuCiMgICBleGl0ICAgCiNmaQo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -797,22 +803,22 @@
         <text encoding="base64">ICAgIGNvbnN0IGJ1ZmZlciA9IHhsc3guYnVpbGQoW3sgbmFtZTogZmlsZXNbZmlsZUluZGV4XSwgZGF0YTogb3V0cHV0RmlsZSB9XSk7IC8vIFJldHVybnMgYSBidWZmZXIKICAgIGNvbnN0IHdzdHJlYW0gPSBmcy5jcmVhdGVXcml0ZVN0cmVhbShgLi9kZXRhaWxzLyR7ZmlsZXNbZmlsZUluZGV4XX0ueGxzeGApOwogICAgd3N0cmVhbS53cml0ZShidWZmZXIpOwogICAgd3N0cmVhbS5lbmQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFycmF5RnVsbC4K</text>
+        <text encoding="base64">I2lmIFsgISAtbiAiJHZlcnNpb25Db2RlIiBdCiN0aGVuCiMgICBleGl0ICAgCiNmaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL2NvbnNvbGUubG9nKGksIGl0ZW1zLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgIGFycmF5RnVsbC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXJyYXkubWFwKGl0ZW0gPT4gewogIGNvbnNvbGUubG9nKGl0ZW0ubGluZSk7Cn0pCmNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAvL2NvbnNvbGUubG9nKGksIGl0ZW1zLmxlbmd0aCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpdGVtLmxpbmUK</text>
+        <text encoding="base64">YXJyYXkubWFwKGl0ZW0gPT4gewogIGNvbnNvbGUubG9nKGl0ZW0ubGluZSk7Cn0pCmNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdGVtLmxpbmUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -821,13 +827,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">anNvbi5tYXAoaXRlbSA9PiB7CgogIHRhcGQubWFwKHByb2o9PiB7CiAgfSkKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">anNvbi5tYXAoaXRlbSA9PiB7CgogIHRhcGQubWFwKHByb2o9PiB7CiAgfSkKfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
