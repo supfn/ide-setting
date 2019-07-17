@@ -181,6 +181,7 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/android_lint_mail/mail/test.py" timestamp="1563380906506" />
       <file name="$USER_HOME$/Codes/lab/tapd-q12/reports/read.js" timestamp="1563375104064">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="17" />
@@ -295,6 +296,11 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/android_lint_mail/mail/send_mail.py" timestamp="1563380934214">
+        <mark key="[" line="77" column="16" />
+        <mark key="]" line="77" column="16" />
+        <mark key="." line="77" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1557542266091">
         <mark key="[" line="329" column="4" />
@@ -633,6 +639,7 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/android_lint_mail/mail/data_parse.py" timestamp="1563380840089" />
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/sdk.js" timestamp="1562638867465">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="33" />
@@ -790,11 +797,11 @@
       <jump line="45" column="0" filename="$USER_HOME$/Codes/lab/tapd-q12/read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2lmIFsgISAtbiAiJHZlcnNpb25Db2RlIiBdCiN0aGVuCiMgICBleGl0ICAgCiNmaQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;$report_urls&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;$report_urls&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
