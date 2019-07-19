@@ -113,7 +113,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/client_build/qdp_release.sh" timestamp="1563431099805">
+      <file name="$USER_HOME$/Codes/lab/client_build/qdp_release.sh" timestamp="1563514298111">
         <mark key="[" line="84" column="168" />
         <mark key="]" line="84" column="168" />
         <mark key="." line="84" column="168" />
@@ -243,10 +243,9 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/client_build/qdp_pre.sh" timestamp="1563431097128">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Codes/lab/client_build/qdp_pre.sh" timestamp="1563514119978">
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-q12/export.js" timestamp="1563375700937">
         <mark key="[" line="82" column="30" />
@@ -344,6 +343,11 @@
         <mark key="]" line="5" column="18" />
         <mark key="^" line="1" column="33" />
         <mark key="." line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/client_build/qdp_debug.sh" timestamp="1563515087129">
+        <mark key="[" line="223" column="4" />
+        <mark key="]" line="223" column="4" />
+        <mark key="." line="223" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.prd.js" timestamp="1561710580305" />
       <file name="$USER_HOME$/Codes/lab/dockerfiles/legacy/utils.sh" timestamp="1562661898125" />
@@ -644,8 +648,8 @@
       <jump line="45" column="0" filename="$USER_HOME$/Codes/lab/tapd-q12/read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -660,28 +664,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yaWdpbkZpZWxkcyk7Cg==</text>
+        <text encoding="base64">bWFwcGluZ19kaXI9bWFwcGluZwoKaWYgWyAiJHBrZ1R5cGUiID0gIjQiIC1vICIkcGtnVHlwZSIgPSAiMiIgXQp0aGVuCgllY2hvICfluILlnLrljIUnCmVsc2UKCWVjaG8gJ+mdnuW4guWcuuWMhScKICAgIG1hcHBpbmdfZGlyPXJlbGVhc2UvJHtCVUlMRF9JRH0KZmkKCm1hcHBpbmdfZGlyPSIvZGF0YS9hbmRyb2lkL3F0dC8ke21hcHBpbmdfZGlyfS8ke3ZlcnNpb259LyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5yZXNwb25zZS5zdGF0dXNDb2RlKTsKICAgICAgY29uc29sZS5sb2coZS5yZXNwb25zZS5zdGF0dXMpOwogICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">bWFwcGluZ19kaXI9Ii9kYXRhL2FuZHJvaWQvcXR0LyR7bWFwcGluZ19kaXJ9LyR7dmVyc2lvbn0vIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkudGhlbihyZXMgPT4gewogICAgICBsZXQgaHRtbCA9IHJlcy5kYXRhOwogICAgICBsZXQgJCA9IGNoZWVyaW8ubG9hZChodG1sKTsKICAgICAgcmV0dXJuICQoJyN0aXRsZS1jb3B5LWJ0bicpLmF0dHIoJ2RhdGEtY2xpcGJvYXJkLXRleHQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkuY2F0Y2goZSA9PiB7CiAgICAgICAgcmV0dXJuIGUucmVzcG9uc2UK</text>
+        <text encoding="base64">bWFwcGluZ19kaXI9Ii9kYXRhL2FuZHJvaWQvcXR0LyR7bWFwcGluZ19kaXJ9LyR7dmVyc2lvbn0vIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwa0Rpcj1yZWxlYXNlLyR7QlVJTERfSUR9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXJyYXkucHVzaCh7CiAgICAgICAgbmFtZTogJ2RzY190b2tlbicsCiAgICAgICAgdmFsdWU6IHRhcGRNZXRob2RzLmdlbmVyYXRlX2RzY190b2tlbigpCiAgICAgIH0pOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
