@@ -31,8 +31,32 @@
       </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" timestamp="1561698726246" />
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab-job.sh" timestamp="1562224930115" />
+      <file name="$USER_HOME$/Codes/qcd/jos-stat/get.js" timestamp="1558074003118">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+        <mark key="^" line="28" column="9" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/install.sh" timestamp="1560329125106">
+        <mark key="[" line="6" column="74" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/data.json" timestamp="1561602966533" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/service/gma.js" timestamp="1561699465685">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="55" column="19" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/one-cd/config/config.default.js" timestamp="1562045004387" />
+      <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560493663619">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/client_build/qutoutiao_debug.sh" timestamp="1563448722503" />
       <file name="$USER_HOME$/Codes/lab/client_build/online_build.sh" timestamp="1563430790083">
         <mark key="[" line="6" column="0" />
@@ -47,16 +71,34 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="18" column="8" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/client.js" timestamp="1560328371761">
+        <mark key="[" line="12" column="72" />
+        <mark key="]" line="12" column="74" />
+        <mark key="." line="12" column="74" />
+        <mark key="^" line="12" column="74" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/report.xml" timestamp="1561773988747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/agenda/package.json" timestamp="1563169164240">
         <mark key="[" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qukan-php/composer.json" timestamp="1560409705097">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="129" column="31" />
+        <mark key="." line="129" column="31" />
+        <mark key="^" line="129" column="31" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/user.js" timestamp="1562224588547">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/km-websdk/package.json" timestamp="1558419916112">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ssri/package-lock.json" timestamp="1560832502651" />
       <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1561698746221">
@@ -64,6 +106,12 @@
         <mark key="]" line="12" column="39" />
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="39" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/sel-ui/package.json" timestamp="1558701616900">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/lab/client_build/qdp_release.sh" timestamp="1563431099805">
         <mark key="[" line="84" column="168" />
@@ -89,12 +137,41 @@
       <file name="/Clipboard.txt" timestamp="1560587736638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1563343682431" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1563502399656">
+        <mark key="[" line="537" column="0" />
+        <mark key="]" line="570" column="0" />
+        <mark key="." line="570" column="0" />
+        <mark key="^" line="581" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/jenkins-inject/injec.qtt6.js" timestamp="1558526574917">
+        <mark key="[" line="77" column="70" />
+        <mark key="]" line="77" column="70" />
+        <mark key="^" line="77" column="72" />
+        <mark key="." line="77" column="70" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/service/op-jenkins-qtt6.js" timestamp="1561514065988">
+        <mark key="[" line="254" column="67" />
+        <mark key="]" line="254" column="67" />
+        <mark key="." line="254" column="67" />
+        <mark key="^" line="255" column="48" />
+      </file>
       <file name="$USER_HOME$/.fe/git/.gitignore_global" timestamp="1561181344185" />
+      <file name="$USER_HOME$/Codes/lab/sel-ui/tests/test.js" timestamp="1558701420737">
+        <mark key="[" line="105" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="111" column="11" />
+        <mark key="." line="35" column="4" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/android_lint_mail/mail/test.py" timestamp="1563381621490" />
       <file name="$USER_HOME$/Codes/lab/tapd-q12/reports/read.js" timestamp="1563375104064">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="17" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/img-services/app/router.js" timestamp="1558936463430">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="52" />
       </file>
       <file name="$USER_HOME$/Codes/lab/common-service/app/router.js" timestamp="1561705184698">
         <mark key="[" line="7" column="9" />
@@ -110,7 +187,19 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/km-websdk/index.js" timestamp="1558419933670">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/legacy/go/build.sh" timestamp="1562582887796" />
+      <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1557222233723">
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+        <mark key="^" line="302" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/yicon/.gitignore" timestamp="1563263722696">
         <mark key="[" line="76" column="0" />
       </file>
@@ -130,11 +219,29 @@
         <mark key="^" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/.env" timestamp="1562638773512" />
+      <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.js" timestamp="1558521505376">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="39" column="5" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/.gitlab-ci.yml" timestamp="1561613140976">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
         <mark key="^" line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558400079123">
+        <mark key="[" line="172" column="28" />
+        <mark key="]" line="174" column="18" />
+        <mark key="^" line="174" column="18" />
+        <mark key="." line="174" column="18" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/hubot/run.sh" timestamp="1559387125957">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Codes/lab/client_build/qdp_pre.sh" timestamp="1563431097128">
         <mark key="[" line="24" column="0" />
@@ -162,6 +269,12 @@
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/yicon/code/src/src/controller/modules/ldapauth.js" timestamp="1563248890612">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="67" column="27" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/node/Dockerfile" timestamp="1563266301263">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="17" column="0" />
@@ -169,6 +282,24 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/go/Dockerfile" timestamp="1561802388034" />
+      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/status.js" timestamp="1558958405251">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/km-websdk/websdk.js" timestamp="1558421236589">
+        <mark key="[" line="53" column="3" />
+        <mark key="]" line="57" column="3" />
+        <mark key="." line="57" column="3" />
+        <mark key="^" line="57" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-automation/import-members.js" timestamp="1558413163077">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1562313832597">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="14" />
@@ -195,6 +326,18 @@
         <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tool-automation/node_modules/@piee/tapd-websdk/websdk.js" timestamp="1563200987587" />
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins-qtt6.js" timestamp="1558071215875">
+        <mark key="[" line="51" column="67" />
+        <mark key="]" line="51" column="67" />
+        <mark key="." line="51" column="67" />
+        <mark key="^" line="51" column="66" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/controller.js" timestamp="1560427203229">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.default.js" timestamp="1561705438392" />
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/test.js" timestamp="1562857561347">
         <mark key="[" line="5" column="18" />
@@ -215,10 +358,28 @@
         <mark key="^" line="58" column="25" />
         <mark key="." line="58" column="23" />
       </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
+        <mark key="[" line="191" column="57" />
+        <mark key="]" line="191" column="57" />
+        <mark key="^" line="191" column="57" />
+        <mark key="." line="191" column="57" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/controller/test.js" timestamp="1558935421590">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" timestamp="1561607912673">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="22" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/hubot/scripts/test2.js" timestamp="1559310680760">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/gitlab-raw.js" timestamp="1562858640862">
         <mark key="[" line="18" column="34" />
@@ -231,20 +392,74 @@
         <mark key="]" line="560" column="43" />
         <mark key="." line="560" column="43" />
       </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1558518795016">
+        <mark key="[" line="145" column="33" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/c.js" timestamp="1558327937409">
+        <mark key="[" line="56" column="2" />
+        <mark key="]" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+        <mark key="^" line="58" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1563501924019">
+        <mark key="[" line="176" column="16" />
+        <mark key="]" line="176" column="16" />
+        <mark key="^" line="170" column="25" />
+        <mark key="." line="176" column="16" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/okr-client/gitlab-ci.yml" timestamp="1559017048236">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tool-automation/km/ad-sync.js" timestamp="1558420312051">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/tapd-methods.js" timestamp="1558264689595">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/package.json" timestamp="1560489406075">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/Codes/lab/okr-client/src/entry.ejs" timestamp="1561366757855">
         <mark key="[" line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/cubot/app/router.js" timestamp="1558538480868">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/read.js" timestamp="1561378682273">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/common-service/config/config.prd.js" timestamp="1561710584744">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/.gitignore" timestamp="1562674994208">
         <mark key="[" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/yapi/.gitignore" timestamp="1560329228047">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-q12/read.js" timestamp="1563207508208">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="9" column="171" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="/.gitlab-ci.yml" timestamp="1561535256434" />
       <file name="$USER_HOME$/Codes/lab/dockerfiles/legacy/php/Dockerfile" timestamp="1562842739570">
@@ -271,6 +486,18 @@
       <file name="/Dummy.txt" timestamp="1563263755588">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/npm-cache-install/install.sh" timestamp="1560514604396">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/index.js" timestamp="1562858834254">
+        <mark key="[" line="159" column="23" />
+        <mark key="]" line="122" column="38" />
+        <mark key="." line="122" column="38" />
+        <mark key="^" line="122" column="38" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab.js" timestamp="1562224827657">
         <mark key="[" line="43" column="29" />
       </file>
@@ -293,6 +520,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/cubot/package.json" timestamp="1558538260132">
+        <mark key="[" line="27" column="73" />
+        <mark key="]" line="27" column="76" />
+        <mark key="^" line="27" column="76" />
+        <mark key="." line="27" column="76" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/one-cd/app/service/gitlab-raw.js" timestamp="1561429235639" />
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/logs" timestamp="1561720730252" />
       <file name="$USER_HOME$/Codes/lab/okr-client/package.json" timestamp="1561518865424">
@@ -300,6 +533,12 @@
         <mark key="]" line="68" column="27" />
         <mark key="." line="68" column="27" />
         <mark key="^" line="68" column="27" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/cubot/config/config.default.js" timestamp="1558535149701">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="22" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -405,11 +644,11 @@
       <jump line="45" column="0" filename="$USER_HOME$/Codes/lab/tapd-q12/read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>qutoutiao</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>qutoutiao</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrbVw+</text>
@@ -421,36 +660,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWtkaXIgLXAgL2RhdGEvZGF0YS9xZHAvJHt2bmFtZX0vJHtCVUlMRF9JRH0KY3AgLXJmIGFwcC9idWlsZC9vdXRwdXRzL2Fway8ke3R5cGV9LmFwayAvZGF0YS9kYXRhL3FkcC8ke3ZuYW1lfS8ke0JVSUxEX0lEfS8K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yaWdpbkZpZWxkcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cnN5bmMgLWF2eiAtLWV4Y2x1ZGUgZHVtcC50eHQgJHttYXBwaW5nX2Rpcn0gJHtwa2dfc2VydmVyfToke3JlbW90ZWRpcn0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5yZXNwb25zZS5zdGF0dXNDb2RlKTsKICAgICAgY29uc29sZS5sb2coZS5yZXNwb25zZS5zdGF0dXMpOwogICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2QgL2RhdGEvZGF0YS9xZHAvJHt2bmFtZX0vJHtCVUlMRF9JRH0vCg==</text>
+        <text encoding="base64">ICAgICkudGhlbihyZXMgPT4gewogICAgICBsZXQgaHRtbCA9IHJlcy5kYXRhOwogICAgICBsZXQgJCA9IGNoZWVyaW8ubG9hZChodG1sKTsKICAgICAgcmV0dXJuICQoJyN0aXRsZS1jb3B5LWJ0bicpLmF0dHIoJ2RhdGEtY2xpcGJvYXJkLXRleHQnKTsK</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L3Vzci9iaW4vamF2YSAtamFyIC9kYXRhL2RhdGEvY29kZS9xci5qYXIgdXJsPWh0dHA6Ly9jb2RlLnF1ZHVvcGFpLmNuL3FkcC8ke3ZuYW1lfS8ke0JVSUxEX0lEfS8ke3R5cGV9LmFwayBpbWFnZT1hcHAtJHt2bmFtZX0uanBnIHNhdmU9L2RhdGEvZGF0YS9xZHAvJHt2bmFtZX0vJHtCVUlMRF9JRH0vCmVjaG8gInNoZWxsIG9rIGFuZCBzdWNjZXNzIgo=</text>
+        <text encoding="base64">ICAgICkuY2F0Y2goZSA9PiB7CiAgICAgICAgcmV0dXJuIGUucmVzcG9uc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGtnX3NlcnZlcl9zeW5jKCl7CiAgICBsb2NhbD0kMQogICAgcmVtb3RlPSQyCiAgICByc3luYyAtYXZ6ICRsb2NhbCAxNzIuMTYuNDQuMTQ6JHJlbW90ZQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGtnX3NlcnZlcl9ydW4K</text>
+        <text encoding="base64">ICAgICAgYXJyYXkucHVzaCh7CiAgICAgICAgbmFtZTogJ2RzY190b2tlbicsCiAgICAgICAgdmFsdWU6IHRhcGRNZXRob2RzLmdlbmVyYXRlX2RzY190b2tlbigpCiAgICAgIH0pOwoK</text>
       </register>
-      <register name="8" type="4">
-        <text>kg_server_ensure_dir(){
-    
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVtb3RlRGlyPSIvZGF0YS9hbmRyb2lkL3FkcC9kZWJ1Zy8ke3ZlcnNpb259Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
