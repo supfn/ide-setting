@@ -58,6 +58,7 @@
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="mst" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="inc" type="PLAIN_TEXT" />
       <mapping pattern="extra" type="Vue.js" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
