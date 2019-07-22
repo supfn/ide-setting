@@ -385,11 +385,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563779275573">
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563780357060">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="120" column="25" />
-        <mark key="]" line="120" column="37" />
-        <mark key="." line="120" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
         <mark key="^" line="119" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/build.sh" timestamp="1561194452565">
@@ -619,6 +619,13 @@
         <mark key="]" line="348" column="26" />
         <mark key="." line="348" column="26" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ssri/check.js" timestamp="1561007860279">
+        <mark key="'" line="2" column="3" />
+        <mark key="[" line="73" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/all2.js" timestamp="1558427764604">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -752,6 +759,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/one-cd/app/controller/one-cd.js" timestamp="1561513913774">
+        <mark key="'" line="3" column="26" />
+        <mark key="[" line="478" column="12" />
+        <mark key="]" line="489" column="5" />
+        <mark key="." line="489" column="5" />
+        <mark key="^" line="488" column="29" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-q12/read.js" timestamp="1563207508208">
         <mark key="[" line="33" column="0" />
@@ -930,7 +944,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGtnX3NlcnZlcl9ydW4gIm1rZGlyIC1wICRyZW1vdGVfZGlyIgo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="-" type="4">
         <text>app/build/outputs/release/${BUILD_ID}&quot;</text>
@@ -942,37 +956,37 @@
         <text encoding="base64">cGtnX3NlcnZlcl9ydW4gIm1rZGlyIC1wICRyZW1vdGVfZGlyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwa0Rpcj1yZWxlYXNlLyR7QlVJTERfSUR9CiAgICBtYXBwaW5nRGlyPXJlbGVhc2UvJHtCVUlMRF9JRH0K</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gc3RyaW5nOgogICAgICAgIGRlZmF1bHQ6ICcnCiAgICAgICAgZGVzY3JpcHRpb246ICLpqaznlLLljIXmoIfor4YiCiAgICAgICAgbmFtZTogdmVzdE5hbWUKICAgICAgICB0cmltOiAnZmFsc2UnCg==</text>
+        <text encoding="base64">ICAgIGFwa0Rpcj1yZWxlYXNlLyR7QlVJTERfSUR9CiAgICBtYXBwaW5nRGlyPXJlbGVhc2UvJHtCVUlMRF9JRH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gc3RyaW5nOgogICAgICAgIGRlZmF1bHQ6ICcnCiAgICAgICAgZGVzY3JpcHRpb246ICLnrqHnkIblubPlj7Dmk43kvZxJRCIKICAgICAgICBuYW1lOiBpZAogICAgICAgIHRyaW06ICdmYWxzZScK</text>
+        <text encoding="base64">ICAgIC0gc3RyaW5nOgogICAgICAgIGRlZmF1bHQ6ICcnCiAgICAgICAgZGVzY3JpcHRpb246ICLpqaznlLLljIXmoIfor4YiCiAgICAgICAgbmFtZTogdmVzdE5hbWUKICAgICAgICB0cmltOiAnZmFsc2UnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyaWdnZXJzOiBbXQo=</text>
+        <text encoding="base64">ICAgIC0gc3RyaW5nOgogICAgICAgIGRlZmF1bHQ6ICcnCiAgICAgICAgZGVzY3JpcHRpb246ICLnrqHnkIblubPlj7Dmk43kvZxJRCIKICAgICAgICBuYW1lOiBpZAogICAgICAgIHRyaW06ICdmYWxzZScK</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW5kX2NhbGxiYWNrICR7YXBrX2ZpbGV9Cg==</text>
+        <text encoding="base64">ICAgIHRyaWdnZXJzOiBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kX2NhbGxiYWNrICR7YXBrX2ZpbGV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBidWlsZGVyOgogICAgbmFtZTogYnVpbGRlci1zY3JpcHRzCiAgICBidWlsZGVyczoKICAgIC0gc2hlbGw6CiAgICAgICAgICAhaW5jbHVkZS1qaW5qYTI6CiAgICAgICAgICAgICAgLSBpbmMvY29tbW9uLnNoCiAgICAgICAgICAgICAgLSBpbmMvcWRwLnNoCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlOiBxZHAKICAgICAgICBzY206CiAgICAgICAgLSBnaXQ6CiAgICAgICAgICAgIGJyYW5jaGVzOgogICAgICAgICAgICAtICRicmFuY2gKICAgICAgICAgICAgY3JlZGVudGlhbHMtaWQ6IDNhMDBiOTUyLTk3YmYtNDg2Yy1iZGY5LTJjNDkwOGQ0MDYwOQogICAgICAgICAgICB1cmw6IGdpdEBnaXQucXV0b3V0aWFvLm5ldDpxdWR1b3BhaS95aXBhaS1hbmRyb2lkLmdpdAogICAgICAgIGJ1aWxkZXJzOgogICAgICAgIC0gYnVpbGRlci1zY3JpcHRzCg==</text>
+        <text encoding="base64">LSBidWlsZGVyOgogICAgbmFtZTogYnVpbGRlci1zY3JpcHRzCiAgICBidWlsZGVyczoKICAgIC0gc2hlbGw6CiAgICAgICAgICAhaW5jbHVkZS1qaW5qYTI6CiAgICAgICAgICAgICAgLSBpbmMvY29tbW9uLnNoCiAgICAgICAgICAgICAgLSBpbmMvcWRwLnNoCgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlOiBxZHAKICAgICAgICBzY206CiAgICAgICAgLSBnaXQ6CiAgICAgICAgICAgIGJyYW5jaGVzOgogICAgICAgICAgICAtICRicmFuY2gKICAgICAgICAgICAgY3JlZGVudGlhbHMtaWQ6IDNhMDBiOTUyLTk3YmYtNDg2Yy1iZGY5LTJjNDkwOGQ0MDYwOQogICAgICAgICAgICB1cmw6IGdpdEBnaXQucXV0b3V0aWFvLm5ldDpxdWR1b3BhaS95aXBhaS1hbmRyb2lkLmdpdAogICAgICAgIGJ1aWxkZXJzOgogICAgICAgIC0gYnVpbGRlci1zY3JpcHRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
