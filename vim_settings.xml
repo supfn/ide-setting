@@ -385,12 +385,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563784694598">
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563786126748">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="127" column="8" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="12" column="1" />
+        <mark key="[" line="158" column="9" />
+        <mark key="]" line="158" column="9" />
+        <mark key="." line="158" column="9" />
+        <mark key="^" line="158" column="1" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/build.sh" timestamp="1561194452565">
         <mark key="[" line="1" column="0" />
@@ -545,7 +545,7 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/PT_BRANCH_TAG.inc" timestamp="1563689547575" />
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/common.sh" timestamp="1563784063094">
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/common.sh" timestamp="1563786140484">
         <mark key="[" line="55" column="55" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
@@ -929,11 +929,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/jjb-scripts/android/ci-defaults.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0tdmVyYm9zZQo=</text>
+      <register name="&quot;" type="4">
+        <text>传</text>
       </register>
       <register name="-" type="4">
-        <text>/data/android/qtt/${apkDir}/${version}</text>
+        <text>传</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
@@ -942,16 +942,16 @@
         <text encoding="base64">cGtnX3NlcnZlcl9ydW4gIm1rZGlyIC1wICRyZW1vdGVfZGlyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">bG9nICLkuIrkvKBtYXBwaW5n5paH5Lu2Li4uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgZG93blZlcnNpb249JHt2ZXJzaW9ufS8kYnJhbmNoCg==</text>
+        <text encoding="base64">ICAgIC0tdmVyYm9zZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
@@ -960,19 +960,19 @@
         <text encoding="base64">ICAgZG93blZlcnNpb249JHt2ZXJzaW9ufS8kYnJhbmNoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgZG93blZlcnNpb249JHt2ZXJzaW9ufS8kYnJhbmNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIG1kNT1gbWQ1c3VtIC5hcGsgfCBjdXQgLWQgJyAnIC1mIDFgCg==</text>
+        <text encoding="base64">IyMjIwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIGN1cmwgLXMgIiR7Y2FsbGJhY2tBcGl9L2pvYk5vdGlmeT9pZD0ke2lkfSZidWlsZElkPSR7QlVJTERfSUR9JnN0YXR1cz0xJnVybD0ke3VybH0mdmVyc2lvblNtYWxsPSR7dmVyc2lvbn0mdmVyc2lvbkJpZz0kdmVyc2lvbl9jb2RlJnNpemU9JHtzaXplfSZ0aW1lPSR7ZHVyYXRpb259Igo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
