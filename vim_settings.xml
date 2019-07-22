@@ -385,12 +385,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563778366634">
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563779275573">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="104" column="23" />
-        <mark key="]" line="104" column="23" />
-        <mark key="." line="104" column="23" />
-        <mark key="^" line="105" column="1" />
+        <mark key="[" line="120" column="25" />
+        <mark key="]" line="120" column="37" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="119" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/build.sh" timestamp="1561194452565">
         <mark key="[" line="1" column="0" />
@@ -929,8 +929,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/jjb-scripts/android/ci-defaults.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app/build/outputs/release/${BUILD_ID}&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGtnX3NlcnZlcl9ydW4gIm1rZGlyIC1wICRyZW1vdGVfZGlyIgo=</text>
       </register>
       <register name="-" type="4">
         <text>app/build/outputs/release/${BUILD_ID}&quot;</text>
@@ -939,7 +939,7 @@
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc3RyaW5nOgogICAgICAgIGRlZmF1bHQ6ICc0JwogICAgICAgIGRlc2NyaXB0aW9uOiAi5YyF57G75Z6L77yaMem7mOiupOWMhSAy6ams55Sy5YyFIDPlsI/nsbPljIUgNOW4guWcuuWMhSIKICAgICAgICBuYW1lOiBwa2d0eXBlCiAgICAgICAgdHJpbTogJ2ZhbHNlJwo=</text>
+        <text encoding="base64">cGtnX3NlcnZlcl9ydW4gIm1rZGlyIC1wICRyZW1vdGVfZGlyIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFwa0Rpcj1yZWxlYXNlLyR7QlVJTERfSUR9CiAgICBtYXBwaW5nRGlyPXJlbGVhc2UvJHtCVUlMRF9JRH0K</text>
