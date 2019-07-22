@@ -385,12 +385,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563786126748">
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563787053439">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="158" column="9" />
-        <mark key="]" line="158" column="9" />
-        <mark key="." line="158" column="9" />
-        <mark key="^" line="158" column="1" />
+        <mark key="[" line="176" column="43" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+        <mark key="^" line="176" column="26" />
       </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/build.sh" timestamp="1561194452565">
         <mark key="[" line="1" column="0" />
@@ -929,50 +929,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/jjb-scripts/android/ci-defaults.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>传</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNkIC0K</text>
       </register>
       <register name="-" type="4">
-        <text>传</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGtnX3NlcnZlcl9ydW4gIm1rZGlyIC1wICRyZW1vdGVfZGlyIgo=</text>
+        <text encoding="base64">aWYgWyAtZCAiYXBwL2J1aWxkL291dHB1dHMvZGlnZXN0X3FrIiBdCnRoZW4KICAgIHBrZ19zZXJ2ZXJfc3luYyAiYXBwL2J1aWxkL291dHB1dHMvZGlnZXN0X3FrIiAke3JlbW90ZV9tYXBwaW5nX2Rpcn0KZmkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNkIC0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nICLkuIrkvKBtYXBwaW5n5paH5Lu2Li4uIgo=</text>
+        <text encoding="base64">ICAgIGNkICR7V09SCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">ICBpZiBbIC1mICR7V09SS1NQQUNFfS9RdWthbi9Ra0hvc3QvYnVpbGQvaW50ZXJtZWRpYXRlcy9zeW1ib2xzL29ubGluZS9yZWxlYXNlL1IudHh0IF0KICB0aGVuCiAgcnN5bmMgLWF2eiAke1dPUktTUEFDRX0vUXVrYW4vUWtIb3N0L2J1aWxkL2ludGVybWVkaWF0ZXMvc3ltYm9scy9vbmxpbmUvcmVsZWFzZS9SLnR4dCAke21hcHBpbmdfZGlyfQogIGZpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBpZiBbIC1kICR7V09SS1NQQUNFfS9RdWthbi9idWlsZC9vdXRwdXRzL2RpZ2VzdF9xayBdCg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgZG93blZlcnNpb249JHt2ZXJzaW9ufS8kYnJhbmNoCg==</text>
+        <text encoding="base64">ICBpZiBbIC1mIC9RdWthbi9Ra0hvc3QvYnVpbGQvb3V0cHV0cy9hcGsvQW5kUmVzR3VhcmRfUWtIb3N0LW9ubGluZS1yZWxlYXNlL3Jlc291cmNlX21hcHBpbmdfUWtIb3N0LW9ubGluZS1yZWxlYXNlLnR4dCBdCiAgdGhlbgogIHJzeW5jIC1hdnogJHtXT1JLU1BBQ0V9L1F1a2FuL1FrSG9zdC9idWlsZC9vdXRwdXRzL2Fway9BbmRSZXNHdWFyZF9Ra0hvc3Qtb25saW5lLXJlbGVhc2UvcmVzb3VyY2VfbWFwcGluZ19Ra0hvc3Qtb25saW5lLXJlbGVhc2UudHh0ICR7bWFwcGluZ19kaXJ9CiAgZmkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgZG93blZlcnNpb249JHt2ZXJzaW9ufS8kYnJhbmNoCg==</text>
+        <text encoding="base64">bG9nICLkuIrkvKBtYXBwaW5n5paH5Lu2Li4uIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIwo=</text>
+        <text encoding="base64">ICAgIC0tdmVyYm9zZQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
