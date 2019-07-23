@@ -3,20 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Codes/lab/ssri/scan.sh" timestamp="1561007562791">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="5" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/yapi/vendors/server/utils/db.js" timestamp="1560481887002">
         <mark key="[" line="21" column="60" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/controller/app-event.js" timestamp="1561698726246" />
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/Dockerfile" timestamp="1562896400987">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yicon/package.json" timestamp="1563248459532">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1563266547559">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/update_job.sh" timestamp="1563760114853">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
         <mark key="^" line="8" column="4" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/crontab-job.sh" timestamp="1562224930115" />
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/controllers/Open/Gitlab.php" timestamp="1563806688869" />
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/post_callback.sh" timestamp="1563719703940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -40,7 +60,6 @@
         <mark key="^" line="55" column="19" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/one-cd/config/config.default.js" timestamp="1562045004387" />
       <file name="$USER_HOME$/Codes/lab/yapi/config.json" timestamp="1560493663619">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="13" />
@@ -57,18 +76,38 @@
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/client_build/qutoutiao_debug.sh" timestamp="1563448722503" />
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/index.js" timestamp="1558412825687">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/cubot/config/plugin.js" timestamp="1558428393726">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/ci-defaults.yml" timestamp="1563759195666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/node_modules/node-gitlab-webhook/index.js" timestamp="1561523258303" />
+      <file name="$USER_HOME$/Codes/lab/client_build/online_build.sh" timestamp="1563430790083">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/export.sh" timestamp="1563699174124">
         <mark key="[" line="3" column="85" />
         <mark key="]" line="3" column="85" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="85" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/agenda/index.js" timestamp="1563186454923">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="18" column="8" />
       </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/update_job.sh" timestamp="1563700431829">
         <mark key="[" line="5" column="13" />
@@ -88,25 +127,63 @@
         <mark key="." line="129" column="31" />
         <mark key="^" line="129" column="31" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/user.js" timestamp="1562224588547">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/package.json" timestamp="1558419916112">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/output/jjb_release.yml" timestamp="1563699268310" />
+      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1561698746221">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/sel-ui/package.json" timestamp="1558701616900">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="8" column="26" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/package.json" timestamp="1561705930368" />
+      <file name="$USER_HOME$/Codes/lab/client_build/qdp_release.sh" timestamp="1563702071802">
+        <mark key="'" line="59" column="16" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="59" column="16" />
+        <mark key="^" line="59" column="16" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/node/build.sh" timestamp="1562860269712">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1562641902054">
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="71" column="46" />
+        <mark key="." line="71" column="46" />
+        <mark key="^" line="71" column="46" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/okr-client/tests/test.js" timestamp="1558701648144">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/websdk.js" timestamp="1563502399656">
         <mark key="[" line="537" column="0" />
         <mark key="]" line="570" column="0" />
         <mark key="." line="570" column="0" />
         <mark key="^" line="581" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/jenkins-inject/injec.qtt6.js" timestamp="1558526574917">
+        <mark key="[" line="77" column="70" />
+        <mark key="]" line="77" column="70" />
+        <mark key="^" line="77" column="72" />
+        <mark key="." line="77" column="70" />
       </file>
       <file name="$USER_HOME$/Codes/lab/one-cd/app/service/op-jenkins-qtt6.js" timestamp="1561514065988">
         <mark key="[" line="254" column="67" />
@@ -114,7 +191,11 @@
         <mark key="." line="254" column="67" />
         <mark key="^" line="255" column="48" />
       </file>
-      <file name="$USER_HOME$/.fe/git/.gitignore_global" timestamp="1561181344185" />
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/readme.md" timestamp="1563781981040">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/sel-ui/tests/test.js" timestamp="1558701420737">
         <mark key="[" line="105" column="4" />
         <mark key="]" line="35" column="4" />
@@ -131,33 +212,97 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/android_lint_mail/mail/test.py" timestamp="1563381621490" />
+      <file name="$USER_HOME$/Codes/lab/tapd-q12/reports/read.js" timestamp="1563375104064">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="17" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/common.sh" timestamp="1563791240056">
+        <mark key="[" line="77" column="3" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="78" column="5" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/img-services/app/router.js" timestamp="1558936463430">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/common-service/app/router.js" timestamp="1561705184698">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/client_build/qutoutiao_pre.sh" timestamp="1563447649539" />
+      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1562920554142">
+        <mark key="[" line="91" column="26" />
+        <mark key="]" line="91" column="26" />
+        <mark key="." line="91" column="26" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node-centos/Dockerfile" timestamp="1561804290936">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/qa/config.php" timestamp="1563807761238">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="174" />
+        <mark key="^" line="36" column="172" />
+        <mark key="." line="36" column="172" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/.gitignore" timestamp="1558400415300">
+        <mark key="[" line="106" column="3" />
+        <mark key="]" line="106" column="3" />
+        <mark key="." line="106" column="3" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/km-websdk/index.js" timestamp="1558419933670">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/Codes/lab/cubot/app/service/chatbot.js" timestamp="1558577616298">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="96" column="25" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/legacy/go/build.sh" timestamp="1562582887796" />
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/kuaigou.yml" timestamp="1563773535336">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="90" column="21" />
+        <mark key="^" line="81" column="12" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1557222233723">
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+        <mark key="^" line="302" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/job-template.yaml" timestamp="1563697537434">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.sh" timestamp="1561707174512">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/common-service/.gitlab-ci.yml" timestamp="1561710767039">
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="59" column="3" />
+        <mark key="." line="59" column="3" />
+        <mark key="^" line="8" column="44" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/ssri/t.sh" timestamp="1560843447175">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/ci.yml" timestamp="1563698712867">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/jenkins-inject/inject.js" timestamp="1558521505376">
         <mark key="[" line="54" column="36" />
@@ -176,6 +321,12 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558400079123">
+        <mark key="[" line="172" column="28" />
+        <mark key="]" line="174" column="18" />
+        <mark key="^" line="174" column="18" />
+        <mark key="." line="174" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-q12/export.js" timestamp="1563375700937">
         <mark key="[" line="82" column="30" />
@@ -213,6 +364,11 @@
         <mark key="^" line="67" column="27" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1557542266091">
+        <mark key="[" line="329" column="4" />
+        <mark key="]" line="348" column="26" />
+        <mark key="." line="348" column="26" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/config/config.default.js" timestamp="1558428404744">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="38" column="4" />
@@ -224,7 +380,11 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/go/Dockerfile" timestamp="1561802388034" />
+      <file name="$USER_HOME$/Codes/qcd/all2.js" timestamp="1558427764604">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/okr-client/tests/okr.js" timestamp="1558701840186">
         <mark key="[" line="105" column="4" />
         <mark key="]" line="105" column="4" />
@@ -234,386 +394,6 @@
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="23" />
         <mark key="." line="27" column="23" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/status.js" timestamp="1558958405251">
-        <mark key="[" line="19" column="54" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/km-websdk/websdk.js" timestamp="1558421236589">
-        <mark key="[" line="53" column="3" />
-        <mark key="]" line="57" column="3" />
-        <mark key="." line="57" column="3" />
-        <mark key="^" line="57" column="3" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/external-scripts.json" timestamp="1559236388744">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-automation/import-members.js" timestamp="1558413163077">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="54" />
-        <mark key="^" line="27" column="54" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/migrations/models/employmentrecord.js" timestamp="1562639843823" />
-      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1563178853889">
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="43" column="16" />
-        <mark key="^" line="45" column="3" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/tool-automation/node_modules/@piee/tapd-websdk/websdk.js" timestamp="1563200987587" />
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/Service/Ci.php" timestamp="1563806026421" />
-      <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/controller.js" timestamp="1560427203229">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qukan-php/composer.lock" timestamp="1560408312821">
-        <mark key="[" line="1450" column="67" />
-        <mark key="]" line="1450" column="67" />
-        <mark key="." line="1450" column="67" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.default.js" timestamp="1561705438392" />
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/test.js" timestamp="1562857561347">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="5" column="18" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/client_build/qdp_debug.sh" timestamp="1563515087129">
-        <mark key="[" line="223" column="4" />
-        <mark key="]" line="223" column="4" />
-        <mark key="." line="223" column="4" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561463513091">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="57" column="17" />
-        <mark key="]" line="57" column="17" />
-        <mark key="." line="57" column="17" />
-        <mark key="^" line="62" column="70" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/legacy/utils.sh" timestamp="1562661898125" />
-      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/qu-client-pref.js" timestamp="1563193932867">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1562637743782">
-        <mark key="[" line="58" column="23" />
-        <mark key="]" line="58" column="23" />
-        <mark key="^" line="58" column="25" />
-        <mark key="." line="58" column="23" />
-      </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
-        <mark key="[" line="191" column="57" />
-        <mark key="]" line="191" column="57" />
-        <mark key="^" line="191" column="57" />
-        <mark key="." line="191" column="57" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/Service/CiJob.php" timestamp="1563808140373" />
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/jenkins_jobs.ini" timestamp="1563720532354">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" timestamp="1561607912673">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="22" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/hubot/scripts/test2.js" timestamp="1559310680760">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/yapi/a.js" timestamp="1560587707108">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/CryptoJS.js" timestamp="1558327256782">
-        <mark key="[" line="708" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1558518795016">
-        <mark key="[" line="145" column="33" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="148" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/c.js" timestamp="1558327937409">
-        <mark key="[" line="56" column="2" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-        <mark key="^" line="58" column="3" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/tool-automation/km/ad-sync.js" timestamp="1558420312051">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1561802080382">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/okr-client/deploy-qa.sh" timestamp="1561362871424" />
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/Library/Help/Http.php" timestamp="1563807734965">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="235" column="68" />
-        <mark key="." line="229" column="0" />
-        <mark key="^" line="48" column="40" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/.gitignore" timestamp="1561704940426">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563787772163">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="171" column="1" />
-        <mark key="." line="171" column="1" />
-        <mark key="^" line="171" column="1" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/cubot/.gitignore" timestamp="1558537555683">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/x.sh" timestamp="1563796435200" />
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/sdk.js" timestamp="1562638867465">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="33" />
-        <mark key="^" line="45" column="35" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ssri/old/all_sri.sh" timestamp="1560846622592">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="10" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/controllers/Open/Depend.php" timestamp="1563805915377" />
-      <file name="$USER_HOME$/Codes/lab/cubot/package.json" timestamp="1558538260132">
-        <mark key="[" line="27" column="73" />
-        <mark key="]" line="27" column="76" />
-        <mark key="^" line="27" column="76" />
-        <mark key="." line="27" column="76" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/product/config.php" timestamp="1563805793995">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="175" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/one-cd/app/service/gitlab-raw.js" timestamp="1561429235639" />
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/files/yum.repos.d/epel.repo" timestamp="1562652528140">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/properties.yml.inc" timestamp="1563689819294">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/cubot/config/config.default.js" timestamp="1558535149701">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="41" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="22" column="41" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/controllers/Open/Jenkins.php" timestamp="1563808511331">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ssri/scan.sh" timestamp="1561007562791">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="5" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/Dockerfile" timestamp="1562896400987">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/yicon/package.json" timestamp="1563248459532">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/.gitlab-ci.yml" timestamp="1563266547559">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/data.json" timestamp="1561602966533" />
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/index.js" timestamp="1558412825687">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/cubot/config/plugin.js" timestamp="1558428393726">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/client_build/online_build.sh" timestamp="1563430790083">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/agenda/index.js" timestamp="1563186454923">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="18" column="8" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/user.js" timestamp="1562224588547">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ssri/package-lock.json" timestamp="1560832502651" />
-      <file name="$USER_HOME$/Codes/lab/event-notifier/app/router.js" timestamp="1561698746221">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/client_build/qdp_release.sh" timestamp="1563702071802">
-        <mark key="'" line="59" column="16" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="59" column="16" />
-        <mark key="^" line="59" column="16" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/node/build.sh" timestamp="1562860269712">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" timestamp="1562641902054">
-        <mark key="[" line="39" column="35" />
-        <mark key="]" line="71" column="46" />
-        <mark key="." line="71" column="46" />
-        <mark key="^" line="71" column="46" />
-      </file>
-      <file name="/router.js" timestamp="1561995120166" />
-      <file name="$USER_HOME$/Codes/lab/okr-client/tests/test.js" timestamp="1558701648144">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jenkins-inject/injec.qtt6.js" timestamp="1558526574917">
-        <mark key="[" line="77" column="70" />
-        <mark key="]" line="77" column="70" />
-        <mark key="^" line="77" column="72" />
-        <mark key="." line="77" column="70" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/readme.md" timestamp="1563781981040">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/PT_BRANCH_TAG.inc" timestamp="1563689547575" />
-      <file name="$USER_HOME$/Codes/lab/tapd-q12/reports/read.js" timestamp="1563375104064">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="17" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/common.sh" timestamp="1563791240056">
-        <mark key="[" line="77" column="3" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="78" column="5" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/img-services/app/router.js" timestamp="1558936463430">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/chatbot/src/pages/index.js" timestamp="1562920554142">
-        <mark key="[" line="91" column="26" />
-        <mark key="]" line="91" column="26" />
-        <mark key="." line="91" column="26" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/qa/config.php" timestamp="1563807761238">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="174" />
-        <mark key="^" line="36" column="172" />
-        <mark key="." line="36" column="172" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/.gitignore" timestamp="1558400415300">
-        <mark key="[" line="106" column="3" />
-        <mark key="]" line="106" column="3" />
-        <mark key="." line="106" column="3" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/km-websdk/index.js" timestamp="1558419933670">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/kuaigou.yml" timestamp="1563773535336">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="90" column="21" />
-        <mark key="^" line="81" column="12" />
-        <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1557222233723">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="." line="302" column="0" />
-        <mark key="^" line="302" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/gen-supervisor-config.sh" timestamp="1561707174512">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/common-service/.gitlab-ci.yml" timestamp="1561710767039">
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="59" column="3" />
-        <mark key="." line="59" column="3" />
-        <mark key="^" line="8" column="44" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/ehr-db/.env" timestamp="1562638773512" />
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/ci.yml" timestamp="1563698712867">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/tapd-websdk/high-value-fields.js" timestamp="1558400079123">
-        <mark key="[" line="172" column="28" />
-        <mark key="]" line="174" column="18" />
-        <mark key="^" line="174" column="18" />
-        <mark key="." line="174" column="18" />
-      </file>
-      <file name="$USER_HOME$/Codes/qcd/app/controller/one-cd.js" timestamp="1557542266091">
-        <mark key="[" line="329" column="4" />
-        <mark key="]" line="348" column="26" />
-        <mark key="." line="348" column="26" />
-      </file>
-      <file name="$USER_HOME$/Codes/qcd/all2.js" timestamp="1558427764604">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/cubot/app/controller/chatbot.js" timestamp="1558535172769">
         <mark key="[" line="9" column="15" />
@@ -627,6 +407,18 @@
         <mark key="." line="37" column="9" />
         <mark key="^" line="38" column="35" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/img-services/app/controller/status.js" timestamp="1558958405251">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/km-websdk/websdk.js" timestamp="1558421236589">
+        <mark key="[" line="53" column="3" />
+        <mark key="]" line="57" column="3" />
+        <mark key="." line="57" column="3" />
+        <mark key="^" line="57" column="3" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/all.yaml.inc" timestamp="1563697316162">
         <mark key="'" line="0" column="21" />
         <mark key="[" line="127" column="0" />
@@ -634,7 +426,20 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="127" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/output/jjb-test.yml" timestamp="1563688244233" />
+      <file name="$USER_HOME$/Codes/lab/hubot/external-scripts.json" timestamp="1559236388744">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/a.php" timestamp="1563854890741">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-automation/import-members.js" timestamp="1558413163077">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1562313832597">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="14" />
@@ -645,6 +450,12 @@
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/import-members.js" timestamp="1563178853889">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="43" column="16" />
+        <mark key="^" line="45" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/build.sh" timestamp="1562897157304">
         <mark key="[" line="7" column="2" />
@@ -669,18 +480,62 @@
         <mark key="." line="51" column="67" />
         <mark key="^" line="51" column="66" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/hi.yml" timestamp="1563693161288" />
+      <file name="$USER_HOME$/Codes/lab/yapi/local-plugin/yapi-plugin-oauth2/controller.js" timestamp="1560427203229">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/defaults.yml" timestamp="1563689122282">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qukan-php/composer.lock" timestamp="1560408312821">
+        <mark key="[" line="1450" column="67" />
+        <mark key="]" line="1450" column="67" />
+        <mark key="." line="1450" column="67" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/test.js" timestamp="1562857561347">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/client_build/qdp_debug.sh" timestamp="1563515087129">
+        <mark key="[" line="223" column="4" />
+        <mark key="]" line="223" column="4" />
+        <mark key="." line="223" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/km-websdk/test.js" timestamp="1558421078543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/event-notifier/config/config.prd.js" timestamp="1561710580305" />
+      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/jk.sh" timestamp="1561463513091">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="62" column="70" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tool-automation/tapd/qu-client-pref.js" timestamp="1563193932867">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/controller/department.js" timestamp="1562637743782">
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="58" column="23" />
+        <mark key="^" line="58" column="25" />
+        <mark key="." line="58" column="23" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/one-cd.js" timestamp="1557225980919">
+        <mark key="[" line="191" column="57" />
+        <mark key="]" line="191" column="57" />
+        <mark key="^" line="191" column="57" />
+        <mark key="." line="191" column="57" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/test.js" timestamp="1558935421590">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="11" column="16" />
@@ -692,22 +547,66 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/jenkins_jobs.ini" timestamp="1563720532354">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/okr-client/.gitlab-ci.yml" timestamp="1561607912673">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="32" column="22" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/hubot/scripts/test2.js" timestamp="1559310680760">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/yapi/a.js" timestamp="1560587707108">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/gitlab-ci-webhook/app/gitlab-raw.js" timestamp="1562858640862">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="32" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/CryptoJS.js" timestamp="1558327256782">
+        <mark key="[" line="708" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/one-cd/app/service/op-jenkins.js" timestamp="1563791995617">
         <mark key="[" line="560" column="43" />
         <mark key="]" line="560" column="43" />
         <mark key="." line="560" column="43" />
+      </file>
+      <file name="$USER_HOME$/Codes/qcd/app/service/op-jenkins.js" timestamp="1558518795016">
+        <mark key="[" line="145" column="33" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tapd-websdk/login/helper/c.js" timestamp="1558327937409">
+        <mark key="[" line="56" column="2" />
+        <mark key="]" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+        <mark key="^" line="58" column="3" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1563503127106">
         <mark key="[" line="176" column="16" />
         <mark key="]" line="176" column="16" />
         <mark key="^" line="170" column="25" />
         <mark key="." line="176" column="16" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/tool-automation/km/ad-sync.js" timestamp="1558420312051">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/tapd-methods.js" timestamp="1558264689595">
         <mark key="[" line="12" column="34" />
@@ -738,17 +637,24 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="18" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1561802080382">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/tapd-q12/read.js" timestamp="1563207508208">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="9" column="171" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="/.gitlab-ci.yml" timestamp="1561535256434" />
       <file name="$USER_HOME$/Codes/lab/dockerfiles/legacy/php/Dockerfile" timestamp="1562842739570">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/Library/Help/Http.php" timestamp="1563807734965">
+        <mark key="^" line="48" column="40" />
       </file>
       <file name="$USER_HOME$/Codes/lab/ehr-db/app/middleware/perm.js" timestamp="1562641926903">
         <mark key="[" line="16" column="10" />
@@ -761,6 +667,23 @@
         <mark key="]" line="30" column="68" />
         <mark key="." line="30" column="68" />
         <mark key="^" line="23" column="7" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/common-service/.gitignore" timestamp="1561704940426">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563787772163">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="171" column="1" />
+        <mark key="." line="171" column="1" />
+        <mark key="^" line="171" column="1" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/cubot/.gitignore" timestamp="1558537555683">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/tapd-automation/package.json" timestamp="1558414358616">
         <mark key="[" line="12" column="31" />
@@ -788,22 +711,49 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/ehr-db/app/vendor/scripts/sdk.js" timestamp="1562638867465">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/ssri/old/all_sri.sh" timestamp="1560846622592">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node/push.sh" timestamp="1561802144581">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/cubot/package.json" timestamp="1558538260132">
+        <mark key="[" line="27" column="73" />
+        <mark key="]" line="27" column="76" />
+        <mark key="^" line="27" column="76" />
+        <mark key="." line="27" column="76" />
+      </file>
       <file name="$USER_HOME$/Codes/qcd/jos-stat/qtt6.js" timestamp="1558073038233">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/gitlab-ci-example/logs" timestamp="1561720730252" />
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/product/config.php" timestamp="1563805793995">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="175" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/img-services/release.sh" timestamp="1558937012243">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/dockerfiles/ee/base/files/yum.repos.d/epel.repo" timestamp="1562652528140">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/Codes/lab/okr-client/package.json" timestamp="1561518865424">
         <mark key="[" line="68" column="27" />
@@ -811,6 +761,18 @@
         <mark key="." line="68" column="27" />
         <mark key="^" line="68" column="27" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/properties.yml.inc" timestamp="1563689819294">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/cubot/config/config.default.js" timestamp="1558535149701">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/controllers/Open/Jenkins.php" timestamp="1563855400010" />
     </filemarks>
     <jumps>
       <jump line="79" column="67" filename="$USER_HOME$/Codes/lab/ehr-db/app/service/department.js" />
@@ -916,10 +878,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
