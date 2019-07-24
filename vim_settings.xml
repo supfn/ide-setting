@@ -168,11 +168,11 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/kuaigou.yml" timestamp="1563963418379">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="129" column="0" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/kuaigou.yml" timestamp="1563966062745">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Codes/qcd/app/controller/chatbot.js" timestamp="1557222233723">
         <mark key="[" line="302" column="0" />
@@ -403,11 +403,11 @@
         <mark key="." line="30" column="68" />
         <mark key="^" line="23" column="7" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563963433322">
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563966301718">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1563861532401">
@@ -575,8 +575,8 @@
       <jump line="174" column="29" filename="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/Library/Help/Http.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ctype</text>
       </register>
       <register name="-" type="4">
         <text>ctype</text>
@@ -588,37 +588,37 @@
         <text encoding="base64">ZnVuY3Rpb24gaGFuZGxlSXRlbSgpIHsKICBsZXQgaXRlbSA9IGlkcy5wb3AoKTsKICBpZiAoIWl0ZW0pIHsKICAgIHJldHVybjsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGg6IGFwawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgWyAie3sgY3R5cGUgfX0iID0gInJlbGVhc2UiIF07IHRoZW4KICAgIGFwcF9wYXRoPSIke2FwcF9rZXl9L2FwayIKZmkK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGg6IHByZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgcGFyYW1ldGVyczoK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGg6IGRlYnVnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZXMpOwo=</text>
+        <text encoding="base64">aWYgWyAie3sgY3R5cGUgfX0iID0gInJlbGVhc2UiIF07IHRoZW4KICAgIGFwcF9wYXRoPSIke2FwcF9rZXl9L2FwayIKZmkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgcGFyYW1ldGVyczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aG9zdD0iIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtZXRlcnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZXMpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAtIGV4dGVuZGVkLWNob2ljZToKICAgICAgICAgICAgICAgbmFtZTogT1BUSU9OUwogICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogIkF2YWlsYWJsZSBvcHRpb25zIgogICAgICAgICAgICAgICB0eXBlOiAnUFRfQ0hFQ0tCT1gnCiAgICAgICAgICAgICAgIHZhbHVlOiBPcHRpb25BLE9wdGlvbkIsT3B0aW9uQwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
