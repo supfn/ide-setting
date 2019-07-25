@@ -183,11 +183,11 @@
         <mark key="^" line="4" column="47" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/common.sh" timestamp="1564022087049">
-        <mark key="[" line="77" column="39" />
-        <mark key="]" line="76" column="51" />
-        <mark key="." line="76" column="51" />
-        <mark key="^" line="76" column="51" />
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/common.sh" timestamp="1564056034641">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/product/config.php" timestamp="1563880806687">
         <mark key="[" line="36" column="0" />
@@ -309,10 +309,11 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/inc/scripts.sh" timestamp="1564021896151">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/inc/scripts.sh" timestamp="1564055827096">
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/archive/app.js" timestamp="1564054356956">
         <mark key="[" line="64" column="5" />
@@ -391,10 +392,10 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/shm.yml" timestamp="1564020385206">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/shm.yml" timestamp="1564055965457">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/kuaigou/inc/scripts.sh" timestamp="1564020966364">
         <mark key="[" line="2" column="0" />
@@ -520,50 +521,50 @@
       <jump line="48" column="10" filename="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/inc/scripts.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>userApp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbG9nICJtZDU9JG1kNSIK</text>
       </register>
       <register name="-" type="4">
-        <text>userApp</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICBnZW5fYXBrX3ZlcnNpb24gIm91dHB1dHMvdGVzdC5hcGsiCg==</text>
+        <text encoding="base64">ICAgICAgbG9nICJtZDU9JG1kNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nICJtZDU9JG1kNSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAiZXJyb3JfY29kZT0kPyIK</text>
+        <text encoding="base64">ICAgICAgbG9nICJtZDU9JG1kNSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAiZXJyb3JfY29kZT0kPyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImVycm9yX2NvZGU9JD8iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZWNobyAiZXJyb3JfY29kZT0kPyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIFsgIiQ/IiAhPSAwIF07IAogICAgICAgIAogICAgZmkK</text>
+        <text encoding="base64">ZWNobyAiZXJyb3JfY29kZT0kPyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVtb3RlX21hcHBpbmdfZGlyPSIvZGF0YS9hbmRyb2lkLyR7YXBwX3BhdGh9LyR7dmVyc2lvbn0iCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImVycm9yX2NvZGU9JD8iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbW90ZV9tYXBwaW5nX2Rpcj0iL2RhdGEvYW5kcm9pZC8ke2FwcF9rZXl9L3JlbGVhc2UvJHtCVUlMRF9JRH0vJHt2ZXJzaW9ufSIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nICJyZW1vdGVfbWFwcGluZ19kaXI6ICRyZW1vdGVfbWFwcGluZ19kaXIiCg==</text>
+        <text encoding="base64">ICAgIGlmIFsgIiQ/IiAhPSAwIF07IAogICAgICAgIAogICAgZmkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
