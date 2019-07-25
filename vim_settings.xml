@@ -224,6 +224,7 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/Service/App.php" timestamp="1564047835113" />
       <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/Service/Ci.php" timestamp="1563880899712">
         <mark key="[" line="78" column="36" />
       </file>
@@ -282,19 +283,25 @@
         <mark key="]" line="560" column="43" />
         <mark key="." line="560" column="43" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/product/database.php" timestamp="1564017863578" />
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/product/database.php" timestamp="1564047602478" />
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/kuaigou/inc/qdp.sh" timestamp="1564019376772">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/application/controllers/Admin/App.php" timestamp="1564047984207">
+        <mark key="[" line="145" column="40" />
+        <mark key="]" line="145" column="40" />
+        <mark key="^" line="157" column="22" />
+        <mark key="." line="145" column="40" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/tapd-websdk/test.js" timestamp="1563935902772">
         <mark key="[" line="191" column="67" />
         <mark key="]" line="191" column="67" />
         <mark key="." line="191" column="67" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/qa/database.php" timestamp="1564017852307" />
+      <file name="$USER_HOME$/Codes/lab/qukan_upgrade.php/src/conf/qa/database.php" timestamp="1564047635016" />
       <file name="$USER_HOME$/Codes/lab/yapi/vendors/CHANGELOG.md" timestamp="1560502867524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="179" column="0" />
@@ -509,11 +516,11 @@
       <jump line="48" column="10" filename="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/inc/scripts.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICBnZW5fYXBrX3ZlcnNpb24gIm91dHB1dHMvdGVzdC5hcGsiCg==</text>
+      <register name="&quot;" type="4">
+        <text>userApp</text>
       </register>
       <register name="-" type="4">
-        <text>qdp</text>
+        <text>userApp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
