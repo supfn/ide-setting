@@ -233,13 +233,6 @@
       <file name="$USER_HOME$/Codes/lab/archive/ecosystem.config.js" timestamp="1564140301705">
         <mark key="[" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563966301718">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="32" />
-      </file>
       <file name="$USER_HOME$/Codes/lab/archive/routes/upload.js" timestamp="1564130217146" />
       <file name="$USER_HOME$/Codes/lab/archive/index.html" timestamp="1564126455228" />
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/common/inc/scripts.sh" timestamp="1564123896696">
@@ -307,13 +300,6 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
-      </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/pre_callback.sh" timestamp="1564019438116">
-        <mark key="'" line="3" column="16" />
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/client_build/online_build.sh" timestamp="1563430790083">
         <mark key="[" line="6" column="0" />
@@ -427,12 +413,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/archive/app.js" timestamp="1564140256927">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="93" column="16" />
-        <mark key="]" line="93" column="8" />
-        <mark key="." line="93" column="8" />
-        <mark key="^" line="94" column="8" />
+      <file name="$USER_HOME$/Codes/lab/archive/app.js" timestamp="1564145536516">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="74" column="62" />
+        <mark key="." line="74" column="62" />
+        <mark key="^" line="74" column="62" />
       </file>
       <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1562313832597">
         <mark key="[" line="20" column="14" />
@@ -686,16 +671,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">J2RlZmF1bHQuaHRtbCcsIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">J2RlZmF1bHQuaHRtbCcsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc3RyaW5nOgogICAgICAgIGRlZmF1bHQ6ICcnCiAgICAgICAgZGVzY3JpcHRpb246ICLniYjmnKzlj7csIOS+i+Wmgu+8mjMwMDEwMDAwMCIKICAgICAgICBuYW1lOiB2ZXJzaW9uQ29kZQogICAgICAgIHRyaW06ICdmYWxzZScK</text>
+        <text encoding="base64">YXBwLnVzZShzZXJ2ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNjbToKICAgIC0gZ2l0OgogICAgICAgIHdpcGUtd29ya3NwYWNlOiBmYWxzZQogICAgICAgIGJyYW5jaGVzOgogICAgICAgIC0gJyRicmFuY2gnCiAgICAgICAgY3JlZGVudGlhbHMtaWQ6IDg4MjYwODI1LTFmODYtNDY2NC1hMzI5LWM2MmFiZWQ3OWQ1MAogICAgICAgIHVybDogZ2l0QGdpdC5xdXRvdXRpYW8ubmV0OmVlL2VtcHR5LmdpdAo=</text>
