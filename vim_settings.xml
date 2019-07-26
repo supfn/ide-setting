@@ -367,6 +367,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/inc/qdp.sh" timestamp="1563966301718">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="32" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/archive/routes/upload.js" timestamp="1564130217146" />
       <file name="$USER_HOME$/Codes/lab/cubot/.gitignore" timestamp="1558537555683">
         <mark key="[" line="4" column="0" />
@@ -464,6 +471,13 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/pre_callback.sh" timestamp="1564019438116">
+        <mark key="'" line="3" column="16" />
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/client_build/online_build.sh" timestamp="1563430790083">
         <mark key="[" line="6" column="0" />
@@ -632,11 +646,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/archive/app.js" timestamp="1564130851310">
-        <mark key="[" line="46" column="59" />
-        <mark key="]" line="46" column="22" />
-        <mark key="." line="46" column="22" />
-        <mark key="^" line="46" column="22" />
+      <file name="$USER_HOME$/Codes/lab/archive/app.js" timestamp="1564132417299">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="96" column="27" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="56" column="4" />
+        <mark key="^" line="56" column="4" />
       </file>
       <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1562313832597">
         <mark key="[" line="20" column="14" />
@@ -847,8 +862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="8" filename="$USER_HOME$/Codes/lab/setup-scripts/migrate2gitlab/git-actions.sh" />
-      <jump line="40" column="28" filename="$USER_HOME$/Codes/qcd/app/middleware/common-response.js" />
       <jump line="262" column="34" filename="$USER_HOME$/Codes/qcd/app/service/ops.js" />
       <jump line="18" column="16" filename="$USER_HOME$/Codes/qcd/app/service/one-cd.js" />
       <jump line="119" column="19" filename="$USER_HOME$/Codes/qcd/app/service/one-cd.js" />
@@ -947,13 +960,15 @@
       <jump line="3" column="16" filename="$USER_HOME$/Codes/lab/jjb-scripts/android/pre_callback.sh" />
       <jump line="48" column="10" filename="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/inc/scripts.sh" />
       <jump line="88" column="16" filename="$USER_HOME$/Codes/lab/archive/views/error.ejs" />
+      <jump line="96" column="36" filename="$USER_HOME$/Codes/lab/archive/app.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/Codes/lab/archive/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>/data/android</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>/data/android</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
