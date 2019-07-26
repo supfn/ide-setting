@@ -360,8 +360,8 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/archive/ecosystem.config.js" timestamp="1564131265464">
-        <mark key="[" line="21" column="18" />
+      <file name="$USER_HOME$/Codes/lab/archive/ecosystem.config.js" timestamp="1564140301705">
+        <mark key="[" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node/Dockerfile" timestamp="1561802080382">
         <mark key="[" line="0" column="0" />
@@ -652,12 +652,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/archive/app.js" timestamp="1564139480208">
+      <file name="$USER_HOME$/Codes/lab/archive/app.js" timestamp="1564140256927">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="4" />
-        <mark key="." line="47" column="4" />
-        <mark key="^" line="47" column="4" />
+        <mark key="[" line="93" column="16" />
+        <mark key="]" line="93" column="8" />
+        <mark key="." line="93" column="8" />
+        <mark key="^" line="94" column="8" />
       </file>
       <file name="$USER_HOME$/Codes/lab/common-service/app/controller/home.js" timestamp="1562313832597">
         <mark key="[" line="20" column="14" />
@@ -970,11 +970,11 @@
       <jump line="92" column="0" filename="$USER_HOME$/Codes/lab/archive/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNjbToKICAgIC0gZ2l0OgogICAgICAgIHdpcGUtd29ya3NwYWNlOiBmYWxzZQogICAgICAgIGJyYW5jaGVzOgogICAgICAgIC0gJyRicmFuY2gnCiAgICAgICAgY3JlZGVudGlhbHMtaWQ6IDg4MjYwODI1LTFmODYtNDY2NC1hMzI5LWM2MmFiZWQ3OWQ1MAogICAgICAgIHVybDogZ2l0QGdpdC5xdXRvdXRpYW8ubmV0OmVlL2VtcHR5LmdpdAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
