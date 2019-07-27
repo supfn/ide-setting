@@ -821,11 +821,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/kuaigou/inc/scripts.sh" timestamp="1564206523229">
-        <mark key="[" line="60" column="50" />
-        <mark key="]" line="60" column="50" />
-        <mark key="." line="60" column="50" />
-        <mark key="^" line="60" column="47" />
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/kuaigou/inc/scripts.sh" timestamp="1564207267785">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="55" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="208" column="54" />
       </file>
       <file name="$USER_HOME$/Codes/lab/dockerfiles/node/push.sh" timestamp="1561802144581">
         <mark key="[" line="4" column="28" />
@@ -959,8 +959,8 @@
       <jump line="92" column="0" filename="$USER_HOME$/Codes/lab/archive/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGtnX3NlcnZlcl9zeW5jICR7YXBrX2ZpbGV9ICR7cGtnX3NlcnZlcn06JHtyZW1vdGVfZGlyfQo=</text>
       </register>
       <register name="-" type="4">
         <text>app</text>
@@ -969,7 +969,7 @@
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2VuX2NoYW5uZWxfcGtncyAiZDAwMiIgIiR7YXBrX2ZpbGV9Igo=</text>
+        <text encoding="base64">cGtnX3NlcnZlcl9zeW5jICR7YXBrX2ZpbGV9ICR7cGtnX3NlcnZlcn06JHtyZW1vdGVfZGlyfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
