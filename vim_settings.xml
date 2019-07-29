@@ -386,8 +386,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/utils-scripts/inject-gitlab-src/src/services/attachnewNoteButtomV2.js" timestamp="1564391500603">
-        <mark key="[" line="17" column="181" />
+      <file name="$USER_HOME$/Codes/lab/utils-scripts/inject-gitlab-src/src/services/attachnewNoteButtomV2.js" timestamp="1564402665610">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Codes/lab/archive/index.html" timestamp="1564126455228" />
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/common/inc/scripts.sh" timestamp="1564123896696">
@@ -981,10 +983,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>config</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
@@ -993,28 +995,28 @@
         <text encoding="base64">ICAgICAgICAgICAgJCgnI2J0bl9tcicpLmNzcygiY3Vyc29yIiwgJ3BvaW50ZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZnRlcigK</text>
+        <text encoding="base64">ICAgICAgICAgIHN1Ym1pdCgnK05BSycsIGUpOyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkKCIuaG9tZS1wYW5lbC1tZXRhZGF0YSAudGV4dC1zZWNvbmRhcnkiKS5iZWZvcmUoCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoJyNidG5fbmFrJykuY3NzKCJjb2xvciIsICcjNzA3MDcwJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZnRlcigK</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfCA8YSBocmVmPSJodHRwOi8vYWdpbGUucXV0b3V0aWFvLm5ldC9hY3Rpdml0eS9saXN0P2Zyb209Z2l0bGFiJmV4dHJhX19naXRfcmVwb19faWNvbnRhaW5zPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHBhdGgpfSZsYWJlbHNfYW5kPSIgdGFyZ2V0PSJfYmxhbmsiIHN0eWxlPSJjb2xvcjpyZWQiPuafpeeci+S4iue6v+iusOW9lTwvYT4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkKCIuaG9tZS1wYW5lbC1tZXRhZGF0YSAudGV4dC1zZWNvbmRhcnkiKS5iZWZvcmUoCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoJyNidG5fbmFrJykuY3NzKCJjb2xvciIsICcjNzA3MDcwJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfCA8YSBocmVmPSJodHRwOi8vYWdpbGUucXV0b3V0aWFvLm5ldC9hY3Rpdml0eS9saXN0P2Zyb209Z2l0bGFiJmV4dHJhX19naXRfcmVwb19faWNvbnRhaW5zPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHBhdGgpfSZsYWJlbHNfYW5kPSIgdGFyZ2V0PSJfYmxhbmsiIHN0eWxlPSJjb2xvcjpyZWQiPuafpeeci+S4iue6v+iusOW9lTwvYT4gCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1023,7 +1025,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
