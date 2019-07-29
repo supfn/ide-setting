@@ -355,6 +355,11 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/utils-scripts/inject-gitlab-src/src/services/projectConfigButton.js" timestamp="1564389189792">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/archive/ecosystem.config.js" timestamp="1564140301705">
         <mark key="[" line="2" column="18" />
       </file>
@@ -960,7 +965,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfCA8YSBocmVmPSJodHRwOi8vYWdpbGUucXV0b3V0aWFvLm5ldC9hY3Rpdml0eS9saXN0P2Zyb209Z2l0bGFiJmV4dHJhX19naXRfcmVwb19faWNvbnRhaW5zPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHBhdGgpfSZsYWJlbHNfYW5kPSIgdGFyZ2V0PSJfYmxhbmsiIHN0eWxlPSJjb2xvcjpyZWQiPuafpeeci+S4iue6v+iusOW9lTwvYT4gCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -972,7 +977,7 @@
         <text encoding="base64">cGtnX3NlcnZlcl9zeW5jICR7YXBrX2ZpbGV9ICR7cGtnX3NlcnZlcn06JHtyZW1vdGVfZGlyfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfCA8YSBocmVmPSJodHRwOi8vYWdpbGUucXV0b3V0aWFvLm5ldC9hY3Rpdml0eS9saXN0P2Zyb209Z2l0bGFiJmV4dHJhX19naXRfcmVwb19faWNvbnRhaW5zPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHBhdGgpfSZsYWJlbHNfYW5kPSIgdGFyZ2V0PSJfYmxhbmsiIHN0eWxlPSJjb2xvcjpyZWQiPuafpeeci+S4iue6v+iusOW9lTwvYT4gCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -981,7 +986,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
@@ -990,19 +995,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG12ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2VuX2NoYW5uZWxfcGtncyAiZDAwMiIgIiR7YXBrX2ZpbGV9Igo=</text>
+        <text encoding="base64">ICAgIG12ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3AgJHthcGtfZmlsZX0gJHthcGtffQo=</text>
+        <text encoding="base64">Z2VuX2NoYW5uZWxfcGtncyAiZDAwMiIgIiR7YXBrX2ZpbGV9Igo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2QgJHtXT1JLU1BBQ0V9Cg==</text>
+        <text encoding="base64">Y3AgJHthcGtfZmlsZX0gJHthcGtffQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
