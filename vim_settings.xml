@@ -692,10 +692,10 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/inc/scripts.sh" timestamp="1564055827096">
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/shm/inc/scripts.sh" timestamp="1564541864404">
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
         <mark key="^" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/lab/archive/app.js" timestamp="1564145536516">
@@ -1018,11 +1018,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Codes/lab/gitlab-ci-example/cr.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdXRwdXQoZXZlbnQucGF5bG9hZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>versionName</text>
       </register>
       <register name="-" type="4">
-        <text>pipeline</text>
+        <text>versionName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
