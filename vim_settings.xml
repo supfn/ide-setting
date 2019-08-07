@@ -236,6 +236,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/utils/gitlab-transfer/batch-create.sh" timestamp="1565194794365">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/version-admin/src/views/Home.vue" timestamp="1564194946167">
         <mark key="[" line="169" column="29" />
         <mark key="]" line="169" column="30" />
@@ -825,6 +830,12 @@
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
       </file>
+      <file name="$USER_HOME$/Codes/lab/utils/gitlab-transfer/midu_qa_gen.sh" timestamp="1565195053778">
+        <mark key="[" line="27" column="70" />
+        <mark key="]" line="27" column="70" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="27" column="70" />
+      </file>
       <file name="$USER_HOME$/Codes/lab/jjb-scripts/android/common/inc/scripts.sh" timestamp="1564123896696">
         <mark key="[" line="118" column="19" />
         <mark key="]" line="0" column="0" />
@@ -1042,11 +1053,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/Codes/lab/qtt6-parser/parser.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiR7am9iX25hbWV9L2NvbmZpZy54bWwgZG9uZSIK</text>
+      <register name="&quot;" type="4">
+        <text>$jo</text>
       </register>
       <register name="-" type="4">
-        <text>fileName</text>
+        <text>$jo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9jYWxsYmFja1w+</text>
@@ -1055,37 +1066,37 @@
         <text encoding="base64">aGFuZGxlci5vbigncGlwZWxpbmUnLCBmdW5jdGlvbiAoZXZlbnQpIHsKICBvdXRwdXQoZXZlbnQucGF5bG9hZCk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiR7am9iX25hbWV9L2NvbmZpZy54bWwgZG9uZSIK</text>
+        <text encoding="base64">ICAgIHB3ZAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">bWtkaXIgLXAgcmVwbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIiR7am9iX25hbWV9L2NvbmZpZy54bWwgZG9uZSIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YSgpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>t</text>
       </register>
-      <register name="5" type="8">
-        <text>{</text>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSgpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coa2V5cyk7Cg==</text>
+      <register name="7" type="8">
+        <text>{</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlTmFtZSwxMTEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coa2V5cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
